@@ -20,6 +20,7 @@ from pathlib import Path
 import yaml
 
 from .collectors import Candidate
+from .collectors.bingnews import collect_bingnews
 from .collectors.gdelt import collect_gdelt
 from .collectors.guardian import collect_guardian
 from .collectors.hackernews import collect_hackernews
@@ -99,7 +100,9 @@ def gather(cfg: dict, since, until, only: set[str] | None, workers: int) -> list
         cands.extend(_safe_list(collect_hackernews, cfg.get("hackernews", {}), since, until))
     if want("reddit"):
         cands.extend(_safe_list(collect_reddit, cfg.get("reddit", []), since))
-    if want("gdelt"):
+    if want("bingnews"):
+        cands.extend(_safe_list(collect_bingnews, cfg.get("bingnews", {}), since))
+    if want("gdelt") and cfg.get("gdelt", {}).get("enabled", True):
         cands.extend(_safe_list(collect_gdelt, cfg.get("gdelt", {}), since, until))
     if want("guardian"):
         cands.extend(_safe_list(collect_guardian, since, until))
@@ -120,7 +123,7 @@ def _safe_list(fn, *args) -> list:
 def merge(cands: list[Candidate], store: Store, stats: Counter) -> list[Candidate]:
     """Canonicalise URLs, drop known/irrelevant, merge same-URL duplicates."""
     by_id: dict[str, Candidate] = {}
-    priority = {"rss": 0, "guardian_api": 0, "nyt_api": 0, "hackernews": 1, "reddit": 2, "gdelt": 3}
+    priority = {"rss": 0, "guardian_api": 0, "nyt_api": 0, "hackernews": 1, "reddit": 2, "bingnews": 3, "gdelt": 4}
     for c in sorted(cands, key=lambda c: priority.get(c.collector, 9)):
         if not c.url or not c.title:
             stats["dropped_empty"] += 1
@@ -137,7 +140,7 @@ def merge(cands: list[Candidate], store: Store, stats: Counter) -> list[Candidat
         if not c.ai_specific and not is_ai_relevant(c.title, c.summary, (c.body or "")[:2000]):
             stats["not_ai"] += 1
             continue
-        if store.title_known(c.title) and c.collector in ("gdelt", "hackernews", "reddit", "rss"):
+        if store.title_known(c.title) and c.collector in ("gdelt", "bingnews", "hackernews", "reddit", "rss"):
             stats["title_duplicate"] += 1
             continue
         by_id[aid] = c
@@ -223,7 +226,7 @@ def run(args) -> dict:
     log.info("merge: %s", dict(stats))
 
     # Fetch budget: prefer curated feeds and community picks over the GDELT firehose.
-    order = {"rss": 0, "guardian_api": 0, "nyt_api": 0, "hackernews": 1, "reddit": 2, "gdelt": 3}
+    order = {"rss": 0, "guardian_api": 0, "nyt_api": 0, "hackernews": 1, "reddit": 2, "bingnews": 3, "gdelt": 4}
     new.sort(key=lambda c: (order.get(c.collector, 9), -(c.score or 0)))
     fetch_flags = [i < args.max_fetch for i in range(len(new))]
 
@@ -267,7 +270,7 @@ def main(argv=None):
     p.add_argument("--backfill-days", type=int, default=0, help="override look-back with N days")
     p.add_argument("--max-fetch", type=int, default=600, help="max full-text fetches this run")
     p.add_argument("--workers", type=int, default=8)
-    p.add_argument("--only", default=None, help="comma list: rss,hackernews,reddit,gdelt,guardian,nyt")
+    p.add_argument("--only", default=None, help="comma list: rss,hackernews,reddit,bingnews,gdelt,guardian,nyt")
     p.add_argument("--dry-run", action="store_true")
     p.add_argument("-v", "--verbose", action="store_true")
     args = p.parse_args(argv)

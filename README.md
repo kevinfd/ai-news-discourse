@@ -28,10 +28,11 @@ ainews/                                   the collector package
 
 | Collector | What | Key? | Full text? |
 |---|---|---|---|
-| `rss` | ~70 publisher feeds (see `config/sources.yaml`) | no | fetched with trafilatura; feed summary when paywalled |
+| `rss` | ~100 publisher feeds (see `config/sources.yaml`) | no | fetched with trafilatura; feed summary when paywalled |
 | `hackernews` | Algolia HN search, stories ≥ 10 points matching AI queries | no | linked article fetched; Ask HN text kept as post |
 | `reddit` | public `.rss` of r/artificial, r/MachineLearning, r/LocalLLaMA, r/singularity, r/OpenAI, r/ClaudeAI, r/ArtificialInteligence, r/ChatGPT | no | linked article fetched; self posts kept as post |
-| `gdelt` | GDELT DOC 2.0 — 65k+ outlets worldwide, English, press-release wires excluded | no | fetched |
+| `bingnews` | Bing News RSS search, ~23 AI queries (mainstream breadth) | no | fetched |
+| `gdelt` | GDELT DOC 2.0 (disabled by default: shared-IP rate limit makes it unusable from GitHub runners) | no | fetched |
 | `guardian_api` | Guardian Open Platform search | `GUARDIAN_API_KEY` (free) | API body text |
 | `nyt_api` | NYT Article Search | `NYT_API_KEY` (free) | abstract + lead only |
 
@@ -50,7 +51,7 @@ url: "https://…"                  # canonical (tracking params stripped)
 source: "Ars Technica"            # publisher display name
 domain: "arstechnica.com"
 source_type: "tech_press"         # mainstream_news | tech_press | company_blog | newsletter | research | policy | community | wire
-collector: "rss"                  # rss | hackernews | reddit | gdelt | guardian_api | nyt_api
+collector: "rss"                  # rss | hackernews | reddit | bingnews | gdelt | guardian_api | nyt_api
 date: "2026-10-12T20:59:50Z"      # published (UTC) — Latent Lab's timeline reads this key
 published_date: "2026-10-12"
 collected_at: "2026-10-13T12:03:44Z"

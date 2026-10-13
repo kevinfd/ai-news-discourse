@@ -38,6 +38,35 @@ feeds:
   - {name: Fast Company,          type: tech_press, ai_specific: false, url: "https://www.fastcompany.com/technology/rss"}
 
   # ---- Mainstream / general news (AI filter applied) ----------------------
+  - {name: Axios,                 type: mainstream_news, ai_specific: false, url: "https://www.axios.com/feeds/feed.rss"}
+  - {name: CNN,                   type: mainstream_news, ai_specific: false, url: "http://rss.cnn.com/rss/edition_technology.rss"}
+  - {name: Forbes,                type: mainstream_news, ai_specific: false, url: "https://www.forbes.com/innovation/feed2"}
+  - {name: Business Insider,      type: mainstream_news, ai_specific: false, paywalled: true, url: "https://feeds.businessinsider.com/custom/all"}
+  - {name: Fox News,              type: mainstream_news, ai_specific: false, url: "https://moxie.foxnews.com/google-publisher/tech.xml"}
+  - {name: Los Angeles Times,     type: mainstream_news, ai_specific: false, url: "https://www.latimes.com/business/technology/rss2.0.xml"}
+  - {name: TIME,                  type: mainstream_news, ai_specific: false, url: "https://time.com/feed/"}
+  - {name: The Hill,              type: mainstream_news, ai_specific: false, url: "https://thehill.com/policy/technology/feed/"}
+  - {name: STAT News,             type: mainstream_news, ai_specific: false, url: "https://www.statnews.com/feed/"}
+  - {name: Quartz,                type: mainstream_news, ai_specific: false, url: "https://qz.com/rss"}
+  - {name: Sky News,              type: mainstream_news, ai_specific: false, url: "https://feeds.skynews.com/feeds/rss/technology.xml"}
+  - {name: The Telegraph,         type: mainstream_news, ai_specific: false, paywalled: true, url: "https://www.telegraph.co.uk/technology/rss.xml"}
+  - {name: Euronews,              type: mainstream_news, ai_specific: false, url: "https://www.euronews.com/rss?level=vertical&name=next"}
+  - {name: ABC News Australia,    type: mainstream_news, ai_specific: false, url: "https://www.abc.net.au/news/feed/51120/rss.xml"}
+  - {name: Sydney Morning Herald, type: mainstream_news, ai_specific: false, url: "https://www.smh.com.au/rss/technology.xml"}
+  - {name: Channel NewsAsia,      type: mainstream_news, ai_specific: false, url: "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936"}
+  - {name: Times of India,        type: mainstream_news, ai_specific: false, url: "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms"}
+  - {name: Mashable,              type: tech_press,      ai_specific: false, url: "https://mashable.com/feeds/rss/all"}
+  - {name: Gizmodo,               type: tech_press,      ai_specific: false, url: "https://gizmodo.com/feed"}
+  - {name: PCMag,                 type: tech_press,      ai_specific: true,  url: "https://www.pcmag.com/feeds/rss/ai"}
+  - {name: TechRadar,             type: tech_press,      ai_specific: true,  url: "https://www.techradar.com/rss/news/artificial-intelligence"}
+  - {name: Tom's Guide,           type: tech_press,      ai_specific: false, url: "https://www.tomsguide.com/feeds/all"}
+  - {name: The New Stack,         type: tech_press,      ai_specific: false, url: "https://thenewstack.io/blog/feed/"}
+  - {name: Towards Data Science,  type: newsletter,      ai_specific: true,  url: "https://towardsdatascience.com/feed"}
+  - {name: KDnuggets,             type: newsletter,      ai_specific: true,  url: "https://www.kdnuggets.com/feed"}
+  - {name: Microsoft,             type: company_blog,    ai_specific: false, url: "https://blogs.microsoft.com/feed/"}
+  - {name: Microsoft Source,      type: company_blog,    ai_specific: false, url: "https://news.microsoft.com/source/feed/"}
+  - {name: Sam Altman,            type: newsletter,      ai_specific: true,  url: "https://blog.samaltman.com/posts.atom"}
+  - {name: Alignment Forum,       type: community,       ai_specific: true,  url: "https://www.alignmentforum.org/feed.xml?view=frontpage-rss"}
   - {name: The New York Times,    type: mainstream_news, ai_specific: false, paywalled: true, url: "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"}
   - {name: Wall Street Journal,   type: mainstream_news, ai_specific: false, paywalled: true, url: "https://feeds.a.dj.com/rss/RSSWSJD.xml"}
   - {name: Bloomberg,             type: mainstream_news, ai_specific: false, paywalled: true, url: "https://feeds.bloomberg.com/technology/news.rss"}
@@ -128,9 +157,40 @@ hackernews:
   queries: ["AI", "LLM", "OpenAI", "Anthropic", "Claude", "GPT", "Gemini", "machine learning",
             "artificial intelligence", "language model", "chatbot", "AI agents", "Nvidia", "DeepSeek", "Hugging Face"]
 
-# GDELT DOC 2.0 (no key). Mainstream + international coverage from 65k+ outlets.
-# One request every 6 s to stay under the (unofficial) rate limit.
+# Bing News RSS search (no key). Broad mainstream coverage; ~10 stories per query.
+bingnews:
+  queries:
+    - '"artificial intelligence"'
+    - '"AI" technology'
+    - 'OpenAI'
+    - 'Anthropic Claude'
+    - 'ChatGPT'
+    - 'Google Gemini AI'
+    - '"AI model"'
+    - '"generative AI"'
+    - '"large language model"'
+    - 'AI regulation'
+    - 'AI chips Nvidia'
+    - 'AI jobs'
+    - 'AI safety'
+    - 'AI agents'
+    - 'AI data center'
+    - 'AI startup funding'
+    - 'AI copyright lawsuit'
+    - 'AI chatbot'
+    - 'Meta AI'
+    - 'Microsoft Copilot'
+    - 'xAI Grok'
+    - 'DeepSeek'
+    - 'AI bubble'
+  exclude_domains: [msn.com, yahoo.com, news.google.com]
+
+# GDELT DOC 2.0 (no key). Disabled: its per-IP limit (1 request / 5 s) is shared
+# across every GitHub Actions runner and it returned empty results or 429s from
+# both the runner and a laptop on 2026-10-13. The collector stays for self-hosted
+# runs on a quiet IP — set enabled: true to use it.
 gdelt:
+  enabled: false
   queries:
     - '("artificial intelligence" OR "AI model" OR "AI models" OR "generative AI") sourcelang:english'
     - '(OpenAI OR Anthropic OR ChatGPT OR "Google DeepMind" OR "Gemini AI") sourcelang:english'
