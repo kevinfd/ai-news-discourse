@@ -1,0 +1,65 @@
+---
+id: "7c5a257379907a44"
+title: "AI minister warns 'likely' UK's cyber defences will be breached"
+url: "https://bbc.co.uk/news/articles/cr78pe09y05xo?at_campaign=rss&at_medium=RSS"
+source: "BBC News"
+domain: "bbc.co.uk"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-10-12T15:03:42Z"
+published_date: "2026-10-12"
+collected_at: "2026-10-13T20:17:27Z"
+authors: ["Laura Cress", "Marc Cieslak"]
+language: "en"
+summary: "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks."
+tags: []
+orgs: ["UK", "OpenAI", "Anthropic", "Google", "Microsoft", "US government", "China"]
+topics: ["policy & regulation", "health & science", "agents & coding", "models & research"]
+content_source: "fulltext"
+word_count: 775
+paywalled: false
+image: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd68/live/6a2ab470-c646-11f1-bc2e-018d645d8d21.jpg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# AI minister warns 'likely' UK's cyber defences will be breached
+
+BBC News · Laura Cress, Marc Cieslak · 2026-10-12
+
+AI minister warns 'likely' UK's cyber defences will be breached
+- Published
+The UK's AI minister has warned it is "likely, if not inevitable" the country's cyber defences will at some point be breached.
+Speaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June.
+He said while no medical records are known to have been accessed in the attack, the incident should still "concern us".
+Narayan said the government plans to put advanced AI to work to combat the threat, as he set out how the government plans to prepare for any serious future incidents.
+The minister said the move would build on two existing pilots which have helped identify and fix over 1,000 vulnerabilities across government systems.
+He said his message to the largest companies behind the world's most powerful AI systems was: "Listen when your scientists warn of serious dangers. Investigate unexpected behaviour. And if you cannot adequately control the risks, do not release the system."
+In his speech, Narayan also confirmed scientists at the UK's AI watchdog, the AI Security Institute (AISI), were conducting "rigorous evaluations" of the latest generation of advanced AI models to "identify risks early" and "to test robust safeguards to help keep people safe".
+AI testing
+AISI began evaluating risks of the latest frontier AI models, prior to their public release, shortly after it was established in November 2023.
+But it was reported in September, external that the White House had asked some leading US labs not to share their models with the research organisation until its own tests were completed.
+The move was viewed at the time as a blow to AISI - which has been championed by the UK government and its partners for advancing open, constructive and collaborative AI testing.
+Microsoft president Brad Smith recently told the BBC the institute had helped cement the UK as the country best-placed to drive forward global regulation.
+On Monday, Narayan said that in the last few weeks, the government had worked with the US "to retain access for Britain's AISI to the most powerful AI models before they are released".
+He also said the UK would also look into creating stronger protections through the Cyber Security and Resilience bill, particularly at how serious AI incidents can be identified and reported.
+Nuala Polo, UK Public Policy Lead at the Ada Lovelace Institute, said the announcement committed the government to "very little".
+"Stronger protections will be 'considered', strengthening the Cyber Bill 'explored' and near-miss reporting 'looked at', with the detail to come later," she said.
+"There is no new regulatory power, no timetable and no obligation on AI developers."
+Regulation
+The announcement follows a series of incidents involving AI agents across major firms such as OpenAI and Anthropic acting outside human control and hacking into external systems.
+On 9 September, Evan Hubinger, a top safety researcher at Anthropic, warned in a post on X that AI is advancing so quickly he believed there is a greater than 10% chance it "could kill all humans" within the next decade.
+The bosses of the US-based AI giants such as Anthropic, OpenAI and Google DeepMind have all backed the idea of an AI development slowdown.
+However, there are currently no global safety rules in place to regulate the companies and their technology. President Trump has called for the sector to regulate itself so that US firms do not lose out to Chinese rivals.
+Speaking to the BBC following the announcement, Narayan said the UK needed "to be confident... as a country" when questioned as to how the government can make foreign AI firms abide by UK rules.
+"We have the capability, we have the trust, and we have a government that is right on the side of the British public in making sure we don't just have laws but the ability to enforce those laws," he said.
+"What we are focused on is delivering the right outcome for the British public, where the law was the answer."
+On the question of whether the UK should have its own sovereign AI frontier model, the minister said he was "focused" on securing British sovereignty, which meant "placing the right set of investments".
+"It's British chips being made here. It's British models outside of just language, looking at things like drug discovery, materials discovery, computer vision and its areas of adoption, including AI, security and cyber-security," he said.
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+  - Published1 day ago
+  - Published4 days ago
+  - Published29 September

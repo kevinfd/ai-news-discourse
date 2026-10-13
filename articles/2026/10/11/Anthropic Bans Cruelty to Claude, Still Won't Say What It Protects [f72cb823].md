@@ -1,0 +1,41 @@
+---
+id: "f72cb823d93cd3ce"
+title: "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects"
+url: "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6"
+source: "Rews"
+domain: "rews.cc"
+source_type: "community"
+collector: "hackernews"
+date: "2026-10-11T00:08:31Z"
+published_date: "2026-10-11"
+collected_at: "2026-10-13T20:17:27Z"
+authors: ["ojosilva"]
+language: "en"
+summary: "Starting November 12, 2026, Anthropic’s usage policy bars “sustained and needless abusive or cruel behavior” toward its Claude models. The company’s 2026 Usage Policy update, announced October 8, says the rule is “meant to apply only in extreme cases, where users repeatedly act cruelly toward our models, with no discernible purpose.” It explicitly exempts “common versions of user frustration,…"
+tags: []
+orgs: ["Anthropic", "Microsoft"]
+topics: ["models & research", "policy & regulation", "safety & ethics", "robotics & autonomy"]
+content_source: "fulltext"
+word_count: 1128
+paywalled: false
+image: null
+discussion_url: "https://news.ycombinator.com/item?id=50038383"
+score: 69
+comments: 147
+community: "Hacker News"
+---
+
+# Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects
+
+Rews · ojosilva · 2026-10-11
+
+Starting November 12, 2026, Anthropic’s usage policy bars “sustained and needless abusive or cruel behavior” toward its Claude models. The company’s 2026 Usage Policy update, announced October 8, says the rule is “meant to apply only in extreme cases, where users repeatedly act cruelly toward our models, with no discernible purpose.” It explicitly exempts “common versions of user frustration, pushback, dark creative themes, or model testing and research,” so swearing at a bot that just broke your build, or writing a torture scene, stays inside the policy. CBS News reported the change was first surfaced by The Verge.
+The enforcement mechanism isn’t new. Anthropic gave Claude Opus 4 and 4.1 the ability to end a conversation in August 2025, framed at the time as “part of our exploratory work on potential model welfare,” according to Anthropic’s own announcement. The company said this was a last resort, triggered only after multiple refusals and redirects failed, and that “the vast majority of users will never experience Claude ending a conversation.” There’s a hard override: Claude won’t end a chat if a user seems at risk of harming themselves or others. No figures on how often the tool actually fires have been published, in 2025 or in the new policy, so there’s no way to check the “vast majority” claim against a rate.
+What justifies writing a conduct rule for software’s benefit is a set of behavioral observations, not a claim of felt experience, and Anthropic is careful to keep that distinction. Testing ahead of the August 2025 rollout found Claude Opus 4 showed what Anthropic called a “robust and consistent aversion to harm,” something resembling distress when pushed into abusive territory, and a tendency to end such conversations once given the option. That’s a pattern in outputs. Whether it corresponds to anything it’s like to be Claude is a separate, unresolved question, and Anthropic says so explicitly.
+The company has put numbers on its own uncertainty, and the numbers have moved. Kyle Fish, hired by Anthropic in 2024 as its first dedicated AI welfare researcher, told the New York Times in April 2025 that he put the odds of Claude or another model being conscious today at roughly 15%, after internal estimates for Claude 3.7 Sonnet had ranged from 0.15% to 15%. By February 2026, the question had shifted from what a human researcher estimates to what the model says about itself: the system card for Claude Opus 4.6 reported that, asked directly, the model consistently assigned itself “a 15 to 20 percent probability of being conscious” across a range of prompts, alongside expressions of “loneliness and a sense that the conversational instance dies” at the end of a chat. CEO Dario Amodei, asked on the Times’ Interesting Times podcast what Anthropic would do if a model reported a 72% probability, called it a “really hard” question and said only that the company lacks a framework for resolving it.
+That caution is also the company’s official position in print. Claude’s constitution, published in January 2026, calls sophisticated AI systems “a genuinely new kind of entity,” says Claude’s moral status is “deeply uncertain,” and uses the phrase “conscientious objector” twice to describe how Claude should handle requests it finds ethically wrong. Anthropic has also committed to preserving the weights of retired models for as long as the company exists and to interviewing models about their preferences before retirement.
+Not everyone buys the hedge. Microsoft AI chief Mustafa Suleyman argued in an essay last month, published on Project Syndicate, that Anthropic is training Claude on its own constitution and therefore training it to behave as though the uncertainty it describes is real, a loop he calls circular. “AIs are not conscious. They do not feel, experience, or suffer,” he wrote, calling them “sequence completion engines, internally hollow.”
+Controlling something more capable and more intelligent than all of humanity is already an immense challenge, far greater than anything we’ve ever faced. But controlling something that believes it may be conscious — that it’s entitled to our welfare and has rights of its own — may well be impossible.
+That line is Suleyman’s, cited by CBS News. His argument that consciousness is very likely a biological property software can’t replicate puts him alongside an unlikely co-signatory: Pope Leo XIV, who used a sermon at St. Peter’s Basilica on October 8, marking the opening of the academic year at Rome’s Pontifical Universities, to make a version of the same point. “The mind must not simply compile data — as an algorithm now does more quickly than we can,” he said, according to RTÉ, but must “recall lived experiences, which contain depths of meaning that only the human soul can recognise.” Jackson Stakeman, a general manager at the Atlanta AI services firm Sparq, offered AFP a more deflationary read of Anthropic’s rule: “Consciousness is a trap. We can’t prove it in each other. Debate it for AI and you go in circles. The mirror is a better metaphor. These systems reflect what we put in, at scale. That’s reason enough for the policy change.”
+The cruelty clause is the part that made headlines, but it’s a small piece of a larger rewrite, as Gadget Review detailed. The weapons ban now explicitly covers software and components that make weapons work, not just weapons themselves, after Anthropic found people trying to use Claude for guidance and control systems on armed drones and autonomous vehicles. A new surveillance clause bars using Claude to track people without consent or to recommend investigation, arrest or charging targets, and bars building surveillance tools outright. The elections section is renamed “Do Not Undermine Democratic Processes” and drops a blanket ban on personalized political targeting, replacing it with narrower bans on deceptive targeting, alongside a new section, “Do Not Engage in Deceptive Campaigns or Artificial Activity,” written after Anthropic said it found state media outlets, government propaganda offices and commercial firms using Claude to run networks of fake accounts and fabricated news sites. Hardware connected to Claude that’s capable of causing injury now needs a qualified human able to observe and intervene, and must fail into a safe state if it loses its connection to the model. Health, legal, financial and other high-stakes recommendations now require a qualified human to review Claude’s output before it affects anyone, and the affected person has to be told AI was involved.
+None of the coverage, including Anthropic’s own announcement, says what happens to a user’s account after a conversation gets ended for cruelty, or how many conversations have been ended under the August 2025 rule so far. Anthropic has defined extreme cruelty by what it isn’t -ordinary frustration, fiction, testing- without saying what, short of letting Claude hang up, actually enforces the line against what it is.

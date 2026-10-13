@@ -1,0 +1,37 @@
+---
+id: "b7d1e3ccac451e40"
+title: "Microsoft event debuts new AI-friendly hardware and Windows changes"
+url: "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes"
+source: "Ars Technica"
+domain: "arstechnica.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-08T00:00:24Z"
+published_date: "2026-10-08"
+collected_at: "2026-10-13T20:17:27Z"
+authors: ["Nick Indge"]
+language: "en"
+summary: "In its first live event in two years, Microsoft today announced its newest Surface laptop, outlined a host of changes coming to Windows 11, and shared a vision of how local-AI and agentic workflows could reshape personal computing for those in the dev community as well as home enthusiasts. \n Surface Laptop Ultra \n Originally teased in May 2026 , the new Surface Laptop Ultra will be Microsoft's…"
+tags: ["AI", "Tech", "hybrid intelligence", "microsoft rtx spark dev box", "microsoft surface laptop ultra", "Microsoft Windows", "MXC"]
+orgs: ["Microsoft", "Nvidia"]
+topics: ["chips & infrastructure", "agents & coding"]
+content_source: "fulltext"
+word_count: 306
+paywalled: false
+image: "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-1152x648.png"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Microsoft event debuts new AI-friendly hardware and Windows changes
+
+Ars Technica · Nick Indge · 2026-10-08
+
+In its first live event in two years, Microsoft today announced its newest Surface laptop, outlined a host of changes coming to Windows 11, and shared a vision of how local-AI and agentic workflows could reshape personal computing for those in the dev community as well as home enthusiasts.
+Surface Laptop Ultra
+Originally teased in May 2026, the new Surface Laptop Ultra will be Microsoft’s first offering to take advantage of the new Nvidia RTX Spark SoC (system on a chip). The device has a starting price of $2,599 and comes in various SoC and memory configurations, with either a 5120-core or 6144-core Blackwell GPU and up to 128GB of LPDDR5x unified memory. It will begin shipping on October 16 and is available for preorder now.
+While the new Ultra is clearly focused on the developer crowd, graphical performance was highlighted during the presentation to show off just how capable the laptop can be. By leaning on unified memory allocation rather than the physical VRAM limits of a traditional GPU, the laptop can assign its resources to handle modern gaming tasks as well as local AI development and deployment. The new Gears of War: E-Day was shown running on the system, meaning that even without a traditional gaming GPU, AAA titles are on the table.
+RTX Spark Dev Box
+Joined on stage by Nvidia’s Jensen Huang and Microsoft CEO Satya Nadella, President of Windows and Devices Pavan Davuluri also unveiled the Surface RTX Spark Dev Box. This is a $5,999 anodized aluminum black box “designed to meet the needs of frontier developers.” The Spark Dev Box ships with a custom “developer-optimized” build of Windows 11 pre-configured for AI development and local AI use. With 128GB of unified memory and the onboard Nvidia RTX GPU, the box claims one petaflop (that’s 1,000 teraflops) of AI compute performance.

@@ -1,0 +1,47 @@
+---
+id: "b104dce487eb2665"
+title: "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies"
+url: "https://wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies"
+source: "WIRED"
+domain: "wired.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-13T10:00:00Z"
+published_date: "2026-10-13"
+collected_at: "2026-10-13T20:17:27Z"
+authors: ["Tess Owen"]
+language: "en"
+summary: "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle."
+tags: ["Politics", "government", "elections", "republicans", "democrats", "artificial intelligence", "Midterms 2026"]
+orgs: ["Anthropic", "OpenAI", "US government"]
+topics: ["business & funding", "policy & regulation", "search & media"]
+content_source: "fulltext"
+word_count: 1069
+paywalled: false
+image: "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/pass/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies
+
+WIRED · Tess Owen · 2026-10-13
+
+The Spanish Springs shopping center in Sparks, Nevada, hosts many businesses, including a Spirit Halloween, a hearing aid supplier, and a Vietnamese restaurant. It’s also home to a consulting agency that’s received millions of dollars from one of the biggest pro-AI super PAC networks ahead of November’s midterm elections.
+The problem is that the company—Lantern Production Consultants LLC—doesn’t seem to exist anywhere beyond a post office box in the Spanish Springs shopping complex.
+Lantern Production Consultants has been paid around $20 million since last year by Think Big, part of a network of pro-AI super PACs funded by the Leading the Future PAC, for a wide array of services, including polling, digital advertising, research, and strategy, according to federal campaign finance records reviewed by WIRED. Backed by major AI investors, Leading the Future has taken a main role in supporting candidates who back what it calls “an AI innovation policy agenda.”
+It is just one of four mysterious LLCs based out of Nevada that have received payments from super PACs in the Leading the Future PAC network, including Think Big and American Mission. The network, which is also based in Nevada, has raised over $140 million to influence political campaigns that align with AI-industry priorities in the midterms.
+Summit Ridge Media Group LLC, which received around $13 million between December 2025 and September 2026 from American Mission, lists an address at a mail center in a Reno strip mall. Blue Horizon Compliance Consultants, which also appears in the filings, has its address listed as a Staples location in Reno. And Prusik Partners LLC’s listed address is at a strip mall in Henderson, Nevada, sharing a building with a chiropractor and a beauty salon.
+Election watchdogs argue that these LLCs are shell companies, designed to mask the identities of strategists, consultants, and production companies who are working with Leading the Future. “This is about hiding where the money is going,” claims Shanna Ports, senior legal counsel at the Campaign Legal Center.
+In May, the Campaign Legal Center filed a complaint with the FEC, which enforces campaign finance laws, alleging that Think Big and American Mission had broken federal law by using shell companies in this way. Specifically, lawyers with the Campaign Legal Center alleged that super PACs in the Leading the Future network had violated the Federal Election Campaign Act (FECA) by failing to disclose the actual recipients of their payments. The LLCs, they wrote in their complaint, “function as mere extensions of the super PACs they serve.”
+In an emailed statement to WIRED, Leading the Future spokesperson Jesse Hunt wrote, “We comply with all applicable laws and this is merely a desperate ploy for attention from Public First, Anthropic, and the groups aligned with their outside organizations who see our message resonating with the public and policymakers.”
+WIRED reached out to Anthropic and Public First—a pro-AI super PAC focused on transparency and safeguards that has significant backing from Anthropic leadership—to ask about Leading the Future’s charge. “I have no idea what they’re talking about,” said Public First spokesperson Anthony Rivera-Rodriguez. “We unequivocally had nothing to do with this complaint.” Anthropic did not respond to WIRED’s request for comment.
+The Campaign Legal Center doesn’t expect its case to be heard by the FEC anytime soon, given that the FEC is essentially toothless at the moment. The FEC has six commissioner seats, all presidential appointees. To make a decision on a legal complaint, the FEC needs a quorum of four commissioners, which it hasn’t had since May 2025. Meanwhile, Think Big and American Mission have continued to pour millions of dollars into the Nevada LLCs.
+Leading the Future has piqued a lot of public interest, not just because it has the most cash of any pro-AI group—thanks to Silicon Valley bankrollers like billionaire Marc Andreessen, Ben Horowitz, and OpenAI president Greg Brockman—but also because it funnels money into super PACs that support both Republicans and Democrats. Think Big overwhelmingly funds Democrats, and American Mission funds Republicans.
+The fact that the Leading the Future network is playing both sides of the aisle, supporting AI-friendly Democrats and Republicans, has generated speculation from experts as to why it’s spending so much on shielded vendors. Typically, political strategists and consultants cater to Democrats or Republicans, not both. “If you’re running in a Democrat primary and Think Big comes to spend in your race, and they drop half a million on your congressional district doing positive ads while using Republican vendors and strategists—that’s news,” speculates Kyle Morse, deputy executive director of Tech Oversight Project, a nonprofit advocacy group that’s critical of big tech.
+There are plenty of reasons why a super PAC may want to hide its vendors, ranging from benign to nefarious. In this instance, it's possible businesses don’t want to be publicly associated with a pro-AI campaign. But with the FEC lacking a quorum for the foreseeable future, “We are not fundamentally equipped to figure out what’s happening here,” says Morse.
+Leading the Future isn’t the only PAC accused of shielding vendors by using shell companies. Earlier this year, Campaign Legal Center filed a complaint with the FEC against pro-gun YouTuber Brandon Herrera, who is running for Congress in Texas District 23, alleging that more than 99 percent of his campaign’s disbursements were funneled through Texas Strategy Group, which was, the complaint claimed, “being used as a shell entity.” When reached for comment, Herrera’s campaign directed WIRED to conservative personality Matt Braynard, who runs Texas Strategy Group. Braynard strongly denied the Campaign Legal Center’s accusations, calling the complaint “meritless” and “little more than a recycled legal theory from a partisan advocacy group.”
+Campaign Legal Center also filed a complaint with the FEC against Lead Left PAC, a pop-up super PAC that was funded by Republican operatives while posing as a Democratic entity with the presumed goal of meddling in Democratic primaries. Campaign Legal Center accused it of paying shell companies to avoid being linked to Republican strategists.
+Ports says that this marks a disturbing trend in campaign finance, at a time when dark money in politics already reigns. “There’s no way of tracing the source behind the money, and that’s bad enough on its own,” says Ports. “Now there’s this new component, where groups are playing games to hide where the money is being spent. As a result, voters really lack fundamental information about where the money is coming from and where it’s going.”

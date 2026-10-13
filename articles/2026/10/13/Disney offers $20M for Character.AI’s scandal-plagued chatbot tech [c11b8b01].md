@@ -1,0 +1,39 @@
+---
+id: "c11b8b011c289276"
+title: "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech"
+url: "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech"
+source: "Ars Technica"
+domain: "arstechnica.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-13T18:23:33Z"
+published_date: "2026-10-13"
+collected_at: "2026-10-13T20:17:27Z"
+authors: ["Ashley Belanger"]
+language: "en"
+summary: "In a bankruptcy proceeding that kicked off yesterday, Disney has offered to buy some of the technology that powers the controversy-plagued chatbot Character.AI. \n Disney is willing to pay $20 million for “a non-exclusive perpetual license” of certain Character Technologies intellectual property, the chatbot maker said in a press release that did not go into much further detail on which assets…"
+tags: ["AI", "Policy", "character technologies", "Character.AI", "chatbots", "Disney"]
+orgs: ["Character.AI"]
+topics: ["business & funding", "policy & regulation", "products & launches"]
+content_source: "fulltext"
+word_count: 407
+paywalled: false
+image: "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1167281066-1024x648.jpg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Disney offers $20M for Character.AI’s scandal-plagued chatbot tech
+
+Ars Technica · Ashley Belanger · 2026-10-13
+
+Character.AI remains online
+Character.AI has been operating for four years and has a “large and engaged user base,” the Character Technologies bankruptcy filing said. Last year, a company blog reported that Character.AI attracted over 20 million monthly active users” across all services.
+For fans, a Disney takeover might sound appealing, perhaps finally clarifying that the platform will survive its drawn-out legal troubles that have included settling a highly publicized lawsuit alleging that Character.AI’s chatbots encouraged a 14-year-old boy, Sewell Setzer III, to commit suicide. Additionally, two states are currently suing Character Technologies, alleging other harms to users. Kentucky claims that chatbots encouraged self-harm, while Pennsylvania claims chatbots illegally posed as licensed doctors.
+In a blog discussing the bankruptcy sale process, Character.AI reassured users that the platform would remain online and accessible. Any ongoing subscriptions will continue to be charged unless services change to alter existing agreements, the blog said.
+If all goes to plan, the sale will conclude by “the end of November or perhaps early December 2026,” Character.AI said. And although the press release noted that the platform would have to shut down if no buyer wanted to take on the potential liabilities of managing it, Character.AI promised users that “we’re focused on finding the best path forward for our platform and community.”
+Bankruptcy sale may get sketchier
+Beyond the tech Disney is eyeing, Character Technologies declined to comment on whether any sensitive data might be sold through the bankruptcy process. Beyond the $20 million Disney has offered, Character Technologies “listed estimated assets and liabilities of between $50 million and $100 million,” NBC News reported.
+Its press release noted that the decision to file for bankruptcy was made to maximize shareholder value, while the blog only pointed to the privacy policy as reassurance to users that no sensitive data would be shared outside the platform. That policy explains that information shared with Character.AI may be transferred during sales of company assets, including identifying information, voice data, and chat logs. The only protection that the privacy policy offers regarding sensitive chats is a reminder to users that “sensitive personal information is not required or necessary to use the Services—please do not include any sensitive personal information in your interactions with us or the Services.” That seems to disregard studies that for years have shown that people are often willing and eager to disclose sensitive or personal information with a chatbot, as there is no fear of judgment.

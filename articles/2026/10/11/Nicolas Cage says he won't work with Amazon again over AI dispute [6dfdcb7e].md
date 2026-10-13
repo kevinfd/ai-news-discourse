@@ -1,0 +1,49 @@
+---
+id: "6dfdcb7ef0a20519"
+title: "Nicolas Cage says he won't work with Amazon again over AI dispute"
+url: "https://latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute"
+source: "Los Angeles Times"
+domain: "latimes.com"
+source_type: "community"
+collector: "hackernews"
+date: "2026-10-11T11:03:21Z"
+published_date: "2026-10-11"
+collected_at: "2026-10-13T20:17:27Z"
+authors: ["Bluestein"]
+language: "en"
+summary: "Nicolas Cage says he won’t work with Amazon again over AI dispute\n- Click here to listen to this article\n-   Share via\nSee more from the L.A. Times in Google Search. Set us as preferred\nNicolas Cage is making it clear — he’s not an “AI-friendly actor.”\nThe 62-year-old actor spoke out against a tech giant during an appearance at New York Comic Con on Saturday. He alleged that he was asked to sign…"
+tags: []
+orgs: ["Amazon", "OpenAI", "Google"]
+topics: ["business & funding", "products & launches"]
+content_source: "fulltext"
+word_count: 449
+paywalled: false
+image: null
+discussion_url: "https://news.ycombinator.com/item?id=50041873"
+score: 98
+comments: 36
+community: "Hacker News"
+---
+
+# Nicolas Cage says he won't work with Amazon again over AI dispute
+
+Los Angeles Times · Bluestein · 2026-10-11
+
+Nicolas Cage says he won’t work with Amazon again over AI dispute
+- Click here to listen to this article
+-   Share via
+See more from the L.A. Times in Google Search. Set us as preferred
+Nicolas Cage is making it clear — he’s not an “AI-friendly actor.”
+The 62-year-old actor spoke out against a tech giant during an appearance at New York Comic Con on Saturday. He alleged that he was asked to sign an artificial intelligence waiver for the television series “Spider Noir.”
+“Amazon is a very AI-friendly company, to the tune of $50 billion invested in OpenAI,” Cage said on stage.
+“I am not an AI-friendly actor, so it’s like, connect those dots! I’m not a member of their club. I didn’t sign the waiver to let him use AI on ‘Spider-Noir.’ I’m probably not going to be working with that studio again, but that’s OK.”
+Amazon did not immediately respond to a request for comment.
+The Los Angeles Police Department is investigating a Nicolas Cage movie that went missing at Netflix last month. Producer Simon Afram has sued Netflix seeking economic damages of more than $100 million.
+The use of AI continues to be a major sticking point across Hollywood. Industry unions including SAG-AFTRA and the Writers Guild recently secured protections against technology in new contracts. But as AI evolves and AI actors like Tilly Norwood continue to make headlines, it’s still unclear exactly how the industry will be affected.
+“Spider-Noir,” which premiered in May, is a “Spider-Man” project that put a 1930s crime-thriller spin on the web-slinging superhero. The show was produced by both Sony Pictures Television and Amazon MGM Studios.
+Cage’s part as “The Spider” marked his first leading role in a series. The Oscar-winning actor, whose home in Malibu was recently affected by a sinkhole, is known best for his roles in movies like “National Treasure,” “Moonstruck” and “The Rock.”
+Upon its release, “Spider-Noir” received much praise from fans and critics alike. In its first six weeks of streaming, the series earned 2.6 billion minutes watched, according to Nielsen. It was also Amazon’s most-nominated show at this year’s Emmys, with 11 nominations and five wins.
+Evacuation orders were issued for 31 Malibu homes due to a massive and expanding sinkhole in the driveway of Nicolas Cage’s property.
+Last month, Amazon announced that the show was canceled after only one season, leaving much of the industry in shock.
+During his Comic Con panel, Cage also said he plans to keep working in TV. He announced that he will be joining the HBO series “True Detective.”
+“My agent’s out there somewhere listening,” Cage said. “That’s OK that I’m the first to announce that, right?”
