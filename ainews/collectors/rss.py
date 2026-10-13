@@ -12,6 +12,7 @@ from . import Candidate
 from ..util import USER_AGENT, parse_date, strip_html, truncate, uniq
 
 log = logging.getLogger("ainews.rss")
+BROWSER_UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36"
 
 
 def _entry_date(e) -> datetime | None:
@@ -49,8 +50,15 @@ def _entry_summary(e) -> str:
 def collect_feed(feed: dict, since: datetime) -> Iterator[Candidate]:
     name, url = feed["name"], feed["url"]
     t0 = time.time()
-    parsed = feedparser.parse(url, agent=USER_AGENT, request_headers={"Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8"})
+    accept = {"Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8"}
+    parsed = feedparser.parse(url, agent=USER_AGENT, request_headers=accept)
     status = getattr(parsed, "status", None)
+    if status in (403, 429) and not parsed.entries:
+        # Substack and a few CDNs refuse non-browser agents from datacenter
+        # IPs (GitHub runners). One retry with a browser UA.
+        time.sleep(2)
+        parsed = feedparser.parse(url, agent=BROWSER_UA, request_headers=accept)
+        status = getattr(parsed, "status", None)
     if parsed.bozo and not parsed.entries:
         log.warning("feed %-28s status=%s error=%s", name, status, getattr(parsed, "bozo_exception", ""))
         return
