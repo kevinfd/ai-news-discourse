@@ -1,120 +1,32 @@
 {
-  "run_at": "2026-10-13T20:17:27Z",
-  "since": "2026-10-06T20:17:27Z",
+  "run_at": "2026-10-13T20:24:15Z",
+  "since": "2026-10-12T08:24:15Z",
   "stats": {
-    "candidates": 1216,
-    "not_ai": 330,
-    "merged_duplicates": 28,
-    "new_unique": 858,
-    "written": 858,
-    "seconds": 365
+    "candidates": 588,
+    "already_known": 425,
+    "not_ai": 159,
+    "new_unique": 4,
+    "written": 4,
+    "seconds": 653
   },
   "by_content_source": {
-    "summary": 212,
-    "fulltext": 529,
-    "post": 117
+    "post": 2,
+    "summary": 1,
+    "fulltext": 1
   },
   "top_sources": [
     [
       "Reddit",
-      121
-    ],
-    [
-      "Scientific American",
-      35
-    ],
-    [
-      "The Hindu",
-      30
-    ],
-    [
-      "GitHub",
-      30
-    ],
-    [
-      "Financial Times",
-      27
-    ],
-    [
-      "The Guardian",
-      23
-    ],
-    [
-      "TechCrunch",
-      23
-    ],
-    [
-      "CNBC",
-      23
-    ],
-    [
-      "South China Morning Post",
-      22
-    ],
-    [
-      "AWS Machine Learning Blog",
-      20
-    ],
-    [
-      "Nature",
-      19
-    ],
-    [
-      "Ars Technica",
-      18
-    ],
-    [
-      "ZDNet",
-      17
-    ],
-    [
-      "Simon Willison",
-      17
-    ],
-    [
-      "The Information",
-      16
-    ],
-    [
-      "Hacker News",
-      15
-    ],
-    [
-      "The Verge",
-      14
-    ],
-    [
-      "BBC News",
-      14
-    ],
-    [
-      "The New York Times",
-      12
+      2
     ],
     [
       "Bloomberg",
-      12
+      1
     ],
     [
-      "Politico",
-      12
-    ],
-    [
-      "OpenAI",
-      11
-    ],
-    [
-      "Techmeme",
-      11
-    ],
-    [
-      "WIRED",
-      10
-    ],
-    [
-      "MarkTechPost",
-      10
+      "Al Jazeera",
+      1
     ]
   ],
-  "total_articles": 858
+  "total_articles": 862
 }
