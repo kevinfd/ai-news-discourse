@@ -33,14 +33,14 @@ def collect_gdelt(cfg: dict, since: datetime, until: datetime) -> Iterator[Candi
     for q in cfg.get("queries", []):
         for start, end in _windows(since, until):
             if not first:
-                time.sleep(6)
+                time.sleep(8)
             first = False
             r = get_with_retry(sess, API, params={
                 "query": q, "mode": "artlist", "maxrecords": maxrec, "format": "json",
                 "sort": "datedesc",
                 "startdatetime": start.strftime("%Y%m%d%H%M%S"),
                 "enddatetime": end.strftime("%Y%m%d%H%M%S"),
-            }, backoff=10, retries=4, timeout=40)
+            }, backoff=20, retries=3, timeout=40)
             if not r:
                 log.warning("gdelt: no response for %r %s..%s", q[:40], start.date(), end.date())
                 continue

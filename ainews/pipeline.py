@@ -58,7 +58,7 @@ DOMAIN_NAMES = {
     "blogs.microsoft.com": "Microsoft", "nvidia.com": "NVIDIA", "blogs.nvidia.com": "NVIDIA", "huggingface.co": "Hugging Face",
     "x.ai": "xAI", "mistral.ai": "Mistral AI", "deepseek.com": "DeepSeek", "github.com": "GitHub", "github.blog": "GitHub",
     "arxiv.org": "arXiv", "simonwillison.net": "Simon Willison", "substack.com": "Substack", "medium.com": "Medium",
-    "news.ycombinator.com": "Hacker News", "reddit.com": "Reddit", "youtube.com": "YouTube", "x.com": "X",
+    "news.ycombinator.com": "Hacker News", "reddit.com": "Reddit", "redd.it": "Reddit", "i.redd.it": "Reddit", "v.redd.it": "Reddit", "youtube.com": "YouTube", "x.com": "X",
 }
 
 

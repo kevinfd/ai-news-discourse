@@ -15,7 +15,7 @@ from ..util import get_with_retry, parse_date, session, strip_html, truncate
 log = logging.getLogger("ainews.reddit")
 
 _LINK_RE = re.compile(r'<a href="([^"]+)">\[link\]</a>')
-_REDDIT_HOST = re.compile(r"^https?://(www\.|old\.|new\.)?reddit\.com/")
+_REDDIT_HOST = re.compile(r"^https?://((www|old|new|i|v|preview)\.)?(reddit\.com|redd\.it)/")
 
 
 def collect_reddit(subs: list[str], since: datetime, listing: str = "top", t: str = "day") -> Iterator[Candidate]:
@@ -23,9 +23,9 @@ def collect_reddit(subs: list[str], since: datetime, listing: str = "top", t: st
     sess.headers["User-Agent"] = "macos:ai-news-discourse:0.1 (research crawler; by u/latentlab)"
     for i, sub in enumerate(subs):
         if i:
-            time.sleep(6)
+            time.sleep(8)
         url = f"https://www.reddit.com/r/{sub}/{listing}/.rss?t={t}&limit=50"
-        r = get_with_retry(sess, url, backoff=15, retries=3)
+        r = get_with_retry(sess, url, backoff=20, retries=2)
         if not r:
             log.warning("reddit r/%s unavailable", sub)
             continue
@@ -44,6 +44,8 @@ def collect_reddit(subs: list[str], since: datetime, listing: str = "top", t: st
             external = m.group(1) if m else None
             text = strip_html(re.sub(r"<a href=\"[^\"]+\">\[(link|comments)\]</a>", "", content_html))
             text = re.sub(r"submitted by\s+/u/\S+\s*", "", text).strip()
+            # Self posts, image/video/gallery posts and crossposts all stay on
+            # Reddit: the permalink is the canonical URL and the post text is the body.
             is_self = not external or _REDDIT_HOST.match(external) is not None
             author = (e.get("author") or "").lstrip("/u/").replace("u/", "")
             n += 1
