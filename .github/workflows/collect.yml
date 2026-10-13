@@ -1,0 +1,90 @@
+name: Collect AI news
+
+on:
+  schedule:
+    # 08:00 America/New_York is 12:00 UTC during EDT and 13:00 UTC during EST.
+    # Both fire; the guard step below runs the job only when it is 08:00 local.
+    - cron: "0 12 * * *"
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+    inputs:
+      backfill_days:
+        description: "Look back this many days instead of the normal 36 h window"
+        required: false
+        default: "0"
+      max_fetch:
+        description: "Max full-text fetches this run"
+        required: false
+        default: "600"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 110
+    steps:
+      - name: Is it 08:00 in America/New_York?
+        id: guard
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          hour=$(TZ=America/New_York date +%H)
+          echo "Local hour: $hour"
+          if [ "$hour" = "08" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; else echo "run=false" >> "$GITHUB_OUTPUT"; fi
+
+      - uses: actions/checkout@v4
+        if: steps.guard.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.guard.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        if: steps.guard.outputs.run == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Collect
+        if: steps.guard.outputs.run == 'true'
+        env:
+          GUARDIAN_API_KEY: ${{ secrets.GUARDIAN_API_KEY }}
+          NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
+        run: |
+          BACKFILL="${{ github.event.inputs.backfill_days || '0' }}"
+          MAXF="${{ github.event.inputs.max_fetch || '600' }}"
+          python -m ainews.pipeline --since-hours 36 --backfill-days "$BACKFILL" --max-fetch "$MAXF" --workers 8
+
+      - name: Commit and push
+        if: steps.guard.outputs.run == 'true'
+        id: push
+        run: |
+          git config user.name "ai-news-bot"
+          git config user.email "ai-news-bot@users.noreply.github.com"
+          git add -A articles data
+          if git diff --cached --quiet; then
+            echo "No new articles."; echo "pushed=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          n=$(git diff --cached --name-only --diff-filter=A -- articles | wc -l | tr -d ' ')
+          git commit -m "collect: $n new articles ($(TZ=America/New_York date '+%Y-%m-%d %H:%M %Z'))"
+          git push
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Nudge Latent Lab to sync now (optional)
+        if: steps.guard.outputs.run == 'true' && steps.push.outputs.pushed == 'true' && env.LATENTLAB_WEBHOOK_URL != ''
+        env:
+          LATENTLAB_WEBHOOK_URL: ${{ secrets.LATENTLAB_WEBHOOK_URL }}
+          LATENTLAB_WEBHOOK_SECRET: ${{ secrets.LATENTLAB_WEBHOOK_SECRET }}
+        run: |
+          body='{"ref":"refs/heads/main","source":"github-actions"}'
+          sig=$(printf '%s' "$body" | openssl dgst -sha256 -hmac "$LATENTLAB_WEBHOOK_SECRET" | sed 's/^.* //')
+          curl -sS -m 20 -X POST "$LATENTLAB_WEBHOOK_URL" \
+            -H "Content-Type: application/json" -H "X-GitHub-Event: push" \
+            -H "X-Hub-Signature-256: sha256=$sig" --data "$body" || echo "webhook nudge failed (sync will happen on the next poll)"

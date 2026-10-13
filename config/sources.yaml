@@ -1,0 +1,159 @@
+# Source registry for the AI news discourse dataset.
+#
+# Every entry becomes `source` / `source_type` metadata on the articles it
+# yields. Fields:
+#   name         display name of the publisher (metadata: source)
+#   url          RSS/Atom feed URL
+#   type         mainstream_news | tech_press | company_blog | newsletter |
+#                research | policy | community   (metadata: source_type)
+#   ai_specific  true  -> every item is taken
+#                false -> items must pass the AI relevance filter
+#   paywalled    true  -> do not try to fetch full text, keep the feed summary
+#   enabled      false -> skipped (kept here for the record)
+#
+# Verified reachable on 2026-10-13. Feeds that 404/403/410 that day are
+# listed at the bottom, disabled, so they can be re-tried later.
+
+feeds:
+  # ---- AI-specific tech press -------------------------------------------
+  - {name: TechCrunch,            type: tech_press, ai_specific: true,  url: "https://techcrunch.com/category/artificial-intelligence/feed/"}
+  - {name: The Verge,             type: tech_press, ai_specific: true,  url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"}
+  - {name: Ars Technica,          type: tech_press, ai_specific: true,  url: "https://arstechnica.com/ai/feed/"}
+  - {name: MIT Technology Review, type: tech_press, ai_specific: true,  url: "https://www.technologyreview.com/topic/artificial-intelligence/feed"}
+  - {name: WIRED,                 type: tech_press, ai_specific: true,  url: "https://www.wired.com/feed/tag/ai/latest/rss"}
+  - {name: VentureBeat,           type: tech_press, ai_specific: true,  url: "https://feeds.feedburner.com/venturebeat/SZYF"}
+  - {name: The Register,          type: tech_press, ai_specific: true,  url: "https://www.theregister.com/software/ai_ml/headlines.atom"}
+  - {name: ZDNet,                 type: tech_press, ai_specific: true,  url: "https://www.zdnet.com/topic/artificial-intelligence/rss.xml"}
+  - {name: MarkTechPost,          type: tech_press, ai_specific: true,  url: "https://www.marktechpost.com/feed/"}
+  - {name: IEEE Spectrum,         type: tech_press, ai_specific: true,  url: "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss"}
+  - {name: Scientific American,   type: tech_press, ai_specific: true,  url: "https://www.scientificamerican.com/platform/syndication/rss/?topic=artificial-intelligence"}
+  - {name: The Guardian,          type: mainstream_news, ai_specific: true, url: "https://www.theguardian.com/technology/artificialintelligenceai/rss"}
+  - {name: Financial Times,       type: mainstream_news, ai_specific: true, paywalled: true, url: "https://www.ft.com/artificial-intelligence?format=rss"}
+  - {name: 404 Media,             type: tech_press, ai_specific: false, url: "https://www.404media.co/rss/"}
+  - {name: Rest of World,         type: tech_press, ai_specific: false, url: "https://restofworld.org/feed/latest/"}
+  - {name: The Information,       type: tech_press, ai_specific: false, paywalled: true, url: "https://www.theinformation.com/feed"}
+  - {name: Techmeme,              type: tech_press, ai_specific: false, url: "https://www.techmeme.com/feed.xml"}
+  - {name: Engadget,              type: tech_press, ai_specific: false, url: "https://www.engadget.com/rss.xml"}
+  - {name: CNET,                  type: tech_press, ai_specific: false, url: "https://www.cnet.com/rss/news/"}
+  - {name: Fast Company,          type: tech_press, ai_specific: false, url: "https://www.fastcompany.com/technology/rss"}
+
+  # ---- Mainstream / general news (AI filter applied) ----------------------
+  - {name: The New York Times,    type: mainstream_news, ai_specific: false, paywalled: true, url: "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"}
+  - {name: Wall Street Journal,   type: mainstream_news, ai_specific: false, paywalled: true, url: "https://feeds.a.dj.com/rss/RSSWSJD.xml"}
+  - {name: Bloomberg,             type: mainstream_news, ai_specific: false, paywalled: true, url: "https://feeds.bloomberg.com/technology/news.rss"}
+  - {name: The Economist,         type: mainstream_news, ai_specific: false, paywalled: true, url: "https://www.economist.com/science-and-technology/rss.xml"}
+  - {name: BBC News,              type: mainstream_news, ai_specific: false, url: "https://feeds.bbci.co.uk/news/technology/rss.xml"}
+  - {name: NPR,                   type: mainstream_news, ai_specific: false, url: "https://feeds.npr.org/1019/rss.xml"}
+  - {name: CNBC,                  type: mainstream_news, ai_specific: false, url: "https://www.cnbc.com/id/19854910/device/rss/rss.html"}
+  - {name: ABC News,              type: mainstream_news, ai_specific: false, url: "https://abcnews.go.com/abcnews/technologyheadlines"}
+  - {name: CBS News,              type: mainstream_news, ai_specific: false, url: "https://www.cbsnews.com/latest/rss/technology"}
+  - {name: Politico,              type: mainstream_news, ai_specific: false, url: "https://rss.politico.com/technology.xml"}
+  - {name: The Atlantic,          type: mainstream_news, ai_specific: false, paywalled: true, url: "https://www.theatlantic.com/feed/channel/technology/"}
+  - {name: Vox,                   type: mainstream_news, ai_specific: false, url: "https://www.vox.com/rss/future-perfect/index.xml"}
+  - {name: Al Jazeera,            type: mainstream_news, ai_specific: false, url: "https://www.aljazeera.com/xml/rss/all.xml"}
+  - {name: South China Morning Post, type: mainstream_news, ai_specific: false, url: "https://www.scmp.com/rss/36/feed"}
+  - {name: The Hindu,             type: mainstream_news, ai_specific: false, url: "https://www.thehindu.com/sci-tech/technology/feeder/default.rss"}
+
+  # ---- Company / lab blogs ------------------------------------------------
+  - {name: OpenAI,                type: company_blog, ai_specific: true, url: "https://openai.com/news/rss.xml"}
+  - {name: Google DeepMind,       type: company_blog, ai_specific: true, url: "https://deepmind.google/blog/rss.xml"}
+  - {name: Google AI Blog,        type: company_blog, ai_specific: true, url: "https://blog.google/technology/ai/rss/"}
+  - {name: Google Research,       type: research,     ai_specific: true, url: "https://research.google/blog/rss/"}
+  - {name: Hugging Face,          type: company_blog, ai_specific: true, url: "https://huggingface.co/blog/feed.xml"}
+  - {name: NVIDIA Blog,           type: company_blog, ai_specific: false, url: "https://blogs.nvidia.com/feed/"}
+  - {name: Microsoft Research,    type: research,     ai_specific: false, url: "https://www.microsoft.com/en-us/research/feed/"}
+  - {name: Apple Machine Learning Research, type: research, ai_specific: true, url: "https://machinelearning.apple.com/rss.xml"}
+  - {name: Cloudflare Blog,       type: company_blog, ai_specific: true, url: "https://blog.cloudflare.com/tag/ai/rss/"}
+  - {name: AWS Machine Learning Blog, type: company_blog, ai_specific: true, url: "https://aws.amazon.com/blogs/machine-learning/feed/"}
+
+  # ---- Newsletters / independent analysts --------------------------------
+  - {name: Simon Willison,        type: newsletter, ai_specific: false, url: "https://simonwillison.net/atom/everything/"}
+  - {name: Import AI,             type: newsletter, ai_specific: true,  url: "https://importai.substack.com/feed"}
+  - {name: Platformer,            type: newsletter, ai_specific: false, url: "https://www.platformer.news/rss/"}
+  - {name: One Useful Thing,      type: newsletter, ai_specific: true,  url: "https://www.oneusefulthing.org/feed"}
+  - {name: AI Snake Oil,          type: newsletter, ai_specific: true,  url: "https://www.aisnakeoil.com/feed"}
+  - {name: Last Week in AI,       type: newsletter, ai_specific: true,  url: "https://lastweekin.ai/feed"}
+  - {name: AI Supremacy,          type: newsletter, ai_specific: true,  url: "https://aisupremacy.substack.com/feed"}
+  - {name: Understanding AI,      type: newsletter, ai_specific: true,  url: "https://www.understandingai.org/feed"}
+  - {name: Marcus on AI,          type: newsletter, ai_specific: true,  url: "https://garymarcus.substack.com/feed"}
+  - {name: Interconnects,         type: newsletter, ai_specific: true,  url: "https://www.interconnects.ai/feed"}
+  - {name: Don't Worry About the Vase, type: newsletter, ai_specific: true, url: "https://thezvi.substack.com/feed"}
+  - {name: Exponential View,      type: newsletter, ai_specific: true,  url: "https://www.exponentialview.co/feed"}
+  - {name: Transformer,           type: newsletter, ai_specific: true,  url: "https://www.transformernews.ai/feed"}
+  - {name: The Pragmatic Engineer, type: newsletter, ai_specific: false, url: "https://newsletter.pragmaticengineer.com/feed"}
+  - {name: Stratechery,           type: newsletter, ai_specific: false, url: "https://stratechery.com/feed/"}
+  - {name: Benedict Evans,        type: newsletter, ai_specific: false, url: "https://www.ben-evans.com/benedictevans?format=rss"}
+  - {name: AI Weirdness,          type: newsletter, ai_specific: true,  url: "https://www.aiweirdness.com/rss/"}
+  - {name: The Gradient,          type: newsletter, ai_specific: true,  url: "https://thegradient.pub/rss/"}
+  - {name: SemiAnalysis,          type: newsletter, ai_specific: false, url: "https://www.semianalysis.com/feed"}
+  - {name: LessWrong (curated),   type: community,  ai_specific: false, url: "https://www.lesswrong.com/feed.xml?view=curated-rss"}
+
+  # ---- Research institutions / academia ----------------------------------
+  - {name: MIT News,              type: research, ai_specific: true,  url: "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml"}
+  - {name: BAIR Blog,             type: research, ai_specific: true,  url: "https://bair.berkeley.edu/blog/feed.xml"}
+  - {name: Nature,                type: research, ai_specific: true,  paywalled: true, url: "https://www.nature.com/subjects/machine-learning.rss"}
+
+  # ---- Policy / government ------------------------------------------------
+  - {name: NIST,                  type: policy, ai_specific: false, url: "https://www.nist.gov/news-events/news/rss.xml"}
+
+  # ---- Community link aggregators ----------------------------------------
+  - {name: Lobsters,              type: community, ai_specific: true, url: "https://lobste.rs/t/ai.rss"}
+
+  # ---- Disabled: broken or unavailable on 2026-10-13 ----------------------
+  - {name: Anthropic,             type: company_blog, ai_specific: true, enabled: false, url: "https://www.anthropic.com/rss.xml"}
+  - {name: Meta AI,               type: company_blog, ai_specific: true, enabled: false, url: "https://ai.meta.com/blog/rss/"}
+  - {name: Axios,                 type: mainstream_news, ai_specific: false, enabled: false, url: "https://www.axios.com/technology/feed"}
+  - {name: The Decoder,           type: tech_press, ai_specific: true, enabled: false, url: "https://the-decoder.com/feed/"}
+  - {name: Washington Post,       type: mainstream_news, ai_specific: false, enabled: false, paywalled: true, url: "https://feeds.washingtonpost.com/rss/business/technology"}
+  - {name: Reuters,               type: mainstream_news, ai_specific: true, enabled: false, url: "https://www.reuters.com/technology/artificial-intelligence/rss"}
+  - {name: Fortune,               type: mainstream_news, ai_specific: true, enabled: false, url: "https://fortune.com/section/artificial-intelligence/feed/"}
+  - {name: arXiv cs.AI,           type: research, ai_specific: true, enabled: false, url: "https://rss.arxiv.org/rss/cs.AI"}
+
+# Reddit communities (fetched via public .rss, no API key). Link posts resolve
+# to the linked article; self posts keep the post body as the text.
+reddit:
+  - artificial
+  - MachineLearning
+  - LocalLLaMA
+  - singularity
+  - OpenAI
+  - ClaudeAI
+  - ArtificialInteligence
+  - ChatGPT
+
+# Hacker News (Algolia search API, no key). Stories from the last window whose
+# title/URL matches one of these queries AND passes the AI relevance filter.
+hackernews:
+  min_points: 10
+  queries: ["AI", "LLM", "OpenAI", "Anthropic", "Claude", "GPT", "Gemini", "machine learning",
+            "artificial intelligence", "language model", "chatbot", "AI agents", "Nvidia", "DeepSeek", "Hugging Face"]
+
+# GDELT DOC 2.0 (no key). Mainstream + international coverage from 65k+ outlets.
+# One request every 6 s to stay under the (unofficial) rate limit.
+gdelt:
+  queries:
+    - '("artificial intelligence" OR "AI model" OR "AI models" OR "generative AI") sourcelang:english'
+    - '(OpenAI OR Anthropic OR ChatGPT OR "Google DeepMind" OR "Gemini AI") sourcelang:english'
+    - '("large language model" OR "large language models" OR "AI chatbot" OR "AI agents" OR "AI regulation") sourcelang:english'
+  max_records: 250
+  # Press-release wires and aggregators that swamp the signal.
+  exclude_domains:
+    - prnewswire.com
+    - globenewswire.com
+    - businesswire.com
+    - einpresswire.com
+    - openpr.com
+    - marketscreener.com
+    - newswire.ca
+    - accesswire.com
+    - prweb.com
+    - yahoo.com
+    - msn.com
+    - streetinsider.com
+    - benzinga.com
+    - marketbeat.com
+    - investing.com
+    - tipranks.com
+    - fool.com
+    - zacks.com
+    - seekingalpha.com
