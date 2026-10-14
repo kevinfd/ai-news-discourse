@@ -1,32 +1,122 @@
 {
-  "run_at": "2026-10-13T20:24:15Z",
-  "since": "2026-10-12T08:24:15Z",
+  "run_at": "2026-10-14T12:07:01Z",
+  "since": "2026-10-13T00:07:01Z",
   "stats": {
-    "candidates": 588,
-    "already_known": 425,
-    "not_ai": 159,
-    "new_unique": 4,
-    "written": 4,
-    "seconds": 653
+    "candidates": 1030,
+    "already_known": 204,
+    "not_ai": 404,
+    "title_duplicate": 2,
+    "merged_duplicates": 3,
+    "new_unique": 417,
+    "written": 417,
+    "seconds": 388
   },
   "by_content_source": {
-    "post": 2,
-    "summary": 1,
-    "fulltext": 1
+    "fulltext": 188,
+    "summary": 131,
+    "post": 98
   },
   "top_sources": [
     [
       "Reddit",
-      2
+      109
+    ],
+    [
+      "Mashable",
+      31
     ],
     [
       "Bloomberg",
-      1
+      18
     ],
     [
-      "Al Jazeera",
-      1
+      "Forbes",
+      12
+    ],
+    [
+      "Business Insider",
+      10
+    ],
+    [
+      "The Guardian",
+      8
+    ],
+    [
+      "The Information",
+      7
+    ],
+    [
+      "Techmeme",
+      7
+    ],
+    [
+      "The New Stack",
+      7
+    ],
+    [
+      "TechCrunch",
+      6
+    ],
+    [
+      "Axios",
+      6
+    ],
+    [
+      "Channel NewsAsia",
+      6
+    ],
+    [
+      "Crypto Briefing",
+      6
+    ],
+    [
+      "note",
+      6
+    ],
+    [
+      "MarkTechPost",
+      5
+    ],
+    [
+      "Scientific American",
+      5
+    ],
+    [
+      "Financial Times",
+      5
+    ],
+    [
+      "PCMag",
+      5
+    ],
+    [
+      "Towards Data Science",
+      5
+    ],
+    [
+      "WIRED",
+      4
+    ],
+    [
+      "The Hill",
+      4
+    ],
+    [
+      "Quartz",
+      4
+    ],
+    [
+      "Euronews",
+      4
+    ],
+    [
+      "Tom's Guide",
+      4
+    ],
+    [
+      "CNBC",
+      4
     ]
   ],
-  "total_articles": 862
+  "total_articles": 1279
 }
