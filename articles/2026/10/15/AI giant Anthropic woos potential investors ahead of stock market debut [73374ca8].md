@@ -1,0 +1,58 @@
+---
+id: "73374ca83f2d5247"
+title: "AI giant Anthropic woos potential investors ahead of stock market debut"
+url: "https://bbc.co.uk/news/articles/cqzjx448vxkgo?at_campaign=rss&at_medium=RSS"
+source: "BBC News"
+domain: "bbc.co.uk"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-10-15T11:34:55Z"
+published_date: "2026-10-15"
+collected_at: "2026-10-15T12:06:50Z"
+authors: ["Osmond Chia", "Tom Espiner"]
+language: "en"
+summary: "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure."
+tags: []
+orgs: ["Anthropic", "OpenAI", "Nvidia", "Samsung", "Intel", "AMD", "China"]
+topics: ["business & funding", "safety & ethics", "chips & infrastructure"]
+content_source: "fulltext"
+word_count: 586
+paywalled: false
+image: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# AI giant Anthropic woos potential investors ahead of stock market debut
+
+BBC News · Osmond Chia, Tom Espiner · 2026-10-15
+
+AI giant Anthropic woos potential investors ahead of stock market debut
+- Published
+Artificial intelligence (AI) giant Anthropic has been drumming up support for its expected stock market listing as it seeks to reassure investors of its profit-making potential.
+Anthropic revenue surged by 45% to $16.8bn (£12.7bn) in the three months to the end of September, the BBC understands.
+In common with other AI firms, it is seeking to position itself as being able to generate huge profits despite spending billions on tech.
+It also emphasised safety at its event after warnings by current and former researchers of serious and even existential risks to humanity posed by AI.
+Anthropic's revenue has risen in successive quarters this year, from $4.7bn in the first three months to $11.6bn the following period.
+The company also told investors during the event at its headquarters in San Francisco that it had made a third quarter profit on an adjusted basis, an accounting method which ignores non-recurring costs.
+Investors reportedly left the Anthropic investor event optimistic about the company's rapid revenue growth and path to profitability.
+Alongside concerns about profit generation, there have also been fears about the safety of AI models.
+Anthropic has been vocal about AI's risks, with its chief executive Dario Amodei calling on the pace of development to slow down.
+In September one of its researchers warned of a greater than 10% chance that AI could "kill all humans" within the next decade, and a former researcher said people working on the technology were "genuinely frightened" about the speed of its advancements and what it could mean for humanity.
+The firm itself said in September it had identified and disrupted attempts to use its AI model for "malicious activity" which could support the development of biological weapons.
+However, US President Donald Trump has said researchers have been "bringing up things that won't happen" and that in a race between the US and China to develop the technology, "whoever wins AI, wins".
+Rival tech firm OpenAI has also warned about safety, with its chief executive Sam Altman saying in September that his company will not go public this year as it addresses concerns.
+The ChatGPT-developer is also eyeing a bumper stock market listing, which is expected to value the firm at more than $1tn.
+- How backlash against data centres could shape the US midterm elections 
+  - Published13 hours ago
+Market sentiment
+Anthropic's revenue figures, along with those of rival OpenAI, are an important gauge of the AI industry's growth and ability to finance the infrastructure needed to develop the technology.
+Stocks in some US technology companies dropped on Wednesday over concerns around investments in AI.
+Shares in chip makers - including AMD, Nvidia and Intel - fell sharply.
+In Asia, shares in Japanese tech investment firm Softbank were down by more than 9% on Thursday. South Korean semiconductor giants also dropped, with Samsung falling by 9.5% and SK Hynix 11% lower.
+Shares have been falling this week after remarks by Hock Tan, the chief executive of US tech manufacturer Broadcom, over AI spending.
+Tan said at a conference in Singapore on Monday that many investors have "no clue" and have set "extreme expectations only to find out that it's almost like they are in a casino".
+The falls deepened after US inflation data released on Wednesday showed price rises accelerated by more than expected in September.
+Investors are concerned that higher inflation will mean the US Federal Reserve is more likely to put up the cost of borrowing.

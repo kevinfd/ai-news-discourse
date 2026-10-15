@@ -1,52 +1,92 @@
 {
-  "run_at": "2026-10-14T12:07:01Z",
-  "since": "2026-10-13T00:07:01Z",
+  "run_at": "2026-10-15T12:06:50Z",
+  "since": "2026-10-14T00:06:50Z",
   "stats": {
-    "candidates": 1030,
-    "already_known": 204,
-    "not_ai": 404,
+    "candidates": 1025,
+    "already_known": 69,
     "title_duplicate": 2,
-    "merged_duplicates": 3,
-    "new_unique": 417,
-    "written": 417,
-    "seconds": 388
+    "not_ai": 440,
+    "merged_duplicates": 10,
+    "new_unique": 504,
+    "written": 504,
+    "seconds": 406
   },
   "by_content_source": {
-    "fulltext": 188,
-    "summary": 131,
-    "post": 98
+    "fulltext": 218,
+    "summary": 169,
+    "post": 117
   },
   "top_sources": [
     [
       "Reddit",
-      109
-    ],
-    [
-      "Mashable",
-      31
-    ],
-    [
-      "Bloomberg",
-      18
-    ],
-    [
-      "Forbes",
-      12
-    ],
-    [
-      "Business Insider",
-      10
-    ],
-    [
-      "The Guardian",
-      8
+      139
     ],
     [
       "The Information",
-      7
+      13
+    ],
+    [
+      "Financial Times",
+      12
+    ],
+    [
+      "Bloomberg",
+      12
+    ],
+    [
+      "TechCrunch",
+      11
+    ],
+    [
+      "The Verge",
+      11
+    ],
+    [
+      "The Guardian",
+      11
+    ],
+    [
+      "Business Insider",
+      11
+    ],
+    [
+      "Quartz",
+      11
+    ],
+    [
+      "Mashable",
+      11
+    ],
+    [
+      "CNBC",
+      10
+    ],
+    [
+      "Scientific American",
+      10
+    ],
+    [
+      "Forbes",
+      9
+    ],
+    [
+      "Channel NewsAsia",
+      8
     ],
     [
       "Techmeme",
+      7
+    ],
+    [
+      "Engadget",
+      7
+    ],
+    [
+      "Fast Company",
+      7
+    ],
+    [
+      "Tom's Guide",
       7
     ],
     [
@@ -54,7 +94,7 @@
       7
     ],
     [
-      "TechCrunch",
+      "CNET",
       6
     ],
     [
@@ -62,61 +102,21 @@
       6
     ],
     [
-      "Channel NewsAsia",
-      6
-    ],
-    [
-      "Crypto Briefing",
-      6
+      "South China Morning Post",
+      5
     ],
     [
       "note",
-      6
+      5
     ],
     [
       "MarkTechPost",
-      5
-    ],
-    [
-      "Scientific American",
-      5
-    ],
-    [
-      "Financial Times",
-      5
-    ],
-    [
-      "PCMag",
-      5
-    ],
-    [
-      "Towards Data Science",
-      5
-    ],
-    [
-      "WIRED",
       4
     ],
     [
-      "The Hill",
-      4
-    ],
-    [
-      "Quartz",
-      4
-    ],
-    [
-      "Euronews",
-      4
-    ],
-    [
-      "Tom's Guide",
-      4
-    ],
-    [
-      "CNBC",
+      "Ars Technica",
       4
     ]
   ],
-  "total_articles": 1279
+  "total_articles": 1783
 }
