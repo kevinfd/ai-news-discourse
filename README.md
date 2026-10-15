@@ -104,5 +104,7 @@ field above a column with no change to this repository.
 
 ## Copyright
 
-Full article text is stored for research use by the MIT Media Lab. The
-repository is private; do not redistribute article bodies.
+Article bodies are stored for non-commercial research use by the MIT Media
+Lab (text and data mining). Each file links to its original publisher, who
+holds the copyright. If you are a rights holder and want an item removed,
+open an issue with the article URL.
