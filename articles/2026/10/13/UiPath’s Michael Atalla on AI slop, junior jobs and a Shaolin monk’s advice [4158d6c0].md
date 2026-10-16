@@ -2,6 +2,7 @@
 id: "4158d6c00e90bdb5"
 title: "UiPath’s Michael Atalla on AI slop, junior jobs and a Shaolin monk’s advice"
 url: "https://thenextweb.com/news/michael-atalla-uipath-ai-agents-marketing-tnw-podcast"
+link: "https://thenextweb.com/news/michael-atalla-uipath-ai-agents-marketing-tnw-podcast"
 source: "The Next Web"
 domain: "thenextweb.com"
 source_type: "mainstream_news"

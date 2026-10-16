@@ -2,6 +2,7 @@
 id: "b405608c961f0082"
 title: "US charity plans to use AI to monitor its Gaza classrooms for 'hateful' speech"
 url: "https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53"
+link: "https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53"
 source: "AP News"
 domain: "apnews.com"
 source_type: "community"

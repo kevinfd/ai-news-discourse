@@ -2,6 +2,7 @@
 id: "e757da0ccdf3f152"
 title: "Meta launches camera-free AI glasses amid privacy pushback, teases Muse Charm product"
 url: "https://thehindu.com/sci-tech/technology/meta-launches-camera-free-ai-glasses-amid-privacy-pushback-teases-muse-charm-product/article71502702.ece"
+link: "https://thehindu.com/sci-tech/technology/meta-launches-camera-free-ai-glasses-amid-privacy-pushback-teases-muse-charm-product/article71502702.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

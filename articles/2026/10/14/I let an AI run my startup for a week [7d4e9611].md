@@ -2,6 +2,7 @@
 id: "7d4e9611b87ee1e4"
 title: "I let an AI run my startup for a week"
 url: "https://daily.tinyprojects.dev/221"
+link: "https://daily.tinyprojects.dev/221"
 source: "daily.tinyprojects.dev"
 domain: "daily.tinyprojects.dev"
 source_type: "community"

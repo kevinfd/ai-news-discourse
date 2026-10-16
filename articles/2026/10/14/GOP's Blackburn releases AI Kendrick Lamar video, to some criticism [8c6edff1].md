@@ -2,6 +2,7 @@
 id: "8c6edff1f20ae047"
 title: "GOP's Blackburn releases AI Kendrick Lamar video, to some criticism"
 url: "https://thehill.com/homenews/senate/6148559-blackburn-ai-kendrick-lamar-video"
+link: "https://thehill.com/homenews/senate/6148559-blackburn-ai-kendrick-lamar-video"
 source: "The Hill"
 domain: "thehill.com"
 source_type: "mainstream_news"

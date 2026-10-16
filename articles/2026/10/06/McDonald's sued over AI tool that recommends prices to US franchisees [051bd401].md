@@ -2,6 +2,7 @@
 id: "051bd4012e97d905"
 title: "McDonald's sued over AI tool that recommends prices to US franchisees"
 url: "https://abcnews.com/Technology/wireStory/mcdonalds-sued-ai-tool-recommends-prices-us-franchisees-137046042"
+link: "https://abcnews.com/Technology/wireStory/mcdonalds-sued-ai-tool-recommends-prices-us-franchisees-137046042"
 source: "ABC News"
 domain: "abcnews.com"
 source_type: "mainstream_news"

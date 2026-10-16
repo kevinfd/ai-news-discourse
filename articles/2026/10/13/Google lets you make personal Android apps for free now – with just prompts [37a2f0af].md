@@ -2,6 +2,7 @@
 id: "37a2f0af6df73c3d"
 title: "Google lets you make personal Android apps for free now – with just prompts"
 url: "https://zdnet.com/tech/custom-android-apps-google-ai-studio"
+link: "https://zdnet.com/tech/custom-android-apps-google-ai-studio"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

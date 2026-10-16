@@ -2,6 +2,7 @@
 id: "3d24e324a3614e77"
 title: "Why the AI future will be awesome"
 url: "https://nullpaste.org/raw/t-0Um6AUv_CJ"
+link: "https://nullpaste.org/raw/t-0Um6AUv_CJ"
 source: "Nullpaste"
 domain: "nullpaste.org"
 source_type: "community"

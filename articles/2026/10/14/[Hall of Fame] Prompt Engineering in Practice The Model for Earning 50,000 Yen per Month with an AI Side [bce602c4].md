@@ -2,6 +2,7 @@
 id: "bce602c49f1bfdd9"
 title: "[Hall of Fame] Prompt Engineering in Practice: The Model for Earning 50,000 Yen per Month with an AI Side Hustle"
 url: "https://note.com/tennis246yuu/n/n84b7f4222228?hl=en"
+link: "https://note.com/tennis246yuu/n/n84b7f4222228?hl=en"
 source: "note"
 domain: "note.com"
 source_type: "mainstream_news"

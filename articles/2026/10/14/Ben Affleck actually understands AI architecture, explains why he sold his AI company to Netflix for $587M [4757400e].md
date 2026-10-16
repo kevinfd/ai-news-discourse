@@ -2,6 +2,7 @@
 id: "4757400e18bea491"
 title: "Ben Affleck actually understands AI architecture, explains why he sold his AI company to Netflix for $587M"
 url: "https://youtu.be/MzXEWrT3Ld8?si=Jx5Cb7UCXcMi1KDi"
+link: "https://youtu.be/MzXEWrT3Ld8?si=Jx5Cb7UCXcMi1KDi"
 source: "Youtu"
 domain: "youtu.be"
 source_type: "community"

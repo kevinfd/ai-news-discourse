@@ -2,6 +2,7 @@
 id: "3d3aec967750f992"
 title: "Why do LLM pelicans look like this?"
 url: "https://arcfu.com/post/the-emperor-pelican-has-no-clothes"
+link: "https://arcfu.com/post/the-emperor-pelican-has-no-clothes"
 source: "Aman Rusia"
 domain: "arcfu.com"
 source_type: "community"

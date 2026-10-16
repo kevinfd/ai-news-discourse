@@ -2,6 +2,7 @@
 id: "8ff623edf7b5b382"
 title: "Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis"
 url: "https://marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis"
+link: "https://marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

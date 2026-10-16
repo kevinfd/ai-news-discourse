@@ -2,6 +2,7 @@
 id: "0ed98d3b2521f33b"
 title: "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy"
 url: "https://spectrum.ieee.org/anthropic-engineer-ai-agent"
+link: "https://spectrum.ieee.org/anthropic-engineer-ai-agent"
 source: "IEEE Spectrum"
 domain: "spectrum.ieee.org"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "bc6f89dbf720f34f"
 title: "Is your boss watching you? The rise of AI surveillance at work – podcast"
 url: "https://theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast"
+link: "https://theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

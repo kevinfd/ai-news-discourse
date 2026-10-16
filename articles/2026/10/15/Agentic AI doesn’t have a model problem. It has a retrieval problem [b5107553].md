@@ -2,6 +2,7 @@
 id: "b5107553cbe222ad"
 title: "Agentic AI doesn’t have a model problem. It has a retrieval problem."
 url: "https://thenewstack.io/agentic-ai-retrieval-problem"
+link: "https://thenewstack.io/agentic-ai-retrieval-problem"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "ac7bbb0a0ac1770d"
 title: "Phishing emails are now baiting your AI assistant"
 url: "https://malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant"
+link: "https://malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant"
 source: "Malwarebytes"
 domain: "malwarebytes.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "f690126f8093902a"
 title: "Stuck in an endless loop?"
 url: "https://reddit.com/r/ChatGPT/comments/1x5hyca/stuck_in_an_endless_loop"
+link: "https://reddit.com/r/ChatGPT/comments/1x5hyca/stuck_in_an_endless_loop"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "752c8f4a7c7e7e68"
 title: "Google unveils Gemini AI agent to handle workplace tasks"
 url: "https://cbsnews.com/news/google-gemini-ai-workplace-agent"
+link: "https://cbsnews.com/news/google-gemini-ai-workplace-agent"
 source: "CBS News"
 domain: "cbsnews.com"
 source_type: "mainstream_news"

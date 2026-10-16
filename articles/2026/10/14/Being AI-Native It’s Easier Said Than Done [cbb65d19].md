@@ -2,6 +2,7 @@
 id: "cbb65d198a62665f"
 title: "Being AI-Native: It’s Easier Said Than Done"
 url: "https://forbes.com/sites/johnwerner/2026/10/13/being-ai-native-its-easier-said-than-done"
+link: "https://forbes.com/sites/johnwerner/2026/10/13/being-ai-native-its-easier-said-than-done"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

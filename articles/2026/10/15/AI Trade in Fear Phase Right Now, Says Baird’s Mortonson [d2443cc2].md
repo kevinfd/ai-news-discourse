@@ -2,6 +2,7 @@
 id: "d2443cc2c6c5dc84"
 title: "AI Trade in Fear Phase Right Now, Says Baird’s Mortonson"
 url: "https://bloomberg.com/news/videos/2026-10-15/ai-trade-in-fear-phase-right-now-says-baird-s-mortonson-video"
+link: "https://bloomberg.com/news/videos/2026-10-15/ai-trade-in-fear-phase-right-now-says-baird-s-mortonson-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

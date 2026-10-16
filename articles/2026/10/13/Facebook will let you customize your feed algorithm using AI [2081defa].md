@@ -2,6 +2,7 @@
 id: "2081defa3a411bcd"
 title: "Facebook will let you customize your feed algorithm using AI"
 url: "https://theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
+link: "https://theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

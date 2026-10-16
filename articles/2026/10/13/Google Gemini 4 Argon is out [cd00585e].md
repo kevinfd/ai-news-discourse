@@ -2,6 +2,7 @@
 id: "cd00585e1e440f13"
 title: "Google Gemini 4 Argon is out"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x53lxj/google_gemini_4_argon_is_out"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x53lxj/google_gemini_4_argon_is_out"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

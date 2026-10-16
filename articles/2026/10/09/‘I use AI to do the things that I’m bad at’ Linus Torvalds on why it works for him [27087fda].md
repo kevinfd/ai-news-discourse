@@ -2,6 +2,7 @@
 id: "27087fda62628827"
 title: "‘I use AI to do the things that I’m bad at’: Linus Torvalds on why it works for him"
 url: "https://zdnet.com/tech/linus-torvalds-ai-coding-programming"
+link: "https://zdnet.com/tech/linus-torvalds-ai-coding-programming"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "b5f5b9983eea31ab"
 title: "I let Claude hire its first employee. It chose a rock."
 url: "https://reddit.com/r/ClaudeAI/comments/1x5uqak/i_let_claude_hire_its_first_employee_it_chose_a"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5uqak/i_let_claude_hire_its_first_employee_it_chose_a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

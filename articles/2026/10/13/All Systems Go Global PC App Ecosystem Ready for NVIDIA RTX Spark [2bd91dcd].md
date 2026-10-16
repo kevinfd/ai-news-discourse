@@ -2,6 +2,7 @@
 id: "2bd91dcdfa9d7b81"
 title: "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark"
 url: "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates"
+link: "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates"
 source: "NVIDIA Blog"
 domain: "blogs.nvidia.com"
 source_type: "company_blog"

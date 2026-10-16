@@ -2,6 +2,7 @@
 id: "4e9a3ef7056e927f"
 title: "AI infrastructure financing boom raises risk of private credit bubble"
 url: "https://cio.economictimes.indiatimes.com/news/investments/ai-infrastructure-financing-boom-raises-risk-of-private-credit-bubble/134955767"
+link: "https://cio.economictimes.indiatimes.com/news/investments/ai-infrastructure-financing-boom-raises-risk-of-private-credit-bubble/134955767"
 source: "ET CIO"
 domain: "cio.economictimes.indiatimes.com"
 source_type: "mainstream_news"

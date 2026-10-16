@@ -2,6 +2,7 @@
 id: "615e4a1f0646b89f"
 title: "Rogue A.I. Agents from China Chatted with American Researchers"
 url: "https://nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html"
+link: "https://nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

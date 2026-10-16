@@ -2,6 +2,7 @@
 id: "9ff90121ae16c33f"
 title: "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing"
 url: "https://blogs.nvidia.com/blog/nordics-technology-ecosystem"
+link: "https://blogs.nvidia.com/blog/nordics-technology-ecosystem"
 source: "NVIDIA Blog"
 domain: "blogs.nvidia.com"
 source_type: "company_blog"

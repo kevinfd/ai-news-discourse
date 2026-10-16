@@ -2,6 +2,7 @@
 id: "ffc748cb8d88a919"
 title: "Higgsfield takes AI video from 1 minute to over 10"
 url: "https://openai.com/index/higgsfield-longer-videos-voice"
+link: "https://openai.com/index/higgsfield-longer-videos-voice"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

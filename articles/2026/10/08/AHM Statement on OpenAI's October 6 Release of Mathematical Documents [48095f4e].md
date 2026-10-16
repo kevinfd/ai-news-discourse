@@ -2,6 +2,7 @@
 id: "48095f4ef77d679c"
 title: "AHM Statement on OpenAI's October 6 Release of Mathematical Documents"
 url: "https://ahmath.org/statements"
+link: "https://ahmath.org/statements"
 source: "AHM"
 domain: "ahmath.org"
 source_type: "community"

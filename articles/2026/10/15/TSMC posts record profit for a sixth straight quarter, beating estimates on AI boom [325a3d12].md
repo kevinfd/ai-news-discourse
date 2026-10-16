@@ -2,6 +2,7 @@
 id: "325a3d12a5599b93"
 title: "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom"
 url: "https://cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html"
+link: "https://cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

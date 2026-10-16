@@ -2,6 +2,7 @@
 id: "f34536c255b8301e"
 title: "AI Is Getting Really Good at Messing With Cybercriminals"
 url: "https://wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals"
+link: "https://wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

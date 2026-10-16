@@ -2,6 +2,7 @@
 id: "923fa4fcb7e312ed"
 title: "Robot dolls, chip shortages and Apple’s soft sales"
 url: "https://ft.com/content/b771ff23-8f40-4b44-ad50-50cea967a171?syn-25a6b1a6=1"
+link: "https://ft.com/content/b771ff23-8f40-4b44-ad50-50cea967a171?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

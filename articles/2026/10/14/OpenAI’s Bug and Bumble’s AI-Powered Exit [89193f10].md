@@ -2,6 +2,7 @@
 id: "89193f104bf807dd"
 title: "OpenAI’s Bug and Bumble’s AI-Powered Exit"
 url: "https://theinformation.com/articles/openais-bug-bumbles-ai-powered-exit"
+link: "https://theinformation.com/articles/openais-bug-bumbles-ai-powered-exit"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

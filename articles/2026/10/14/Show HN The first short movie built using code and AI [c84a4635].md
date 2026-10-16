@@ -2,6 +2,7 @@
 id: "c84a4635b7697ec3"
 title: "Show HN: The first short movie built using code and AI"
 url: "https://fframes.studio/the-why"
+link: "https://fframes.studio/the-why"
 source: "Fframes"
 domain: "fframes.studio"
 source_type: "community"

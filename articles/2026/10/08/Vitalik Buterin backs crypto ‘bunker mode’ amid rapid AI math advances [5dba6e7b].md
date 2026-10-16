@@ -2,6 +2,7 @@
 id: "5dba6e7bf30e80c5"
 title: "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances"
 url: "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months"
+link: "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months"
 source: "Cointelegraph"
 domain: "cointelegraph.com"
 source_type: "community"

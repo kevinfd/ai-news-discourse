@@ -2,6 +2,7 @@
 id: "187a611db6e4272e"
 title: "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'"
 url: "https://cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html"
+link: "https://cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

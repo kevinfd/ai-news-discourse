@@ -2,6 +2,7 @@
 id: "1950a6eafc69d45a"
 title: "Epic Games reportedly pivoting to \"AI first\" game development model"
 url: "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration"
+link: "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

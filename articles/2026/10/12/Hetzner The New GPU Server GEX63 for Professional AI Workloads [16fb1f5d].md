@@ -2,6 +2,7 @@
 id: "16fb1f5d49ade9d8"
 title: "Hetzner: The New GPU Server GEX63 for Professional AI Workloads"
 url: "https://hetzner.com/_ray/pow"
+link: "https://hetzner.com/_ray/pow"
 source: "Hetzner"
 domain: "hetzner.com"
 source_type: "community"

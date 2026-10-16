@@ -2,6 +2,7 @@
 id: "64276da4ce7044ae"
 title: "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread"
 url: "https://theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce"
+link: "https://theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

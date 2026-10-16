@@ -2,6 +2,7 @@
 id: "d59d959ca724a4ea"
 title: "Pluto Security raises $42M as AI gives enterprise security teams a new headache"
 url: "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache"
+link: "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

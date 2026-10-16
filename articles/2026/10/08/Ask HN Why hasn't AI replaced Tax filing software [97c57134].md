@@ -2,6 +2,7 @@
 id: "97c571347658ba58"
 title: "Ask HN: Why hasn't AI replaced Tax filing software"
 url: "https://news.ycombinator.com/item?id=50004396"
+link: "https://news.ycombinator.com/item?id=50004396"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

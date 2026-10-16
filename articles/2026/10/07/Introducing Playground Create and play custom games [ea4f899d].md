@@ -2,6 +2,7 @@
 id: "ea4f899dc8dfd436"
 title: "Introducing Playground: Create and play custom games"
 url: "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform"
+link: "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform"
 source: "Google AI Blog"
 domain: "blog.google"
 source_type: "company_blog"

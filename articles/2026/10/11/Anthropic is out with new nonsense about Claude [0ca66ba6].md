@@ -2,6 +2,7 @@
 id: "0ca66ba653a39887"
 title: "Anthropic is out with new nonsense about Claude"
 url: "https://dair-community.social/@emilymbender/117412868905734653"
+link: "https://dair-community.social/@emilymbender/117412868905734653"
 source: "Dair Community"
 domain: "dair-community.social"
 source_type: "community"

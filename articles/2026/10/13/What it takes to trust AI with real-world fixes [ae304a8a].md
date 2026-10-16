@@ -2,6 +2,7 @@
 id: "ae304a8adfa9df05"
 title: "What it takes to trust AI with real-world fixes"
 url: "https://commandline.microsoft.com/ai-agent-copilot-autopilot-layered-model-production-network-incidents-on-call-engineers"
+link: "https://commandline.microsoft.com/ai-agent-copilot-autopilot-layered-model-production-network-incidents-on-call-engineers"
 source: "Microsoft Source"
 domain: "commandline.microsoft.com"
 source_type: "company_blog"

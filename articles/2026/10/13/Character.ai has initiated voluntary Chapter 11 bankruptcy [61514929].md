@@ -2,6 +2,7 @@
 id: "61514929f532a5bf"
 title: "Character.ai has initiated voluntary Chapter 11 bankruptcy"
 url: "https://blog.character.ai/an-update-on-character-ai"
+link: "https://blog.character.ai/an-update-on-character-ai"
 source: "character.ai blog"
 domain: "blog.character.ai"
 source_type: "community"

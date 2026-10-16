@@ -2,6 +2,7 @@
 id: "2dfbabe525f0a7d2"
 title: "Honeybees deemphasize potential ‘misinformation’ in their waggle dances"
 url: "https://scientificamerican.com/article/honeybees-deemphasize-potential-misinformation-in-their-waggle-dances"
+link: "https://scientificamerican.com/article/honeybees-deemphasize-potential-misinformation-in-their-waggle-dances"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

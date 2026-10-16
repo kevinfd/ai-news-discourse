@@ -2,6 +2,7 @@
 id: "02d10f61c9df19e4"
 title: "Stop losing photo quality when you share pictures"
 url: "https://foxnews.com/tech/stop-losing-photo-quality-share-pictures"
+link: "https://foxnews.com/tech/stop-losing-photo-quality-share-pictures"
 source: "Fox News"
 domain: "foxnews.com"
 source_type: "mainstream_news"

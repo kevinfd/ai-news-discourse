@@ -2,6 +2,7 @@
 id: "99dc05b093455e5d"
 title: "Can someone explain to me why I’d want to use Muse or GrokBot over Claude with all my connectors/MCPs?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5c28n/can_someone_explain_to_me_why_id_want_to_use_muse"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5c28n/can_someone_explain_to_me_why_id_want_to_use_muse"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "41e7e1051106fb26"
 title: "Gemini Argon ($0.19) vs Opus 5.5 ($12.06) on the same ship in a bottle prompt (@vib3coded)"
 url: "https://reddit.com/r/ChatGPT/comments/1x5qd1z/gemini_argon_019_vs_opus_55_1206_on_the_same_ship"
+link: "https://reddit.com/r/ChatGPT/comments/1x5qd1z/gemini_argon_019_vs_opus_55_1206_on_the_same_ship"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

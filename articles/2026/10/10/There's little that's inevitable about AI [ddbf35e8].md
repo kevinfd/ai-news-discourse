@@ -2,6 +2,7 @@
 id: "ddbf35e86da2aba8"
 title: "There's little that's \"inevitable\" about AI"
 url: "https://deadsimpletech.com/blog/llms-arent-inevitable"
+link: "https://deadsimpletech.com/blog/llms-arent-inevitable"
 source: "Deadsimpletech"
 domain: "deadsimpletech.com"
 source_type: "community"

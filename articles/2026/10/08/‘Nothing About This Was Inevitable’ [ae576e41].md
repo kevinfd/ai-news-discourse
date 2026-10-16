@@ -2,6 +2,7 @@
 id: "ae576e41d69f67b7"
 title: "‘Nothing About This Was Inevitable’"
 url: "https://theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944"
+link: "https://theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944"
 source: "The Atlantic"
 domain: "theatlantic.com"
 source_type: "mainstream_news"

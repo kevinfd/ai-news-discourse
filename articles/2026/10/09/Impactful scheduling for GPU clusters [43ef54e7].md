@@ -2,6 +2,7 @@
 id: "43ef54e74d276082"
 title: "Impactful scheduling for GPU clusters"
 url: "https://huggingface.co/blog/allenai/impactful-scheduling"
+link: "https://huggingface.co/blog/allenai/impactful-scheduling"
 source: "Hugging Face"
 domain: "huggingface.co"
 source_type: "company_blog"

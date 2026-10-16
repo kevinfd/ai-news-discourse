@@ -2,6 +2,7 @@
 id: "d1dc7bee642594c7"
 title: "FTAV’s further reading"
 url: "https://ft.com/content/b01366df-466d-44ee-91c6-1c71932da89e"
+link: "https://ft.com/content/b01366df-466d-44ee-91c6-1c71932da89e"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

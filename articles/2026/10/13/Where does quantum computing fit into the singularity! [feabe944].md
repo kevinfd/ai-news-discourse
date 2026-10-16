@@ -2,6 +2,7 @@
 id: "feabe944c0ac5b71"
 title: "Where does quantum computing fit into the singularity!"
 url: "https://reddit.com/r/singularity/comments/1x4x443/where_does_quantum_computing_fit_into_the"
+link: "https://reddit.com/r/singularity/comments/1x4x443/where_does_quantum_computing_fit_into_the"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

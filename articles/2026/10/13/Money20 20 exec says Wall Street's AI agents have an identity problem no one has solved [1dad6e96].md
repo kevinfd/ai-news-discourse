@@ -2,6 +2,7 @@
 id: "1dad6e966d07f372"
 title: "Money20/20 exec says Wall Street's AI agents have an identity problem no one has solved"
 url: "https://thestreet.com/crypto/innovation/money20-20-exec-says-wall-streets-ai-agents-have-an-identity-problem"
+link: "https://thestreet.com/crypto/innovation/money20-20-exec-says-wall-streets-ai-agents-have-an-identity-problem"
 source: "TheStreet"
 domain: "thestreet.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "54d98bf6196398ff"
 title: "Google’s Gemini Argon 4 Is Now Available Worldwide"
 url: "https://gizmodo.com/googles-gemini-argon-4-is-now-available-worldwide-2000825497"
+link: "https://gizmodo.com/googles-gemini-argon-4-is-now-available-worldwide-2000825497"
 source: "Gizmodo"
 domain: "gizmodo.com"
 source_type: "mainstream_news"

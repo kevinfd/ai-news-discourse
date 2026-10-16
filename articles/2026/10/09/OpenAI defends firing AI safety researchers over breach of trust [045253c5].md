@@ -2,6 +2,7 @@
 id: "045253c554f5cc74"
 title: "OpenAI defends firing AI safety researchers over \"breach of trust\""
 url: "https://cbsnews.com/news/openai-defends-firing-safety-researchers"
+link: "https://cbsnews.com/news/openai-defends-firing-safety-researchers"
 source: "CBS News"
 domain: "cbsnews.com"
 source_type: "mainstream_news"

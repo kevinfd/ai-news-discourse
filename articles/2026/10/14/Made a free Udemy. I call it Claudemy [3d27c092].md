@@ -2,6 +2,7 @@
 id: "3d27c0920ca414b5"
 title: "Made a free Udemy. I call it Claudemy"
 url: "https://reddit.com/r/artificial/comments/1x63nwi/made_a_free_udemy_i_call_it_claudemy"
+link: "https://reddit.com/r/artificial/comments/1x63nwi/made_a_free_udemy_i_call_it_claudemy"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

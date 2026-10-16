@@ -2,6 +2,7 @@
 id: "c97e75fb086bc9f2"
 title: "AI agents in a stand-up call"
 url: "https://atoll92.github.io/agent-standup"
+link: "https://atoll92.github.io/agent-standup"
 source: "atoll92.github.io"
 domain: "atoll92.github.io"
 source_type: "community"

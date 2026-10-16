@@ -2,6 +2,7 @@
 id: "9b317f01752ab263"
 title: "Deploy and evaluate models with Amazon SageMaker JumpStart"
 url: "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart"
+link: "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

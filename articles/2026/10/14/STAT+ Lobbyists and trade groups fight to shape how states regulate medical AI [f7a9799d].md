@@ -2,6 +2,7 @@
 id: "f7a9799d6010c98e"
 title: "STAT+: Lobbyists and trade groups fight to shape how states regulate medical AI"
 url: "https://statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations"
+link: "https://statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations"
 source: "STAT News"
 domain: "statnews.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "638e32936b7c9fdc"
 title: "'Breathtaking,' 'Devastating': Mathematics reels after new OpenAI release"
 url: "https://nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html"
+link: "https://nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "26fa58bdd22ba969"
 title: "Man took his own life after 'sextortion' blackmail involving AI-generated woman"
 url: "https://rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman"
+link: "https://rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman"
 source: "RNZ"
 domain: "rnz.co.nz"
 source_type: "community"

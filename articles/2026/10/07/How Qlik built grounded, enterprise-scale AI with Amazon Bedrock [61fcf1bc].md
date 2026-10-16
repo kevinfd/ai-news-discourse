@@ -2,6 +2,7 @@
 id: "61fcf1bc1cfe9a15"
 title: "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock"
 url: "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock"
+link: "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

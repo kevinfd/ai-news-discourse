@@ -2,6 +2,7 @@
 id: "4c2a20eb72f4ee85"
 title: "AI Model Groupthink"
 url: "https://magicnumbers.io/2026/10/06/ai-model-groupthink"
+link: "https://magicnumbers.io/2026/10/06/ai-model-groupthink"
 source: "magicnumbers.io"
 domain: "magicnumbers.io"
 source_type: "community"

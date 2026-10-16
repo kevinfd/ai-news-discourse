@@ -2,6 +2,7 @@
 id: "26cfcf0b22735a62"
 title: "OpenAI withdraws three mathematical results"
 url: "https://twitter.com/danintheory/status/2108065033070789090"
+link: "https://twitter.com/danintheory/status/2108065033070789090"
 source: "Twitter"
 domain: "twitter.com"
 source_type: "community"

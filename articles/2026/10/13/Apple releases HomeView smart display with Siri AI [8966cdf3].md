@@ -2,6 +2,7 @@
 id: "8966cdf397beaaf6"
 title: "Apple releases HomeView smart display with Siri AI"
 url: "https://mashable.com/tech/apple-homeview-smart-display-announced-price-release-date"
+link: "https://mashable.com/tech/apple-homeview-smart-display-announced-price-release-date"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

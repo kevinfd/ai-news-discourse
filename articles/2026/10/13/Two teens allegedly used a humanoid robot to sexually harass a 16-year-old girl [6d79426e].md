@@ -2,6 +2,7 @@
 id: "6d79426e34eeafdb"
 title: "Two teens allegedly used a humanoid robot to sexually harass a 16-year-old girl"
 url: "https://mashable.com/tech/robot-sexual-assault-teens-under-investigation"
+link: "https://mashable.com/tech/robot-sexual-assault-teens-under-investigation"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

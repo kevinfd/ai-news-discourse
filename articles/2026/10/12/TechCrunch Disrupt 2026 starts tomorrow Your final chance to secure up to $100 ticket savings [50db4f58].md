@@ -2,6 +2,7 @@
 id: "50db4f58bcdc5537"
 title: "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings"
 url: "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings"
+link: "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

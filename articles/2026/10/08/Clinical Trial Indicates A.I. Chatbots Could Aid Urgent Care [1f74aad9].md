@@ -2,6 +2,7 @@
 id: "1f74aad911d3ec4b"
 title: "Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care"
 url: "https://nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html"
+link: "https://nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

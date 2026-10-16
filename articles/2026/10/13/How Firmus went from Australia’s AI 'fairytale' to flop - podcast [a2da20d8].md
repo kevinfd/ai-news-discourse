@@ -2,6 +2,7 @@
 id: "a2da20d86dbb97d1"
 title: "How Firmus went from Australia’s AI 'fairytale' to flop - podcast"
 url: "https://theguardian.com/australia-news/audio/2026/oct/13/how-firmus-went-from-australias-ai-fairytale-to-flop-full-story-podcast"
+link: "https://theguardian.com/australia-news/audio/2026/oct/13/how-firmus-went-from-australias-ai-fairytale-to-flop-full-story-podcast"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

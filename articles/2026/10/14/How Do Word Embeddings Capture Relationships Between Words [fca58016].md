@@ -2,6 +2,7 @@
 id: "fca580161234c0d5"
 title: "How Do Word Embeddings Capture Relationships Between Words?"
 url: "https://towardsdatascience.com/how-do-word-embeddings-capture-relationships-between-words"
+link: "https://towardsdatascience.com/how-do-word-embeddings-capture-relationships-between-words"
 source: "Towards Data Science"
 domain: "towardsdatascience.com"
 source_type: "newsletter"

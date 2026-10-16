@@ -2,6 +2,7 @@
 id: "5defaac15c277797"
 title: "An Open Letter to Steven Pinker on AI"
 url: "https://astralcodexten.com/p/an-open-letter-to-steven-pinker-on"
+link: "https://astralcodexten.com/p/an-open-letter-to-steven-pinker-on"
 source: "Astralcodexten"
 domain: "astralcodexten.com"
 source_type: "community"

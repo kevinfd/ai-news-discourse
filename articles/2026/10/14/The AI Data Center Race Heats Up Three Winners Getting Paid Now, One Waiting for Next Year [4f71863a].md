@@ -2,6 +2,7 @@
 id: "4f71863a55ecb9c5"
 title: "The AI Data Center Race Heats Up: Three Winners Getting Paid Now, One Waiting for Next Year"
 url: "https://247wallst.com/investing/2026/10/14/the-ai-data-center-race-heats-up-three-winners-getting-paid-now-one-waiting-for-next-year"
+link: "https://247wallst.com/investing/2026/10/14/the-ai-data-center-race-heats-up-three-winners-getting-paid-now-one-waiting-for-next-year"
 source: "24/7 Wall St."
 domain: "247wallst.com"
 source_type: "mainstream_news"

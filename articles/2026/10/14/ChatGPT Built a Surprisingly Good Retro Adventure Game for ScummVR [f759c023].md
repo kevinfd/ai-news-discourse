@@ -2,6 +2,7 @@
 id: "f759c023165a71b3"
 title: "ChatGPT Built a Surprisingly Good Retro Adventure Game for ScummVR"
 url: "https://reddit.com/r/ChatGPT/comments/1x5stfu/chatgpt_built_a_surprisingly_good_retro_adventure"
+link: "https://reddit.com/r/ChatGPT/comments/1x5stfu/chatgpt_built_a_surprisingly_good_retro_adventure"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

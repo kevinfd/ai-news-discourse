@@ -2,6 +2,7 @@
 id: "6717e29d0a751c86"
 title: "Is that singer even real? Music streaming services are starting to tell you."
 url: "https://mashable.com/tech/youtube-music-deezer-ai-music-labels-filter"
+link: "https://mashable.com/tech/youtube-music-deezer-ai-music-labels-filter"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

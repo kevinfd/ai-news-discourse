@@ -2,6 +2,7 @@
 id: "03d410e1a3f3c4e2"
 title: "Zoho pauses salary hikes amid AI costs"
 url: "https://linkedin.com/news/story/zoho-pauses-salary-hikes-amid-ai-costs-8766105?amp%3Butm_campaign=reddit&amp%3Butm_content=storyline&amp%3Butm_term=artificial"
+link: "https://linkedin.com/news/story/zoho-pauses-salary-hikes-amid-ai-costs-8766105?amp%3Butm_campaign=reddit&amp%3Butm_content=storyline&amp%3Butm_term=artificial"
 source: "Linkedin"
 domain: "linkedin.com"
 source_type: "community"

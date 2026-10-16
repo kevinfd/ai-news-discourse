@@ -2,6 +2,7 @@
 id: "06faf71ef6197a12"
 title: "OpenAI unleashes hundreds more math results upon a field already in shock"
 url: "https://scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock"
+link: "https://scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

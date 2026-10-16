@@ -2,6 +2,7 @@
 id: "a9d5a348d3c147ee"
 title: "Trump admin to receive $100 million in compute credits for AI science initiative"
 url: "https://politico.com/news/2026/10/07/trump-compute-credits-ai-science-initiative-01109749"
+link: "https://politico.com/news/2026/10/07/trump-compute-credits-ai-science-initiative-01109749"
 source: "Politico"
 domain: "politico.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "ec375bc871f5fd92"
 title: "🔮 AI & Math 2.0, Pakistan’s solar hedge & who controls computing++"
 url: "https://exponentialview.co/p/ev-605"
+link: "https://exponentialview.co/p/ev-605"
 source: "Exponential View"
 domain: "exponentialview.co"
 source_type: "newsletter"

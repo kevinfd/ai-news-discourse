@@ -2,6 +2,7 @@
 id: "5d9525616e032ae7"
 title: "AI Is Making Us Dumber – Unless We Fight Back"
 url: "https://baromae.blogspot.com/2026/10/can-ai-really-make-us-smarter-what_01666148514.html"
+link: "https://baromae.blogspot.com/2026/10/can-ai-really-make-us-smarter-what_01666148514.html"
 source: "baromae.blogspot.com"
 domain: "baromae.blogspot.com"
 source_type: "community"

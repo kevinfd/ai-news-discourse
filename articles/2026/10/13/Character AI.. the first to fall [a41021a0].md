@@ -2,6 +2,7 @@
 id: "a41021a0a536461c"
 title: "Character AI.. the first to fall"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x50o8b/character_ai_the_first_to_fall"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x50o8b/character_ai_the_first_to_fall"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

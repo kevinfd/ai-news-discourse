@@ -2,6 +2,7 @@
 id: "a56b818f12fa2b23"
 title: "I suggested that my autonomous Claude agents try astronomy on my PC for fun. They found 104 new eclipsing binary stars and came up with a new method for finding them, on their own"
 url: "https://reddit.com/r/singularity/comments/1x5njv6/i_suggested_that_my_autonomous_claude_agents_try"
+link: "https://reddit.com/r/singularity/comments/1x5njv6/i_suggested_that_my_autonomous_claude_agents_try"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

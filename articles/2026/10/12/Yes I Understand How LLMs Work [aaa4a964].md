@@ -2,6 +2,7 @@
 id: "aaa4a964bdaca067"
 title: "Yes I Understand How LLMs Work"
 url: "https://kemendo.com/yes-i-understand-how-llms-work.html"
+link: "https://kemendo.com/yes-i-understand-how-llms-work.html"
 source: "kemendo.com"
 domain: "kemendo.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "6505afdd3919c7d4"
 title: "ChatGPT deleting its previous response when I ask a follow-up question"
 url: "https://reddit.com/r/ChatGPT/comments/1x660lj/chatgpt_deleting_its_previous_response_when_i_ask"
+link: "https://reddit.com/r/ChatGPT/comments/1x660lj/chatgpt_deleting_its_previous_response_when_i_ask"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "fe627c5cb7099fff"
 title: "Anthropic adds OpenTelemetry support to Claude platform in public beta"
 url: "https://cryptobriefing.com/anthropic-claude-opentelemetry-observability-beta"
+link: "https://cryptobriefing.com/anthropic-claude-opentelemetry-observability-beta"
 source: "Crypto Briefing"
 domain: "cryptobriefing.com"
 source_type: "mainstream_news"

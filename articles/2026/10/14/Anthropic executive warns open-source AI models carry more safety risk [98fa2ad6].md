@@ -2,6 +2,7 @@
 id: "98fa2ad667acdfa9"
 title: "Anthropic executive warns open-source AI models carry more safety risk"
 url: "https://qz.com/anthropic-open-source-ai-safety-risk-101426"
+link: "https://qz.com/anthropic-open-source-ai-safety-risk-101426"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

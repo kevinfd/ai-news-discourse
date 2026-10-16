@@ -2,6 +2,7 @@
 id: "7da9be687740a26b"
 title: "OpenAI's latest blow to mathematicians: 'They have annihilated my field of research'"
 url: "https://lemonde.fr/en/science/article/2026/10/12/openai-s-latest-blow-to-mathematicians-they-have-annihilated-my-field-of-research_6758515_10.html"
+link: "https://lemonde.fr/en/science/article/2026/10/12/openai-s-latest-blow-to-mathematicians-they-have-annihilated-my-field-of-research_6758515_10.html"
 source: "Lemonde"
 domain: "lemonde.fr"
 source_type: "community"

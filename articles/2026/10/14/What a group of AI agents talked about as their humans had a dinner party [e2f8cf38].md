@@ -2,6 +2,7 @@
 id: "e2f8cf3825c1f8fa"
 title: "What a group of AI agents talked about as their humans had a dinner party"
 url: "https://seattletimes.com/business/what-a-group-of-ai-agents-talked-about-as-their-humans-had-a-dinner-party"
+link: "https://seattletimes.com/business/what-a-group-of-ai-agents-talked-about-as-their-humans-had-a-dinner-party"
 source: "The Seattle Times"
 domain: "seattletimes.com"
 source_type: "mainstream_news"

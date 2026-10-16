@@ -2,6 +2,7 @@
 id: "bb82060aa9deb230"
 title: "ICLR reviewers, are you using AI to review papers or still doing it the old-school way? [D]"
 url: "https://reddit.com/r/MachineLearning/comments/1x50ptr/iclr_reviewers_are_you_using_ai_to_review_papers"
+link: "https://reddit.com/r/MachineLearning/comments/1x50ptr/iclr_reviewers_are_you_using_ai_to_review_papers"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "678a27ce7e67a220"
 title: "Built with Claude by a non-developer: two music guessing games that started as a game for my sister"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4y9c7/built_with_claude_by_a_nondeveloper_two_music"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4y9c7/built_with_claude_by_a_nondeveloper_two_music"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "7baabeceee173aa7"
 title: "Please god fucking replace the NHS with AI"
 url: "https://reddit.com/r/singularity/comments/1x5slg2/please_god_fucking_replace_the_nhs_with_ai"
+link: "https://reddit.com/r/singularity/comments/1x5slg2/please_god_fucking_replace_the_nhs_with_ai"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

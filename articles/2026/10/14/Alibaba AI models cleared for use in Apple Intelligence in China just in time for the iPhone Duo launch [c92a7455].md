@@ -2,6 +2,7 @@
 id: "c92a7455b39120b8"
 title: "Alibaba AI models cleared for use in Apple Intelligence in China just in time for the iPhone Duo launch"
 url: "https://engadget.com/2286617/alibaba-ai-models-cleared-for-use-in-apple-intelligence-in-china-just-in-time-for-the-iphone-duo-launch"
+link: "https://engadget.com/2286617/alibaba-ai-models-cleared-for-use-in-apple-intelligence-in-china-just-in-time-for-the-iphone-duo-launch"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

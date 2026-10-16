@@ -2,6 +2,7 @@
 id: "3a87193dc4b1e182"
 title: "Is human evaluation through surveys common in ML research?[R][D]"
 url: "https://reddit.com/r/MachineLearning/comments/1x4zear/is_human_evaluation_through_surveys_common_in_ml"
+link: "https://reddit.com/r/MachineLearning/comments/1x4zear/is_human_evaluation_through_surveys_common_in_ml"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

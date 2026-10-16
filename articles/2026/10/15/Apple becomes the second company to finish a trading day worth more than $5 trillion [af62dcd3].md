@@ -2,6 +2,7 @@
 id: "af62dcd391a41215"
 title: "Apple becomes the second company to finish a trading day worth more than $5 trillion"
 url: "https://qz.com/apple-stock-closes-above-5-trillion-first-time-nvidia-101526"
+link: "https://qz.com/apple-stock-closes-above-5-trillion-first-time-nvidia-101526"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "1799402d6857b274"
 title: "Most companies count AI agents as insiders, and CISOs worry about their own liability"
 url: "https://helpnetsecurity.com/2026/10/14/ciso-ai-agent-insider-risk"
+link: "https://helpnetsecurity.com/2026/10/14/ciso-ai-agent-insider-risk"
 source: "Help Net Security"
 domain: "helpnetsecurity.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "67c0b8638c403543"
 title: "Why OpenAI’s revenue numbers really matter"
 url: "https://ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1"
+link: "https://ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "e193a310d3c018ca"
 title: "The Matrix’s Real Warning For The AI Age: Who Authors Human Choices?"
 url: "https://forbes.com/councils/forbestechcouncil/2026/10/14/the-matrixs-real-warning-for-the-ai-age-who-authors-human-choices"
+link: "https://forbes.com/councils/forbestechcouncil/2026/10/14/the-matrixs-real-warning-for-the-ai-age-who-authors-human-choices"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

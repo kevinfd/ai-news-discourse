@@ -2,6 +2,7 @@
 id: "f17adc20acb8f853"
 title: "Google wants to host your personal vibe-coded apps in the Play Store"
 url: "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store"
+link: "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

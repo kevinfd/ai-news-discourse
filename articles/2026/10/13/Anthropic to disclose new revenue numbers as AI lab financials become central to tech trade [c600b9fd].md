@@ -2,6 +2,7 @@
 id: "c600b9fd3b1f435e"
 title: "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade"
 url: "https://cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html"
+link: "https://cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

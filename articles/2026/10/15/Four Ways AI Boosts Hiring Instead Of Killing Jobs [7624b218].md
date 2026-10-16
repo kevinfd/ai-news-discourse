@@ -2,6 +2,7 @@
 id: "7624b218417bd193"
 title: "Four Ways AI Boosts Hiring Instead Of Killing Jobs"
 url: "https://forbes.com/councils/forbestechcouncil/2026/10/15/four-ways-ai-boosts-hiring-instead-of-killing-jobs"
+link: "https://forbes.com/councils/forbestechcouncil/2026/10/15/four-ways-ai-boosts-hiring-instead-of-killing-jobs"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

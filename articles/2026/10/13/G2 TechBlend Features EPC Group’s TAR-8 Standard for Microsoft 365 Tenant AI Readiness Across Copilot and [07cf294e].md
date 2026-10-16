@@ -2,6 +2,7 @@
 id: "07cf294e943ea8eb"
 title: "G2 TechBlend Features EPC Group’s TAR-8 Standard for Microsoft 365 Tenant AI Readiness Across Copilot and Multi-Model AI"
 url: "https://jsonline.com/press-release/story/254333/g2-techblend-features-epc-groups-tar-8-standard-for-microsoft-365-tenant-ai-readiness-across-copilot-and-multi-model-ai"
+link: "https://jsonline.com/press-release/story/254333/g2-techblend-features-epc-groups-tar-8-standard-for-microsoft-365-tenant-ai-readiness-across-copilot-and-multi-model-ai"
 source: "Milwaukee Journal Sentinel"
 domain: "jsonline.com"
 source_type: "mainstream_news"

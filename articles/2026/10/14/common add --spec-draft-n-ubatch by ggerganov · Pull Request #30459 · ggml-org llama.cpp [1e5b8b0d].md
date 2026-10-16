@@ -2,6 +2,7 @@
 id: "1e5b8b0dfbafde85"
 title: "common : add --spec-draft-n-ubatch by ggerganov · Pull Request #30459 · ggml-org/llama.cpp"
 url: "https://github.com/ggml-org/llama.cpp/pull/30459"
+link: "https://github.com/ggml-org/llama.cpp/pull/30459"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

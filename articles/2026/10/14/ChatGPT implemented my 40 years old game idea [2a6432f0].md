@@ -2,6 +2,7 @@
 id: "2a6432f099dd7fc7"
 title: "ChatGPT implemented my 40 years old game idea"
 url: "https://reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea"
+link: "https://reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

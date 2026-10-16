@@ -2,6 +2,7 @@
 id: "c32a6f32a92dc54f"
 title: "Aidlc: Adaptive workflow steering rules for AI coding agents"
 url: "https://github.com/awslabs/aidlc-workflows"
+link: "https://github.com/awslabs/aidlc-workflows"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

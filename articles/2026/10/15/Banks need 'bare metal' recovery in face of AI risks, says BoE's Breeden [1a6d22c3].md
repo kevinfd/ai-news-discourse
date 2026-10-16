@@ -2,6 +2,7 @@
 id: "1a6d22c3bb7561a9"
 title: "Banks need 'bare metal' recovery in face of AI risks, says BoE's Breeden"
 url: "https://channelnewsasia.com/business/banks-need-bare-metal-recovery-in-face-ai-risks-says-boes-breeden-6461966"
+link: "https://channelnewsasia.com/business/banks-need-bare-metal-recovery-in-face-ai-risks-says-boes-breeden-6461966"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

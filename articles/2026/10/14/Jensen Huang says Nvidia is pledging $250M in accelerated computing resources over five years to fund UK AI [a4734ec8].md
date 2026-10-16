@@ -2,6 +2,7 @@
 id: "a4734ec8e1c0f12d"
 title: "Jensen Huang says Nvidia is pledging $250M in accelerated computing resources over five years to fund UK AI security and agentic safety research (Reuters)"
 url: "https://techmeme.com/261014/p9"
+link: "https://techmeme.com/261014/p9"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

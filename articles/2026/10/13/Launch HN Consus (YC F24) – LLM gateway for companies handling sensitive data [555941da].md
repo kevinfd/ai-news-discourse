@@ -2,6 +2,7 @@
 id: "555941da61c27cdf"
 title: "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data"
 url: "https://news.ycombinator.com/item?id=50073471"
+link: "https://news.ycombinator.com/item?id=50073471"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "a395dbb859be382e"
 title: "Sovereign AI And The Geopolitics Of Compute"
 url: "https://forbes.com/councils/forbestechcouncil/2026/10/15/sovereign-ai-and-the-geopolitics-of-compute"
+link: "https://forbes.com/councils/forbestechcouncil/2026/10/15/sovereign-ai-and-the-geopolitics-of-compute"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

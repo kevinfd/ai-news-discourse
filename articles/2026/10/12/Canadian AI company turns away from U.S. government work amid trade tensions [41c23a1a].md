@@ -2,6 +2,7 @@
 id: "41c23a1a72613b9f"
 title: "Canadian AI company turns away from U.S. government work amid trade tensions"
 url: "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s"
+link: "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s"
 source: "Global News"
 domain: "globalnews.ca"
 source_type: "community"

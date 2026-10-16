@@ -2,6 +2,7 @@
 id: "c7d5a32ea4837ad4"
 title: "I’m benchmarking Nvidia RTX Spark LIVE: Testing CPU, GPU, AI and gaming performance"
 url: "https://tomsguide.com/news/live/nvidia-rtx-spark-benchmarks-live-testing"
+link: "https://tomsguide.com/news/live/nvidia-rtx-spark-benchmarks-live-testing"
 source: "Tom's Guide"
 domain: "tomsguide.com"
 source_type: "tech_press"

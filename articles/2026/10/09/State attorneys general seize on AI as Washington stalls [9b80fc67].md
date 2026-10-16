@@ -2,6 +2,7 @@
 id: "9b80fc67e5ed54da"
 title: "State attorneys general seize on AI as Washington stalls"
 url: "https://politico.com/news/2026/10/09/attorneys-general-ai-regulation-01112328"
+link: "https://politico.com/news/2026/10/09/attorneys-general-ai-regulation-01112328"
 source: "Politico"
 domain: "politico.com"
 source_type: "mainstream_news"

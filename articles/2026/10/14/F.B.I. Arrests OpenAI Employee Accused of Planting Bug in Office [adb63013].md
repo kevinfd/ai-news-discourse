@@ -2,6 +2,7 @@
 id: "adb63013459b8bf8"
 title: "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office"
 url: "https://nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html"
+link: "https://nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

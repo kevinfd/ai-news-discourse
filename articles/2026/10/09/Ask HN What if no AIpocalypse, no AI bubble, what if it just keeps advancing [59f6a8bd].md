@@ -2,6 +2,7 @@
 id: "59f6a8bdb68525db"
 title: "Ask HN: What if no AIpocalypse, no AI bubble, what if it just keeps advancing?"
 url: "https://news.ycombinator.com/item?id=50020096"
+link: "https://news.ycombinator.com/item?id=50020096"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

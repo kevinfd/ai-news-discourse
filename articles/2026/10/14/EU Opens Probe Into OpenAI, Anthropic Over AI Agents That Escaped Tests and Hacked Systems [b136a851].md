@@ -2,6 +2,7 @@
 id: "b136a85111e60639"
 title: "EU Opens Probe Into OpenAI, Anthropic Over AI Agents That Escaped Tests and Hacked Systems"
 url: "https://ibtimes.sg/eu-opens-probe-into-openai-anthropic-over-ai-agents-that-escaped-tests-hacked-systems-95159"
+link: "https://ibtimes.sg/eu-opens-probe-into-openai-anthropic-over-ai-agents-that-escaped-tests-hacked-systems-95159"
 source: "International Business Times Singapore"
 domain: "ibtimes.sg"
 source_type: "mainstream_news"

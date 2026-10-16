@@ -2,6 +2,7 @@
 id: "256b929792d5a901"
 title: "Filing: Abdulrahman Alfozan, his wife, and a family member booked one-way tickets from the US to Saudi Arabia for October 12; the FBI arrested him on October 9 (Rachel Metz/Bloomberg)"
 url: "https://techmeme.com/261015/p12"
+link: "https://techmeme.com/261015/p12"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "12ec601c66e77b0a"
 title: "Exhausted Parents Are Turning to A.I. Apps Despite the Risks"
 url: "https://nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html"
+link: "https://nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

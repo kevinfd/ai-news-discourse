@@ -2,6 +2,7 @@
 id: "d1f8258ec212ab07"
 title: "Gemini 4 Argon"
 url: "https://deepmind.google/models/gemini"
+link: "https://deepmind.google/models/gemini"
 source: "Google DeepMind"
 domain: "deepmind.google"
 source_type: "community"

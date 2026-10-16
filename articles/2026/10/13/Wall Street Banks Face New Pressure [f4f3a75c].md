@@ -2,6 +2,7 @@
 id: "f4f3a75c8b714445"
 title: "Wall Street Banks Face New Pressure"
 url: "https://bloomberg.com/news/videos/2026-10-13/open-interest-10-13-2026-video"
+link: "https://bloomberg.com/news/videos/2026-10-13/open-interest-10-13-2026-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

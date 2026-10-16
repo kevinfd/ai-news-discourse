@@ -2,6 +2,7 @@
 id: "c65101064b2a8238"
 title: "Apple bets AI can finally make us want a smart home"
 url: "https://axios.com/2026/10/14/apple-ai-hardware-smart-display-homeview"
+link: "https://axios.com/2026/10/14/apple-ai-hardware-smart-display-homeview"
 source: "Axios"
 domain: "axios.com"
 source_type: "mainstream_news"

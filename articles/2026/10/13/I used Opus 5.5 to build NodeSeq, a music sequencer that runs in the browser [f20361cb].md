@@ -2,6 +2,7 @@
 id: "f20361cbac8cc38a"
 title: "I used Opus 5.5 to build NodeSeq, a music sequencer that runs in the browser"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4hxu5/i_used_opus_55_to_build_nodeseq_a_music_sequencer"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4hxu5/i_used_opus_55_to_build_nodeseq_a_music_sequencer"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

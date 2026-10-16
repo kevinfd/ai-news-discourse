@@ -2,6 +2,7 @@
 id: "05be2cee25de4f1a"
 title: "Deft: an open-source, self-hosted workspace for chat, tasks and knowledge + MCPs and experimental sideloadable apps"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5mxe7/deft_an_opensource_selfhosted_workspace_for_chat"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5mxe7/deft_an_opensource_selfhosted_workspace_for_chat"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

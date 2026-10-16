@@ -2,6 +2,7 @@
 id: "ad715154b1c71b1d"
 title: "The UAE embraces AI for kindergartners"
 url: "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools"
+link: "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools"
 source: "Rest of World"
 domain: "restofworld.org"
 source_type: "tech_press"

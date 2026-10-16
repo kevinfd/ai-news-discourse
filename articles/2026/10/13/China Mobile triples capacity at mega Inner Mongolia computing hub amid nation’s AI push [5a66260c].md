@@ -2,6 +2,7 @@
 id: "5a66260c21eb48f6"
 title: "China Mobile triples capacity at mega Inner Mongolia computing hub amid nation’s AI push"
 url: "https://scmp.com/tech/big-tech/article/3370600/china-mobile-triples-capacity-mega-inner-mongolia-computing-hub-amid-nations-ai-push"
+link: "https://scmp.com/tech/big-tech/article/3370600/china-mobile-triples-capacity-mega-inner-mongolia-computing-hub-amid-nations-ai-push"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

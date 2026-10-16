@@ -2,6 +2,7 @@
 id: "f33eb326f4bb6a7b"
 title: "The AI Data Center Race Is A Strategic Contest, Not An IT Project"
 url: "https://forbes.com/councils/forbestechcouncil/2026/10/15/the-ai-data-center-race-is-a-strategic-contest-not-an-it-project"
+link: "https://forbes.com/councils/forbestechcouncil/2026/10/15/the-ai-data-center-race-is-a-strategic-contest-not-an-it-project"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

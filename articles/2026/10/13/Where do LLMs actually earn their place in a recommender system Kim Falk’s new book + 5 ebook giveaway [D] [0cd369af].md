@@ -2,6 +2,7 @@
 id: "0cd369affcf59c6d"
 title: "Where do LLMs actually earn their place in a recommender system? Kim Falk’s new book + 5 ebook giveaway [D]"
 url: "https://reddit.com/r/MachineLearning/comments/1x4uc90/where_do_llms_actually_earn_their_place_in_a"
+link: "https://reddit.com/r/MachineLearning/comments/1x4uc90/where_do_llms_actually_earn_their_place_in_a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

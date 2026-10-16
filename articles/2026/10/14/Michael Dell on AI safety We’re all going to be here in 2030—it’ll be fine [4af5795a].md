@@ -2,6 +2,7 @@
 id: "4af5795a599dba7d"
 title: "Michael Dell on AI safety: We’re all going to be here in 2030—it’ll be fine"
 url: "https://cnbc.com/video/2026/10/14/michael-dell-on-ai-safety.html"
+link: "https://cnbc.com/video/2026/10/14/michael-dell-on-ai-safety.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

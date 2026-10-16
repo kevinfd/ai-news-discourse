@@ -2,6 +2,7 @@
 id: "e8c9c91d51007648"
 title: "Flama: 8 years building a Python framework where ML models and LLMs are first-class, now written up on arXiv [P]"
 url: "https://reddit.com/r/MachineLearning/comments/1x4zwp4/flama_8_years_building_a_python_framework_where"
+link: "https://reddit.com/r/MachineLearning/comments/1x4zwp4/flama_8_years_building_a_python_framework_where"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "62066cec9c3899a3"
 title: "What is AI model distillation, and why is it so hard to stop?"
 url: "https://scientificamerican.com/article/what-is-ai-model-distillation-and-why-is-it-so-hard-to-stop"
+link: "https://scientificamerican.com/article/what-is-ai-model-distillation-and-why-is-it-so-hard-to-stop"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

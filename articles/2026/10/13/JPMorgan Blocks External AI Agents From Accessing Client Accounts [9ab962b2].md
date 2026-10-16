@@ -2,6 +2,7 @@
 id: "9ab962b2d5336751"
 title: "JPMorgan Blocks External AI Agents From Accessing Client Accounts"
 url: "https://theinformation.com/briefings/jpmorgan-blocks-external-ai-agents-accessing-client-accounts"
+link: "https://theinformation.com/briefings/jpmorgan-blocks-external-ai-agents-accessing-client-accounts"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

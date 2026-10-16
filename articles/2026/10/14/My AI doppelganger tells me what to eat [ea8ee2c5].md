@@ -2,6 +2,7 @@
 id: "ea8ee2c59aeb4439"
 title: "My AI doppelganger tells me what to eat"
 url: "https://theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health"
+link: "https://theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

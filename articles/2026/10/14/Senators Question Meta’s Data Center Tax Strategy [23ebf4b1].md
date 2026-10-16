@@ -2,6 +2,7 @@
 id: "23ebf4b13e79f392"
 title: "Senators Question Meta’s Data Center Tax Strategy"
 url: "https://nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html"
+link: "https://nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

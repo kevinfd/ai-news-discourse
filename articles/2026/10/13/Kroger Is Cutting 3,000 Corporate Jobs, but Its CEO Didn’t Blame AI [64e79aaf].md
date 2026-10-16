@@ -2,6 +2,7 @@
 id: "64e79aaf6d149fdf"
 title: "Kroger Is Cutting 3,000 Corporate Jobs, but Its CEO Didn’t Blame AI"
 url: "https://inc.com/brian-contreras/kroger-layoffs-cutting-corporate-jobs-ai-strategy/91418867"
+link: "https://inc.com/brian-contreras/kroger-layoffs-cutting-corporate-jobs-ai-strategy/91418867"
 source: "Inc.com"
 domain: "inc.com"
 source_type: "mainstream_news"

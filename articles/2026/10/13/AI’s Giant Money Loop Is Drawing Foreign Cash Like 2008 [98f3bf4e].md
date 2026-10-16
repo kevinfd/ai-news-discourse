@@ -2,6 +2,7 @@
 id: "98f3bf4ed769f32e"
 title: "AI’s Giant Money Loop Is Drawing Foreign Cash Like 2008"
 url: "https://bloomberg.com/news/features/2026-10-12/how-the-ai-boom-is-fueling-global-financial-risks?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTkxNDQ3OCwiZXhwIjoxNzkyNTE5Mjc4LCJhcnRpY2xlSWQiOiJUTVRCTzNLR1pBSjcwMCIsImJjb25uZWN0SWQiOiI1NjMyNTdERDBGRDQ0OUE5ODMwMDQyRDQ2Qjg0MjQzOCJ9.10AmwiOFY4Ax2yb0zQAjgvmlxJzwsAFtHL7jE0myz9w"
+link: "https://bloomberg.com/news/features/2026-10-12/how-the-ai-boom-is-fueling-global-financial-risks?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTkxNDQ3OCwiZXhwIjoxNzkyNTE5Mjc4LCJhcnRpY2xlSWQiOiJUTVRCTzNLR1pBSjcwMCIsImJjb25uZWN0SWQiOiI1NjMyNTdERDBGRDQ0OUE5ODMwMDQyRDQ2Qjg0MjQzOCJ9.10AmwiOFY4Ax2yb0zQAjgvmlxJzwsAFtHL7jE0myz9w"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "community"

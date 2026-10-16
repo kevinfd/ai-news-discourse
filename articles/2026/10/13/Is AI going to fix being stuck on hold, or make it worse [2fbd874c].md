@@ -2,6 +2,7 @@
 id: "2fbd874ce33d8937"
 title: "Is AI going to fix being stuck on hold, or make it worse?"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4xuw3/is_ai_going_to_fix_being_stuck_on_hold_or_make_it"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4xuw3/is_ai_going_to_fix_being_stuck_on_hold_or_make_it"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

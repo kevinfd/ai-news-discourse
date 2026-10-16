@@ -2,6 +2,7 @@
 id: "491ecb85b1828874"
 title: "Manus just gave AI agents their own phone numbers and digital wallets. That’s a bigger shift than any model release this week."
 url: "https://reddit.com/r/artificial/comments/1x526jk/manus_just_gave_ai_agents_their_own_phone_numbers"
+link: "https://reddit.com/r/artificial/comments/1x526jk/manus_just_gave_ai_agents_their_own_phone_numbers"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

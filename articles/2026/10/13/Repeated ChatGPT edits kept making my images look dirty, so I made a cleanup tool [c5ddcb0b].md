@@ -2,6 +2,7 @@
 id: "c5ddcb0b337084a8"
 title: "Repeated ChatGPT edits kept making my images look dirty, so I made a cleanup tool"
 url: "https://reddit.com/r/ChatGPT/comments/1x5aktu/repeated_chatgpt_edits_kept_making_my_images_look"
+link: "https://reddit.com/r/ChatGPT/comments/1x5aktu/repeated_chatgpt_edits_kept_making_my_images_look"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "d89487fdfff9e349"
 title: "Meta Unveils New Series of Advanced A.I. Models"
 url: "https://nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html"
+link: "https://nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "69dee5d5d3f9d1b0"
 title: "Does anyone else feel that they’re not actually doing work anymore?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x51zsk/does_anyone_else_feel_that_theyre_not_actually"
+link: "https://reddit.com/r/ClaudeAI/comments/1x51zsk/does_anyone_else_feel_that_theyre_not_actually"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

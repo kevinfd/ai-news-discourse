@@ -2,6 +2,7 @@
 id: "09d41ecb4372b72f"
 title: "Satya Nadella’s Call for an AI Killswitch is a Hyperscaler Powerplay to Buy"
 url: "https://247wallst.com/investing/2026/10/15/satya-nadellas-call-for-an-ai-killswitch-is-a-hyperscaler-powerplay-to-buy"
+link: "https://247wallst.com/investing/2026/10/15/satya-nadellas-call-for-an-ai-killswitch-is-a-hyperscaler-powerplay-to-buy"
 source: "24/7 Wall St."
 domain: "247wallst.com"
 source_type: "mainstream_news"

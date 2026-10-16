@@ -2,6 +2,7 @@
 id: "056560778e3ea72a"
 title: "COSMIC shuts the door on AI code as GNOME debates letting bug reports in"
 url: "https://theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141"
+link: "https://theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141"
 source: "The Register"
 domain: "theregister.com"
 source_type: "tech_press"

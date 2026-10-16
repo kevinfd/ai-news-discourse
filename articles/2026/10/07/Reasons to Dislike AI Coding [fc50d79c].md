@@ -2,6 +2,7 @@
 id: "fc50d79cd0163f7b"
 title: "Reasons to Dislike AI Coding"
 url: "https://sicpers.info/2026/10/reasons-to-dislike-ai-coding"
+link: "https://sicpers.info/2026/10/reasons-to-dislike-ai-coding"
 source: "Structure and Interpretation of Computer Programmers"
 domain: "sicpers.info"
 source_type: "community"

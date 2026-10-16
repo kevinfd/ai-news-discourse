@@ -2,6 +2,7 @@
 id: "3c925e86b449b42d"
 title: "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip"
 url: "https://axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals"
+link: "https://axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals"
 source: "Axios"
 domain: "axios.com"
 source_type: "mainstream_news"

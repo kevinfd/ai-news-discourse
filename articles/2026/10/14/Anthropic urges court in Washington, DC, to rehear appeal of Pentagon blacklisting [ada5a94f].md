@@ -2,6 +2,7 @@
 id: "ada5a94f73ad86ee"
 title: "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting"
 url: "https://cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html"
+link: "https://cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

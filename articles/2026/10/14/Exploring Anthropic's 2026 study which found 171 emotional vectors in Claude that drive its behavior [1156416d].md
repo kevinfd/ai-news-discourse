@@ -2,6 +2,7 @@
 id: "1156416d34a8de98"
 title: "Exploring Anthropic's 2026 study which found 171 emotional vectors in Claude that drive its behavior."
 url: "https://ai-consciousness.org/researchers-found-171-emotional-states-inside-of-claude-correlated-to-claudes-behaviors"
+link: "https://ai-consciousness.org/researchers-found-171-emotional-states-inside-of-claude-correlated-to-claudes-behaviors"
 source: "AI-Consciousness.Org"
 domain: "ai-consciousness.org"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "f1da89fe937e8e02"
 title: "HSBC to double Hong Kong AI team to 300, outpacing Singapore plan"
 url: "https://scmp.com/business/banking-finance/article/3370997/hsbc-double-hong-kong-ai-team-300-outpacing-singapore-plan"
+link: "https://scmp.com/business/banking-finance/article/3370997/hsbc-double-hong-kong-ai-team-300-outpacing-singapore-plan"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

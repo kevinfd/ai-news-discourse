@@ -2,6 +2,7 @@
 id: "250b82200a0f7f6f"
 title: "Last call to get ChatGPT, Claude, Gemini, and more for life for just $69.97"
 url: "https://mashable.com/tech/oct-15-1minai-advanced-business-plan-lifetime-subscription"
+link: "https://mashable.com/tech/oct-15-1minai-advanced-business-plan-lifetime-subscription"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

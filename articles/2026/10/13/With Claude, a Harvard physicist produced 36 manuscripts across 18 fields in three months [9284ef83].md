@@ -2,6 +2,7 @@
 id: "9284ef83f71f0a70"
 title: "With Claude, a Harvard physicist produced 36 manuscripts across 18 fields in three months"
 url: "https://maccus.fr/en/bootloops-claude-science"
+link: "https://maccus.fr/en/bootloops-claude-science"
 source: "MACCUS - Agence SEO, Influence & Marketing Organique"
 domain: "maccus.fr"
 source_type: "community"

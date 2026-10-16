@@ -2,6 +2,7 @@
 id: "bddf8b6830b76587"
 title: "TSMC to Add a New 3nm Fab as AI Orders Pile up"
 url: "https://theinformation.com/briefings/tsmc-add-new-3nm-fab-ai-orders-pile"
+link: "https://theinformation.com/briefings/tsmc-add-new-3nm-fab-ai-orders-pile"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

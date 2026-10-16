@@ -2,6 +2,7 @@
 id: "0b1518dc9b60572e"
 title: "I Made Terrible Games With Google’s AI Playground"
 url: "https://wired.com/story/i-made-terrible-games-with-googles-ai-playground"
+link: "https://wired.com/story/i-made-terrible-games-with-googles-ai-playground"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

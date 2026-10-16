@@ -2,6 +2,7 @@
 id: "cb8d56897650a8ef"
 title: "Peter Thiel slams Obama, Pope Leo in new ‘Antichrist’ lectures"
 url: "https://politico.com/news/2026/10/08/peter-thiel-ai-obama-pope-leo-01112122"
+link: "https://politico.com/news/2026/10/08/peter-thiel-ai-obama-pope-leo-01112122"
 source: "Politico"
 domain: "politico.com"
 source_type: "mainstream_news"

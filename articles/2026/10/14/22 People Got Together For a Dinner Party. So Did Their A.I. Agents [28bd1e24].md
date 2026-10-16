@@ -2,6 +2,7 @@
 id: "28bd1e24d9e9fe58"
 title: "22 People Got Together For a Dinner Party. So Did Their A.I. Agents."
 url: "https://nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html"
+link: "https://nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

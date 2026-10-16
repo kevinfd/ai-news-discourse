@@ -2,6 +2,7 @@
 id: "7490dfce551163ad"
 title: "Tangermeme: a toolkit for understanding cis-regulatory logic using deep learning models"
 url: "https://nature.com/articles/s41592-026-03254-z"
+link: "https://nature.com/articles/s41592-026-03254-z"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

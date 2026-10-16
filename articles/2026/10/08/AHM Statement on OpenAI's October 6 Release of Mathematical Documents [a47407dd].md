@@ -2,6 +2,7 @@
 id: "a47407dd071c0e94"
 title: "AHM Statement on OpenAI's October 6 Release of Mathematical Documents"
 url: "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents"
+link: "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents"
 source: "What's new"
 domain: "terrytao.wordpress.com"
 source_type: "community"

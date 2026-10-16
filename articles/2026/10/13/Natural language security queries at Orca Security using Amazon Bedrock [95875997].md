@@ -2,6 +2,7 @@
 id: "958759977490d99c"
 title: "Natural language security queries at Orca Security using Amazon Bedrock"
 url: "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock"
+link: "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

@@ -2,6 +2,7 @@
 id: "73374ca83f2d5247"
 title: "AI giant Anthropic woos potential investors ahead of stock market debut"
 url: "https://bbc.co.uk/news/articles/cqzjx448vxkgo?at_campaign=rss&at_medium=RSS"
+link: "https://bbc.co.uk/news/articles/cqzjx448vxkgo?at_campaign=rss&at_medium=RSS"
 source: "BBC News"
 domain: "bbc.co.uk"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "4488adb0885fa294"
 title: "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks"
 url: "https://warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks"
+link: "https://warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks"
 source: "Senator Elizabeth Warren"
 domain: "warren.senate.gov"
 source_type: "community"

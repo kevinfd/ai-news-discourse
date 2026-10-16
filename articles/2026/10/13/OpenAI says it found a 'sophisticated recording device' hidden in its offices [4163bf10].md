@@ -2,6 +2,7 @@
 id: "4163bf1078b74cc1"
 title: "OpenAI says it found a 'sophisticated recording device' hidden in its offices"
 url: "https://engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices"
+link: "https://engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "22f64ebbc0729608"
 title: "MoralityBench.ai: Open benchmark testing LLMs against validated human moral psychology instruments, updated results for Muse and Gemini 4 Argon"
 url: "https://moralitybench.ai"
+link: "https://moralitybench.ai"
 source: "moralitybench.ai"
 domain: "moralitybench.ai"
 source_type: "community"

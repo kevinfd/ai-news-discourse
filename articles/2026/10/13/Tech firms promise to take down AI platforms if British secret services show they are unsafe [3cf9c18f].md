@@ -2,6 +2,7 @@
 id: "3cf9c18f7b8332b9"
 title: "Tech firms promise to take down AI platforms if British secret services show they are unsafe"
 url: "https://news.sky.com/story/tech-firms-promise-to-take-down-ai-platforms-if-british-secret-services-show-they-are-unsafe-13598926"
+link: "https://news.sky.com/story/tech-firms-promise-to-take-down-ai-platforms-if-british-secret-services-show-they-are-unsafe-13598926"
 source: "Sky News"
 domain: "news.sky.com"
 source_type: "mainstream_news"

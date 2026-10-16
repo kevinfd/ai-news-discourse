@@ -2,6 +2,7 @@
 id: "b44367c7f56ebdd5"
 title: "Apple Prepares to Debut Apple Intelligence in China in December"
 url: "https://theinformation.com/briefings/apple-prepares-debut-apple-intelligence-china-december"
+link: "https://theinformation.com/briefings/apple-prepares-debut-apple-intelligence-china-december"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

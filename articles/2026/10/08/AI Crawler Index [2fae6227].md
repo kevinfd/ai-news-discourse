@@ -2,6 +2,7 @@
 id: "2fae6227e118a2e9"
 title: "AI Crawler Index"
 url: "https://mojodojo.io/ai-crawler-index"
+link: "https://mojodojo.io/ai-crawler-index"
 source: "Mojo Dojo"
 domain: "mojodojo.io"
 source_type: "community"

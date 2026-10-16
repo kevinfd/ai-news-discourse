@@ -2,6 +2,7 @@
 id: "7cb563cfa349e937"
 title: "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control"
 url: "https://cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html"
+link: "https://cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

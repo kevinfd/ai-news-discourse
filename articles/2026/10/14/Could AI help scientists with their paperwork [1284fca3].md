@@ -2,6 +2,7 @@
 id: "1284fca3340540fc"
 title: "Could AI help scientists with their paperwork?"
 url: "https://economist.com/science-and-technology/2026/10/14/could-ai-help-scientists-with-their-paperwork"
+link: "https://economist.com/science-and-technology/2026/10/14/could-ai-help-scientists-with-their-paperwork"
 source: "The Economist"
 domain: "economist.com"
 source_type: "mainstream_news"

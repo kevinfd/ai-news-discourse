@@ -2,6 +2,7 @@
 id: "83e901a59b8f3cf6"
 title: "OpenAI employee accused of planting a bug in the company's San Francisco headquarters"
 url: "https://abcnews.com/Business/openai-employee-accused-planting-bug-companys-san-francisco/story?id=137253185"
+link: "https://abcnews.com/Business/openai-employee-accused-planting-bug-companys-san-francisco/story?id=137253185"
 source: "ABC News"
 domain: "abcnews.com"
 source_type: "mainstream_news"

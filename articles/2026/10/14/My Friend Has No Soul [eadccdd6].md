@@ -2,6 +2,7 @@
 id: "eadccdd63496fac3"
 title: "My Friend Has No Soul"
 url: "https://wired.com/story/my-friend-has-no-soul"
+link: "https://wired.com/story/my-friend-has-no-soul"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

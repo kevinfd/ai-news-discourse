@@ -2,6 +2,7 @@
 id: "86d6c52aaf188584"
 title: "Demis Hassabis' opinion about OpenAI’s approach to its recent math breakthroughs, argues they should involve the maths community, says math skills are needed more than ever but mathematicians should focus on applied maths: \"Sometimes new mathematics is more valuable than the solutions\""
 url: "https://reddit.com/r/singularity/comments/1x5trzz/demis_hassabis_opinion_about_openais_approach_to"
+link: "https://reddit.com/r/singularity/comments/1x5trzz/demis_hassabis_opinion_about_openais_approach_to"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

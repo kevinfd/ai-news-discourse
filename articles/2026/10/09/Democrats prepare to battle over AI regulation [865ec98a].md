@@ -2,6 +2,7 @@
 id: "865ec98a550583fb"
 title: "Democrats prepare to battle over AI regulation"
 url: "https://transformernews.ai/p/democrats-prepare-to-battle-over-ai-regulation"
+link: "https://transformernews.ai/p/democrats-prepare-to-battle-over-ai-regulation"
 source: "Transformer"
 domain: "transformernews.ai"
 source_type: "newsletter"

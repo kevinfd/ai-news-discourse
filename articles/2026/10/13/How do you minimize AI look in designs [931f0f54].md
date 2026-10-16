@@ -2,6 +2,7 @@
 id: "931f0f5457833cc5"
 title: "How do you minimize \"AI look\" in designs?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4za5g/how_do_you_minimize_ai_look_in_designs"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4za5g/how_do_you_minimize_ai_look_in_designs"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

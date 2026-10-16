@@ -2,6 +2,7 @@
 id: "a93fc15825f86f53"
 title: "Scientists recently overturned a 59-year-old belief about the magnetic fields used to contain plasma in fusion reactors. Google gave their breakthrough to Gemini 4 agents. Within hours, the AI found new solutions that went beyond what the original researchers had discovered. The result: two new ways"
 url: "https://reddit.com/r/singularity/comments/1x62jzz/scientists_recently_overturned_a_59yearold_belief"
+link: "https://reddit.com/r/singularity/comments/1x62jzz/scientists_recently_overturned_a_59yearold_belief"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "40e9f67a0f473191"
 title: "A timeline of developments in AI safety since the attack on Hugging Face"
 url: "https://abcnews.com/Technology/wireStory/timeline-developments-ai-safety-attack-hugging-face-137161979"
+link: "https://abcnews.com/Technology/wireStory/timeline-developments-ai-safety-attack-hugging-face-137161979"
 source: "ABC News"
 domain: "abcnews.com"
 source_type: "mainstream_news"

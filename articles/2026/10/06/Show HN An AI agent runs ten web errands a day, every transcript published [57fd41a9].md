@@ -2,6 +2,7 @@
 id: "57fd41a94f67b81a"
 title: "Show HN: An AI agent runs ten web errands a day, every transcript published"
 url: "https://agentability.org"
+link: "https://agentability.org"
 source: "Agentability"
 domain: "agentability.org"
 source_type: "community"

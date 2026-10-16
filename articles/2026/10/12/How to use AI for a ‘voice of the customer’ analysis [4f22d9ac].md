@@ -2,6 +2,7 @@
 id: "4f22d9ac706baa58"
 title: "How to use AI for a ‘voice of the customer’ analysis"
 url: "https://fastcompany.com/91620991/how-to-use-ai-voice-customer-analysis?partner=rss"
+link: "https://fastcompany.com/91620991/how-to-use-ai-voice-customer-analysis?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

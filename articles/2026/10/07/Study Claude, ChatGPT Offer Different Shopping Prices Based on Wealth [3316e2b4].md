@@ -2,6 +2,7 @@
 id: "3316e2b4c5196900"
 title: "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth"
 url: "https://bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth"
+link: "https://bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "community"

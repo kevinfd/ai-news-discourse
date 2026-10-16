@@ -2,6 +2,7 @@
 id: "1647da856f278dcf"
 title: "Meta pitches “personal empowerment” AI, but Muse Wonder is closed and its best versions are sold to businesses"
 url: "https://reddit.com/r/singularity/comments/1x4g83n/meta_pitches_personal_empowerment_ai_but_muse"
+link: "https://reddit.com/r/singularity/comments/1x4g83n/meta_pitches_personal_empowerment_ai_but_muse"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

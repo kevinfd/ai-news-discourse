@@ -2,6 +2,7 @@
 id: "57795a685054b754"
 title: "Generative AI Moves To Battery-Powered Edge Devices"
 url: "https://electronicsforu.com/news/generative-ai-moves-to-battery-powered-edge-devices"
+link: "https://electronicsforu.com/news/generative-ai-moves-to-battery-powered-edge-devices"
 source: "Electronics For You"
 domain: "electronicsforu.com"
 source_type: "mainstream_news"

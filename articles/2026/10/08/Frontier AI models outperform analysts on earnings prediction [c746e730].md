@@ -2,6 +2,7 @@
 id: "c746e73031f66e0d"
 title: "Frontier AI models outperform analysts on earnings prediction"
 url: "https://samaya.ai/blog/frontier-ai-models-outperform-human-experts-on-earnings-prediction"
+link: "https://samaya.ai/blog/frontier-ai-models-outperform-human-experts-on-earnings-prediction"
 source: "Samaya AI"
 domain: "samaya.ai"
 source_type: "community"

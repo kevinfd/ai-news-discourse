@@ -2,6 +2,7 @@
 id: "65bf1d2dab046cc2"
 title: "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC"
 url: "https://cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html"
+link: "https://cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

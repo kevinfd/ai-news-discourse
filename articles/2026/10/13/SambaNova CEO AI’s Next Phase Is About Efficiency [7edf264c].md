@@ -2,6 +2,7 @@
 id: "7edf264c43739545"
 title: "SambaNova CEO: AI’s Next Phase Is About Efficiency"
 url: "https://bloomberg.com/news/videos/2026-10-13/sambanova-ceo-ai-s-next-phase-is-about-efficiency-video"
+link: "https://bloomberg.com/news/videos/2026-10-13/sambanova-ceo-ai-s-next-phase-is-about-efficiency-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

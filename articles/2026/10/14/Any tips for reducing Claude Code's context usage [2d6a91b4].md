@@ -2,6 +2,7 @@
 id: "2d6a91b42505c41d"
 title: "Any tips for reducing Claude Code's context usage?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5qbp9/any_tips_for_reducing_claude_codes_context_usage"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5qbp9/any_tips_for_reducing_claude_codes_context_usage"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

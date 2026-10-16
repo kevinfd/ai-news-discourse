@@ -2,6 +2,7 @@
 id: "378737ffe80d7a1a"
 title: "Researchers improve weather forecasts looking two to six weeks out"
 url: "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014"
+link: "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014"
 source: "MIT News"
 domain: "news.mit.edu"
 source_type: "research"

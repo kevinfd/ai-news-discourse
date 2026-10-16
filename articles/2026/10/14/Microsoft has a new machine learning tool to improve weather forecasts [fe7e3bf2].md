@@ -2,6 +2,7 @@
 id: "fe7e3bf246c62145"
 title: "Microsoft has a new machine learning tool to improve weather forecasts"
 url: "https://theverge.com/science/1011127/ai-weather-forecast-microsoft"
+link: "https://theverge.com/science/1011127/ai-weather-forecast-microsoft"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

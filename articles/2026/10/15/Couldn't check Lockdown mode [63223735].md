@@ -2,6 +2,7 @@
 id: "632237355f647652"
 title: "Couldn't check Lockdown mode"
 url: "https://reddit.com/r/ChatGPT/comments/1x6ezvq/couldnt_check_lockdown_mode"
+link: "https://reddit.com/r/ChatGPT/comments/1x6ezvq/couldnt_check_lockdown_mode"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

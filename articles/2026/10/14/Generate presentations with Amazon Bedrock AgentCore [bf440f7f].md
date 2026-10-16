@@ -2,6 +2,7 @@
 id: "bf440f7f3fb44381"
 title: "Generate presentations with Amazon Bedrock AgentCore"
 url: "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore"
+link: "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

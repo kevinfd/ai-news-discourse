@@ -2,6 +2,7 @@
 id: "5418cb733d0322b9"
 title: "Apple TV 4K 2022 vs. 2026: What's new and is it worth the $100 jump?"
 url: "https://engadget.com/2286141/apple-tv-4k-2022-vs-2026-whats-new-worth-100-price-increase"
+link: "https://engadget.com/2286141/apple-tv-4k-2022-vs-2026-whats-new-worth-100-price-increase"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

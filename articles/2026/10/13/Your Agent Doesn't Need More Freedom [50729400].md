@@ -2,6 +2,7 @@
 id: "50729400a568356a"
 title: "Your Agent Doesn't Need More Freedom"
 url: "https://towardsdatascience.com/your-agent-doesnt-need-more-freedom"
+link: "https://towardsdatascience.com/your-agent-doesnt-need-more-freedom"
 source: "Towards Data Science"
 domain: "towardsdatascience.com"
 source_type: "newsletter"

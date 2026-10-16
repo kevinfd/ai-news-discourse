@@ -2,6 +2,7 @@
 id: "b7f6f503206b41b5"
 title: "Quartermaster 1.7 update now lets you run llama.cpp's new decision models (/v1/systemone) with a playground tab"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x53ob3/quartermaster_17_update_now_lets_you_run"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x53ob3/quartermaster_17_update_now_lets_you_run"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

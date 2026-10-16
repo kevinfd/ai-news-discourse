@@ -2,6 +2,7 @@
 id: "8837b88dbc2f2800"
 title: "Dropping old, low-attention tokens so long chat/agent sessions stay small."
 url: "https://reddit.com/r/LocalLLaMA/comments/1x66wl9/dropping_old_lowattention_tokens_so_long"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x66wl9/dropping_old_lowattention_tokens_so_long"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

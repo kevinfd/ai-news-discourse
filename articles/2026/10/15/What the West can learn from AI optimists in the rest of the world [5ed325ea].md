@@ -2,6 +2,7 @@
 id: "5ed325eaf40d2682"
 title: "What the West can learn from AI optimists in the rest of the world"
 url: "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation"
+link: "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation"
 source: "Rest of World"
 domain: "restofworld.org"
 source_type: "tech_press"

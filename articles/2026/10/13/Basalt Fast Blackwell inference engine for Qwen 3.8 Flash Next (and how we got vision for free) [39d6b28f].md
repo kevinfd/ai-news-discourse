@@ -2,6 +2,7 @@
 id: "39d6b28f08195ee2"
 title: "Basalt: Fast Blackwell inference engine for Qwen 3.8 Flash Next (and how we got vision for free)"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x4xmxb/basalt_fast_blackwell_inference_engine_for_qwen"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x4xmxb/basalt_fast_blackwell_inference_engine_for_qwen"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

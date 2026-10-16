@@ -2,6 +2,7 @@
 id: "bcea3d69c3989ec2"
 title: "FBI arrests OpenAI engineer for allegedly planting bug in office"
 url: "https://cbsnews.com/video/fbi-arrests-openai-engineer-for-allegedly-planting-bug-in-office"
+link: "https://cbsnews.com/video/fbi-arrests-openai-engineer-for-allegedly-planting-bug-in-office"
 source: "CBS News"
 domain: "cbsnews.com"
 source_type: "mainstream_news"

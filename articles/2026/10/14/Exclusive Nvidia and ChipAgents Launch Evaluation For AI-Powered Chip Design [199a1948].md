@@ -2,6 +2,7 @@
 id: "199a194847896e96"
 title: "Exclusive: Nvidia and ChipAgents Launch Evaluation For AI-Powered Chip Design"
 url: "https://theinformation.com/briefings/exclusive-nvidia-chipagents-launch-evaluation-ai-powered-chip-design"
+link: "https://theinformation.com/briefings/exclusive-nvidia-chipagents-launch-evaluation-ai-powered-chip-design"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

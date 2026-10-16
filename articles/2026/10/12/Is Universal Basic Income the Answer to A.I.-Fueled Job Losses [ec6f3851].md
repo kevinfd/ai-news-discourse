@@ -2,6 +2,7 @@
 id: "ec6f38511c53adc5"
 title: "Is Universal Basic Income the Answer to A.I.-Fueled Job Losses?"
 url: "https://nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html"
+link: "https://nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

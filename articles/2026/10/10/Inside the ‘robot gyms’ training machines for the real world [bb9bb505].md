@@ -2,6 +2,7 @@
 id: "bb9bb5058b309850"
 title: "Inside the ‘robot gyms’ training machines for the real world"
 url: "https://ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1"
+link: "https://ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

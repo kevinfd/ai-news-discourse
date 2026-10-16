@@ -2,6 +2,7 @@
 id: "e4234a1151d70a6b"
 title: "The future is bleak"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5kb71/the_future_is_bleak"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5kb71/the_future_is_bleak"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

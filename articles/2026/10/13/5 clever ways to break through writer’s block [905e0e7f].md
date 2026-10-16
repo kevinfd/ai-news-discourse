@@ -2,6 +2,7 @@
 id: "905e0e7f8ad15458"
 title: "5 clever ways to break through writer’s block"
 url: "https://fastcompany.com/91622376/5-clever-ways-to-break-through-writers-block?partner=rss"
+link: "https://fastcompany.com/91622376/5-clever-ways-to-break-through-writers-block?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

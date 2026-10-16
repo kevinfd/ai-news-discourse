@@ -2,6 +2,7 @@
 id: "bdc7cf3c6d5fab23"
 title: "​Intelligence As Capital: Reinventing Value In The AI Era"
 url: "https://forbes.com/councils/forbestechcouncil/2026/10/14/intelligence-as-capital-reinventing-value-in-the-ai-era"
+link: "https://forbes.com/councils/forbestechcouncil/2026/10/14/intelligence-as-capital-reinventing-value-in-the-ai-era"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

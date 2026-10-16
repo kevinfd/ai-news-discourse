@@ -2,6 +2,7 @@
 id: "e8bc32bec7c0614f"
 title: "Ark's Wood Favors Nvidia, AMD in 'Volatile' Chip Cycle"
 url: "https://bloomberg.com/news/videos/2026-10-14/ark-s-wood-favors-nvidia-amd-in-volatile-chip-cycle-video"
+link: "https://bloomberg.com/news/videos/2026-10-14/ark-s-wood-favors-nvidia-amd-in-volatile-chip-cycle-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

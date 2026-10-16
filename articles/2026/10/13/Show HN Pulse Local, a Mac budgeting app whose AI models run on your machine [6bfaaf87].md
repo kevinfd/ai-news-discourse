@@ -2,6 +2,7 @@
 id: "6bfaaf873eeb7d24"
 title: "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine"
 url: "https://pulseos.finance"
+link: "https://pulseos.finance"
 source: "Pulse Local"
 domain: "pulseos.finance"
 source_type: "community"

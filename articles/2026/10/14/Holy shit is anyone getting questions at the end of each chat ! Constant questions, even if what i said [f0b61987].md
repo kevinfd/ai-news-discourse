@@ -2,6 +2,7 @@
 id: "f0b61987f86a2c0b"
 title: "Holy shit is anyone getting questions at the end of each chat?! Constant questions, even if what i said didn’t merit them."
 url: "https://reddit.com/r/ChatGPT/comments/1x5j4aw/holy_shit_is_anyone_getting_questions_at_the_end"
+link: "https://reddit.com/r/ChatGPT/comments/1x5j4aw/holy_shit_is_anyone_getting_questions_at_the_end"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "12b2b8fb239853b0"
 title: "Google Deepmind's Hassabis calls AI hacks 'early warning shots'"
 url: "https://miamiherald.com/news/business/article317616279.html"
+link: "https://miamiherald.com/news/business/article317616279.html"
 source: "Miami Herald"
 domain: "miamiherald.com"
 source_type: "mainstream_news"

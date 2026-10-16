@@ -2,6 +2,7 @@
 id: "421acab06078b903"
 title: "OpenAI finds recording device in one of their offices"
 url: "https://twitter.com/OpenAINewsroom/status/2110095403198849132"
+link: "https://twitter.com/OpenAINewsroom/status/2110095403198849132"
 source: "Twitter"
 domain: "twitter.com"
 source_type: "community"

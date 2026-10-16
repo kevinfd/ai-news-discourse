@@ -2,6 +2,7 @@
 id: "8494b8dcf4cd5184"
 title: "Why isn't the industry freaking out about DeepSeek 4.1 Flash?"
 url: "https://dgt.is/blog/2026-10-07-deepseek-freek-out"
+link: "https://dgt.is/blog/2026-10-07-deepseek-freek-out"
 source: "Dgt"
 domain: "dgt.is"
 source_type: "community"

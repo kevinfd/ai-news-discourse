@@ -2,6 +2,7 @@
 id: "c9dd62fbfda59538"
 title: "I built an AI skill to help you discover what tech skills to learn next, instead of relying on outdated roadmaps"
 url: "https://reddit.com/r/ChatGPT/comments/1x4wskz/i_built_an_ai_skill_to_help_you_discover_what"
+link: "https://reddit.com/r/ChatGPT/comments/1x4wskz/i_built_an_ai_skill_to_help_you_discover_what"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

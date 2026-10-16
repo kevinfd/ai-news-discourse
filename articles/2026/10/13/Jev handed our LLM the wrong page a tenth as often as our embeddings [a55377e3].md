@@ -2,6 +2,7 @@
 id: "a55377e3910c7560"
 title: "Jev handed our LLM the wrong page a tenth as often as our embeddings"
 url: "https://sayora.ai/many-hands/jev-vs-embeddings"
+link: "https://sayora.ai/many-hands/jev-vs-embeddings"
 source: "Sayora"
 domain: "sayora.ai"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "c01e31c5a3a42d55"
 title: "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation"
 url: "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts"
+link: "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts"
 source: "Last Week in AI"
 domain: "lastweekin.ai"
 source_type: "newsletter"

@@ -2,6 +2,7 @@
 id: "8ff611332d4d6bf6"
 title: "Spent nearly a year building my game"
 url: "https://reddit.com/r/ChatGPT/comments/1x5hfnc/spent_nearly_a_year_building_my_game"
+link: "https://reddit.com/r/ChatGPT/comments/1x5hfnc/spent_nearly_a_year_building_my_game"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

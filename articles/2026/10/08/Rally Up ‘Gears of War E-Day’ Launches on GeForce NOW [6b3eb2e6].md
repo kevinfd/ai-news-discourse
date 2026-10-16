@@ -2,6 +2,7 @@
 id: "6b3eb2e65b9806fa"
 title: "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW"
 url: "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day"
+link: "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day"
 source: "NVIDIA Blog"
 domain: "blogs.nvidia.com"
 source_type: "company_blog"

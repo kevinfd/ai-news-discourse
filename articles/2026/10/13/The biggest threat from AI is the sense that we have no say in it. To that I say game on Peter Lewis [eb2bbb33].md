@@ -2,6 +2,7 @@
 id: "eb2bbb339390a36d"
 title: "The biggest threat from AI is the sense that we have no say in it. To that I say game on | Peter Lewis"
 url: "https://theguardian.com/technology/commentisfree/2026/oct/14/ai-resistance-inevitability-is-choice-australia-digital-duty-of-care"
+link: "https://theguardian.com/technology/commentisfree/2026/oct/14/ai-resistance-inevitability-is-choice-australia-digital-duty-of-care"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

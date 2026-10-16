@@ -2,6 +2,7 @@
 id: "25432b6b093a311b"
 title: "Developing Gemini 4 Argon responsibly and safely"
 url: "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely"
+link: "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely"
 source: "Google DeepMind"
 domain: "deepmind.google"
 source_type: "company_blog"

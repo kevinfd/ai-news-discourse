@@ -2,6 +2,7 @@
 id: "9ed6e2340cdf45c3"
 title: "Astronomers discover record-breaking ancient cosmic outburst"
 url: "https://scientificamerican.com/article/astronomers-discover-record-breaking-ancient-cosmic-outburst"
+link: "https://scientificamerican.com/article/astronomers-discover-record-breaking-ancient-cosmic-outburst"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

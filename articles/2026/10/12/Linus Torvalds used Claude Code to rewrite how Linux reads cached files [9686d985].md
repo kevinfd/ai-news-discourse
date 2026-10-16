@@ -2,6 +2,7 @@
 id: "9686d985b642ec13"
 title: "Linus Torvalds used Claude Code to rewrite how Linux reads cached files"
 url: "https://startupfortune.com/linus-torvalds-used-claude-code-to-rewrite-how-linux-reads-cached-files"
+link: "https://startupfortune.com/linus-torvalds-used-claude-code-to-rewrite-how-linux-reads-cached-files"
 source: "Startup Fortune"
 domain: "startupfortune.com"
 source_type: "community"

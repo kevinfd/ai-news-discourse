@@ -2,6 +2,7 @@
 id: "0b9d8020a792cb95"
 title: "Anthropic warns \"AI worms\" could soon infect smart home devices"
 url: "https://cbsnews.com/news/ai-worms-smart-devices-anthropic"
+link: "https://cbsnews.com/news/ai-worms-smart-devices-anthropic"
 source: "CBS News"
 domain: "cbsnews.com"
 source_type: "mainstream_news"

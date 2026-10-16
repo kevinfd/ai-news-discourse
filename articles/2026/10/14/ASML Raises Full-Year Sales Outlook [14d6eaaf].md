@@ -2,6 +2,7 @@
 id: "14d6eaaf727dd501"
 title: "ASML Raises Full-Year Sales Outlook"
 url: "https://bloomberg.com/news/videos/2026-10-14/asml-raises-full-year-sales-outlook-video"
+link: "https://bloomberg.com/news/videos/2026-10-14/asml-raises-full-year-sales-outlook-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

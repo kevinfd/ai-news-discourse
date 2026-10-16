@@ -2,6 +2,7 @@
 id: "40da8b56236e78e2"
 title: "AI firm HUMXN offers free plumbing and HVAC service in Minnesota to train robots"
 url: "https://humxn.io/humxn-launches-free-home-service-program"
+link: "https://humxn.io/humxn-launches-free-home-service-program"
 source: "HUMXN"
 domain: "humxn.io"
 source_type: "community"

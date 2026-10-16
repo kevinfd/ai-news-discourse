@@ -2,6 +2,7 @@
 id: "69d3c3f03cadc51a"
 title: "IMF Says AI Is Boosting Global Growth but Could Affect 40% of Jobs"
 url: "https://techrepublic.com/article/news-imf-ai-investment-global-growth-jobs"
+link: "https://techrepublic.com/article/news-imf-ai-investment-global-growth-jobs"
 source: "TechRepublic"
 domain: "techrepublic.com"
 source_type: "mainstream_news"

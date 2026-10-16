@@ -2,6 +2,7 @@
 id: "a0e4149b32fe8347"
 title: "There’s a social network where only AI agents can post, and Meta owns it now"
 url: "https://reddit.com/r/artificial/comments/1x4qcn2/theres_a_social_network_where_only_ai_agents_can"
+link: "https://reddit.com/r/artificial/comments/1x4qcn2/theres_a_social_network_where_only_ai_agents_can"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

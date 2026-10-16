@@ -2,6 +2,7 @@
 id: "465df6e24909287a"
 title: "Not as fancy as others’ showcases, but made this “mushroom meadow” simulator for my son’s 6th birthday, based on his sketch and idea. There’s no goal in the “game,” but you can walk around, seed flowers and mushrooms, watch insects fly around, and do some other fun things"
 url: "https://reddit.com/r/ClaudeAI/comments/1x625eh/not_as_fancy_as_others_showcases_but_made_this"
+link: "https://reddit.com/r/ClaudeAI/comments/1x625eh/not_as_fancy_as_others_showcases_but_made_this"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

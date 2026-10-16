@@ -2,6 +2,7 @@
 id: "f267b0c17dba1c8c"
 title: "Industrial Next wants factory robots to switch tasks in minutes, not weeks"
 url: "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks"
+link: "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

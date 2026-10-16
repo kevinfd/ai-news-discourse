@@ -2,6 +2,7 @@
 id: "b1eb962139f05e39"
 title: "Master AI Chip Principles With New IEEE Design Program"
 url: "https://spectrum.ieee.org/master-ai-chip-principles-ieee"
+link: "https://spectrum.ieee.org/master-ai-chip-principles-ieee"
 source: "IEEE Spectrum"
 domain: "spectrum.ieee.org"
 source_type: "tech_press"

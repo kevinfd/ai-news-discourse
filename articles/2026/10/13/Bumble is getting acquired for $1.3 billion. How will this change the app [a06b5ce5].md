@@ -2,6 +2,7 @@
 id: "a06b5ce5aa30014c"
 title: "Bumble is getting acquired for $1.3 billion. How will this change the app?"
 url: "https://mashable.com/life/bumble-to-be-acquired-how-will-this-change-the-app"
+link: "https://mashable.com/life/bumble-to-be-acquired-how-will-this-change-the-app"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "c8f695227707540e"
 title: "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports"
 url: "https://channelnewsasia.com/business/us-ftc-subpoenas-openai-and-anthropic-over-consumer-harms-axios-reports-6461886"
+link: "https://channelnewsasia.com/business/us-ftc-subpoenas-openai-and-anthropic-over-consumer-harms-axios-reports-6461886"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

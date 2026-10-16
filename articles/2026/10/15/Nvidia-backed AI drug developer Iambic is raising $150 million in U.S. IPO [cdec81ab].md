@@ -2,6 +2,7 @@
 id: "cdec81ab7ec44dee"
 title: "Nvidia-backed AI drug developer Iambic is raising $150 million in U.S. IPO"
 url: "https://qz.com/iambic-therapeutics-ipo-nvidia-ai-drug-101526"
+link: "https://qz.com/iambic-therapeutics-ipo-nvidia-ai-drug-101526"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

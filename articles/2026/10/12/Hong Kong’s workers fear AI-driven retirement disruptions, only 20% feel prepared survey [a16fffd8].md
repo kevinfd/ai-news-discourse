@@ -2,6 +2,7 @@
 id: "a16fffd8bc237960"
 title: "Hong Kong’s workers fear AI-driven retirement disruptions, only 20% feel prepared: survey"
 url: "https://scmp.com/business/banking-finance/article/3370504/hong-kong-workers-fear-ai-driven-disruption-retirement-only-20-feel-prepared-survey"
+link: "https://scmp.com/business/banking-finance/article/3370504/hong-kong-workers-fear-ai-driven-disruption-retirement-only-20-feel-prepared-survey"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

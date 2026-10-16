@@ -2,6 +2,7 @@
 id: "3469266376cf6e14"
 title: "I'm not paying $20 for ChatGPT or Claude because a free local LLM does"
 url: "https://xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need"
+link: "https://xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need"
 source: "XDA"
 domain: "xda-developers.com"
 source_type: "community"

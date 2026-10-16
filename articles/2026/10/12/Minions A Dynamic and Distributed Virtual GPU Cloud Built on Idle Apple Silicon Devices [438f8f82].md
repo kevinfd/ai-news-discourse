@@ -2,6 +2,7 @@
 id: "438f8f82161f19ed"
 title: "Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices"
 url: "https://machinelearning.apple.com/research/distributed-gpu-cloud"
+link: "https://machinelearning.apple.com/research/distributed-gpu-cloud"
 source: "Apple Machine Learning Research"
 domain: "machinelearning.apple.com"
 source_type: "research"

@@ -2,6 +2,7 @@
 id: "4b65e97be1cb3023"
 title: "I built a daily pixel-creature game with Claude Code. Here's how the work was split, now that ~20 people play it daily"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5q63z/i_built_a_daily_pixelcreature_game_with_claude"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5q63z/i_built_a_daily_pixelcreature_game_with_claude"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "ac69bbedac19e10e"
 title: "Microsoft President Says AI Has Fewer Regulations Than Milk. So Now What?"
 url: "https://cnet.com/tech/services-and-software/microsoft-president-ai-has-fewer-regulations-than-milk"
+link: "https://cnet.com/tech/services-and-software/microsoft-president-ai-has-fewer-regulations-than-milk"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

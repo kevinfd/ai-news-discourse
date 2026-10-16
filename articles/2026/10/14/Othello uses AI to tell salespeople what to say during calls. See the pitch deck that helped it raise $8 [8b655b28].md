@@ -2,6 +2,7 @@
 id: "8b655b28df22e160"
 title: "Othello uses AI to tell salespeople what to say during calls. See the pitch deck that helped it raise $8 million."
 url: "https://businessinsider.com/othello-raises-millions-sales-reps-ai-realtime-recommendations-pitch-deck-2026-10"
+link: "https://businessinsider.com/othello-raises-millions-sales-reps-ai-realtime-recommendations-pitch-deck-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

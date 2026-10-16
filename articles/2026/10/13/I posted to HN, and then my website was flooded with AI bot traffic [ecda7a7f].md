@@ -2,6 +2,7 @@
 id: "ecda7a7ff4fc3363"
 title: "I posted to HN, and then my website was flooded with AI bot traffic"
 url: "https://sammystraus.com"
+link: "https://sammystraus.com"
 source: "sammystraus.com"
 domain: "sammystraus.com"
 source_type: "community"

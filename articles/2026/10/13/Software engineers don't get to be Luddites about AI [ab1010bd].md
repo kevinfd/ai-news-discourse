@@ -2,6 +2,7 @@
 id: "ab1010bd2a3e7239"
 title: "Software engineers don't get to be Luddites about AI"
 url: "https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai"
+link: "https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai"
 source: "seangoedecke.com"
 domain: "seangoedecke.com"
 source_type: "community"

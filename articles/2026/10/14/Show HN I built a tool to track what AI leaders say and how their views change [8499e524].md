@@ -2,6 +2,7 @@
 id: "8499e5245393adba"
 title: "Show HN: I built a tool to track what AI leaders say and how their views change"
 url: "https://blumify.io/people"
+link: "https://blumify.io/people"
 source: "Blumify"
 domain: "blumify.io"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "135de12ff29cad5f"
 title: "I don't know if codex wasting token intentionally."
 url: "https://reddit.com/r/ChatGPT/comments/1x5ny41/i_dont_know_if_codex_wasting_token_intentionally"
+link: "https://reddit.com/r/ChatGPT/comments/1x5ny41/i_dont_know_if_codex_wasting_token_intentionally"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

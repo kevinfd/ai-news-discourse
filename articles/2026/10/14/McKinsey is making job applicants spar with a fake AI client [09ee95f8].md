@@ -2,6 +2,7 @@
 id: "09ee95f81d332b3c"
 title: "McKinsey is making job applicants spar with a fake AI client"
 url: "https://theverge.com/news/1011654/mckinsey-ai-client-interview"
+link: "https://theverge.com/news/1011654/mckinsey-ai-client-interview"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

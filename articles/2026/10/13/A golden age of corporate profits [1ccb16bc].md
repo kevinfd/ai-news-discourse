@@ -2,6 +2,7 @@
 id: "1ccb16bcca9e9a07"
 title: "A golden age of corporate profits"
 url: "https://axios.com/2026/10/13/earnings-3q-ai-stocks"
+link: "https://axios.com/2026/10/13/earnings-3q-ai-stocks"
 source: "Axios"
 domain: "axios.com"
 source_type: "mainstream_news"

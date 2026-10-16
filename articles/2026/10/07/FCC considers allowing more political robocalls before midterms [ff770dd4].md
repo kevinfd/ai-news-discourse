@@ -2,6 +2,7 @@
 id: "ff770dd461bf3538"
 title: "FCC considers allowing more political robocalls before midterms"
 url: "https://abcnews.com/Technology/wireStory/fcc-considers-allowing-political-robocalls-midterms-including-created-137065859"
+link: "https://abcnews.com/Technology/wireStory/fcc-considers-allowing-political-robocalls-midterms-including-created-137065859"
 source: "ABC News"
 domain: "abcnews.com"
 source_type: "mainstream_news"

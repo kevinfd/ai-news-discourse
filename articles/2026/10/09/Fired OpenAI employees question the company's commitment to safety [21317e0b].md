@@ -2,6 +2,7 @@
 id: "21317e0b02f3a3e8"
 title: "Fired OpenAI employees question the company's commitment to safety"
 url: "https://npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings"
+link: "https://npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings"
 source: "NPR"
 domain: "npr.org"
 source_type: "mainstream_news"

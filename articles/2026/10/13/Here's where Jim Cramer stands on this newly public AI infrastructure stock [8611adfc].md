@@ -2,6 +2,7 @@
 id: "8611adfc56f341bf"
 title: "Here's where Jim Cramer stands on this newly public AI infrastructure stock"
 url: "https://cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html"
+link: "https://cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

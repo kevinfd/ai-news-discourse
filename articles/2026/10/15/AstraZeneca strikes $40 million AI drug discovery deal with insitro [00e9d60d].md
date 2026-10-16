@@ -2,6 +2,7 @@
 id: "00e9d60debe3de95"
 title: "AstraZeneca strikes $40 million AI drug discovery deal with insitro"
 url: "https://channelnewsasia.com/business/astrazeneca-strikes-40-million-ai-drug-discovery-deal-insitro-6462081"
+link: "https://channelnewsasia.com/business/astrazeneca-strikes-40-million-ai-drug-discovery-deal-insitro-6462081"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

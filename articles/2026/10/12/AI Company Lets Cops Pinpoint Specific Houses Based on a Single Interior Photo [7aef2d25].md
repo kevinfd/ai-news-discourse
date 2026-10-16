@@ -2,6 +2,7 @@
 id: "7aef2d25240b24d4"
 title: "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo"
 url: "https://404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo"
+link: "https://404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo"
 source: "404 Media"
 domain: "404media.co"
 source_type: "tech_press"

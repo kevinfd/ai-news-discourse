@@ -2,6 +2,7 @@
 id: "61b6a04bcd4b5242"
 title: "MHRA announces strategy to streamline regulation in the AI era"
 url: "https://raps.org/resource/mhra-announces-strategy-to-streamline-regulation-in-the-ai-era.html"
+link: "https://raps.org/resource/mhra-announces-strategy-to-streamline-regulation-in-the-ai-era.html"
 source: "Regulatory Affairs Professionals Society"
 domain: "raps.org"
 source_type: "mainstream_news"

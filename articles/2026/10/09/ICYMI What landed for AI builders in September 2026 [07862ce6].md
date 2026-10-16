@@ -2,6 +2,7 @@
 id: "07862ce6a3faf1ca"
 title: "ICYMI: What landed for AI builders in September 2026"
 url: "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026"
+link: "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

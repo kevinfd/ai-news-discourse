@@ -2,6 +2,7 @@
 id: "b04125043b387e8e"
 title: "Show HN: LLMxRay an open-source observability tool for LLMs"
 url: "https://github.com/LogneBudo/llmxray"
+link: "https://github.com/LogneBudo/llmxray"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

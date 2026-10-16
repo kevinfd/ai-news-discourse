@@ -2,6 +2,7 @@
 id: "8963a105bbbb14c8"
 title: "Source: the US FTC issues ~50-page civil investigative demands to OpenAI and Anthropic over safety incidents, safeguarding practices, and consumer protection (Maria Curi/Axios)"
 url: "https://techmeme.com/261015/p20"
+link: "https://techmeme.com/261015/p20"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

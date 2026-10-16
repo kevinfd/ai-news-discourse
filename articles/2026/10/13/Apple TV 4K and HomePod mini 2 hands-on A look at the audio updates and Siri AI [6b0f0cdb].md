@@ -2,6 +2,7 @@
 id: "6b0f0cdb867428ac"
 title: "Apple TV 4K and HomePod mini 2 hands-on: A look at the audio updates and Siri AI"
 url: "https://engadget.com/2285699/apple-tv-4k-2026-and-homepod-mini-2-hands-on-siri-ai-audio-upgrade"
+link: "https://engadget.com/2285699/apple-tv-4k-2026-and-homepod-mini-2-hands-on-siri-ai-audio-upgrade"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

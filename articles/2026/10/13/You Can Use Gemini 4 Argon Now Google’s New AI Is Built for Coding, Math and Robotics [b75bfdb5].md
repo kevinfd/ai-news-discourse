@@ -2,6 +2,7 @@
 id: "b75bfdb5e92fc852"
 title: "You Can Use Gemini 4 Argon Now: Google’s New AI Is Built for Coding, Math and Robotics"
 url: "https://cnet.com/tech/services-and-software/gemini-4-argon-general-release-google-ai-news"
+link: "https://cnet.com/tech/services-and-software/gemini-4-argon-general-release-google-ai-news"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

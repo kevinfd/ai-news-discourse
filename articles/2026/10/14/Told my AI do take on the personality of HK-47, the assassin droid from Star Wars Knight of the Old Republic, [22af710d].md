@@ -2,6 +2,7 @@
 id: "22af710d801c3531"
 title: "Told my AI do take on the personality of HK-47, the assassin droid from Star Wars: Knight of the Old Republic, and it did not disappoint."
 url: "https://reddit.com/r/ChatGPT/comments/1x5rmvh/told_my_ai_do_take_on_the_personality_of_hk47_the"
+link: "https://reddit.com/r/ChatGPT/comments/1x5rmvh/told_my_ai_do_take_on_the_personality_of_hk47_the"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

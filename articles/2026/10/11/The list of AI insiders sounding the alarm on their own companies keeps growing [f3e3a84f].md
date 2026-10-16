@@ -2,6 +2,7 @@
 id: "f3e3a84fe0088116"
 title: "The list of AI insiders sounding the alarm on their own companies keeps growing"
 url: "https://fastcompany.com/91621115/the-growing-list-of-ai-insiders-sounding-the-alarm-on-their-own-companies?partner=rss"
+link: "https://fastcompany.com/91621115/the-growing-list-of-ai-insiders-sounding-the-alarm-on-their-own-companies?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

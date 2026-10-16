@@ -2,6 +2,7 @@
 id: "ab7ddc04b06d36e0"
 title: "Show me what you’ve created with ChatGPT!"
 url: "https://reddit.com/r/ChatGPT/comments/1x649ku/show_me_what_youve_created_with_chatgpt"
+link: "https://reddit.com/r/ChatGPT/comments/1x649ku/show_me_what_youve_created_with_chatgpt"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

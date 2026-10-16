@@ -2,6 +2,7 @@
 id: "c3c44151dbf568db"
 title: "Google AI Plus or Google AI Pro—Deciding How Much to Pay Based on How You Use Gemini"
 url: "https://note.com/dx_ai_tools/n/na7bbf984d9f9?hl=en"
+link: "https://note.com/dx_ai_tools/n/na7bbf984d9f9?hl=en"
 source: "note"
 domain: "note.com"
 source_type: "mainstream_news"

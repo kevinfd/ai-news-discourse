@@ -2,6 +2,7 @@
 id: "e795790bb7b1d286"
 title: "ttok 0.4"
 url: "https://simonwillison.net/2026/Oct/8/ttok"
+link: "https://simonwillison.net/2026/Oct/8/ttok"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

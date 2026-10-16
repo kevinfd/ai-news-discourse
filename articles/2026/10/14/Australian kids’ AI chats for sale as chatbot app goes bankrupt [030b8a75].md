@@ -2,6 +2,7 @@
 id: "030b8a75e9a2cf63"
 title: "Australian kids’ AI chats for sale as chatbot app goes bankrupt"
 url: "https://smh.com.au/technology/australian-kids-ai-chats-for-sale-as-chatbot-app-goes-bankrupt-20261015-p615g2.html"
+link: "https://smh.com.au/technology/australian-kids-ai-chats-for-sale-as-chatbot-app-goes-bankrupt-20261015-p615g2.html"
 source: "Sydney Morning Herald"
 domain: "smh.com.au"
 source_type: "mainstream_news"

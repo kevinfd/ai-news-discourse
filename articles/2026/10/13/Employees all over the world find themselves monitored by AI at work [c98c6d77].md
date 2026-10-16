@@ -2,6 +2,7 @@
 id: "c98c6d7701d15f99"
 title: "Employees all over the world find themselves monitored by AI at work"
 url: "https://theguardian.com/technology/2026/oct/09/ai-monitoring-the-workplace"
+link: "https://theguardian.com/technology/2026/oct/09/ai-monitoring-the-workplace"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

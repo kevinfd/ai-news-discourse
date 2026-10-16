@@ -2,6 +2,7 @@
 id: "1e083927c42f7796"
 title: "YouTube Music adds new labels for AI-generated content"
 url: "https://engadget.com/2286764/youtube-music-adds-new-labels-for-ai-generated-content"
+link: "https://engadget.com/2286764/youtube-music-adds-new-labels-for-ai-generated-content"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

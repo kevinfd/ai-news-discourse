@@ -2,6 +2,7 @@
 id: "ed24b04f4aa2e5c5"
 title: "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text"
 url: "https://marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model"
+link: "https://marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "0c804ca491754884"
 title: "OpenAI employee arrested by FBI over hidden listening device, company says"
 url: "https://reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13"
+link: "https://reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13"
 source: "Reuters"
 domain: "reuters.com"
 source_type: "community"

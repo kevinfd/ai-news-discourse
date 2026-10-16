@@ -2,6 +2,7 @@
 id: "45ad9337ee37b95b"
 title: "AI labs are buying data from dead startups to train their models"
 url: "https://technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models"
+link: "https://technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models"
 source: "MIT Technology Review"
 domain: "technologyreview.com"
 source_type: "tech_press"

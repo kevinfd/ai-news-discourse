@@ -2,6 +2,7 @@
 id: "343756543cb3b327"
 title: "I turned my unused Kindle into a photo frame with GPT-6 Astra"
 url: "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
+link: "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
 source: "Niraj Rajgor"
 domain: "nirajrajgor.com"
 source_type: "community"

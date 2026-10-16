@@ -2,6 +2,7 @@
 id: "f589c4f61fee7636"
 title: "I made a browser control panel for upstream llama.cpp. v0.16 adds local agents that have to quote their sources, and code checks the quotes"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x55mh1/i_made_a_browser_control_panel_for_upstream"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x55mh1/i_made_a_browser_control_panel_for_upstream"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "4f5d65c153d21a16"
 title: "Understanding Jev, the new model everyone is talking about"
 url: "https://understandingai.org/p/understanding-jev-the-new-model-everyone"
+link: "https://understandingai.org/p/understanding-jev-the-new-model-everyone"
 source: "Understanding AI"
 domain: "understandingai.org"
 source_type: "newsletter"

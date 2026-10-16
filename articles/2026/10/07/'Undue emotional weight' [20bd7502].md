@@ -2,6 +2,7 @@
 id: "20bd7502f9d801ad"
 title: "'Undue emotional weight'"
 url: "https://404media.co/undue-emotional-weight"
+link: "https://404media.co/undue-emotional-weight"
 source: "404 Media"
 domain: "404media.co"
 source_type: "tech_press"

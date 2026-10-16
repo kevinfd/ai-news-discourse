@@ -2,6 +2,7 @@
 id: "97258c3c84b982f0"
 title: "My son got hooked on Subway Surfers, so I built him my own with Claude Code (free, runs in the browser)"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5ev66/my_son_got_hooked_on_subway_surfers_so_i_built"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5ev66/my_son_got_hooked_on_subway_surfers_so_i_built"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "112b5f00879d4fef"
 title: "How Oracle turns days of work into minutes with ChatGPT and Codex"
 url: "https://openai.com/index/oracle"
+link: "https://openai.com/index/oracle"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

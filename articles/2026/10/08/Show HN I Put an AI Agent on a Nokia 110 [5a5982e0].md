@@ -2,6 +2,7 @@
 id: "5a5982e0d6f61f00"
 title: "Show HN: I Put an AI Agent on a Nokia 110"
 url: "https://github.com/anupray95/AI-Agent-on-a-NOKIA"
+link: "https://github.com/anupray95/AI-Agent-on-a-NOKIA"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "7b1aac5575667df6"
 title: "Why does chatgpt write so g*ddamn much?"
 url: "https://reddit.com/r/ChatGPT/comments/1x5lpjj/why_does_chatgpt_write_so_gddamn_much"
+link: "https://reddit.com/r/ChatGPT/comments/1x5lpjj/why_does_chatgpt_write_so_gddamn_much"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "723b96741960481c"
 title: "So do you pay for both Claude and ChagGPT?"
 url: "https://reddit.com/r/artificial/comments/1x676dc/so_do_you_pay_for_both_claude_and_chaggpt"
+link: "https://reddit.com/r/artificial/comments/1x676dc/so_do_you_pay_for_both_claude_and_chaggpt"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

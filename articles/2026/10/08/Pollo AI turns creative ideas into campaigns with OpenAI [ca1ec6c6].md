@@ -2,6 +2,7 @@
 id: "ca1ec6c6a1a1314d"
 title: "Pollo AI turns creative ideas into campaigns with OpenAI"
 url: "https://openai.com/index/pollo-ai"
+link: "https://openai.com/index/pollo-ai"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

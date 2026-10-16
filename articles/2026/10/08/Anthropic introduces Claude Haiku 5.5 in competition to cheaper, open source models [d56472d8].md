@@ -2,6 +2,7 @@
 id: "d56472d82ebd75bd"
 title: "Anthropic introduces Claude Haiku 5.5 in competition to cheaper, open source models"
 url: "https://thehindu.com/sci-tech/technology/anthropic-introduces-claude-haiku-55-in-competition-to-cheaper-open-source-models/article71558643.ece"
+link: "https://thehindu.com/sci-tech/technology/anthropic-introduces-claude-haiku-55-in-competition-to-cheaper-open-source-models/article71558643.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

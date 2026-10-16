@@ -2,6 +2,7 @@
 id: "3207989ecbfeb0ac"
 title: "CEOs say they're getting gains from AI agents. A true transformation is harder."
 url: "https://businessinsider.com/kpmg-survey-ceos-ai-agents-hiring-2026-10"
+link: "https://businessinsider.com/kpmg-survey-ceos-ai-agents-hiring-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

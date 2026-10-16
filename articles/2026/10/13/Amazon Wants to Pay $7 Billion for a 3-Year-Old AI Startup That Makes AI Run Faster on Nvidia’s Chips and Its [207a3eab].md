@@ -2,6 +2,7 @@
 id: "207a3eabe6b2b257"
 title: "Amazon Wants to Pay $7 Billion for a 3-Year-Old AI Startup That Makes AI Run Faster on Nvidia’s Chips and Its Own"
 url: "https://247wallst.com/investing/2026/10/13/amazon-wants-to-pay-7-billion-for-a-3-year-old-ai-startup-that-makes-ai-run-faster-on-nvidias-chips-and-its-own"
+link: "https://247wallst.com/investing/2026/10/13/amazon-wants-to-pay-7-billion-for-a-3-year-old-ai-startup-that-makes-ai-run-faster-on-nvidias-chips-and-its-own"
 source: "24/7 Wall St."
 domain: "247wallst.com"
 source_type: "mainstream_news"

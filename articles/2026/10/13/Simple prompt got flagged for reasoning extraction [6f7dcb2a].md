@@ -2,6 +2,7 @@
 id: "6f7dcb2a1ae7e36c"
 title: "Simple prompt got flagged for \"reasoning extraction\""
 url: "https://reddit.com/r/ClaudeAI/comments/1x58aj0/simple_prompt_got_flagged_for_reasoning_extraction"
+link: "https://reddit.com/r/ClaudeAI/comments/1x58aj0/simple_prompt_got_flagged_for_reasoning_extraction"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

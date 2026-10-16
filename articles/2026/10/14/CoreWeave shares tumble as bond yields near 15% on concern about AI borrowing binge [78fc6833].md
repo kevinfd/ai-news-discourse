@@ -2,6 +2,7 @@
 id: "78fc6833fd91eb58"
 title: "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge"
 url: "https://cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html"
+link: "https://cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

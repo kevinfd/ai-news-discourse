@@ -2,6 +2,7 @@
 id: "10741def2d3c511a"
 title: "Scoop: The FTC demanded documents from AI giants over recent safety incidents"
 url: "https://axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation"
+link: "https://axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation"
 source: "Axios"
 domain: "axios.com"
 source_type: "mainstream_news"

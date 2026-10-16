@@ -2,6 +2,7 @@
 id: "5a9d884a105824fe"
 title: "Android will use Gemini to warn you about scammy messages"
 url: "https://engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages"
+link: "https://engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

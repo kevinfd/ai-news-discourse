@@ -2,6 +2,7 @@
 id: "a35b870fddc0751a"
 title: "Training Text-to-Image Models Without a VAE"
 url: "https://linum.ai/field-notes/pyramid-jit"
+link: "https://linum.ai/field-notes/pyramid-jit"
 source: "linum.ai"
 domain: "linum.ai"
 source_type: "community"

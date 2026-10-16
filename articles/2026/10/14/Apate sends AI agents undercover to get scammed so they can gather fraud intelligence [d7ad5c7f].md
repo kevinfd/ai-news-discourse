@@ -2,6 +2,7 @@
 id: "d7ad5c7f5c98e60d"
 title: "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence"
 url: "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence"
+link: "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

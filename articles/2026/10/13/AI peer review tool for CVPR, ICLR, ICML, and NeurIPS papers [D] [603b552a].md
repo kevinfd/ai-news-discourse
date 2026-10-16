@@ -2,6 +2,7 @@
 id: "603b552aa90bb3e9"
 title: "AI peer review tool for CVPR, ICLR, ICML, and NeurIPS papers [D]"
 url: "https://reddit.com/r/MachineLearning/comments/1x4ye07/ai_peer_review_tool_for_cvpr_iclr_icml_and"
+link: "https://reddit.com/r/MachineLearning/comments/1x4ye07/ai_peer_review_tool_for_cvpr_iclr_icml_and"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

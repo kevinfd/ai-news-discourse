@@ -2,6 +2,7 @@
 id: "b11a1b850d8b18d1"
 title: "Why Do AI Initiatives Fail? 5 Dysfunctions And How To Overcome Them"
 url: "https://forbes.com/councils/forbesfinancecouncil/2026/10/14/why-do-ai-initiatives-fail-5-dysfunctions-and-how-to-overcome-them"
+link: "https://forbes.com/councils/forbesfinancecouncil/2026/10/14/why-do-ai-initiatives-fail-5-dysfunctions-and-how-to-overcome-them"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

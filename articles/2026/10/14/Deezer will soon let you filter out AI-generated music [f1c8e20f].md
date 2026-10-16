@@ -2,6 +2,7 @@
 id: "f1c8e20f759850dd"
 title: "Deezer will soon let you filter out AI-generated music"
 url: "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music"
+link: "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

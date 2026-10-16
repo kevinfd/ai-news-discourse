@@ -2,6 +2,7 @@
 id: "b5fc16863af711fb"
 title: "Anthropic Strikes Licensing, Acqui-Hire Deal With AI Security Startup"
 url: "https://theinformation.com/briefings/anthropic-strikes-licensing-acqui-hire-deal-ai-security-startup"
+link: "https://theinformation.com/briefings/anthropic-strikes-licensing-acqui-hire-deal-ai-security-startup"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "05232f7a66dd1134"
 title: "What's the date?"
 url: "https://lesswrong.com/posts/vzKWsEskYBEWTwpBP/what-s-the-date"
+link: "https://lesswrong.com/posts/vzKWsEskYBEWTwpBP/what-s-the-date"
 source: "LessWrong (curated)"
 domain: "lesswrong.com"
 source_type: "community"

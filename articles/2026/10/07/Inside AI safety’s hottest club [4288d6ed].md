@@ -2,6 +2,7 @@
 id: "4288d6eddaeeec72"
 title: "Inside AI safety’s hottest club"
 url: "https://politico.com/news/2026/10/07/inside-ai-safetys-hottest-club-01109753"
+link: "https://politico.com/news/2026/10/07/inside-ai-safetys-hottest-club-01109753"
 source: "Politico"
 domain: "politico.com"
 source_type: "mainstream_news"

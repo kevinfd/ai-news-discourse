@@ -2,6 +2,7 @@
 id: "3b1c539c253da01c"
 title: "OpenAI annualised revenues $20B less than previously signalled"
 url: "https://cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
+link: "https://cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "community"

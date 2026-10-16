@@ -2,6 +2,7 @@
 id: "95abd2184698e3b9"
 title: "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots"
 url: "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots"
+link: "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

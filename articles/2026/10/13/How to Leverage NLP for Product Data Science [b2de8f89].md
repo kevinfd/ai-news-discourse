@@ -2,6 +2,7 @@
 id: "b2de8f8936bac132"
 title: "How to Leverage NLP for Product Data Science"
 url: "https://towardsdatascience.com/how-to-leverage-nlp-for-product-data-science"
+link: "https://towardsdatascience.com/how-to-leverage-nlp-for-product-data-science"
 source: "Towards Data Science"
 domain: "towardsdatascience.com"
 source_type: "newsletter"

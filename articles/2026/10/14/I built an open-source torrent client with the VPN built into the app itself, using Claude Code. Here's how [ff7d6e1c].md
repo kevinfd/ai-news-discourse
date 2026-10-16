@@ -2,6 +2,7 @@
 id: "ff7d6e1c4b318270"
 title: "I built an open-source torrent client with the VPN built into the app itself, using Claude Code. Here's how the process went"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5imkw/i_built_an_opensource_torrent_client_with_the_vpn"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5imkw/i_built_an_opensource_torrent_client_with_the_vpn"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "8d4b8078ca4a9da7"
 title: "Bee unveils two AI note-taking devices, its first new products since being acquired by Amazon"
 url: "https://engadget.com/2287245/bee-frontier-bee-eclipse-bee-pro-launch"
+link: "https://engadget.com/2287245/bee-frontier-bee-eclipse-bee-pro-launch"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

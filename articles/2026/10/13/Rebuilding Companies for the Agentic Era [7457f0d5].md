@@ -2,6 +2,7 @@
 id: "7457f0d55e05f97e"
 title: "Rebuilding Companies for the Agentic Era"
 url: "https://theinformation.com/articles/rebuilding-companies-agentic-era"
+link: "https://theinformation.com/articles/rebuilding-companies-agentic-era"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

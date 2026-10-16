@@ -2,6 +2,7 @@
 id: "83f6f7430b57e45d"
 title: "SpaceXSI: Unified plans across Grok, Cursor, and X Premium"
 url: "https://x.ai/pricing"
+link: "https://x.ai/pricing"
 source: "xAI"
 domain: "x.ai"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "c78a3bdc420e73b0"
 title: "Nvidia-backed data centre operator pulls $5bn IPO"
 url: "https://ft.com/content/205ef7a5-321f-46e3-8097-d055bf1f6b3b?syn-25a6b1a6=1"
+link: "https://ft.com/content/205ef7a5-321f-46e3-8097-d055bf1f6b3b?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

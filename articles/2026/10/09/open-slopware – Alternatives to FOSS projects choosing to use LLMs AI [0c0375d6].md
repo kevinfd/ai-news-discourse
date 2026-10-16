@@ -2,6 +2,7 @@
 id: "0c0375d64af51608"
 title: "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI"
 url: "https://codeberg.org/ethical-foss/open-slopware"
+link: "https://codeberg.org/ethical-foss/open-slopware"
 source: "Codeberg"
 domain: "codeberg.org"
 source_type: "community"

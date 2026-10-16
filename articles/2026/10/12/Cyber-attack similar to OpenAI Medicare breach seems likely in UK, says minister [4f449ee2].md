@@ -2,6 +2,7 @@
 id: "4f449ee2312dda74"
 title: "Cyber-attack similar to OpenAI Medicare breach seems likely in UK, says minister"
 url: "https://theguardian.com/technology/2026/oct/12/cyber-attack-like-openai-medicare-breach-seems-likely-in-uk-says-minister"
+link: "https://theguardian.com/technology/2026/oct/12/cyber-attack-like-openai-medicare-breach-seems-likely-in-uk-says-minister"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

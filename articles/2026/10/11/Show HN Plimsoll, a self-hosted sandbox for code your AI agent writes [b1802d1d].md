@@ -2,6 +2,7 @@
 id: "b1802d1de5ce9469"
 title: "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes"
 url: "https://github.com/plimsollmark/plimsoll"
+link: "https://github.com/plimsollmark/plimsoll"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

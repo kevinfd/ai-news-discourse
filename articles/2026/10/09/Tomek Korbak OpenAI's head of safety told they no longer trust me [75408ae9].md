@@ -2,6 +2,7 @@
 id: "75408ae9c6cee21e"
 title: "Tomek Korbak: OpenAI's head of safety told they no longer trust me"
 url: "https://twitter.com/tomekkorbak/status/2108266859397283953"
+link: "https://twitter.com/tomekkorbak/status/2108266859397283953"
 source: "Twitter"
 domain: "twitter.com"
 source_type: "community"

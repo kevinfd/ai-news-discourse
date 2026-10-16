@@ -2,6 +2,7 @@
 id: "eb9bf1a5f954eabf"
 title: "Sunil Mittal Warns AI Is Outpacing Regulation"
 url: "https://bloomberg.com/news/videos/2026-10-14/sunil-mittal-warns-ai-is-outpacing-regulation-video"
+link: "https://bloomberg.com/news/videos/2026-10-14/sunil-mittal-warns-ai-is-outpacing-regulation-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

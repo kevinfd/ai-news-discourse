@@ -2,6 +2,7 @@
 id: "127d988cb158c8e0"
 title: "IMF warns of AI market correction, cyber threats to financial system"
 url: "https://thehindu.com/business/imf-warns-of-ai-market-correction-cyber-threats-to-financial-system/article71578066.ece"
+link: "https://thehindu.com/business/imf-warns-of-ai-market-correction-cyber-threats-to-financial-system/article71578066.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

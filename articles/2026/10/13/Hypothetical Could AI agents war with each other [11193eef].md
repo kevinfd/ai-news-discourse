@@ -2,6 +2,7 @@
 id: "11193eef7efebc8c"
 title: "Hypothetical: Could AI agents war with each other?"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x524kf/hypothetical_could_ai_agents_war_with_each_other"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x524kf/hypothetical_could_ai_agents_war_with_each_other"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

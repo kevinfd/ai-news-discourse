@@ -2,6 +2,7 @@
 id: "8815d47a48c04840"
 title: "This beer-making waste may offer a new stream for cleaner water"
 url: "https://scientificamerican.com/article/this-beer-making-waste-may-offer-a-new-stream-for-cleaner-water"
+link: "https://scientificamerican.com/article/this-beer-making-waste-may-offer-a-new-stream-for-cleaner-water"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

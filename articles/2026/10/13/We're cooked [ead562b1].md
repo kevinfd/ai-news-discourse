@@ -2,6 +2,7 @@
 id: "ead562b19dcd542b"
 title: "We're cooked"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4zm61/were_cooked"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4zm61/were_cooked"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

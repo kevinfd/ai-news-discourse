@@ -2,6 +2,7 @@
 id: "e153e6402af5a2ee"
 title: "I gave Meta’s Muse and OpenAI’s Dots my passwords for a week"
 url: "https://scientificamerican.com/article/i-gave-metas-muse-and-openais-dots-my-passwords-for-a-week"
+link: "https://scientificamerican.com/article/i-gave-metas-muse-and-openais-dots-my-passwords-for-a-week"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

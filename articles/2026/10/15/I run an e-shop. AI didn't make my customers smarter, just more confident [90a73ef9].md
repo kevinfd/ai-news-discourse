@@ -2,6 +2,7 @@
 id: "90a73ef929d5559a"
 title: "I run an e-shop. AI didn't make my customers smarter, just more confident"
 url: "https://reddit.com/r/ChatGPT/comments/1x6g1rj/i_run_an_eshop_ai_didnt_make_my_customers_smarter"
+link: "https://reddit.com/r/ChatGPT/comments/1x6g1rj/i_run_an_eshop_ai_didnt_make_my_customers_smarter"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

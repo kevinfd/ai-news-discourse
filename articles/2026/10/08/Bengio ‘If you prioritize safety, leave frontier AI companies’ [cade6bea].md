@@ -2,6 +2,7 @@
 id: "cade6bea44e9448a"
 title: "Bengio: ‘If you prioritize safety, leave frontier AI companies’"
 url: "https://transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies"
+link: "https://transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies"
 source: "Transformer"
 domain: "transformernews.ai"
 source_type: "newsletter"

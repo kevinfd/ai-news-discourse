@@ -2,6 +2,7 @@
 id: "9dd0b9930166c9f6"
 title: "Where were you when ChatGPT killed big pharma?"
 url: "https://reddit.com/r/ChatGPT/comments/1x6528u/where_were_you_when_chatgpt_killed_big_pharma"
+link: "https://reddit.com/r/ChatGPT/comments/1x6528u/where_were_you_when_chatgpt_killed_big_pharma"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

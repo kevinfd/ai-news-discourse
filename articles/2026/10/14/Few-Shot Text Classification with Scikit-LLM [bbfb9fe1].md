@@ -2,6 +2,7 @@
 id: "bbfb9fe133b342a7"
 title: "Few-Shot Text Classification with Scikit-LLM"
 url: "https://kdnuggets.com/few-shot-text-classification-with-scikit-llm"
+link: "https://kdnuggets.com/few-shot-text-classification-with-scikit-llm"
 source: "KDnuggets"
 domain: "kdnuggets.com"
 source_type: "newsletter"

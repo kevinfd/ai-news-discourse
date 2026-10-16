@@ -2,6 +2,7 @@
 id: "d1c50c7b6d8eb89c"
 title: "We ran 500 questions through Gemini to see when it searches the web"
 url: "https://reddit.com/r/artificial/comments/1x62pgc/we_ran_500_questions_through_gemini_to_see_when"
+link: "https://reddit.com/r/artificial/comments/1x62pgc/we_ran_500_questions_through_gemini_to_see_when"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

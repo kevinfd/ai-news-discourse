@@ -2,6 +2,7 @@
 id: "8128b19ed8ac375d"
 title: "NYC Comptroller Mark Levine raises AI economic alarms as Anthropic eyes historic IPO"
 url: "https://cryptobriefing.com/nyc-comptroller-levine-anthropic-ipo-pause"
+link: "https://cryptobriefing.com/nyc-comptroller-levine-anthropic-ipo-pause"
 source: "Crypto Briefing"
 domain: "cryptobriefing.com"
 source_type: "mainstream_news"

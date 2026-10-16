@@ -2,6 +2,7 @@
 id: "d8d50b52f276c05f"
 title: "My Apology to Claud and Thank You to Antyropic"
 url: "https://reddit.com/r/artificial/comments/1x63iyn/my_apology_to_claud_and_thank_you_to_antyropic"
+link: "https://reddit.com/r/artificial/comments/1x63iyn/my_apology_to_claud_and_thank_you_to_antyropic"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

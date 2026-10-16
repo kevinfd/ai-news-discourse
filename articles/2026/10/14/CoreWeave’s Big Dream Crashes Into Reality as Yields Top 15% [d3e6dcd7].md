@@ -2,6 +2,7 @@
 id: "d3e6dcd79f1f4f8e"
 title: "CoreWeave’s Big Dream Crashes Into Reality as Yields Top 15%"
 url: "https://bloomberg.com/news/articles/2026-10-14/coreweave-s-brazen-dream-crashes-into-reality-as-yields-top-15"
+link: "https://bloomberg.com/news/articles/2026-10-14/coreweave-s-brazen-dream-crashes-into-reality-as-yields-top-15"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

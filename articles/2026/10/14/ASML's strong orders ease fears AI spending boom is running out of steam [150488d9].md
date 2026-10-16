@@ -2,6 +2,7 @@
 id: "150488d942415c85"
 title: "ASML's strong orders ease fears AI spending boom is running out of steam"
 url: "https://channelnewsasia.com/business/asmls-strong-orders-ease-fears-ai-spending-boom-running-out-steam-6458041"
+link: "https://channelnewsasia.com/business/asmls-strong-orders-ease-fears-ai-spending-boom-running-out-steam-6458041"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

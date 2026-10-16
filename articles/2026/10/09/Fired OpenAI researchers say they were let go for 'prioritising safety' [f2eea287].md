@@ -2,6 +2,7 @@
 id: "f2eea287435e9396"
 title: "Fired OpenAI researchers say they were let go for 'prioritising safety'"
 url: "https://bbc.co.uk/news/articles/cvlydn8d3lkjo?at_campaign=rss&at_medium=RSS"
+link: "https://bbc.co.uk/news/articles/cvlydn8d3lkjo?at_campaign=rss&at_medium=RSS"
 source: "BBC News"
 domain: "bbc.co.uk"
 source_type: "mainstream_news"

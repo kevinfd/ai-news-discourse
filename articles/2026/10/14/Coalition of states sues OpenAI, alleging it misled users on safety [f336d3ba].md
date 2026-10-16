@@ -2,6 +2,7 @@
 id: "f336d3bab398ae5e"
 title: "Coalition of states sues OpenAI, alleging it misled users on safety"
 url: "https://thehill.com/policy/technology/6149365-states-sue-openai-safety"
+link: "https://thehill.com/policy/technology/6149365-states-sue-openai-safety"
 source: "The Hill"
 domain: "thehill.com"
 source_type: "mainstream_news"

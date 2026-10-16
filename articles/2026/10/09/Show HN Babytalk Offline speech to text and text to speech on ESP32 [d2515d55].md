@@ -2,6 +2,7 @@
 id: "d2515d55003a64d0"
 title: "Show HN: Babytalk: Offline speech to text and text to speech on ESP32"
 url: "https://github.com/tlack/babytalk"
+link: "https://github.com/tlack/babytalk"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

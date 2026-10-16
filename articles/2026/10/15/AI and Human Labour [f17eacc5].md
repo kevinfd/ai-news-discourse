@@ -2,6 +2,7 @@
 id: "f17eacc524591f24"
 title: "AI and Human Labour"
 url: "https://reddit.com/r/artificial/comments/1x6e3qd/ai_and_human_labour"
+link: "https://reddit.com/r/artificial/comments/1x6e3qd/ai_and_human_labour"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "e38159eea6a17971"
 title: "US AI firm Anthropic enables Chinese-language options for Claude chatbot"
 url: "https://scmp.com/tech/big-tech/article/3370154/us-ai-firm-anthropic-enables-chinese-language-options-claude-chatbot"
+link: "https://scmp.com/tech/big-tech/article/3370154/us-ai-firm-anthropic-enables-chinese-language-options-claude-chatbot"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

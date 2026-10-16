@@ -2,6 +2,7 @@
 id: "e0d8177a57d5fa34"
 title: "Why Samsung, SK Hynix and CXMT shares are under pressure despite strong AI demand"
 url: "https://scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand"
+link: "https://scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

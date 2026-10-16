@@ -2,6 +2,7 @@
 id: "ed1ecf8cf1f4bc7a"
 title: "I built TextFold to make text stretchable with \"semantic zoom\""
 url: "https://reddit.com/r/ChatGPT/comments/1x629pr/i_built_textfold_to_make_text_stretchable_with"
+link: "https://reddit.com/r/ChatGPT/comments/1x629pr/i_built_textfold_to_make_text_stretchable_with"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

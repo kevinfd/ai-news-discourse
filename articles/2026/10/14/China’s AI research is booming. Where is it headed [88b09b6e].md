@@ -2,6 +2,7 @@
 id: "88b09b6e79851984"
 title: "China’s AI research is booming. Where is it headed?"
 url: "https://nature.com/articles/d41586-026-03223-8"
+link: "https://nature.com/articles/d41586-026-03223-8"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

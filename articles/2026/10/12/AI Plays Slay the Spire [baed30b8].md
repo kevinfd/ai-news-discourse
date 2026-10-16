@@ -2,6 +2,7 @@
 id: "baed30b831ee6f15"
 title: "AI Plays Slay the Spire"
 url: "https://ai-plays-slay-the-spire.com"
+link: "https://ai-plays-slay-the-spire.com"
 source: "AI plays Slay the Spire"
 domain: "ai-plays-slay-the-spire.com"
 source_type: "community"

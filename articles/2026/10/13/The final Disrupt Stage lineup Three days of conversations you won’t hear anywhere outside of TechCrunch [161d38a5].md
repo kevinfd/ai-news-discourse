@@ -2,6 +2,7 @@
 id: "161d38a5133d8c5b"
 title: "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026"
 url: "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026"
+link: "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

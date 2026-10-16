@@ -2,6 +2,7 @@
 id: "1ec9d0f4c120946a"
 title: "TwIL-LM3-Pro from webAI, a 3.66B formal logic model built on Granite 4.2 3B"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x502mt/twillm3pro_from_webai_a_366b_formal_logic_model"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x502mt/twillm3pro_from_webai_a_366b_formal_logic_model"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

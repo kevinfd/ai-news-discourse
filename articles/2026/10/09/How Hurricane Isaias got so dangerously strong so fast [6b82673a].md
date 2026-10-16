@@ -2,6 +2,7 @@
 id: "6b82673a75dc95b0"
 title: "How Hurricane Isaias got so dangerously strong so fast"
 url: "https://scientificamerican.com/article/how-hurricane-isaias-got-so-dangerously-strong-so-fast"
+link: "https://scientificamerican.com/article/how-hurricane-isaias-got-so-dangerously-strong-so-fast"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

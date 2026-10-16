@@ -2,6 +2,7 @@
 id: "977a7861588d6258"
 title: "Anthropic Claude Code"
 url: "https://time.com/collection/best-inventions/2026/anthropic-claude-code"
+link: "https://time.com/collection/best-inventions/2026/anthropic-claude-code"
 source: "TIME"
 domain: "time.com"
 source_type: "mainstream_news"

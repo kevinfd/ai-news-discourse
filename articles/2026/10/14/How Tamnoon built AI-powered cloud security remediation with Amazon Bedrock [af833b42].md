@@ -2,6 +2,7 @@
 id: "af833b42b8bd8e02"
 title: "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock"
 url: "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock"
+link: "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

@@ -2,6 +2,7 @@
 id: "775cdd2393cb7010"
 title: "Modern-Day Propaganda in the Age of AI May Be Propaganda That Never Asks Everyone to Believe the Same Thing"
 url: "https://reddit.com/r/artificial/comments/1x4zkd9/modernday_propaganda_in_the_age_of_ai_may_be"
+link: "https://reddit.com/r/artificial/comments/1x4zkd9/modernday_propaganda_in_the_age_of_ai_may_be"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "b7d1e3ccac451e40"
 title: "Microsoft event debuts new AI-friendly hardware and Windows changes"
 url: "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes"
+link: "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

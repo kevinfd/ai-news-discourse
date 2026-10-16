@@ -2,6 +2,7 @@
 id: "fe3efb35f9264663"
 title: "Apple’s $299 HomeView smart hub is here: 8 highlights, including the wall model"
 url: "https://zdnet.com/home-and-office/apple-homeview-smart-home-hub-features-price"
+link: "https://zdnet.com/home-and-office/apple-homeview-smart-home-hub-features-price"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

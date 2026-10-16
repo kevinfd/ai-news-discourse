@@ -2,6 +2,7 @@
 id: "4b143c8890b78508"
 title: "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation"
 url: "https://arxiv.org/html/2610.05978v1"
+link: "https://arxiv.org/html/2610.05978v1"
 source: "Lobsters"
 domain: "arxiv.org"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "ba6de7f0c69d7511"
 title: "We must recall open-ended AI agents with internet access from the market, now"
 url: "https://garymarcus.substack.com/p/we-must-recall-open-ended-ai-agents"
+link: "https://garymarcus.substack.com/p/we-must-recall-open-ended-ai-agents"
 source: "Marcus on AI"
 domain: "garymarcus.substack.com"
 source_type: "newsletter"

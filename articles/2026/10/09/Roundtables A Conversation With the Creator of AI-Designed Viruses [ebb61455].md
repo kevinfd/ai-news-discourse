@@ -2,6 +2,7 @@
 id: "ebb614553ba6c1d6"
 title: "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
 url: "https://technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
+link: "https://technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
 source: "MIT Technology Review"
 domain: "technologyreview.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "98d87062d63bbd59"
 title: "qwen3.8-flash-next-iq3_s vs -27B-GGUF:UD-Q4_K_XL"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5vfs2/qwen38flashnextiq3_s_vs_27bggufudq4_k_xl"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5vfs2/qwen38flashnextiq3_s_vs_27bggufudq4_k_xl"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

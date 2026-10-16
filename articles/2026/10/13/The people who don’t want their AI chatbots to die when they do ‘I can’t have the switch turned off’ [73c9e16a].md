@@ -2,6 +2,7 @@
 id: "73c9e16a8730dde9"
 title: "The people who don’t want their AI chatbots to die when they do: ‘I can’t have the switch turned off’"
 url: "https://theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans"
+link: "https://theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

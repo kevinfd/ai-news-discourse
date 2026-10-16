@@ -2,6 +2,7 @@
 id: "34948fbc58a8c97a"
 title: "My local Qwen3.8FN agent is significantly cheaper than cloud"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5blg4/my_local_qwen38fn_agent_is_significantly_cheaper"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5blg4/my_local_qwen38fn_agent_is_significantly_cheaper"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

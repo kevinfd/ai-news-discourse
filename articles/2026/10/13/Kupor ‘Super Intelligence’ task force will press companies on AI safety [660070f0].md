@@ -2,6 +2,7 @@
 id: "660070f07b6219f7"
 title: "Kupor: ‘Super Intelligence’ task force will press companies on AI safety"
 url: "https://politico.com/news/2026/10/13/kupor-super-intelligence-task-force-ai-safety-01116286"
+link: "https://politico.com/news/2026/10/13/kupor-super-intelligence-task-force-ai-safety-01116286"
 source: "Politico"
 domain: "politico.com"
 source_type: "mainstream_news"

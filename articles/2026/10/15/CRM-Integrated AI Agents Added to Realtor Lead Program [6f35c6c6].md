@@ -2,6 +2,7 @@
 id: "6f35c6c6fa0f103d"
 title: "CRM-Integrated AI Agents Added to Realtor Lead Program"
 url: "https://usatoday.com/press-release/story/50692/crm-integrated-ai-agents-added-to-realtor-lead-program"
+link: "https://usatoday.com/press-release/story/50692/crm-integrated-ai-agents-added-to-realtor-lead-program"
 source: "USA TODAY"
 domain: "usatoday.com"
 source_type: "mainstream_news"

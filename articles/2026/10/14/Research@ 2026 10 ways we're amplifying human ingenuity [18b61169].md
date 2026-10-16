@@ -2,6 +2,7 @@
 id: "18b611693debbbf2"
 title: "Research@ 2026: 10 ways we're amplifying human ingenuity"
 url: "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity"
+link: "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity"
 source: "Google Research"
 domain: "research.google"
 source_type: "research"

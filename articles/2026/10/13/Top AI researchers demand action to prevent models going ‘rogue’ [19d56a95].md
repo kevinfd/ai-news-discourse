@@ -2,6 +2,7 @@
 id: "19d56a9504db042c"
 title: "Top AI researchers demand action to prevent models going ‘rogue’"
 url: "https://thehindu.com/sci-tech/science/top-ai-researchers-demand-action-to-prevent-models-going-rogue/article71578942.ece"
+link: "https://thehindu.com/sci-tech/science/top-ai-researchers-demand-action-to-prevent-models-going-rogue/article71578942.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

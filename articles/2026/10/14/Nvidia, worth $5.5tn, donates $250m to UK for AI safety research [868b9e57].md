@@ -2,6 +2,7 @@
 id: "868b9e57ed24cdb3"
 title: "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research"
 url: "https://theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research"
+link: "https://theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

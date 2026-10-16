@@ -2,6 +2,7 @@
 id: "e298656e11d57933"
 title: "Even ‘Law & Order’ Is Terrified of AI"
 url: "https://wired.com/story/even-law-and-order-is-terrified-of-ai"
+link: "https://wired.com/story/even-law-and-order-is-terrified-of-ai"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "11af398f9ba69024"
 title: "Scientists worry AI is stealing their ideas"
 url: "https://scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas"
+link: "https://scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

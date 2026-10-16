@@ -2,6 +2,7 @@
 id: "da11a19c3b2feb9c"
 title: "Show HN: Skills Hub, a desktop app for managing AI agent skills"
 url: "https://github.com/qufei1993/skills-hub"
+link: "https://github.com/qufei1993/skills-hub"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

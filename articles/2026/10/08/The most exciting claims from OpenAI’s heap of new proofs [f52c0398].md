@@ -2,6 +2,7 @@
 id: "f52c0398fdda9022"
 title: "The most exciting claims from OpenAI’s heap of new proofs"
 url: "https://scientificamerican.com/article/the-most-exciting-claims-from-openais-heap-of-new-proofs"
+link: "https://scientificamerican.com/article/the-most-exciting-claims-from-openais-heap-of-new-proofs"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "c0f83aa9e9686936"
 title: "AI researcher warns cyberattacks could take down power, banking and water within a year — here's how to prepare"
 url: "https://tomsguide.com/ai/ai-researcher-warns-cyberattacks-could-take-down-power-banking-and-water-within-a-year-heres-how-to-prepare"
+link: "https://tomsguide.com/ai/ai-researcher-warns-cyberattacks-could-take-down-power-banking-and-water-within-a-year-heres-how-to-prepare"
 source: "Tom's Guide"
 domain: "tomsguide.com"
 source_type: "tech_press"

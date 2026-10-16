@@ -2,6 +2,7 @@
 id: "05955360494a2b50"
 title: "Stretchtext for Claude Code: a 1967 idea that got more useful as text became generative"
 url: "https://reddit.com/r/ClaudeAI/comments/1x66prd/stretchtext_for_claude_code_a_1967_idea_that_got"
+link: "https://reddit.com/r/ClaudeAI/comments/1x66prd/stretchtext_for_claude_code_a_1967_idea_that_got"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

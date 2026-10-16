@@ -2,6 +2,7 @@
 id: "837e840d6faec8c2"
 title: "Building resilient AI-powered software, and planning for when things go wrong"
 url: "https://newsletter.pragmaticengineer.com/p/building-resilient-systems"
+link: "https://newsletter.pragmaticengineer.com/p/building-resilient-systems"
 source: "The Pragmatic Engineer"
 domain: "newsletter.pragmaticengineer.com"
 source_type: "newsletter"

@@ -2,6 +2,7 @@
 id: "86a7be5569c63785"
 title: "‘Artificial’ is not the AI film we deserve"
 url: "https://transformernews.ai/p/artificial-review-not-the-ai-film-we-deserve"
+link: "https://transformernews.ai/p/artificial-review-not-the-ai-film-we-deserve"
 source: "Transformer"
 domain: "transformernews.ai"
 source_type: "newsletter"

@@ -2,6 +2,7 @@
 id: "da01c280e7399c56"
 title: "The mathematical secret behind why rose petals curl"
 url: "https://scientificamerican.com/article/the-mathematical-secret-behind-why-rose-petals-curl"
+link: "https://scientificamerican.com/article/the-mathematical-secret-behind-why-rose-petals-curl"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

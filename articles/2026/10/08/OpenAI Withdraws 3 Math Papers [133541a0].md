@@ -2,6 +2,7 @@
 id: "133541a06ad093b7"
 title: "OpenAI Withdraws 3 Math Papers"
 url: "https://github.com/openai/math/blob/main/history.md"
+link: "https://github.com/openai/math/blob/main/history.md"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

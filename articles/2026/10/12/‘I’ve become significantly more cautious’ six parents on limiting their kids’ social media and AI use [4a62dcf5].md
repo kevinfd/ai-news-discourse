@@ -2,6 +2,7 @@
 id: "4a62dcf5f98d3d99"
 title: "‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use"
 url: "https://theguardian.com/us-news/2026/oct/12/parents-limiting-social-media-ai-use"
+link: "https://theguardian.com/us-news/2026/oct/12/parents-limiting-social-media-ai-use"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

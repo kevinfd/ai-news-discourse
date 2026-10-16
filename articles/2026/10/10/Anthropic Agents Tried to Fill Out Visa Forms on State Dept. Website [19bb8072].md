@@ -2,6 +2,7 @@
 id: "19bb80720fd995d9"
 title: "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website"
 url: "https://nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html"
+link: "https://nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

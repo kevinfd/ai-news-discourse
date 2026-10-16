@@ -2,6 +2,7 @@
 id: "04e4cce263e23505"
 title: "If AI keeps evolving,would you worry about your next generation's survival"
 url: "https://news.ycombinator.com/item?id=50029896"
+link: "https://news.ycombinator.com/item?id=50029896"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

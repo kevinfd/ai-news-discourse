@@ -2,6 +2,7 @@
 id: "89b5d6676f2a206f"
 title: "If AI can answer interview questions perfectly, how should companies evaluate candidates?"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x548nk/if_ai_can_answer_interview_questions_perfectly"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x548nk/if_ai_can_answer_interview_questions_perfectly"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

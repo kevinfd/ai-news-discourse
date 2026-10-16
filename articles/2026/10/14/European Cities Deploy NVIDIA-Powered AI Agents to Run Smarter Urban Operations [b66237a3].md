@@ -2,6 +2,7 @@
 id: "b66237a3192719f7"
 title: "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations"
 url: "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations"
+link: "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations"
 source: "NVIDIA Blog"
 domain: "blogs.nvidia.com"
 source_type: "company_blog"

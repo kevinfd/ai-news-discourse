@@ -2,6 +2,7 @@
 id: "a5ea56f0edac78aa"
 title: "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work"
 url: "https://404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work"
+link: "https://404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work"
 source: "404 Media"
 domain: "404media.co"
 source_type: "tech_press"

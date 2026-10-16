@@ -2,6 +2,7 @@
 id: "d11b3eb49752ebe2"
 title: "Microsoft Debuts New Homegrown AI Chip, Plans to Deploy Multiple Gigawatts Next Year"
 url: "https://theinformation.com/briefings/microsoft-debuts-new-homegrown-ai-chip-plans-deploy-multiple-gigawatts-next-year"
+link: "https://theinformation.com/briefings/microsoft-debuts-new-homegrown-ai-chip-plans-deploy-multiple-gigawatts-next-year"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "3e3e28d6e4f135f7"
 title: "Google's own benchmarks say Gemini beats Opus at coding... and also loses to Opus at coding"
 url: "https://reddit.com/r/artificial/comments/1x5uai6/googles_own_benchmarks_say_gemini_beats_opus_at"
+link: "https://reddit.com/r/artificial/comments/1x5uai6/googles_own_benchmarks_say_gemini_beats_opus_at"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

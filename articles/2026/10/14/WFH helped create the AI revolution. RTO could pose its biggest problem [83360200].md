@@ -2,6 +2,7 @@
 id: "83360200f30da2b2"
 title: "WFH helped create the AI revolution. RTO could pose its biggest problem."
 url: "https://businessinsider.com/remote-work-impact-ai-fertility-air-quality-rto-wfh-2026-10"
+link: "https://businessinsider.com/remote-work-impact-ai-fertility-air-quality-rto-wfh-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

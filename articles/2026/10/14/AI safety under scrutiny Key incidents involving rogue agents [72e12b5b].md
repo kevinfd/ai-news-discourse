@@ -2,6 +2,7 @@
 id: "72e12b5bbc6c86dd"
 title: "AI safety under scrutiny: Key incidents involving rogue agents"
 url: "https://thehindu.com/sci-tech/technology/ai-safety-under-scrutiny-key-incidents-involving-rogue-agents/article71582869.ece"
+link: "https://thehindu.com/sci-tech/technology/ai-safety-under-scrutiny-key-incidents-involving-rogue-agents/article71582869.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

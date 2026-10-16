@@ -2,6 +2,7 @@
 id: "5cb046ed258978e7"
 title: "Five Questions That Decide If An AI Agent Works In Finance"
 url: "https://forbes.com/councils/forbestechcouncil/2026/10/14/five-questions-that-decide-if-an-ai-agent-works-in-finance"
+link: "https://forbes.com/councils/forbestechcouncil/2026/10/14/five-questions-that-decide-if-an-ai-agent-works-in-finance"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

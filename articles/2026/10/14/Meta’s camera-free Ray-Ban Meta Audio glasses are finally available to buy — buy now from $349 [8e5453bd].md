@@ -2,6 +2,7 @@
 id: "8e5453bdba318282"
 title: "Meta’s camera-free Ray-Ban Meta Audio glasses are finally available to buy — buy now from $349"
 url: "https://mashable.com/tech/ray-ban-meta-audio-glasses-where-to-buy"
+link: "https://mashable.com/tech/ray-ban-meta-audio-glasses-where-to-buy"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

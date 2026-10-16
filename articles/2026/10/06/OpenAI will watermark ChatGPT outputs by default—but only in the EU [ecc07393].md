@@ -2,6 +2,7 @@
 id: "ecc07393279513fe"
 title: "OpenAI will watermark ChatGPT outputs by default—but only in the EU"
 url: "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu"
+link: "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

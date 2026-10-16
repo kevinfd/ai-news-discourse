@@ -2,6 +2,7 @@
 id: "768ca4479660e41d"
 title: "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It"
 url: "https://marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release"
+link: "https://marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

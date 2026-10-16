@@ -2,6 +2,7 @@
 id: "c00a5c3496a7fd33"
 title: "AI is automating coding. So why are software developer job postings on the rise?"
 url: "https://cnbc.com/2026/10/11/ai-software-developer-jobs.html"
+link: "https://cnbc.com/2026/10/11/ai-software-developer-jobs.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

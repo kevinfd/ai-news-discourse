@@ -2,6 +2,7 @@
 id: "a5f4b0f052d7f260"
 title: "Welcome back from leave. Your job is completely different."
 url: "https://businessinsider.com/leave-from-work-ai-changed-your-job-tech-advances-2026-10"
+link: "https://businessinsider.com/leave-from-work-ai-changed-your-job-tech-advances-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

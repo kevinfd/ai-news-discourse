@@ -2,6 +2,7 @@
 id: "ef7b380b54349aec"
 title: "Rogue AI agents from Anthropic gave the police fake tips on an unsolved murder case. Imagine how crazy it would've been if the tips had actually been legit and the case had ended up being solved thanks to the agents' help."
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4l8nz/rogue_ai_agents_from_anthropic_gave_the_police"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4l8nz/rogue_ai_agents_from_anthropic_gave_the_police"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "50e357203d2a1cc3"
 title: "OpenAI “rogue” agent activities found on Wikimedia projects"
 url: "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia"
+link: "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

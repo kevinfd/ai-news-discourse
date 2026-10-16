@@ -2,6 +2,7 @@
 id: "6a90f695769a5f2e"
 title: "CHATGPT Voice Mode Anomaly"
 url: "https://reddit.com/r/ChatGPT/comments/1x5p68b/chatgpt_voice_mode_anomaly"
+link: "https://reddit.com/r/ChatGPT/comments/1x5p68b/chatgpt_voice_mode_anomaly"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

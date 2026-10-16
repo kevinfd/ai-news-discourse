@@ -2,6 +2,7 @@
 id: "197c7373dbb69572"
 title: "Gemini 4 Argon: pricing, access and how it compares with Claude and GPT-6"
 url: "https://maccus.fr/en/google-gemini-4-argon"
+link: "https://maccus.fr/en/google-gemini-4-argon"
 source: "MACCUS - Agence SEO, Influence & Marketing Organique"
 domain: "maccus.fr"
 source_type: "community"

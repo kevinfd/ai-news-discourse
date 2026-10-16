@@ -2,6 +2,7 @@
 id: "bb11b5274a1fddd5"
 title: "Saudi national working at OpenAI arrested for bugging executive conference room"
 url: "https://bnonews.com/index.php/2026/10/saudi-national-working-at-openai-arrested-for-bugging-executive-conference-room"
+link: "https://bnonews.com/index.php/2026/10/saudi-national-working-at-openai-arrested-for-bugging-executive-conference-room"
 source: "BNO News"
 domain: "bnonews.com"
 source_type: "community"

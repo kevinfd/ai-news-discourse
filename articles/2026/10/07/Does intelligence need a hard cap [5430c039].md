@@ -2,6 +2,7 @@
 id: "5430c039265bc22c"
 title: "Does intelligence need a hard cap?"
 url: "https://platformer.news/does-intelligence-need-a-hard-cap"
+link: "https://platformer.news/does-intelligence-need-a-hard-cap"
 source: "Platformer"
 domain: "platformer.news"
 source_type: "newsletter"

@@ -2,6 +2,7 @@
 id: "e28e35c784347724"
 title: "Any Advice for what Industry is looking for in ML PhDs? [D]"
 url: "https://reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml"
+link: "https://reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "a64812d8ad2ee31d"
 title: "Dyson CameraJet Review: $500 AI Toothbrush Has Reliability, Water Issues"
 url: "https://bloomberg.com/news/articles/2026-10-15/dyson-camerajet-review-500-ai-toothbrush-has-reliability-water-issues"
+link: "https://bloomberg.com/news/articles/2026-10-15/dyson-camerajet-review-500-ai-toothbrush-has-reliability-water-issues"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

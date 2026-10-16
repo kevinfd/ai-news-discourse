@@ -2,6 +2,7 @@
 id: "1241afcd37b68e81"
 title: "Deploy decision models with llama.cpp on Amazon SageMaker AI"
 url: "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai"
+link: "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

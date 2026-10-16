@@ -2,6 +2,7 @@
 id: "2a57a28d54e76dd8"
 title: "Netflix spent big on Ben Affleck’s AI company. After Animals, they might wonder why"
 url: "https://the-independent.com/arts-entertainment/films/features/ben-affleck-ai-netflix-animals-b3065533.html"
+link: "https://the-independent.com/arts-entertainment/films/features/ben-affleck-ai-netflix-animals-b3065533.html"
 source: "The Independent"
 domain: "the-independent.com"
 source_type: "community"

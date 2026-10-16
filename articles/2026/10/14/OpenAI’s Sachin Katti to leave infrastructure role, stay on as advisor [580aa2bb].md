@@ -2,6 +2,7 @@
 id: "580aa2bb08e82a15"
 title: "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor"
 url: "https://cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html"
+link: "https://cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

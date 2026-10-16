@@ -2,6 +2,7 @@
 id: "a638ecadafc67c83"
 title: "AI leaders lobby Trump health officials in government-run chat room"
 url: "https://cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack"
+link: "https://cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack"
 source: "CBS News"
 domain: "cbsnews.com"
 source_type: "mainstream_news"

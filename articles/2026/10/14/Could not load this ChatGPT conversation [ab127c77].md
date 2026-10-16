@@ -2,6 +2,7 @@
 id: "ab127c77ee043229"
 title: "Could not load this ChatGPT conversation"
 url: "https://reddit.com/r/ChatGPT/comments/1x5negy/could_not_load_this_chatgpt_conversation"
+link: "https://reddit.com/r/ChatGPT/comments/1x5negy/could_not_load_this_chatgpt_conversation"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

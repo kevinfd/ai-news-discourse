@@ -2,6 +2,7 @@
 id: "d00610b3edb326a6"
 title: "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story"
 url: "https://theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story"
+link: "https://theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

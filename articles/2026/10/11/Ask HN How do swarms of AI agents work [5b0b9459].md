@@ -2,6 +2,7 @@
 id: "5b0b9459701b9753"
 title: "Ask HN: How do swarms of AI agents work?"
 url: "https://news.ycombinator.com/item?id=50047180"
+link: "https://news.ycombinator.com/item?id=50047180"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "2e8ccd5a3c4c3f61"
 title: "Exclusive: AI safety money floods into political races"
 url: "https://axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million"
+link: "https://axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million"
 source: "Axios"
 domain: "axios.com"
 source_type: "mainstream_news"

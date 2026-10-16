@@ -2,6 +2,7 @@
 id: "709df262724b9d6b"
 title: "please help if you have one"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4p3p6/please_help_if_you_have_one"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4p3p6/please_help_if_you_have_one"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

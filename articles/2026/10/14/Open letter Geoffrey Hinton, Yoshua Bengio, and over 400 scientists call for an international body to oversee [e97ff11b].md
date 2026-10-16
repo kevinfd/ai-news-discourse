@@ -2,6 +2,7 @@
 id: "e97ff11b3b893d56"
 title: "Open letter: Geoffrey Hinton, Yoshua Bengio, and over 400 scientists call for an international body to oversee AI containment standards and incident reporting (Leo Marchandon/Reuters)"
 url: "https://techmeme.com/261013/p53"
+link: "https://techmeme.com/261013/p53"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

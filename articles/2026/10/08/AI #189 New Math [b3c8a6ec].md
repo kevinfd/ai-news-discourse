@@ -2,6 +2,7 @@
 id: "b3c8a6ecfc621b32"
 title: "AI #189: New Math"
 url: "https://thezvi.substack.com/p/ai-189-new-math"
+link: "https://thezvi.substack.com/p/ai-189-new-math"
 source: "Don't Worry About the Vase"
 domain: "thezvi.substack.com"
 source_type: "newsletter"

@@ -2,6 +2,7 @@
 id: "26be46851562231b"
 title: "OpenAI fires 3 safety researchers in dispute over AI risks"
 url: "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41"
+link: "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41"
 source: "AP News"
 domain: "apnews.com"
 source_type: "community"

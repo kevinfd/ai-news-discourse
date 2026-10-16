@@ -2,6 +2,7 @@
 id: "91ab422dfe10dd90"
 title: "A US charity plans to use AI to monitor its Gaza classrooms for 'hateful' speech"
 url: "https://abcnews.com/Technology/wireStory/us-charity-plans-ai-monitor-gaza-classrooms-hateful-137119695"
+link: "https://abcnews.com/Technology/wireStory/us-charity-plans-ai-monitor-gaza-classrooms-hateful-137119695"
 source: "ABC News"
 domain: "abcnews.com"
 source_type: "mainstream_news"

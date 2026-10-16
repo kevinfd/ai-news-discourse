@@ -2,6 +2,7 @@
 id: "65b25ad26671d789"
 title: "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus"
 url: "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968"
+link: "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968"
 source: "Medium"
 domain: "medium.com"
 source_type: "community"

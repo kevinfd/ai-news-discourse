@@ -2,6 +2,7 @@
 id: "8b3dad4b108f7d4d"
 title: "Solo Developer Rebuilds Adobe Creative Suite in Rust Using Claude"
 url: "https://tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings"
+link: "https://tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings"
 source: "Tom's Hardware"
 domain: "tomshardware.com"
 source_type: "community"

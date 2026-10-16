@@ -2,6 +2,7 @@
 id: "5c718f0201c62969"
 title: "I’ve been living with Nvidia’s RTX Spark for a week — it’s not a MacBook Pro killer but something much weirder and wildly powerful"
 url: "https://tomsguide.com/computing/cpus/ive-been-living-with-nvidias-rtx-spark-for-a-week-on-surface-laptop-ultra-its-not-a-macbook-pro-killer-but-something-much-weirder-and-wildly-powerful"
+link: "https://tomsguide.com/computing/cpus/ive-been-living-with-nvidias-rtx-spark-for-a-week-on-surface-laptop-ultra-its-not-a-macbook-pro-killer-but-something-much-weirder-and-wildly-powerful"
 source: "Tom's Guide"
 domain: "tomsguide.com"
 source_type: "tech_press"

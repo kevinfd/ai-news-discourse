@@ -2,6 +2,7 @@
 id: "3e99722b0dece030"
 title: "5 AutoHotkey Scripts for Data Scientists"
 url: "https://kdnuggets.com/5-autohotkey-scripts-for-data-scientists"
+link: "https://kdnuggets.com/5-autohotkey-scripts-for-data-scientists"
 source: "KDnuggets"
 domain: "kdnuggets.com"
 source_type: "newsletter"

@@ -2,6 +2,7 @@
 id: "c432110ec2c865f1"
 title: "I built a 1920x1080 showcase of Claude's new Dashboard (beta) with Claude, reading live Notion data"
 url: "https://reddit.com/r/ClaudeAI/comments/1x534mn/i_built_a_1920x1080_showcase_of_claudes_new"
+link: "https://reddit.com/r/ClaudeAI/comments/1x534mn/i_built_a_1920x1080_showcase_of_claudes_new"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "3081c0e188e1267c"
 title: "Artificial review: Andrew Garfield enters his villain era"
 url: "https://mashable.com/entertainment/artificial-review-andrew-garfield-sam-altman"
+link: "https://mashable.com/entertainment/artificial-review-andrew-garfield-sam-altman"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

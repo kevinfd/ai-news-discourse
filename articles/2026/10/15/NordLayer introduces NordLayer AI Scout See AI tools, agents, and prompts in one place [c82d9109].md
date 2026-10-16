@@ -2,6 +2,7 @@
 id: "c82d91090d25bd28"
 title: "NordLayer introduces NordLayer AI Scout: See AI tools, agents, and prompts in one place"
 url: "https://markets.businessinsider.com/news/stocks/nordlayer-introduces-nordlayer-ai-scout-see-ai-tools-agents-and-prompts-in-one-place-1036629732"
+link: "https://markets.businessinsider.com/news/stocks/nordlayer-introduces-nordlayer-ai-scout-see-ai-tools-agents-and-prompts-in-one-place-1036629732"
 source: "Business Insider"
 domain: "markets.businessinsider.com"
 source_type: "mainstream_news"

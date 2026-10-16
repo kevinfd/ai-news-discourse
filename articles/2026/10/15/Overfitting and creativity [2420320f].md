@@ -2,6 +2,7 @@
 id: "2420320fad5890bf"
 title: "Overfitting and creativity"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x6iieq/overfitting_and_creativity"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x6iieq/overfitting_and_creativity"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

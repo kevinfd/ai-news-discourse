@@ -2,6 +2,7 @@
 id: "1976d6bfc99e7cca"
 title: "Sources: self-driving simulation software maker Applied Intuition has received investment offers that would value it at $30B+, up from $15B in June (Stephanie Palazzolo/The Information)"
 url: "https://techmeme.com/261013/p39"
+link: "https://techmeme.com/261013/p39"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

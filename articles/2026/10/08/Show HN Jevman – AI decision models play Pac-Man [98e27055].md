@@ -2,6 +2,7 @@
 id: "98e27055923b345a"
 title: "Show HN: Jevman – AI decision models play Pac-Man"
 url: "https://opper.ai/jevman-benchmark"
+link: "https://opper.ai/jevman-benchmark"
 source: "Opper AI"
 domain: "opper.ai"
 source_type: "community"

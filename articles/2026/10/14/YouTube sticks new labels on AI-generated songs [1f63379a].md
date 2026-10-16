@@ -2,6 +2,7 @@
 id: "1f63379af5407e30"
 title: "YouTube sticks new labels on AI-generated songs"
 url: "https://theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label"
+link: "https://theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

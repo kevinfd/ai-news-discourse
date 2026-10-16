@@ -2,6 +2,7 @@
 id: "8f3c7ec87e51d9aa"
 title: "Meta, Google, and Microsoft Intensify Race for $4.8 Trillion Global AI Market"
 url: "https://tipranks.com/news/meta-google-and-microsoft-intensify-race-for-4-8-trillion-global-ai-market"
+link: "https://tipranks.com/news/meta-google-and-microsoft-intensify-race-for-4-8-trillion-global-ai-market"
 source: "TipRanks"
 domain: "tipranks.com"
 source_type: "mainstream_news"

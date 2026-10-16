@@ -2,6 +2,7 @@
 id: "1fc02c0a57a62a9b"
 title: "Former inmates use AI to bridge the digital divide and find jobs"
 url: "https://jsonline.com/story/money/business/2026/10/14/ai-training-helps-formerly-incarcerated-find-jobs/91614902007"
+link: "https://jsonline.com/story/money/business/2026/10/14/ai-training-helps-formerly-incarcerated-find-jobs/91614902007"
 source: "Milwaukee Journal Sentinel"
 domain: "jsonline.com"
 source_type: "mainstream_news"

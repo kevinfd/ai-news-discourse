@@ -2,6 +2,7 @@
 id: "e8bf4e320e5c61bb"
 title: "Should we start separating our computers into high-risk and low-risk environments?"
 url: "https://reddit.com/r/singularity/comments/1x5b0oe/should_we_start_separating_our_computers_into"
+link: "https://reddit.com/r/singularity/comments/1x5b0oe/should_we_start_separating_our_computers_into"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

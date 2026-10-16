@@ -2,6 +2,7 @@
 id: "313907b2dbd81109"
 title: "Write Like It's 1866: LLMs Relearn Telegraphese"
 url: "https://fiveminutesforward.com/post/2026-10-04-telegraph-test"
+link: "https://fiveminutesforward.com/post/2026-10-04-telegraph-test"
 source: "Five Minutes Forward"
 domain: "fiveminutesforward.com"
 source_type: "community"

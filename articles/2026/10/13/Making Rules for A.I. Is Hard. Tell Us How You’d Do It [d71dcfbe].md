@@ -2,6 +2,7 @@
 id: "d71dcfbe57ca1f69"
 title: "Making Rules for A.I. Is Hard. Tell Us How You’d Do It."
 url: "https://nytimes.com/interactive/2026/10/13/opinion/ai-rules-regulations.html?amp%3Bsmid=re-nytopinion&unlocked_article_code=1.IVE.OqVX.SSBICB-9wFka"
+link: "https://nytimes.com/interactive/2026/10/13/opinion/ai-rules-regulations.html?amp%3Bsmid=re-nytopinion&unlocked_article_code=1.IVE.OqVX.SSBICB-9wFka"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "community"

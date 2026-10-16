@@ -2,6 +2,7 @@
 id: "7ef55f0d24b5a80b"
 title: "Microsoft pushes AI vision with new, expensive Surface laptop"
 url: "https://thehindu.com/sci-tech/technology/microsoft-pushes-ai-vision-with-new-expensive-surface-laptop/article71558251.ece"
+link: "https://thehindu.com/sci-tech/technology/microsoft-pushes-ai-vision-with-new-expensive-surface-laptop/article71558251.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "2d5ceb78903830c5"
 title: "OpenAI Says Staffer Arrested for Hidden Recording Device in Office"
 url: "https://bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office"
+link: "https://bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

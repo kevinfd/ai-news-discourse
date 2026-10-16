@@ -2,6 +2,7 @@
 id: "5717caf18b1943fe"
 title: "Apple HomePod mini 2 vs. Apple HomePod mini: What do you get for the $50 increase?"
 url: "https://engadget.com/2285476/apple-homepod-mini-2-vs-mini-comparison-50-dollar-increase"
+link: "https://engadget.com/2285476/apple-homepod-mini-2-vs-mini-comparison-50-dollar-increase"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

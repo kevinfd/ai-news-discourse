@@ -2,6 +2,7 @@
 id: "32a76b9e4e50dfa7"
 title: "Lawyer Cites ChatGPT-Invented Fake Witnesses in Murder Appeal"
 url: "https://404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico"
+link: "https://404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico"
 source: "404 Media"
 domain: "404media.co"
 source_type: "community"

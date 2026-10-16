@@ -2,6 +2,7 @@
 id: "780cf65430894d4b"
 title: "Dangers or benefits of being 100% self taught"
 url: "https://reddit.com/r/ClaudeAI/comments/1x52lkb/dangers_or_benefits_of_being_100_self_taught"
+link: "https://reddit.com/r/ClaudeAI/comments/1x52lkb/dangers_or_benefits_of_being_100_self_taught"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "5c32346883aecb51"
 title: "Super fun to see how different models create a SNES game from a vague prompt"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4f7os/super_fun_to_see_how_different_models_create_a"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4f7os/super_fun_to_see_how_different_models_create_a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

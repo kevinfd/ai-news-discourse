@@ -2,6 +2,7 @@
 id: "38b0fa913a006ad4"
 title: "The Social Reckoning is a ‘surreal’ portrait of social media’s harms, scientist says"
 url: "https://scientificamerican.com/article/the-social-reckoning-is-a-surreal-portrait-of-social-medias-harms-scientist-says"
+link: "https://scientificamerican.com/article/the-social-reckoning-is-a-surreal-portrait-of-social-medias-harms-scientist-says"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

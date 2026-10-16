@@ -2,6 +2,7 @@
 id: "7c5a257379907a44"
 title: "AI minister warns 'likely' UK's cyber defences will be breached"
 url: "https://bbc.co.uk/news/articles/cr78pe09y05xo?at_campaign=rss&at_medium=RSS"
+link: "https://bbc.co.uk/news/articles/cr78pe09y05xo?at_campaign=rss&at_medium=RSS"
 source: "BBC News"
 domain: "bbc.co.uk"
 source_type: "mainstream_news"

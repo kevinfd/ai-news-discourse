@@ -2,6 +2,7 @@
 id: "94e369282ff1b45c"
 title: "Complementary remarks from Gary Marcus and Terence Tao on OpenAI’s giant math drop"
 url: "https://garymarcus.substack.com/p/complementary-remarks-from-gary-marcus"
+link: "https://garymarcus.substack.com/p/complementary-remarks-from-gary-marcus"
 source: "Marcus on AI"
 domain: "garymarcus.substack.com"
 source_type: "newsletter"

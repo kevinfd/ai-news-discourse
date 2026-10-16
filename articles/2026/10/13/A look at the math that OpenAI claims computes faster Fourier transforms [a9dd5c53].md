@@ -2,6 +2,7 @@
 id: "a9dd5c536426e41f"
 title: "A look at the math that OpenAI claims computes faster Fourier transforms"
 url: "https://argmin.net/p/faster-fourier-transforms"
+link: "https://argmin.net/p/faster-fourier-transforms"
 source: "Argmin"
 domain: "argmin.net"
 source_type: "community"

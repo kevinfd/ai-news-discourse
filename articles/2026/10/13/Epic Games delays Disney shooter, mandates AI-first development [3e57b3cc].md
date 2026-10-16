@@ -2,6 +2,7 @@
 id: "3e57b3cc890e37f0"
 title: "Epic Games delays Disney shooter, mandates AI-first development"
 url: "https://valdrans.com/r/epic-games-delays-disney-shooter-mandates-ai-first-development"
+link: "https://valdrans.com/r/epic-games-delays-disney-shooter-mandates-ai-first-development"
 source: "Valdrans"
 domain: "valdrans.com"
 source_type: "community"

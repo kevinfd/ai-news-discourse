@@ -2,6 +2,7 @@
 id: "b6a4e88c3bcd7a6f"
 title: "How top brands are hunting for the next breakout influencer"
 url: "https://businessinsider.com/platforms-and-techniques-marketers-are-using-to-discover-creators-2026-10"
+link: "https://businessinsider.com/platforms-and-techniques-marketers-are-using-to-discover-creators-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "a9d8a5238f907c96"
 title: "Is everyone in here buying up smart TVs now?"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x4wcnn/is_everyone_in_here_buying_up_smart_tvs_now"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x4wcnn/is_everyone_in_here_buying_up_smart_tvs_now"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

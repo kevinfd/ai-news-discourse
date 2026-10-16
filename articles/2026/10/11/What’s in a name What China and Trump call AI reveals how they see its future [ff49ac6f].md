@@ -2,6 +2,7 @@
 id: "ff49ac6f69929815"
 title: "What’s in a name? What China and Trump call AI reveals how they see its future"
 url: "https://scmp.com/tech/tech-trends/article/3370269/whats-name-what-china-and-trump-call-ai-reveals-how-they-see-its-future"
+link: "https://scmp.com/tech/tech-trends/article/3370269/whats-name-what-china-and-trump-call-ai-reveals-how-they-see-its-future"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

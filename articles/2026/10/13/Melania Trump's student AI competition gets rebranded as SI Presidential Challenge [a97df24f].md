@@ -2,6 +2,7 @@
 id: "a97df24f8ce5152b"
 title: "Melania Trump's student AI competition gets rebranded as SI Presidential Challenge"
 url: "https://thehill.com/blogs/in-the-know/6146039-melania-trumps-student-ai-si-presidential-challenge"
+link: "https://thehill.com/blogs/in-the-know/6146039-melania-trumps-student-ai-si-presidential-challenge"
 source: "The Hill"
 domain: "thehill.com"
 source_type: "mainstream_news"

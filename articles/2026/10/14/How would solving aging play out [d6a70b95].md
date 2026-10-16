@@ -2,6 +2,7 @@
 id: "d6a70b95db2adbcc"
 title: "How would solving aging play out?"
 url: "https://reddit.com/r/singularity/comments/1x5nsop/how_would_solving_aging_play_out"
+link: "https://reddit.com/r/singularity/comments/1x5nsop/how_would_solving_aging_play_out"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

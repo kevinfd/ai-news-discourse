@@ -2,6 +2,7 @@
 id: "97e42fb44be40a62"
 title: "JPMorgan does not expect the AI stock selloff to be followed by a July-style rebound"
 url: "https://qz.com/jpmorgan-ai-stocks-rebound-july-selloff-101526"
+link: "https://qz.com/jpmorgan-ai-stocks-rebound-july-selloff-101526"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

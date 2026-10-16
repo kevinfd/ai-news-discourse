@@ -2,6 +2,7 @@
 id: "5cb1618c1db568b5"
 title: "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
 url: "https://deepmind.google/blog/on-device-ai-scam-detection-mddi"
+link: "https://deepmind.google/blog/on-device-ai-scam-detection-mddi"
 source: "Google DeepMind"
 domain: "deepmind.google"
 source_type: "company_blog"

@@ -2,6 +2,7 @@
 id: "7a6900e1d18b1764"
 title: "As the US and China race ahead in AI, France carves its own path with Nvidia’s help"
 url: "https://euronews.com/2026/10/14/as-the-us-and-china-race-ahead-in-ai-france-carves-its-own-path-with-nvidias-help"
+link: "https://euronews.com/2026/10/14/as-the-us-and-china-race-ahead-in-ai-france-carves-its-own-path-with-nvidias-help"
 source: "Euronews"
 domain: "euronews.com"
 source_type: "mainstream_news"

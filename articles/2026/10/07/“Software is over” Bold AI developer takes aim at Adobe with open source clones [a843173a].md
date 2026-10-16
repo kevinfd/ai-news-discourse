@@ -2,6 +2,7 @@
 id: "a843173a5365ccbb"
 title: "“Software is over”: Bold AI developer takes aim at Adobe with open source clones"
 url: "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones"
+link: "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

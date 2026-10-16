@@ -2,6 +2,7 @@
 id: "8eeca444c1fafc19"
 title: "Have you used ChatGPT or another AI to shop for clothes? How did it go?"
 url: "https://reddit.com/r/ChatGPT/comments/1x54rk7/have_you_used_chatgpt_or_another_ai_to_shop_for"
+link: "https://reddit.com/r/ChatGPT/comments/1x54rk7/have_you_used_chatgpt_or_another_ai_to_shop_for"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

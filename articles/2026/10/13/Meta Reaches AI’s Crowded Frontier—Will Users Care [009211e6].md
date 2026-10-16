@@ -2,6 +2,7 @@
 id: "009211e659995db0"
 title: "Meta Reaches AI’s Crowded Frontier—Will Users Care?"
 url: "https://theinformation.com/articles/meta-reaches-ais-crowded-frontier-will-users-care"
+link: "https://theinformation.com/articles/meta-reaches-ais-crowded-frontier-will-users-care"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

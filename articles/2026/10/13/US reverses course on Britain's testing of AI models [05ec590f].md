@@ -2,6 +2,7 @@
 id: "05ec590f0dbe1822"
 title: "US reverses course on Britain's testing of AI models"
 url: "https://thehindu.com/sci-tech/technology/us-reverses-course-on-britains-testing-of-ai-models/article71573685.ece"
+link: "https://thehindu.com/sci-tech/technology/us-reverses-course-on-britains-testing-of-ai-models/article71573685.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "badde6b393972973"
 title: "Show us what you've created with Claude!"
 url: "https://reddit.com/r/ClaudeAI/comments/1x64fcl/show_us_what_youve_created_with_claude"
+link: "https://reddit.com/r/ClaudeAI/comments/1x64fcl/show_us_what_youve_created_with_claude"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

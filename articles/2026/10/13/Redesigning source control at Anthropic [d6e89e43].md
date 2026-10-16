@@ -2,6 +2,7 @@
 id: "d6e89e4381e4169d"
 title: "Redesigning source control at Anthropic"
 url: "https://anthropic.com/engineering/redesigning-source-control"
+link: "https://anthropic.com/engineering/redesigning-source-control"
 source: "Anthropic"
 domain: "anthropic.com"
 source_type: "community"

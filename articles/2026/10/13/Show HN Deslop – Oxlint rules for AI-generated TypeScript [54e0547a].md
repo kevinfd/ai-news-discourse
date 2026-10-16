@@ -2,6 +2,7 @@
 id: "54e0547a940cb779"
 title: "Show HN: Deslop – Oxlint rules for AI-generated TypeScript"
 url: "https://github.com/maharshi365/deslop"
+link: "https://github.com/maharshi365/deslop"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

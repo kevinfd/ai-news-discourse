@@ -2,6 +2,7 @@
 id: "e7979900b245acfd"
 title: "[Microsoft 365] A new Copilot skill for PowerPoint, \"Clarify my thinking,\" has arrived! New AI utilization to deepen your thoughts and improve presentations #0381"
 url: "https://note.com/kagen_shin/n/nb2d1d819dd11?hl=en"
+link: "https://note.com/kagen_shin/n/nb2d1d819dd11?hl=en"
 source: "note"
 domain: "note.com"
 source_type: "mainstream_news"

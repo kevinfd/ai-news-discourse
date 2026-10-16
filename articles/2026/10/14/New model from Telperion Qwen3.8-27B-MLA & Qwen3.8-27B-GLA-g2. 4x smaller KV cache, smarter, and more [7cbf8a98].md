@@ -2,6 +2,7 @@
 id: "7cbf8a98b43c9e67"
 title: "New model from Telperion: Qwen3.8-27B-MLA & Qwen3.8-27B-GLA-g2. 4x smaller KV cache, smarter, and more efficient reasoning."
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5wcnz/new_model_from_telperion_qwen3827bmla"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5wcnz/new_model_from_telperion_qwen3827bmla"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

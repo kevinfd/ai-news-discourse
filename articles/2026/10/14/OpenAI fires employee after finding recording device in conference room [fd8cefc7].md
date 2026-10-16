@@ -2,6 +2,7 @@
 id: "fd8cefc78844ed43"
 title: "OpenAI fires employee after finding recording device in conference room"
 url: "https://thehindu.com/sci-tech/technology/openai-fires-employee-after-finding-recording-device-in-conference-room/article71582204.ece"
+link: "https://thehindu.com/sci-tech/technology/openai-fires-employee-after-finding-recording-device-in-conference-room/article71582204.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

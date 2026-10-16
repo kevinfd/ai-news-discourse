@@ -2,6 +2,7 @@
 id: "dca66b60a90d408a"
 title: "Private, offline and yours: how to search the literature with local AI systems"
 url: "https://nature.com/articles/d41586-026-03227-4"
+link: "https://nature.com/articles/d41586-026-03227-4"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

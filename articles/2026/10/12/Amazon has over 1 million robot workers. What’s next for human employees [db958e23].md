@@ -2,6 +2,7 @@
 id: "db958e2353fb73d9"
 title: "Amazon has over 1 million robot workers. What’s next for human employees?"
 url: "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work"
+link: "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

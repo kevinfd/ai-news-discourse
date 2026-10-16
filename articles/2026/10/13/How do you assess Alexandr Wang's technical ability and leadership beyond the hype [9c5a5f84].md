@@ -2,6 +2,7 @@
 id: "9c5a5f8480901d0f"
 title: "How do you assess Alexandr Wang's technical ability and leadership beyond the hype?"
 url: "https://reddit.com/r/artificial/comments/1x57qox/how_do_you_assess_alexandr_wangs_technical"
+link: "https://reddit.com/r/artificial/comments/1x57qox/how_do_you_assess_alexandr_wangs_technical"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

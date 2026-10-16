@@ -2,6 +2,7 @@
 id: "21ec8c8a5a141b80"
 title: "Google’s Gemini 4 Argon Launch Puts A Deadline On Its Price Advantage"
 url: "https://forbes.com/sites/gabrielalinzainescu/2026/10/14/googles-gemini-4-argon-launch-puts-a-deadline-on-its-price-advantage"
+link: "https://forbes.com/sites/gabrielalinzainescu/2026/10/14/googles-gemini-4-argon-launch-puts-a-deadline-on-its-price-advantage"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

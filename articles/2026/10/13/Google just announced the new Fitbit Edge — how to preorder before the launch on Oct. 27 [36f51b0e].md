@@ -2,6 +2,7 @@
 id: "36f51b0e6abfa08a"
 title: "Google just announced the new Fitbit Edge — how to preorder before the launch on Oct. 27"
 url: "https://mashable.com/tech/fitbit-edge-launch-preorder-where-to-buy"
+link: "https://mashable.com/tech/fitbit-edge-launch-preorder-where-to-buy"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

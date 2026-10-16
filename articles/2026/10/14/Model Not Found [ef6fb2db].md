@@ -2,6 +2,7 @@
 id: "ef6fb2db8d315109"
 title: "Model Not Found"
 url: "https://reddit.com/r/ChatGPT/comments/1x64mft/model_not_found"
+link: "https://reddit.com/r/ChatGPT/comments/1x64mft/model_not_found"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "8c286df7888a82e9"
 title: "Russia was not ready for the data center war it started with Ukraine"
 url: "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine"
+link: "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

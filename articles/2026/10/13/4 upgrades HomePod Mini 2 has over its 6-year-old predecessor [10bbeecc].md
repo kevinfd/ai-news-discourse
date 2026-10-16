@@ -2,6 +2,7 @@
 id: "10bbeecc852c8bc9"
 title: "4 upgrades HomePod Mini 2 has over its 6-year-old predecessor"
 url: "https://zdnet.com/home-and-office/upgrades-homepod-mini-2026-has-over-predecessor"
+link: "https://zdnet.com/home-and-office/upgrades-homepod-mini-2026-has-over-predecessor"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

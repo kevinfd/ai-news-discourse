@@ -2,6 +2,7 @@
 id: "01a5bbb036e09be4"
 title: "Alberta Techs most important creator tool might be curiosity"
 url: "https://mashable.com/life/alberta-tech-creator-tools-essentials"
+link: "https://mashable.com/life/alberta-tech-creator-tools-essentials"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

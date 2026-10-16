@@ -2,6 +2,7 @@
 id: "e9b00106cdacb84d"
 title: "Show HN: Mira, AI Walking Tours"
 url: "https://mira.tours/wander"
+link: "https://mira.tours/wander"
 source: "Mira Tours"
 domain: "mira.tours"
 source_type: "community"

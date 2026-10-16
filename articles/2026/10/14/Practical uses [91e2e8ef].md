@@ -2,6 +2,7 @@
 id: "91e2e8eff12735b9"
 title: "Practical uses?"
 url: "https://reddit.com/r/artificial/comments/1x64xe6/practical_uses"
+link: "https://reddit.com/r/artificial/comments/1x64xe6/practical_uses"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

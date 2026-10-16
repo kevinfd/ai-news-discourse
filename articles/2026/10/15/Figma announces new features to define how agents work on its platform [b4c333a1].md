@@ -2,6 +2,7 @@
 id: "b4c333a1fc01f38b"
 title: "Figma announces new features to define how agents work on its platform"
 url: "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform"
+link: "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

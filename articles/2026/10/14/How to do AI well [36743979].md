@@ -2,6 +2,7 @@
 id: "36743979cabab5d6"
 title: "How to do AI well"
 url: "https://ft.com/content/71a46593-e922-428d-9e62-3827c5bfb8a8?syn-25a6b1a6=1"
+link: "https://ft.com/content/71a46593-e922-428d-9e62-3827c5bfb8a8?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

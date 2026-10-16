@@ -2,6 +2,7 @@
 id: "d91ead6950e7810d"
 title: "Anthropic's Scion is heavily inspired by Mononoke"
 url: "https://sunshowers.io/posts/anthropic-mononoke"
+link: "https://sunshowers.io/posts/anthropic-mononoke"
 source: "Anthropic's Scion is heavily inspired by Mononoke"
 domain: "sunshowers.io"
 source_type: "community"

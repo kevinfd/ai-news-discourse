@@ -2,6 +2,7 @@
 id: "80c24ea332dfbb83"
 title: "The Midterms Are Just Weeks Away: How to Spot Election Deepfakes and Scams"
 url: "https://cnet.com/tech/services-and-software/spot-2026-midterm-election-deepfakes-scams"
+link: "https://cnet.com/tech/services-and-software/spot-2026-midterm-election-deepfakes-scams"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

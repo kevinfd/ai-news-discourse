@@ -2,6 +2,7 @@
 id: "125b0712705bbea2"
 title: "Can China match up with Meta’s Muse in race to harness AI agents?"
 url: "https://scmp.com/tech/big-tech/article/3370123/can-china-match-metas-muse-race-harness-ai-agents"
+link: "https://scmp.com/tech/big-tech/article/3370123/can-china-match-metas-muse-race-harness-ai-agents"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

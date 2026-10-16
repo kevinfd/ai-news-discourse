@@ -2,6 +2,7 @@
 id: "b79f31708c728e63"
 title: "Smoking now, cured by AGI later �"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x534f6/smoking_now_cured_by_agi_later"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x534f6/smoking_now_cured_by_agi_later"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

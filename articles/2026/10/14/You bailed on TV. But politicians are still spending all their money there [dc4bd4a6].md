@@ -2,6 +2,7 @@
 id: "dc4bd4a6c33f47d2"
 title: "You bailed on TV. But politicians are still spending all their money there."
 url: "https://businessinsider.com/political-campaign-2026-spending-internet-digital-tv-rob-flaherty-kafka-2026-10"
+link: "https://businessinsider.com/political-campaign-2026-spending-internet-digital-tv-rob-flaherty-kafka-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

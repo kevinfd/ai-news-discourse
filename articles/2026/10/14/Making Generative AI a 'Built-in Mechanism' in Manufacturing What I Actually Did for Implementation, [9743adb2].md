@@ -2,6 +2,7 @@
 id: "9743adb238e55f7d"
 title: "Making Generative AI a 'Built-in Mechanism' in Manufacturing: What I Actually Did for Implementation, Training, and Adoption"
 url: "https://note.com/genba_engine/n/n0f3ff0ccd1be?hl=en"
+link: "https://note.com/genba_engine/n/n0f3ff0ccd1be?hl=en"
 source: "note"
 domain: "note.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "35059ea4feaa1298"
 title: "I don’t miss the camera on the Ray-Ban Meta Audio glasses"
 url: "https://theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables"
+link: "https://theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

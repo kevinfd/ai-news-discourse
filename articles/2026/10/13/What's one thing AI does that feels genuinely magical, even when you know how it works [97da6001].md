@@ -2,6 +2,7 @@
 id: "97da600111af9f2d"
 title: "What's one thing AI does that feels genuinely magical, even when you know how it works?"
 url: "https://reddit.com/r/artificial/comments/1x5cbx4/whats_one_thing_ai_does_that_feels_genuinely"
+link: "https://reddit.com/r/artificial/comments/1x5cbx4/whats_one_thing_ai_does_that_feels_genuinely"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

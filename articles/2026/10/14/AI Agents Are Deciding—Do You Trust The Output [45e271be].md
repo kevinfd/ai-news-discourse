@@ -2,6 +2,7 @@
 id: "45e271bef9ec948a"
 title: "AI Agents Are Deciding—Do You Trust The Output?"
 url: "https://forbes.com/councils/forbestechcouncil/2026/10/14/ai-agents-are-deciding-do-you-trust-the-output"
+link: "https://forbes.com/councils/forbestechcouncil/2026/10/14/ai-agents-are-deciding-do-you-trust-the-output"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

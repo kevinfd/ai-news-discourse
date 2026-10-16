@@ -2,6 +2,7 @@
 id: "85eff3c1d62654ba"
 title: "China’s AI chipmaker Biren tumbles 12% as it seeks US$510 million in share placement"
 url: "https://scmp.com/tech/tech-trends/article/3370177/chinas-ai-chipmaker-biren-tumbles-12-it-seeks-us510-million-share-placement"
+link: "https://scmp.com/tech/tech-trends/article/3370177/chinas-ai-chipmaker-biren-tumbles-12-it-seeks-us510-million-share-placement"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

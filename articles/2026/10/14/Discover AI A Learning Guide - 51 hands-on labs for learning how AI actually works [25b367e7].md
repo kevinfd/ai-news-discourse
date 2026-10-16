@@ -2,6 +2,7 @@
 id: "25b367e79196409d"
 title: "Discover AI: A Learning Guide - 51 hands-on labs for learning how AI actually works."
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5ft3e/discover_ai_a_learning_guide_51_handson_labs_for"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5ft3e/discover_ai_a_learning_guide_51_handson_labs_for"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

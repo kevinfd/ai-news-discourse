@@ -2,6 +2,7 @@
 id: "cd11e5f3e071ca8e"
 title: "Claude CoWork for Local LLMs that runs on your Phone"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5bawd/claude_cowork_for_local_llms_that_runs_on_your"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5bawd/claude_cowork_for_local_llms_that_runs_on_your"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

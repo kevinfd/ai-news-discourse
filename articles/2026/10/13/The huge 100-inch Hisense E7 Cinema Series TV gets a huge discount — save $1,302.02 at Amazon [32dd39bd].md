@@ -2,6 +2,7 @@
 id: "32dd39bdb4238798"
 title: "The huge 100-inch Hisense E7 Cinema Series TV gets a huge discount — save $1,302.02 at Amazon"
 url: "https://mashable.com/tech/oct-13-hisense-e7-100-inch-amazon-live-deal"
+link: "https://mashable.com/tech/oct-13-hisense-e7-100-inch-amazon-live-deal"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

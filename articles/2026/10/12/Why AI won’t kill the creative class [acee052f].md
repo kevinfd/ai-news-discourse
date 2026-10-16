@@ -2,6 +2,7 @@
 id: "acee052f465ae705"
 title: "Why AI won’t kill the creative class"
 url: "https://ft.com/content/f17779e4-adcd-46af-9fe5-3ede05833058"
+link: "https://ft.com/content/f17779e4-adcd-46af-9fe5-3ede05833058"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

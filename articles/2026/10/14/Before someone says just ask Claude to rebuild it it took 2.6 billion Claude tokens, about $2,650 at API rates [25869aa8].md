@@ -2,6 +2,7 @@
 id: "25869aa8b5a68140"
 title: "Before someone says \"just ask Claude to rebuild it\": it took 2.6 billion Claude tokens, about $2,650 at API rates"
 url: "https://reddit.com/r/ClaudeAI/comments/1x660qx/before_someone_says_just_ask_claude_to_rebuild_it"
+link: "https://reddit.com/r/ClaudeAI/comments/1x660qx/before_someone_says_just_ask_claude_to_rebuild_it"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

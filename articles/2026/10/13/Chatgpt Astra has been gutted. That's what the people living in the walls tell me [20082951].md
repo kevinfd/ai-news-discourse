@@ -2,6 +2,7 @@
 id: "20082951f3091111"
 title: "Chatgpt Astra has been gutted. That's what the people living in the walls tell me."
 url: "https://reddit.com/r/ChatGPT/comments/1x51o4q/chatgpt_astra_has_been_gutted_thats_what_the"
+link: "https://reddit.com/r/ChatGPT/comments/1x51o4q/chatgpt_astra_has_been_gutted_thats_what_the"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

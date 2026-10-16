@@ -2,6 +2,7 @@
 id: "1509d3d26ab55bf1"
 title: "AI’s quiet safety gatekeepers are stepping into the spotlight"
 url: "https://cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html"
+link: "https://cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

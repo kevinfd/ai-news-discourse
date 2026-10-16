@@ -2,6 +2,7 @@
 id: "a6fee1f87a28ef3b"
 title: "AI is less regulated than milk, says Microsoft president"
 url: "https://bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_campaign=rss&at_medium=RSS"
+link: "https://bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_campaign=rss&at_medium=RSS"
 source: "BBC News"
 domain: "bbc.co.uk"
 source_type: "mainstream_news"

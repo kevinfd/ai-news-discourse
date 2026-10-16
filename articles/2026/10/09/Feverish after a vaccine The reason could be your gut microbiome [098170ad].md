@@ -2,6 +2,7 @@
 id: "098170ad64bc9856"
 title: "Feverish after a vaccine? The reason could be your gut microbiome"
 url: "https://scientificamerican.com/article/feverish-after-a-vaccine-the-reason-could-be-your-gut-microbiome"
+link: "https://scientificamerican.com/article/feverish-after-a-vaccine-the-reason-could-be-your-gut-microbiome"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "ddf99044ad57c7e3"
 title: "Grok Voice 3.0 from SpaceXSI outscores OpenAI and Google on speech-to-speech index"
 url: "https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index"
+link: "https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index"
 source: "SiliconANGLE"
 domain: "siliconangle.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "2dc3c67d4a771146"
 title: "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos"
 url: "https://cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html"
+link: "https://cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

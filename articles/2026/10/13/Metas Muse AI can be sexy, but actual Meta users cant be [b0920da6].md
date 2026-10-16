@@ -2,6 +2,7 @@
 id: "b0920da620b966b4"
 title: "Metas Muse AI can be sexy, but actual Meta users cant be"
 url: "https://mashable.com/life/meta-muse-ai-can-be-sexy-but-actual-meta-users-cant-be"
+link: "https://mashable.com/life/meta-muse-ai-can-be-sexy-but-actual-meta-users-cant-be"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

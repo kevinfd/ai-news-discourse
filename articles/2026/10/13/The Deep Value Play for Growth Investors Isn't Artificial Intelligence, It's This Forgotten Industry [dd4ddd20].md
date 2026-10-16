@@ -2,6 +2,7 @@
 id: "dd4ddd204cb9ebb3"
 title: "The Deep Value Play for Growth Investors Isn't Artificial Intelligence, It's This Forgotten Industry"
 url: "https://fool.com/investing/2026/10/13/the-deep-value-play-for-growth-investors-isn-t-artificial-intelligence-it-s-this-forgotten-industry"
+link: "https://fool.com/investing/2026/10/13/the-deep-value-play-for-growth-investors-isn-t-artificial-intelligence-it-s-this-forgotten-industry"
 source: "The Motley Fool"
 domain: "fool.com"
 source_type: "mainstream_news"

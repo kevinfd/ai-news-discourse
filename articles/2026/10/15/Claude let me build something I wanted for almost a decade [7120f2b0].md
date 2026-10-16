@@ -2,6 +2,7 @@
 id: "7120f2b028d13748"
 title: "Claude let me build something I wanted for almost a decade"
 url: "https://reddit.com/r/ClaudeAI/comments/1x6hef5/claude_let_me_build_something_i_wanted_for_almost"
+link: "https://reddit.com/r/ClaudeAI/comments/1x6hef5/claude_let_me_build_something_i_wanted_for_almost"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

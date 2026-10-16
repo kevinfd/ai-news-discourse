@@ -2,6 +2,7 @@
 id: "ba09de56afc4cb93"
 title: "Cramer’s week ahead: Earnings kick off as banks and chipmakers face big tests"
 url: "https://cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html"
+link: "https://cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "3795d5ac8e2c5364"
 title: "The Story Behind “Video as Code”"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4jf0z/the_story_behind_video_as_code"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4jf0z/the_story_behind_video_as_code"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

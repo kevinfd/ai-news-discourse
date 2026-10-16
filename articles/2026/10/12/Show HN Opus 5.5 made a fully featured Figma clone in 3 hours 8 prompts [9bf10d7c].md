@@ -2,6 +2,7 @@
 id: "9bf10d7cab68f7ac"
 title: "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts"
 url: "https://mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch"
+link: "https://mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch"
 source: "Mana"
 domain: "mana.space"
 source_type: "community"

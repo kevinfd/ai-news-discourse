@@ -2,6 +2,7 @@
 id: "977b7cb38dcab871"
 title: "ArtCraft – Controllable AI for Artists"
 url: "https://getartcraft.com"
+link: "https://getartcraft.com"
 source: "ArtCraft"
 domain: "getartcraft.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "95eb7feac0e53b0f"
 title: "Goodwill Keystone AI summit explores how to help people find jobs in PA"
 url: "https://local21news.com/news/local/goodwill-keystone-ai-summit-explores-how-it-can-help-pa-people-to-find-jobs-pennsylvania-pa-openai-ai-microsoft-internet-goodwill-keystone-commonwealth-local-impact-statewide-jobs"
+link: "https://local21news.com/news/local/goodwill-keystone-ai-summit-explores-how-it-can-help-pa-people-to-find-jobs-pennsylvania-pa-openai-ai-microsoft-internet-goodwill-keystone-commonwealth-local-impact-statewide-jobs"
 source: "WHP CBS 21"
 domain: "local21news.com"
 source_type: "mainstream_news"

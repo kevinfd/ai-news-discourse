@@ -2,6 +2,7 @@
 id: "d78bb69c492519f9"
 title: "Quoting The New York Times"
 url: "https://simonwillison.net/2026/Oct/10/the-new-york-times"
+link: "https://simonwillison.net/2026/Oct/10/the-new-york-times"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

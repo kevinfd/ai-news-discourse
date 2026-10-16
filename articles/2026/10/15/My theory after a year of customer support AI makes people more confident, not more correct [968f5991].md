@@ -2,6 +2,7 @@
 id: "968f59917669c498"
 title: "My theory after a year of customer support: AI makes people more confident, not more correct"
 url: "https://reddit.com/r/artificial/comments/1x6g2x1/my_theory_after_a_year_of_customer_support_ai"
+link: "https://reddit.com/r/artificial/comments/1x6g2x1/my_theory_after_a_year_of_customer_support_ai"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

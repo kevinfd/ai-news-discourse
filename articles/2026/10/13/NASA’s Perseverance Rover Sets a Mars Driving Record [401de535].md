@@ -2,6 +2,7 @@
 id: "401de5352840a289"
 title: "NASA’s Perseverance Rover Sets a Mars Driving Record"
 url: "https://nytimes.com/2026/10/12/science/mars-rover-sets-record.html"
+link: "https://nytimes.com/2026/10/12/science/mars-rover-sets-record.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

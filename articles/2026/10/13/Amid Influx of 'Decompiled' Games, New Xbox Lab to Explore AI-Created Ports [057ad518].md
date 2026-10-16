@@ -2,6 +2,7 @@
 id: "057ad5183a613bda"
 title: "Amid Influx of 'Decompiled' Games, New Xbox Lab to Explore AI-Created Ports"
 url: "https://pcmag.com/news/amid-influx-of-decompiled-games-new-xbox-lab-to-explore-ai-created-ports"
+link: "https://pcmag.com/news/amid-influx-of-decompiled-games-new-xbox-lab-to-explore-ai-created-ports"
 source: "PCMag"
 domain: "pcmag.com"
 source_type: "tech_press"

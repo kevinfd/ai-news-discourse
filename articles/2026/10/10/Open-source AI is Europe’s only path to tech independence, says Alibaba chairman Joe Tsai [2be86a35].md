@@ -2,6 +2,7 @@
 id: "2be86a3597841eab"
 title: "Open-source AI is Europe’s only path to tech independence, says Alibaba chairman Joe Tsai"
 url: "https://scmp.com/tech/tech-trends/article/3370428/open-source-ai-europes-only-path-tech-independence-says-alibaba-chairman-joe-tsai"
+link: "https://scmp.com/tech/tech-trends/article/3370428/open-source-ai-europes-only-path-tech-independence-says-alibaba-chairman-joe-tsai"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

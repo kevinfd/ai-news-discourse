@@ -2,6 +2,7 @@
 id: "3a893ffe542cce56"
 title: "AI Race Puts $3.5 Trillion at Write-Down Risk, Gartner Warns"
 url: "https://bloomberg.com/news/articles/2026-10-15/ai-race-puts-3-5-trillion-at-write-down-risk-gartner-warns"
+link: "https://bloomberg.com/news/articles/2026-10-15/ai-race-puts-3-5-trillion-at-write-down-risk-gartner-warns"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "362cf086e8bada39"
 title: "Someone used Claude to get a years-old pothole fixed in two days"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4s9hp/someone_used_claude_to_get_a_yearsold_pothole"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4s9hp/someone_used_claude_to_get_a_yearsold_pothole"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

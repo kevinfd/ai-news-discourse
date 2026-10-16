@@ -2,6 +2,7 @@
 id: "f858e1e92d74045f"
 title: "Deezer will let listeners completely filter out AI music"
 url: "https://engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music"
+link: "https://engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

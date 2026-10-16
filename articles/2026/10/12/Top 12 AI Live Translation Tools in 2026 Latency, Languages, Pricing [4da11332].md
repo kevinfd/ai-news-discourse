@@ -2,6 +2,7 @@
 id: "4da11332eb1de378"
 title: "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing"
 url: "https://marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026"
+link: "https://marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

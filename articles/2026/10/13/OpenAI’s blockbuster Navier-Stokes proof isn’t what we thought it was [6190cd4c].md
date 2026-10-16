@@ -2,6 +2,7 @@
 id: "6190cd4c053a94a0"
 title: "OpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was"
 url: "https://scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was"
+link: "https://scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

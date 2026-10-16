@@ -2,6 +2,7 @@
 id: "8b06235023b659f7"
 title: "OpenAI is suddenly using 100x more nonhuman workers than they were 9 months ago"
 url: "https://reddit.com/r/ChatGPT/comments/1x6ebqj/openai_is_suddenly_using_100x_more_nonhuman"
+link: "https://reddit.com/r/ChatGPT/comments/1x6ebqj/openai_is_suddenly_using_100x_more_nonhuman"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

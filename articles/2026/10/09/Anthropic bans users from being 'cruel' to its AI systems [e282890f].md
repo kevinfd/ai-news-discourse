@@ -2,6 +2,7 @@
 id: "e282890f66fe6259"
 title: "Anthropic bans users from being 'cruel' to its AI systems"
 url: "https://bbc.com/news/articles/c6j9k1l72wkgo"
+link: "https://bbc.com/news/articles/c6j9k1l72wkgo"
 source: "BBC News"
 domain: "bbc.com"
 source_type: "community"

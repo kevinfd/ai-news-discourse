@@ -2,6 +2,7 @@
 id: "224c102190be4dc2"
 title: "AI models can provably hide arbitrary capabilities"
 url: "https://arxiv.org/abs/2610.13928"
+link: "https://arxiv.org/abs/2610.13928"
 source: "arXiv"
 domain: "arxiv.org"
 source_type: "community"

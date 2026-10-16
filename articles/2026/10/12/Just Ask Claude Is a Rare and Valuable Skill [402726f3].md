@@ -2,6 +2,7 @@
 id: "402726f30a4c69fd"
 title: "\"Just Ask Claude\" Is a Rare and Valuable Skill"
 url: "https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable"
+link: "https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable"
 source: "Substack"
 domain: "justismills.substack.com"
 source_type: "community"

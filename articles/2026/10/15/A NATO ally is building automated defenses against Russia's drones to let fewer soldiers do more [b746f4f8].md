@@ -2,6 +2,7 @@
 id: "b746f4f89a775d28"
 title: "A NATO ally is building automated defenses against Russia's drones to let fewer soldiers do more"
 url: "https://businessinsider.com/nato-latvia-anti-drone-russia-border-one-job-for-soldiers-2026-10"
+link: "https://businessinsider.com/nato-latvia-anti-drone-russia-border-one-job-for-soldiers-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

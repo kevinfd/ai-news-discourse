@@ -2,6 +2,7 @@
 id: "8ad1969e4f569b40"
 title: "MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology"
 url: "https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013"
+link: "https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013"
 source: "MIT News"
 domain: "news.mit.edu"
 source_type: "research"

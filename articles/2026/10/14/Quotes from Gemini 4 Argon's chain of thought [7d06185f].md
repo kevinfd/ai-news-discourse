@@ -2,6 +2,7 @@
 id: "7d06185f52ce381a"
 title: "Quotes from Gemini 4 Argon's chain of thought"
 url: "https://reddit.com/r/singularity/comments/1x5mljk/quotes_from_gemini_4_argons_chain_of_thought"
+link: "https://reddit.com/r/singularity/comments/1x5mljk/quotes_from_gemini_4_argons_chain_of_thought"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "8c4de47ace8975db"
 title: "Linux founder Linus Torvalds says AI is a “gateway drug” into programming — but cautions about using AI for “serious” work"
 url: "https://tech.yahoo.com/ai/articles/linux-founder-linus-torvalds-says-103004221.html"
+link: "https://tech.yahoo.com/ai/articles/linux-founder-linus-torvalds-says-103004221.html"
 source: "Yahoo Tech"
 domain: "tech.yahoo.com"
 source_type: "community"

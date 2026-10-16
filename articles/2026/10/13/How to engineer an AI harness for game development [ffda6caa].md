@@ -2,6 +2,7 @@
 id: "ffda6caad408176b"
 title: "How to engineer an AI harness for game development"
 url: "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
+link: "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
 source: "kylekukshtel.com"
 domain: "kylekukshtel.com"
 source_type: "community"

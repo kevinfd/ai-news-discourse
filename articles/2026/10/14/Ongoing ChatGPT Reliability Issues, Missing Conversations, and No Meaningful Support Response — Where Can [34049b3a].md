@@ -2,6 +2,7 @@
 id: "34049b3a9527c896"
 title: "Ongoing ChatGPT Reliability Issues, Missing Conversations, and No Meaningful Support Response — Where Can Users Turn?"
 url: "https://reddit.com/r/ChatGPT/comments/1x5unl5/ongoing_chatgpt_reliability_issues_missing"
+link: "https://reddit.com/r/ChatGPT/comments/1x5unl5/ongoing_chatgpt_reliability_issues_missing"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

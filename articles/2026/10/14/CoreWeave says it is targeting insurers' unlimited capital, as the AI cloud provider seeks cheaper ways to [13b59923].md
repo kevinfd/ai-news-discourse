@@ -2,6 +2,7 @@
 id: "13b59923cf06b7d4"
 title: "CoreWeave says it is targeting insurers' \"unlimited\" capital, as the AI cloud provider seeks cheaper ways to fund the tens of billions it is spending on chips (Ryan McMorrow/Financial Times)"
 url: "https://techmeme.com/261014/p8"
+link: "https://techmeme.com/261014/p8"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "782e7cf07f6ad66a"
 title: "Microsoft Makes Copilot 4 Times Faster While Cutting Token Usage by 30%"
 url: "https://windowsreport.com/microsoft-makes-copilot-4-times-faster-while-cutting-token-usage-by-30"
+link: "https://windowsreport.com/microsoft-makes-copilot-4-times-faster-while-cutting-token-usage-by-30"
 source: "Windows Report"
 domain: "windowsreport.com"
 source_type: "mainstream_news"

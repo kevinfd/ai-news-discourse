@@ -2,6 +2,7 @@
 id: "8b0463614a7b86fd"
 title: "Gemini 4 Argon for Robotics"
 url: "https://deepmind.google/blog/gemini-4-argon-for-robotics"
+link: "https://deepmind.google/blog/gemini-4-argon-for-robotics"
 source: "Google DeepMind"
 domain: "deepmind.google"
 source_type: "company_blog"

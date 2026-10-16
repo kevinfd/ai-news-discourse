@@ -2,6 +2,7 @@
 id: "18965d2f0939bad0"
 title: "Epic Games Delays Disney Project, Asks Developers to Use More AI"
 url: "https://bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai"
+link: "https://bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "community"

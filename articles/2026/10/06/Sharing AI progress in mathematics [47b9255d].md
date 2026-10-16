@@ -2,6 +2,7 @@
 id: "47b9255d8fa0f8e8"
 title: "Sharing AI progress in mathematics"
 url: "https://openai.com/index/sharing-ai-progress-in-mathematics"
+link: "https://openai.com/index/sharing-ai-progress-in-mathematics"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "community"

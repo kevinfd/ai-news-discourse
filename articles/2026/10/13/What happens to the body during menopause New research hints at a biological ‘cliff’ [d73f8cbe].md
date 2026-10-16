@@ -2,6 +2,7 @@
 id: "d73f8cbe00eccf6e"
 title: "What happens to the body during menopause? New research hints at a biological ‘cliff’"
 url: "https://scientificamerican.com/article/what-happens-to-the-body-during-menopause-new-research-hints-at-a-biological-cliff"
+link: "https://scientificamerican.com/article/what-happens-to-the-body-during-menopause-new-research-hints-at-a-biological-cliff"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

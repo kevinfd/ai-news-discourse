@@ -2,6 +2,7 @@
 id: "66f8ff045637a6e1"
 title: "Show HN: DocFlare AI – Open-source docs chatbot on Cloudflare's free tier"
 url: "https://github.com/p10node/docflare-ai"
+link: "https://github.com/p10node/docflare-ai"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

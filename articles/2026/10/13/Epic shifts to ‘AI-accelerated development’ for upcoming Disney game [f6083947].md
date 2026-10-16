@@ -2,6 +2,7 @@
 id: "f608394757dec8f6"
 title: "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game"
 url: "https://theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
+link: "https://theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

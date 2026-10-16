@@ -2,6 +2,7 @@
 id: "fe2c5637b529c1a4"
 title: "6 Powerful Microsoft Copilot in Excel Use Cases & Workflow Examples"
 url: "https://geeky-gadgets.com/copilot-in-excel-use-cases"
+link: "https://geeky-gadgets.com/copilot-in-excel-use-cases"
 source: "Geeky Gadgets"
 domain: "geeky-gadgets.com"
 source_type: "mainstream_news"

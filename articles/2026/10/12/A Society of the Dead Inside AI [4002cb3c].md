@@ -2,6 +2,7 @@
 id: "4002cb3c6467b7c2"
 title: "A Society of the Dead Inside AI"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4hrj3/a_society_of_the_dead_inside_ai"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4hrj3/a_society_of_the_dead_inside_ai"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

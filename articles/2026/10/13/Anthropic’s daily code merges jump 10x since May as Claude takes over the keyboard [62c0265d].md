@@ -2,6 +2,7 @@
 id: "62c0265d93e6107f"
 title: "Anthropic’s daily code merges jump 10x since May as Claude takes over the keyboard"
 url: "https://cryptobriefing.com/anthropic-code-merges-10x-scion-git"
+link: "https://cryptobriefing.com/anthropic-code-merges-10x-scion-git"
 source: "Crypto Briefing"
 domain: "cryptobriefing.com"
 source_type: "mainstream_news"

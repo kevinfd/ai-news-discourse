@@ -2,6 +2,7 @@
 id: "9e64bbec630e9648"
 title: "Tesla's 'Security Protocols' Stopped DHS From Installing a Tracking Device"
 url: "https://404media.co/teslas-security-protocols-stopped-dhs-from-installing-a-tracking-device"
+link: "https://404media.co/teslas-security-protocols-stopped-dhs-from-installing-a-tracking-device"
 source: "404 Media"
 domain: "404media.co"
 source_type: "tech_press"

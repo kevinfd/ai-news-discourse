@@ -2,6 +2,7 @@
 id: "9ca2bcd34e5443c6"
 title: "Janas: Run LLMs larger than RAM by streaming experts from SSD"
 url: "https://github.com/prabanta-dev/janas"
+link: "https://github.com/prabanta-dev/janas"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

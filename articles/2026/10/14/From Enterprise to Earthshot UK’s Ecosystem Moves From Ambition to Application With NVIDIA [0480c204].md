@@ -2,6 +2,7 @@
 id: "0480c20408dda17d"
 title: "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA"
 url: "https://blogs.nvidia.com/blog/uk-ecosystem-deployment"
+link: "https://blogs.nvidia.com/blog/uk-ecosystem-deployment"
 source: "NVIDIA Blog"
 domain: "blogs.nvidia.com"
 source_type: "company_blog"

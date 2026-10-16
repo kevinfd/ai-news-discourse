@@ -2,6 +2,7 @@
 id: "3231ac57ab2814ef"
 title: "Amkor Technology: Improving Fundamentals At A Discounted Valuation"
 url: "https://seekingalpha.com/article/4953993-amkor-technology-improving-fundamentals-at-a-discounted-valuation"
+link: "https://seekingalpha.com/article/4953993-amkor-technology-improving-fundamentals-at-a-discounted-valuation"
 source: "Seeking Alpha"
 domain: "seekingalpha.com"
 source_type: "mainstream_news"

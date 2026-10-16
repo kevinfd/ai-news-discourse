@@ -2,6 +2,7 @@
 id: "bc70a1f90f62354d"
 title: "OpenAI’s Math Breakthroughs Rattle Cryptography Leaders"
 url: "https://theinformation.com/articles/openais-math-breakthroughs-rattle-cryptography-leaders"
+link: "https://theinformation.com/articles/openais-math-breakthroughs-rattle-cryptography-leaders"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

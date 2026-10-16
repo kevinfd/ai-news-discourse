@@ -2,6 +2,7 @@
 id: "e71492864771341b"
 title: "Anthropic tells investors its quarterly revenue jumped 50%"
 url: "https://ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1"
+link: "https://ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

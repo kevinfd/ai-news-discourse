@@ -2,6 +2,7 @@
 id: "87b55c38c6888bdb"
 title: "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university"
 url: "https://statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026"
+link: "https://statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026"
 source: "STAT News"
 domain: "statnews.com"
 source_type: "mainstream_news"

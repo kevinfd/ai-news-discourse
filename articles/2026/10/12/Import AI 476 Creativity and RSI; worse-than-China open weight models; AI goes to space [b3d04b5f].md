@@ -2,6 +2,7 @@
 id: "b3d04b5f805f38bf"
 title: "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space"
 url: "https://importai.substack.com/p/import-ai-476-creativity-and-rsi"
+link: "https://importai.substack.com/p/import-ai-476-creativity-and-rsi"
 source: "Import AI"
 domain: "importai.substack.com"
 source_type: "newsletter"

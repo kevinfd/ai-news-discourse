@@ -2,6 +2,7 @@
 id: "cb4fbcc7149b4fa4"
 title: "SMBs Will Drive Next Boom — Perplexity CEO Aravind Srinivas: Small Companies + AI-Native = Huge Money, No Fortune 500 Logos Needed"
 url: "https://reddit.com/r/artificial/comments/1x5htm0/smbs_will_drive_next_boom_perplexity_ceo_aravind"
+link: "https://reddit.com/r/artificial/comments/1x5htm0/smbs_will_drive_next_boom_perplexity_ceo_aravind"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

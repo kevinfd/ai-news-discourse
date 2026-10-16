@@ -2,6 +2,7 @@
 id: "6961810aeae66ad6"
 title: "IMF warns global economy ‘could soon test the limits of resilience’"
 url: "https://theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026"
+link: "https://theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

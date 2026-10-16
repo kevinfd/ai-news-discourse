@@ -2,6 +2,7 @@
 id: "79b9c8a98629291e"
 title: "Ben Affleck is an AI nerd"
 url: "https://twitter.com/rohanpaul_ai/status/2105786881111896126"
+link: "https://twitter.com/rohanpaul_ai/status/2105786881111896126"
 source: "Twitter"
 domain: "twitter.com"
 source_type: "community"

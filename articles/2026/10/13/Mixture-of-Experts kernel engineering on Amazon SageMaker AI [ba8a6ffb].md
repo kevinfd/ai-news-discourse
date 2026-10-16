@@ -2,6 +2,7 @@
 id: "ba8a6ffbbe0f7640"
 title: "Mixture-of-Experts kernel engineering on Amazon SageMaker AI"
 url: "https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai"
+link: "https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

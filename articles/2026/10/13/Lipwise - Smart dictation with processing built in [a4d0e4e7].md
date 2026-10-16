@@ -2,6 +2,7 @@
 id: "a4d0e4e7a258fc74"
 title: "Lipwise - Smart dictation with processing built in"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x4x5vm/lipwise_smart_dictation_with_processing_built_in"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x4x5vm/lipwise_smart_dictation_with_processing_built_in"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

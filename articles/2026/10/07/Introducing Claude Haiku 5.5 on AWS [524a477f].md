@@ -2,6 +2,7 @@
 id: "524a477f27093a95"
 title: "Introducing Claude Haiku 5.5 on AWS"
 url: "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws"
+link: "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

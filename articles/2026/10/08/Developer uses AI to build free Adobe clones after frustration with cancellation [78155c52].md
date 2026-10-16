@@ -2,6 +2,7 @@
 id: "78155c52b0aa8d99"
 title: "Developer uses AI to build free Adobe clones after frustration with cancellation"
 url: "https://techspot.com/news/114136-software-over-developer-uses-ai-build-free-adobe.html"
+link: "https://techspot.com/news/114136-software-over-developer-uses-ai-build-free-adobe.html"
 source: "Techspot"
 domain: "techspot.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "bccbd36002111eba"
 title: "Voting on Features: Federated Feature Selection Without Sharing Data"
 url: "https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data"
+link: "https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data"
 source: "Towards Data Science"
 domain: "towardsdatascience.com"
 source_type: "newsletter"

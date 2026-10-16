@@ -2,6 +2,7 @@
 id: "390937ee030904d1"
 title: "On dating apps, men use AI to put their best face forward"
 url: "https://cbsnews.com/news/dating-apps-ai-photos-authenticity"
+link: "https://cbsnews.com/news/dating-apps-ai-photos-authenticity"
 source: "CBS News"
 domain: "cbsnews.com"
 source_type: "mainstream_news"

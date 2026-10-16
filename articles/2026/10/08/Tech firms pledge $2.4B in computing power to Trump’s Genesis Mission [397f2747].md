@@ -2,6 +2,7 @@
 id: "397f274718fc67ff"
 title: "Tech firms pledge $2.4B in computing power to Trump’s Genesis Mission"
 url: "https://politico.com/news/2026/10/08/tech-firms-pledge-2-4-billion-in-computing-power-to-trumps-genesis-mission-01111708"
+link: "https://politico.com/news/2026/10/08/tech-firms-pledge-2-4-billion-in-computing-power-to-trumps-genesis-mission-01111708"
 source: "Politico"
 domain: "politico.com"
 source_type: "mainstream_news"

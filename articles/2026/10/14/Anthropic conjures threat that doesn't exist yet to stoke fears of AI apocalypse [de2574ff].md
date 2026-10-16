@@ -2,6 +2,7 @@
 id: "de2574ffe05a1c8f"
 title: "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse"
 url: "https://theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866"
+link: "https://theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866"
 source: "The Register"
 domain: "theregister.com"
 source_type: "community"

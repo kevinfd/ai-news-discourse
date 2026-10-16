@@ -2,6 +2,7 @@
 id: "83b9a2e31e6e9168"
 title: "WindBorne wins a hefty US Air Force contract for its balloon data"
 url: "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data"
+link: "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

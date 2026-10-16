@@ -2,6 +2,7 @@
 id: "c06a934276cf5bae"
 title: "Facebook is giving users more control over their algorithm"
 url: "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm"
+link: "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

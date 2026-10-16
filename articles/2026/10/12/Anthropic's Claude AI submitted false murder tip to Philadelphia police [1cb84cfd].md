@@ -2,6 +2,7 @@
 id: "1cb84cfd891ad0c0"
 title: "Anthropic's Claude AI submitted false murder tip to Philadelphia police"
 url: "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police"
+link: "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

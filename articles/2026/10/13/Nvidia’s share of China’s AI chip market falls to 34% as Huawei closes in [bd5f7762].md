@@ -2,6 +2,7 @@
 id: "bd5f7762ca151bab"
 title: "Nvidia’s share of China’s AI chip market falls to 34% as Huawei closes in"
 url: "https://cryptobriefing.com/nvidia-china-market-share-falls-huawei"
+link: "https://cryptobriefing.com/nvidia-china-market-share-falls-huawei"
 source: "Crypto Briefing"
 domain: "cryptobriefing.com"
 source_type: "mainstream_news"

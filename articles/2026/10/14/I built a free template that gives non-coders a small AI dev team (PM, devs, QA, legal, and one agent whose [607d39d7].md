@@ -2,6 +2,7 @@
 id: "607d39d77efbeb77"
 title: "I built a free template that gives non-coders a small AI dev team (PM, devs, QA, legal, and one agent whose job is cutting your AI bill)"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5nrel/i_built_a_free_template_that_gives_noncoders_a"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5nrel/i_built_a_free_template_that_gives_noncoders_a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "a0839e2334709927"
 title: "Normalizing Trajectory Models"
 url: "https://machinelearning.apple.com/research/normalizing-trajectory-models"
+link: "https://machinelearning.apple.com/research/normalizing-trajectory-models"
 source: "Apple Machine Learning Research"
 domain: "machinelearning.apple.com"
 source_type: "research"

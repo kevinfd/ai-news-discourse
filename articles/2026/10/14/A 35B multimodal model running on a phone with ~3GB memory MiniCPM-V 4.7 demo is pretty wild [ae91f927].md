@@ -2,6 +2,7 @@
 id: "ae91f927c146036b"
 title: "A 35B multimodal model running on a phone with ~3GB memory? MiniCPM-V 4.7 demo is pretty wild"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5uwnd/a_35b_multimodal_model_running_on_a_phone_with"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5uwnd/a_35b_multimodal_model_running_on_a_phone_with"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

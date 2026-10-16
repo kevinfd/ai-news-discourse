@@ -2,6 +2,7 @@
 id: "16fdc57cac68d72f"
 title: "Tech market sell-off deepens amid fears over US inflation and AI debt"
 url: "https://theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt"
+link: "https://theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

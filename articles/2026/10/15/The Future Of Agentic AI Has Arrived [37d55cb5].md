@@ -2,6 +2,7 @@
 id: "37d55cb539189667"
 title: "The Future Of Agentic AI Has Arrived"
 url: "https://forbes.com/sites/stevebanker/2026/10/15/the-future-of-agentic-ai-has-arrived"
+link: "https://forbes.com/sites/stevebanker/2026/10/15/the-future-of-agentic-ai-has-arrived"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

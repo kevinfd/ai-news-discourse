@@ -2,6 +2,7 @@
 id: "64c57b6d512c3c32"
 title: "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe"
 url: "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe"
+link: "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe"
 source: "Decrypt"
 domain: "decrypt.co"
 source_type: "community"

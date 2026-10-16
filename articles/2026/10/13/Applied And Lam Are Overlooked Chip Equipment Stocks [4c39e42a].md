@@ -2,6 +2,7 @@
 id: "4c39e42a34803e4d"
 title: "Applied And Lam Are Overlooked Chip Equipment Stocks"
 url: "https://theinformation.com/articles/applied-lam-overlooked-chip-equipment-stocks"
+link: "https://theinformation.com/articles/applied-lam-overlooked-chip-equipment-stocks"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

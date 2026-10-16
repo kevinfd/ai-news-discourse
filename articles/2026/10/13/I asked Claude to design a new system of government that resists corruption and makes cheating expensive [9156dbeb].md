@@ -2,6 +2,7 @@
 id: "9156dbeb7ccd6519"
 title: "I asked Claude to design a new system of government that resists corruption and makes cheating expensive."
 url: "https://reddit.com/r/ClaudeAI/comments/1x50mx9/i_asked_claude_to_design_a_new_system_of"
+link: "https://reddit.com/r/ClaudeAI/comments/1x50mx9/i_asked_claude_to_design_a_new_system_of"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

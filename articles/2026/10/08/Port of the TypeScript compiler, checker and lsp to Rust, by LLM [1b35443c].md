@@ -2,6 +2,7 @@
 id: "1b35443cec6d3b4d"
 title: "Port of the TypeScript compiler, checker and lsp to Rust, by LLM"
 url: "https://github.com/pingdotgg/ts-rust"
+link: "https://github.com/pingdotgg/ts-rust"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

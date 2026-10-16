@@ -2,6 +2,7 @@
 id: "0b8786d8d3100f50"
 title: "Silicon Valley's hot new talking points: beer and cigarettes"
 url: "https://businessinsider.com/silicon-valleys-hot-new-talking-points-beer-cigarettes-2026-10"
+link: "https://businessinsider.com/silicon-valleys-hot-new-talking-points-beer-cigarettes-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

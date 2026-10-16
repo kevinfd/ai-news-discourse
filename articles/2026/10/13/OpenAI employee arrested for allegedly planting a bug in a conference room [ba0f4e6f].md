@@ -2,6 +2,7 @@
 id: "ba0f4e6f020ffaa2"
 title: "OpenAI employee arrested for allegedly planting a bug in a conference room"
 url: "https://theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+link: "https://theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

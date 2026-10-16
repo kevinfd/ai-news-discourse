@@ -2,6 +2,7 @@
 id: "26e1f01e6bcb7f72"
 title: "How do you handle coverage guarantees from split conformal prediction when the data shifts? [D]"
 url: "https://reddit.com/r/MachineLearning/comments/1x4snts/how_do_you_handle_coverage_guarantees_from_split"
+link: "https://reddit.com/r/MachineLearning/comments/1x4snts/how_do_you_handle_coverage_guarantees_from_split"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

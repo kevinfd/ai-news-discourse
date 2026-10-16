@@ -2,6 +2,7 @@
 id: "a3e80c6c0d8c8ab4"
 title: "Tell HN: Apple not letting removal of AI models on macOS 27 is outrageous"
 url: "https://news.ycombinator.com/item?id=49993338"
+link: "https://news.ycombinator.com/item?id=49993338"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

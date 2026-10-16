@@ -48,6 +48,7 @@ summary and are flagged `paywalled: true`.
 id: "1950a6eafc69d45a"            # sha1(canonical url)[:16]
 title: "…"
 url: "https://…"                  # canonical (tracking params stripped)
+link: "https://…"                 # same value under Latent Lab's canonical key
 source: "Ars Technica"            # publisher display name
 domain: "arstechnica.com"
 source_type: "tech_press"         # mainstream_news | tech_press | company_blog | newsletter | research | policy | community | wire

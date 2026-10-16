@@ -2,6 +2,7 @@
 id: "04145a9ecde3b373"
 title: "I love AI so much but…please don’t take pictures of your credit card"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x50qyy/i_love_ai_so_much_butplease_dont_take_pictures_of"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x50qyy/i_love_ai_so_much_butplease_dont_take_pictures_of"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

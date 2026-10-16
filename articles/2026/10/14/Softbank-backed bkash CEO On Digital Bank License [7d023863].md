@@ -2,6 +2,7 @@
 id: "7d0238632c8f5034"
 title: "Softbank-backed bkash CEO On Digital Bank License"
 url: "https://bloomberg.com/news/videos/2026-10-14/softbank-backed-bkash-ceo-on-digital-bank-license-video"
+link: "https://bloomberg.com/news/videos/2026-10-14/softbank-backed-bkash-ceo-on-digital-bank-license-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

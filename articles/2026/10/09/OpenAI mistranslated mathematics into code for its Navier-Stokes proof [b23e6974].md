@@ -2,6 +2,7 @@
 id: "b23e6974f2ebbd00"
 title: "OpenAI mistranslated mathematics into code for its Navier-Stokes proof"
 url: "https://newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof"
+link: "https://newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof"
 source: "Newscientist"
 domain: "newscientist.com"
 source_type: "community"

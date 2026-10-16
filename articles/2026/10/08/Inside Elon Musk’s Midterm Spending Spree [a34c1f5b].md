@@ -2,6 +2,7 @@
 id: "a34c1f5b88759bc1"
 title: "Inside Elon Musk’s Midterm Spending Spree"
 url: "https://wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree"
+link: "https://wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

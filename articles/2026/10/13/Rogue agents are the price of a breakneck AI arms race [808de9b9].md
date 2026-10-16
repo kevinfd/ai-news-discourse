@@ -2,6 +2,7 @@
 id: "808de9b9f2bede97"
 title: "Rogue agents are the price of a breakneck AI arms race"
 url: "https://fastcompany.com/91622660/the-ai-race-is-turning-rogue-agents-into-a-cost-of-doing-business?partner=rss"
+link: "https://fastcompany.com/91622660/the-ai-race-is-turning-rogue-agents-into-a-cost-of-doing-business?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

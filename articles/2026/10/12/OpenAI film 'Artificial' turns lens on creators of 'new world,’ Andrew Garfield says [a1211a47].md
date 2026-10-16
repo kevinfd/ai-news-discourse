@@ -2,6 +2,7 @@
 id: "a1211a470dcdfcd0"
 title: "OpenAI film 'Artificial' turns lens on creators of 'new world,’ Andrew Garfield says"
 url: "https://thehindu.com/sci-tech/technology/openai-film-artificial-turns-lens-on-creators-of-new-world-andrew-garfield-says/article71573676.ece"
+link: "https://thehindu.com/sci-tech/technology/openai-film-artificial-turns-lens-on-creators-of-new-world-andrew-garfield-says/article71573676.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

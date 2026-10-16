@@ -2,6 +2,7 @@
 id: "d66892423b047fc5"
 title: "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod"
 url: "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod"
+link: "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

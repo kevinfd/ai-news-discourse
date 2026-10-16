@@ -2,6 +2,7 @@
 id: "93b82fdbe3ae8b3a"
 title: "Real downsides of Strata?"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5cdht/real_downsides_of_strata"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5cdht/real_downsides_of_strata"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

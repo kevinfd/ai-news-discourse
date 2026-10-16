@@ -2,6 +2,7 @@
 id: "a57cb0ef3c3eb1de"
 title: "Google releases Gemini 4 Argon, its new frontier model: Benchmarks, how to try it, and pricing"
 url: "https://mashable.com/tech/google-launches-gemini-4-argon"
+link: "https://mashable.com/tech/google-launches-gemini-4-argon"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

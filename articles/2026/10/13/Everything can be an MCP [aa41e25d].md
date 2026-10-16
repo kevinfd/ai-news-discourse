@@ -2,6 +2,7 @@
 id: "aa41e25d17650885"
 title: "Everything can be an MCP"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5bwqx/everything_can_be_an_mcp"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5bwqx/everything_can_be_an_mcp"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

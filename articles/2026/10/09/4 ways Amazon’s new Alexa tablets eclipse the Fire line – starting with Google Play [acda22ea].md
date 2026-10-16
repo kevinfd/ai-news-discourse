@@ -2,6 +2,7 @@
 id: "acda22ea2e174f10"
 title: "4 ways Amazon’s new Alexa tablets eclipse the Fire line – starting with Google Play"
 url: "https://zdnet.com/tech/amazon-new-alexa-tablets-google-play-store"
+link: "https://zdnet.com/tech/amazon-new-alexa-tablets-google-play-store"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

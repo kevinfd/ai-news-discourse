@@ -2,6 +2,7 @@
 id: "382d5ff8a5922717"
 title: "I forked Chromium to fix my browser automation headaches with Claude Code"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5iwlj/i_forked_chromium_to_fix_my_browser_automation"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5iwlj/i_forked_chromium_to_fix_my_browser_automation"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

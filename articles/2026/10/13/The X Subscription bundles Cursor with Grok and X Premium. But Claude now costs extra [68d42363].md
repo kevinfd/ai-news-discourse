@@ -2,6 +2,7 @@
 id: "68d4236344b0a2ae"
 title: "The X Subscription bundles Cursor with Grok and X Premium. But Claude now costs extra."
 url: "https://thenewstack.io/x-subscription-cursor-pricing"
+link: "https://thenewstack.io/x-subscription-cursor-pricing"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

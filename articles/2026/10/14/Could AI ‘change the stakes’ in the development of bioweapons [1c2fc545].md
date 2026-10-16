@@ -2,6 +2,7 @@
 id: "1c2fc545e29504b0"
 title: "Could AI ‘change the stakes’ in the development of bioweapons?"
 url: "https://theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons"
+link: "https://theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

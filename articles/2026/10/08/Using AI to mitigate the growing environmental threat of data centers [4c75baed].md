@@ -2,6 +2,7 @@
 id: "4c75baed558f55ac"
 title: "Using AI to mitigate the growing environmental threat of data centers"
 url: "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008"
+link: "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008"
 source: "MIT News"
 domain: "news.mit.edu"
 source_type: "research"

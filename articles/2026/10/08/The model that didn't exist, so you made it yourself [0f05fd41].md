@@ -2,6 +2,7 @@
 id: "0f05fd4155a46f47"
 title: "The model that didn't exist, so you made it yourself"
 url: "https://huggingface.co/blog/building-with-ml-intern"
+link: "https://huggingface.co/blog/building-with-ml-intern"
 source: "Hugging Face"
 domain: "huggingface.co"
 source_type: "company_blog"

@@ -2,6 +2,7 @@
 id: "7279d4b810aeee10"
 title: "What is an AI \"Lifehack\" that people don't seem to know yet?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5or3q/what_is_an_ai_lifehack_that_people_dont_seem_to"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5or3q/what_is_an_ai_lifehack_that_people_dont_seem_to"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

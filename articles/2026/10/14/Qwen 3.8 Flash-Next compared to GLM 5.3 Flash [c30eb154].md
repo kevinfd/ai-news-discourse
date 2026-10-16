@@ -2,6 +2,7 @@
 id: "c30eb154a164ff47"
 title: "Qwen 3.8 Flash-Next compared to GLM 5.3 Flash"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x6533a/qwen_38_flashnext_compared_to_glm_53_flash"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x6533a/qwen_38_flashnext_compared_to_glm_53_flash"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

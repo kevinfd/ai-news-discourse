@@ -2,6 +2,7 @@
 id: "a4857cbca6e6bfeb"
 title: "Microplastics are linked to inflammation—scientists might have finally worked out why"
 url: "https://scientificamerican.com/article/microplastics-are-linked-to-inflammation-scientists-might-have-finally-worked-out-why"
+link: "https://scientificamerican.com/article/microplastics-are-linked-to-inflammation-scientists-might-have-finally-worked-out-why"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

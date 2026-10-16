@@ -2,6 +2,7 @@
 id: "9abe202db86f7db1"
 title: "Chip Selloff Spreads Globally, Apple Makes Smart Home Push"
 url: "https://bloomberg.com/news/videos/2026-10-13/bloomberg-tech-10-13-2026-video"
+link: "https://bloomberg.com/news/videos/2026-10-13/bloomberg-tech-10-13-2026-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

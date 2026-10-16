@@ -2,6 +2,7 @@
 id: "247f441928ce81ee"
 title: "Is the AI Boom a Bubble? Here's the Stock I'd Buy Either Way."
 url: "https://fool.com/investing/2026/10/15/is-the-ai-boom-a-bubble-heres-the-stock-id-buy-eit"
+link: "https://fool.com/investing/2026/10/15/is-the-ai-boom-a-bubble-heres-the-stock-id-buy-eit"
 source: "The Motley Fool"
 domain: "fool.com"
 source_type: "mainstream_news"

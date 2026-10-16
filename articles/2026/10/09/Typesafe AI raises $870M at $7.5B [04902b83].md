@@ -2,6 +2,7 @@
 id: "04902b83f5b9f295"
 title: "Typesafe AI raises $870M at $7.5B"
 url: "https://typesafe.ai/blog/series-ai"
+link: "https://typesafe.ai/blog/series-ai"
 source: "typesafe.ai"
 domain: "typesafe.ai"
 source_type: "community"

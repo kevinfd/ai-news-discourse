@@ -2,6 +2,7 @@
 id: "c512b8e077c380a6"
 title: "I have Nvidia’s RTX Spark-armed Surface Laptop Ultra in my hands right now — tell me what you want me to test"
 url: "https://tomsguide.com/computing/laptops/i-have-nvidias-rtx-spark-armed-surface-laptop-ultra-in-my-hands-right-now-tell-me-what-you-want-me-to-test"
+link: "https://tomsguide.com/computing/laptops/i-have-nvidias-rtx-spark-armed-surface-laptop-ultra-in-my-hands-right-now-tell-me-what-you-want-me-to-test"
 source: "Tom's Guide"
 domain: "tomsguide.com"
 source_type: "tech_press"

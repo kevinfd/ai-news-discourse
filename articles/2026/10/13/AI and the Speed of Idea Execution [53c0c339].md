@@ -2,6 +2,7 @@
 id: "53c0c3394d38d4fc"
 title: "AI and the Speed of Idea Execution."
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4zg3y/ai_and_the_speed_of_idea_execution"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4zg3y/ai_and_the_speed_of_idea_execution"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

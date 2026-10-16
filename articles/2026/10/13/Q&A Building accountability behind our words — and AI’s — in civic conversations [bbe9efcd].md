@@ -2,6 +2,7 @@
 id: "bbe9efcd05754558"
 title: "Q&A: Building accountability behind our words — and AI’s — in civic conversations"
 url: "https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013"
+link: "https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013"
 source: "MIT News"
 domain: "news.mit.edu"
 source_type: "research"

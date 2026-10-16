@@ -2,6 +2,7 @@
 id: "d46784cee74d4947"
 title: "Exclusive: Mueon Raises $65 Million to Rework How Data Centers Are Put Together"
 url: "https://theinformation.com/briefings/exclusive-mueon-raises-65-million-rework-data-centers-put-together"
+link: "https://theinformation.com/briefings/exclusive-mueon-raises-65-million-rework-data-centers-put-together"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "7392634d8abd908e"
 title: "McDonald's sued for allegedly using AI tool to determine pricing for franchises"
 url: "https://theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit"
+link: "https://theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "community"

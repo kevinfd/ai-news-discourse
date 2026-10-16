@@ -2,6 +2,7 @@
 id: "b3332d2942e5f5b2"
 title: "China chip exports jump 136% to US$45b as AI frenzy jacks up prices"
 url: "https://scmp.com/tech/tech-trends/article/3370858/china-chip-exports-jump-136-us45b-ai-frenzy-jacks-prices"
+link: "https://scmp.com/tech/tech-trends/article/3370858/china-chip-exports-jump-136-us45b-ai-frenzy-jacks-prices"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

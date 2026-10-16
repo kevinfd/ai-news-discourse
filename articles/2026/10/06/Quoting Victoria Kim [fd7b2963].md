@@ -2,6 +2,7 @@
 id: "fd7b29632bdc8c65"
 title: "Quoting Victoria Kim"
 url: "https://simonwillison.net/2026/Oct/6/victoria-kim"
+link: "https://simonwillison.net/2026/Oct/6/victoria-kim"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

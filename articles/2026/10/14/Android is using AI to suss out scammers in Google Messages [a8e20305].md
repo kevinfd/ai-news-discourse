@@ -2,6 +2,7 @@
 id: "a8e203058965de43"
 title: "Android is using AI to suss out scammers in Google Messages"
 url: "https://theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages"
+link: "https://theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "2a1c784f84b947c8"
 title: "An Anthropic AI model sent a false homicide tip to the police"
 url: "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police"
+link: "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "f46b6a245d33ca64"
 title: "DeepSeek Eyes $400M Robotics AI Startup in New Funding Push"
 url: "https://techrepublic.com/article/news-deepseek-winverse-robotics-ai-funding-china-apac"
+link: "https://techrepublic.com/article/news-deepseek-winverse-robotics-ai-funding-china-apac"
 source: "TechRepublic"
 domain: "techrepublic.com"
 source_type: "mainstream_news"

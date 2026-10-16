@@ -2,6 +2,7 @@
 id: "e79be86e5ccd3317"
 title: "New Democrat PAC hits GOP on AI in tight midterm races"
 url: "https://politico.com/news/2026/10/13/new-democrat-pac-hits-gop-on-ai-in-tight-midterm-races-01116365"
+link: "https://politico.com/news/2026/10/13/new-democrat-pac-hits-gop-on-ai-in-tight-midterm-races-01116365"
 source: "Politico"
 domain: "politico.com"
 source_type: "mainstream_news"

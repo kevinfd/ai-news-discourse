@@ -2,6 +2,7 @@
 id: "17e216a5a9abe0a4"
 title: "Dystopian and dehumanising: that’s what it felt like when I was interviewed by an AI assistant | Giselle Au-Nhien Nguyen"
 url: "https://theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant"
+link: "https://theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

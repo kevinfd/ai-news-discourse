@@ -2,6 +2,7 @@
 id: "121b3ccc8129e670"
 title: "Using Claude to help uncover medicare fraud"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4grru/using_claude_to_help_uncover_medicare_fraud"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4grru/using_claude_to_help_uncover_medicare_fraud"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

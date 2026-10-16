@@ -2,6 +2,7 @@
 id: "80c4629c3260efb5"
 title: "AI architecture idea: a hierarchy that creates and reuses specialist agents as needed"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4cx5k/ai_architecture_idea_a_hierarchy_that_creates_and"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4cx5k/ai_architecture_idea_a_hierarchy_that_creates_and"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

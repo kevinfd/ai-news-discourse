@@ -2,6 +2,7 @@
 id: "e60338a62ffeaea1"
 title: "AI cloud startup Modal raises $750M at $15.75B valuation"
 url: "https://siliconangle.com/2026/10/14/ai-cloud-startup-modal-raises-750m-at-15-75b-valuation"
+link: "https://siliconangle.com/2026/10/14/ai-cloud-startup-modal-raises-750m-at-15-75b-valuation"
 source: "SiliconANGLE"
 domain: "siliconangle.com"
 source_type: "mainstream_news"

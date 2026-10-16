@@ -2,6 +2,7 @@
 id: "5bdd694c62903534"
 title: "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO"
 url: "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
+link: "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
 source: "Hugging Face"
 domain: "huggingface.co"
 source_type: "company_blog"

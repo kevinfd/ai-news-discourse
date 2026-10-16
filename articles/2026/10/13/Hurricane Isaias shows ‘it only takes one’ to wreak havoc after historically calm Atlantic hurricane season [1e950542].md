@@ -2,6 +2,7 @@
 id: "1e950542604f3131"
 title: "Hurricane Isaias shows ‘it only takes one’ to wreak havoc after historically calm Atlantic hurricane season"
 url: "https://scientificamerican.com/article/hurricane-isaias-shows-it-only-takes-one-to-wreak-havoc-after-historically-calm-atlantic-hurricane-season"
+link: "https://scientificamerican.com/article/hurricane-isaias-shows-it-only-takes-one-to-wreak-havoc-after-historically-calm-atlantic-hurricane-season"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

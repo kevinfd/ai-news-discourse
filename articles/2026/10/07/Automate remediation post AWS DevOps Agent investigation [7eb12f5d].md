@@ -2,6 +2,7 @@
 id: "7eb12f5d530ed4a6"
 title: "Automate remediation post AWS DevOps Agent investigation"
 url: "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation"
+link: "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

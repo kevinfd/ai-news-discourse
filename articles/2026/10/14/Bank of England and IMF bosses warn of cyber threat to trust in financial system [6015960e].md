@@ -2,6 +2,7 @@
 id: "6015960e97f0fe7c"
 title: "Bank of England and IMF bosses warn of cyber threat to trust in financial system"
 url: "https://theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust"
+link: "https://theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

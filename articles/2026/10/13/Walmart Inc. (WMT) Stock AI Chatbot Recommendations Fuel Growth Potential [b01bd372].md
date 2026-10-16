@@ -2,6 +2,7 @@
 id: "b01bd37219874339"
 title: "Walmart Inc. (WMT) Stock: AI Chatbot Recommendations Fuel Growth Potential"
 url: "https://blockonomi.com/walmart-inc-wmt-stock-ai-chatbot-recommendations-fuel-growth-potential"
+link: "https://blockonomi.com/walmart-inc-wmt-stock-ai-chatbot-recommendations-fuel-growth-potential"
 source: "Blockonomi"
 domain: "blockonomi.com"
 source_type: "mainstream_news"

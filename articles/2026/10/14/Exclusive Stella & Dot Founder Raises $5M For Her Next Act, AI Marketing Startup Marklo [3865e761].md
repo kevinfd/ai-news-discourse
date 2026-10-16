@@ -2,6 +2,7 @@
 id: "3865e761f7fd52fd"
 title: "Exclusive: Stella & Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo"
 url: "https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin"
+link: "https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin"
 source: "Crunchbase News"
 domain: "news.crunchbase.com"
 source_type: "mainstream_news"

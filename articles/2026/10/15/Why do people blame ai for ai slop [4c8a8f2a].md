@@ -2,6 +2,7 @@
 id: "4c8a8f2ad92bfdc1"
 title: "Why do people blame ai for ai slop"
 url: "https://reddit.com/r/artificial/comments/1x6frrj/why_do_people_blame_ai_for_ai_slop"
+link: "https://reddit.com/r/artificial/comments/1x6frrj/why_do_people_blame_ai_for_ai_slop"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

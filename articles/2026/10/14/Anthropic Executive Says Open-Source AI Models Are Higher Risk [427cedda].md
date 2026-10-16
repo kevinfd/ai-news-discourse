@@ -2,6 +2,7 @@
 id: "427cedda30108557"
 title: "Anthropic Executive Says Open-Source AI Models Are Higher Risk"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5nyd3/anthropic_executive_says_opensource_ai_models_are"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5nyd3/anthropic_executive_says_opensource_ai_models_are"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

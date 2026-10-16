@@ -2,6 +2,7 @@
 id: "662dc04cc02aeec1"
 title: "Epoch AI reports 13-fold annual decline in AI costs as spending nears $1T"
 url: "https://cryptobriefing.com/epoch-ai-costs-decline-13-fold-annually"
+link: "https://cryptobriefing.com/epoch-ai-costs-decline-13-fold-annually"
 source: "Crypto Briefing"
 domain: "cryptobriefing.com"
 source_type: "mainstream_news"

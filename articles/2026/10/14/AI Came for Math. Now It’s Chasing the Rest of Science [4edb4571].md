@@ -2,6 +2,7 @@
 id: "4edb4571d6758434"
 title: "AI Came for Math. Now It’s Chasing the Rest of Science"
 url: "https://wired.com/story/ai-is-coming-for-science-next-watch-out"
+link: "https://wired.com/story/ai-is-coming-for-science-next-watch-out"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

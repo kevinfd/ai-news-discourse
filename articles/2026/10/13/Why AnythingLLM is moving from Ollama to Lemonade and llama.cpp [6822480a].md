@@ -2,6 +2,7 @@
 id: "6822480ac92f485d"
 title: "Why AnythingLLM is moving from Ollama to Lemonade and llama.cpp"
 url: "https://anythingllm.com/blog/lemonade-llama-cpp"
+link: "https://anythingllm.com/blog/lemonade-llama-cpp"
 source: "AnythingLLM"
 domain: "anythingllm.com"
 source_type: "community"

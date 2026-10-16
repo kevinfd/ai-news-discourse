@@ -2,6 +2,7 @@
 id: "0e96d6ef5d4d947a"
 title: "From AI to Super Intelligence: Trump’s new American AI Agenda | In Focus podcast"
 url: "https://thehindu.com/podcast/from-ai-to-super-intelligence-trumps-new-american-ai-agenda-in-focus-podcast/article71555760.ece"
+link: "https://thehindu.com/podcast/from-ai-to-super-intelligence-trumps-new-american-ai-agenda-in-focus-podcast/article71555760.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

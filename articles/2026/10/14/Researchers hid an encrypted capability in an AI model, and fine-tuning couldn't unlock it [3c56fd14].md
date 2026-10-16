@@ -2,6 +2,7 @@
 id: "3c56fd141915dac6"
 title: "Researchers hid an encrypted capability in an AI model, and fine-tuning couldn't unlock it"
 url: "https://maccus.fr/en/ai-models-hide-capabilities-oxford"
+link: "https://maccus.fr/en/ai-models-hide-capabilities-oxford"
 source: "MACCUS - Agence SEO, Influence & Marketing Organique"
 domain: "maccus.fr"
 source_type: "community"

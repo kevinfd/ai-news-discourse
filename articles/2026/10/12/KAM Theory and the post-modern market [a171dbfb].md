@@ -2,6 +2,7 @@
 id: "a171dbfb27aa7e58"
 title: "KAM Theory and the post-modern market"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4g6cp/kam_theory_and_the_postmodern_market"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4g6cp/kam_theory_and_the_postmodern_market"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

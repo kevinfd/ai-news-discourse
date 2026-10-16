@@ -2,6 +2,7 @@
 id: "84258e99c197292d"
 title: "Live footage from anthropic office"
 url: "https://reddit.com/r/ChatGPT/comments/1x5l3hd/live_footage_from_anthropic_office"
+link: "https://reddit.com/r/ChatGPT/comments/1x5l3hd/live_footage_from_anthropic_office"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

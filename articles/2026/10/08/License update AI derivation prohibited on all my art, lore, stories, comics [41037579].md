@@ -2,6 +2,7 @@
 id: "41037579496918e6"
 title: "License update: AI derivation prohibited on all my art, lore, stories, comics"
 url: "https://davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics"
+link: "https://davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics"
 source: "David Revoy"
 domain: "davidrevoy.com"
 source_type: "community"

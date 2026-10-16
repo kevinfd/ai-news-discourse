@@ -2,6 +2,7 @@
 id: "696533c4f2fc0529"
 title: "An ancient Chinese math puzzle shows how to win at cards, horse races and gerrymandering"
 url: "https://scientificamerican.com/article/an-ancient-chinese-math-puzzle-shows-how-to-win-at-cards-horse-races-and-gerrymandering"
+link: "https://scientificamerican.com/article/an-ancient-chinese-math-puzzle-shows-how-to-win-at-cards-horse-races-and-gerrymandering"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

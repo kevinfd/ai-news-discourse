@@ -2,6 +2,7 @@
 id: "fae5dd92ed2f50a5"
 title: "Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight"
 url: "https://bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight"
+link: "https://bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

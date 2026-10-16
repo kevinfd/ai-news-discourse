@@ -2,6 +2,7 @@
 id: "7d5076c170a47bfd"
 title: "Saudi OpenAI employee arrested after recording device found in headquarters"
 url: "https://theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device"
+link: "https://theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

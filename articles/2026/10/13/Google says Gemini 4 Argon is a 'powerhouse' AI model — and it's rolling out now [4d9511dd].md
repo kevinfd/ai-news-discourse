@@ -2,6 +2,7 @@
 id: "4d9511dd84e80025"
 title: "Google says Gemini 4 Argon is a 'powerhouse' AI model — and it's rolling out now"
 url: "https://businessinsider.com/google-gemini-4-argon-ai-model-public-release-cost-2026-10"
+link: "https://businessinsider.com/google-gemini-4-argon-ai-model-public-release-cost-2026-10"
 source: "Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

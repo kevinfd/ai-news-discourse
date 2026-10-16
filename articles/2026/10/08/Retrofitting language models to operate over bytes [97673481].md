@@ -2,6 +2,7 @@
 id: "97673481480b58f2"
 title: "Retrofitting language models to operate over bytes"
 url: "https://nature.com/articles/s41586-026-11111-4"
+link: "https://nature.com/articles/s41586-026-11111-4"
 source: "Nature"
 domain: "nature.com"
 source_type: "community"

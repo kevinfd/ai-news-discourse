@@ -2,6 +2,7 @@
 id: "8a36af151a5e5e91"
 title: "Andrej Karpahty AI usage funnel by use cases."
 url: "https://reddit.com/r/singularity/comments/1x4xmw7/andrej_karpahty_ai_usage_funnel_by_use_cases"
+link: "https://reddit.com/r/singularity/comments/1x4xmw7/andrej_karpahty_ai_usage_funnel_by_use_cases"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

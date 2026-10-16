@@ -2,6 +2,7 @@
 id: "99cdcc5632faaa55"
 title: "Anthropic told investors it earned an adjusted profit on $16.8 billion in revenue"
 url: "https://qz.com/anthropic-q3-revenue-adjusted-profit-ipo-investors-101526"
+link: "https://qz.com/anthropic-q3-revenue-adjusted-profit-ipo-investors-101526"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

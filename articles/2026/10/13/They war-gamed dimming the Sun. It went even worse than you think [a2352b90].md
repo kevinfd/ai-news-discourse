@@ -2,6 +2,7 @@
 id: "a2352b9071f96ed2"
 title: "They war-gamed dimming the Sun. It went even worse than you think."
 url: "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think"
+link: "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "e6a70b5f7480e3c7"
 title: "Fable 5.5 should be released any moment"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5145b/fable_55_should_be_released_any_moment"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5145b/fable_55_should_be_released_any_moment"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

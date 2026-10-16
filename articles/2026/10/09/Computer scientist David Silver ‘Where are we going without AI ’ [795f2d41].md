@@ -2,6 +2,7 @@
 id: "795f2d41985ee167"
 title: "Computer scientist David Silver: ‘Where are we going without AI?’"
 url: "https://ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1"
+link: "https://ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "28c4b2a5a4f34eed"
 title: "All this decompilation is providing Anthropic with high quality code for training future models"
 url: "https://reddit.com/r/ClaudeAI/comments/1x66kt1/all_this_decompilation_is_providing_anthropic"
+link: "https://reddit.com/r/ClaudeAI/comments/1x66kt1/all_this_decompilation_is_providing_anthropic"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

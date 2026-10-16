@@ -2,6 +2,7 @@
 id: "2d941a517d3abd03"
 title: "Protect consumer data and preserve AI bots at Character AI"
 url: "https://c.org/S9DkvqxLRv"
+link: "https://c.org/S9DkvqxLRv"
 source: "Change.org"
 domain: "c.org"
 source_type: "community"

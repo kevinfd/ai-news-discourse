@@ -2,6 +2,7 @@
 id: "5f0c6f86f5dadd35"
 title: "Paid for both Claude and ChatGPT ($20 each). Is anyone actually finding a use for ChatGPT over Claude?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5o1c6/paid_for_both_claude_and_chatgpt_20_each_is"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5o1c6/paid_for_both_claude_and_chatgpt_20_each_is"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

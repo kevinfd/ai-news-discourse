@@ -2,6 +2,7 @@
 id: "744aa0fa7878214b"
 title: "Claude reads a picture of your text for half the price, so I made DensePack to send your agent everything as pictures. It beat Ponytail on its own benchmarks."
 url: "https://reddit.com/r/ClaudeAI/comments/1x5fw0z/claude_reads_a_picture_of_your_text_for_half_the"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5fw0z/claude_reads_a_picture_of_your_text_for_half_the"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

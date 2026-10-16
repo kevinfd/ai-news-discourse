@@ -2,6 +2,7 @@
 id: "796c97e5103ec305"
 title: "Clojure in the age of language models"
 url: "https://yogthos.net/posts/2026-10-07-clojure-llms.html"
+link: "https://yogthos.net/posts/2026-10-07-clojure-llms.html"
 source: "yogthos.net"
 domain: "yogthos.net"
 source_type: "community"

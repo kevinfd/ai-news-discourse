@@ -2,6 +2,7 @@
 id: "e18ca6375a52efff"
 title: "AI less regulated than milk, Microsoft president says in warning over safety"
 url: "https://theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"
+link: "https://theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "community"

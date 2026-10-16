@@ -2,6 +2,7 @@
 id: "f74879fa45c9725a"
 title: "OpenAI accuses employee who left for Apple of leaking plans for unreleased device"
 url: "https://theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit"
+link: "https://theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

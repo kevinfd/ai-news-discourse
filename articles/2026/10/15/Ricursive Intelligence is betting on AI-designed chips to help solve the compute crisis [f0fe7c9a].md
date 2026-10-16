@@ -2,6 +2,7 @@
 id: "f0fe7c9aa7b83342"
 title: "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis"
 url: "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis"
+link: "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

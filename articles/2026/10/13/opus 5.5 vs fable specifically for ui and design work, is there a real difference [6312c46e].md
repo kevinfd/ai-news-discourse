@@ -2,6 +2,7 @@
 id: "6312c46e5336f991"
 title: "opus 5.5 vs fable specifically for ui and design work, is there a real difference?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x56amx/opus_55_vs_fable_specifically_for_ui_and_design"
+link: "https://reddit.com/r/ClaudeAI/comments/1x56amx/opus_55_vs_fable_specifically_for_ui_and_design"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

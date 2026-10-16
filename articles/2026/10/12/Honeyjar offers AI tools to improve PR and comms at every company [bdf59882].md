@@ -2,6 +2,7 @@
 id: "bdf59882f2c6edb2"
 title: "Honeyjar offers AI tools to improve PR and comms at every company"
 url: "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company"
+link: "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

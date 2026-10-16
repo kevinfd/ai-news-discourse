@@ -2,6 +2,7 @@
 id: "c128aab2b1383073"
 title: "If photoshop was recreated, what else can be too?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5034c/if_photoshop_was_recreated_what_else_can_be_too"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5034c/if_photoshop_was_recreated_what_else_can_be_too"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

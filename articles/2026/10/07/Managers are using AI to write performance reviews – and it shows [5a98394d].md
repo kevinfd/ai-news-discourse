@@ -2,6 +2,7 @@
 id: "5a98394d1a76fc92"
 title: "Managers are using AI to write performance reviews – and it shows"
 url: "https://zdnet.com/innovation/manager-ai-use-highwire-survey"
+link: "https://zdnet.com/innovation/manager-ai-use-highwire-survey"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

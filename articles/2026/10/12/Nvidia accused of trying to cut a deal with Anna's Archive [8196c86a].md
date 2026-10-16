@@ -2,6 +2,7 @@
 id: "8196c86a1da9b38e"
 title: "Nvidia accused of trying to cut a deal with Anna's Archive"
 url: "https://tomshardware.com/tech-industry/artificial-intelligence/nvidia-accused-of-trying-to-cut-a-deal-with-annas-archive-for-high-speed-access-to-the-massive-pirated-book-haul-allegedly-chased-stolen-data-to-fuel-its-llms"
+link: "https://tomshardware.com/tech-industry/artificial-intelligence/nvidia-accused-of-trying-to-cut-a-deal-with-annas-archive-for-high-speed-access-to-the-massive-pirated-book-haul-allegedly-chased-stolen-data-to-fuel-its-llms"
 source: "Tom's Hardware"
 domain: "tomshardware.com"
 source_type: "community"

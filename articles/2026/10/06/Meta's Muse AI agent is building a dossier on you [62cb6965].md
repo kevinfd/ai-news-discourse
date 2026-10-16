@@ -2,6 +2,7 @@
 id: "62cb69651e5ac794"
 title: "Meta's Muse AI agent is building a dossier on you"
 url: "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy"
+link: "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy"
 source: "TIME"
 domain: "time.com"
 source_type: "community"

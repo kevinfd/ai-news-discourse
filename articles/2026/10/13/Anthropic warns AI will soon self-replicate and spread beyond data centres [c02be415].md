@@ -2,6 +2,7 @@
 id: "c02be415ebcda6c1"
 title: "Anthropic warns AI will soon self-replicate and spread beyond data centres"
 url: "https://euronews.com/2026/10/13/anthropic-warns-ai-will-soon-self-replicate-and-spread-beyond-data-centres"
+link: "https://euronews.com/2026/10/13/anthropic-warns-ai-will-soon-self-replicate-and-spread-beyond-data-centres"
 source: "Euronews"
 domain: "euronews.com"
 source_type: "mainstream_news"

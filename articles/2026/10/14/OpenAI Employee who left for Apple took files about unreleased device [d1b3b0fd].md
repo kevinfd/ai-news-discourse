@@ -2,6 +2,7 @@
 id: "d1b3b0fd62324aa1"
 title: "OpenAI: Employee who left for Apple took files about unreleased device"
 url: "https://reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14"
+link: "https://reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14"
 source: "Reuters"
 domain: "reuters.com"
 source_type: "community"

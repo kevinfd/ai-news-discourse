@@ -2,6 +2,7 @@
 id: "1112027d5901b6f1"
 title: "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
 url: "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents"
+link: "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents"
 source: "NVIDIA Blog"
 domain: "blogs.nvidia.com"
 source_type: "company_blog"

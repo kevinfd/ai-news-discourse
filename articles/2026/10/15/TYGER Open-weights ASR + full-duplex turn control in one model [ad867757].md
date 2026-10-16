@@ -2,6 +2,7 @@
 id: "ad86775778e1ee20"
 title: "TYGER | Open-weights ASR + full-duplex turn control in one model"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x6gpqq/tyger_openweights_asr_fullduplex_turn_control_in"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x6gpqq/tyger_openweights_asr_fullduplex_turn_control_in"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "84fed4b0f52e58d5"
 title: "OpenAI to watermark ChatGPT text in EU under AI Act rules"
 url: "https://thehindu.com/sci-tech/technology/openai-to-watermark-chatgpt-text-in-eu-under-ai-act-rules/article71551205.ece"
+link: "https://thehindu.com/sci-tech/technology/openai-to-watermark-chatgpt-text-in-eu-under-ai-act-rules/article71551205.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

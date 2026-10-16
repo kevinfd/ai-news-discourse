@@ -2,6 +2,7 @@
 id: "5c58aeef5da3d9ff"
 title: "AI companions may reduce loneliness and increase isolation at the same time"
 url: "https://reddit.com/r/artificial/comments/1x6el0b/ai_companions_may_reduce_loneliness_and_increase"
+link: "https://reddit.com/r/artificial/comments/1x6el0b/ai_companions_may_reduce_loneliness_and_increase"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

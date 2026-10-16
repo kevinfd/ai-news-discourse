@@ -2,6 +2,7 @@
 id: "6de30857a0155b9b"
 title: "Apple just launched the HomePod mini 2 — how to buy this brand-new smart speaker."
 url: "https://mashable.com/tech/apple-homepod-mini-2-preorder-where-to-buy"
+link: "https://mashable.com/tech/apple-homepod-mini-2-preorder-where-to-buy"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

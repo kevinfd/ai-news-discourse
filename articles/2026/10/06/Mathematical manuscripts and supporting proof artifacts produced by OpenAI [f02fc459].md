@@ -2,6 +2,7 @@
 id: "f02fc4590b9cd78f"
 title: "Mathematical manuscripts and supporting proof artifacts produced by OpenAI"
 url: "https://github.com/openai/math"
+link: "https://github.com/openai/math"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

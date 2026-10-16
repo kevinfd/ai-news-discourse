@@ -2,6 +2,7 @@
 id: "995e863e4f2db3ed"
 title: "Trahan unveils AI liability discussion draft"
 url: "https://politico.com/live-updates/2026/10/07/congress/trahan-unveils-ai-liability-discussion-draft-01109817"
+link: "https://politico.com/live-updates/2026/10/07/congress/trahan-unveils-ai-liability-discussion-draft-01109817"
 source: "Politico"
 domain: "politico.com"
 source_type: "mainstream_news"

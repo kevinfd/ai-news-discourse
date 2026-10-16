@@ -2,6 +2,7 @@
 id: "0ffa4e41dd3136fc"
 title: "Everything announced in Apples Welcome Home release: New smart speakers, displays, and cameras"
 url: "https://mashable.com/tech/everything-announced-apple-welcome-home-event"
+link: "https://mashable.com/tech/everything-announced-apple-welcome-home-event"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

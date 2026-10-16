@@ -2,6 +2,7 @@
 id: "e9a30f53c0ed0cd5"
 title: "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?"
 url: "https://news.ycombinator.com/item?id=49985548"
+link: "https://news.ycombinator.com/item?id=49985548"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

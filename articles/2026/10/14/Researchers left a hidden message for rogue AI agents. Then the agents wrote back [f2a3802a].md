@@ -2,6 +2,7 @@
 id: "f2a3802a447d5f8c"
 title: "Researchers left a hidden message for rogue AI agents. Then the agents wrote back."
 url: "https://thenewstack.io/rogue-ai-agent-fleet-tencent"
+link: "https://thenewstack.io/rogue-ai-agent-fleet-tencent"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

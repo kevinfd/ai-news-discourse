@@ -2,6 +2,7 @@
 id: "82ec47719a83d1d3"
 title: "TechCrunch Disrupt 2026: Day 1"
 url: "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1"
+link: "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

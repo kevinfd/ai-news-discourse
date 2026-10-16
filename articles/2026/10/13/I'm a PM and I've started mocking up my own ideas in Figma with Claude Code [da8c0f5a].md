@@ -2,6 +2,7 @@
 id: "da8c0f5a50456c53"
 title: "I'm a PM and I've started mocking up my own ideas in Figma with Claude Code"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4rj6m/im_a_pm_and_ive_started_mocking_up_my_own_ideas"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4rj6m/im_a_pm_and_ive_started_mocking_up_my_own_ideas"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

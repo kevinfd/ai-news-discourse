@@ -2,6 +2,7 @@
 id: "e7d96cd082f1fe5d"
 title: "Nvidia CEO Announces $2 Billion in Europe Deals During Tour"
 url: "https://bloomberg.com/news/articles/2026-10-13/nvidia-s-huang-plans-2-billion-in-europe-ai-deals-in-next-week"
+link: "https://bloomberg.com/news/articles/2026-10-13/nvidia-s-huang-plans-2-billion-in-europe-ai-deals-in-next-week"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

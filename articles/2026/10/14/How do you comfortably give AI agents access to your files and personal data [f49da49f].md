@@ -2,6 +2,7 @@
 id: "f49da49f96e7381b"
 title: "How do you comfortably give AI agents access to your files and personal data?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5sjgm/how_do_you_comfortably_give_ai_agents_access_to"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5sjgm/how_do_you_comfortably_give_ai_agents_access_to"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "5f15c434c195ea8b"
 title: "Has anyone found a fix for Standard Voice Mode reading formatting, links and image data aloud"
 url: "https://reddit.com/r/ChatGPT/comments/1x5kbe2/has_anyone_found_a_fix_for_standard_voice_mode"
+link: "https://reddit.com/r/ChatGPT/comments/1x5kbe2/has_anyone_found_a_fix_for_standard_voice_mode"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

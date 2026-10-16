@@ -2,6 +2,7 @@
 id: "14cee17a15e60d9d"
 title: "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home"
 url: "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home"
+link: "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "6a32263677165348"
 title: "AI models may be capable of self-replicating without access to a datacenter"
 url: "https://anthropic.com/research/self-replicating-ai?_bhlid=face27ab77d2b4ecd4f513b285c28e4a3e21cd73"
+link: "https://anthropic.com/research/self-replicating-ai?_bhlid=face27ab77d2b4ecd4f513b285c28e4a3e21cd73"
 source: "Anthropic"
 domain: "anthropic.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "60584607ee4c973e"
 title: "ASML says it cannot fully meet AI-driven demand for its chipmaking tools in 2027 and 2028, and is seeing \"strong interest\" in orders for 2029 and 2030 (Reuters)"
 url: "https://techmeme.com/261014/p3"
+link: "https://techmeme.com/261014/p3"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

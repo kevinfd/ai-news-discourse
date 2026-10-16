@@ -2,6 +2,7 @@
 id: "af9c1669963904c5"
 title: "ASML Struggles to Lift Capacity to Keep Up With Torrid AI Demand"
 url: "https://bloomberg.com/news/articles/2026-10-14/asml-raises-full-year-sales-outlook-as-ai-boom-drives-demand"
+link: "https://bloomberg.com/news/articles/2026-10-14/asml-raises-full-year-sales-outlook-as-ai-boom-drives-demand"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

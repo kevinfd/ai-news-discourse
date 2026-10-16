@@ -2,6 +2,7 @@
 id: "8a465f85258e9ca1"
 title: "Show HN: An experimental pattern-first DAW that supports MCP"
 url: "https://github.com/andrewfader/blokkily"
+link: "https://github.com/andrewfader/blokkily"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "cdd5fd8d13268c37"
 title: "Building agents that transact with Anchor Browser and AgentCore payments"
 url: "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments"
+link: "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

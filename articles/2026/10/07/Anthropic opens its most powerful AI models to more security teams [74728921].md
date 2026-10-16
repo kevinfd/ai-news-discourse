@@ -2,6 +2,7 @@
 id: "747289210e9b9316"
 title: "Anthropic opens its most powerful AI models to more security teams"
 url: "https://thehindu.com/sci-tech/technology/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams/article71554169.ece"
+link: "https://thehindu.com/sci-tech/technology/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams/article71554169.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

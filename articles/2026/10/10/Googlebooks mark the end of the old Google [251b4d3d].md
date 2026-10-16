@@ -2,6 +2,7 @@
 id: "251b4d3de465cfdc"
 title: "Googlebooks mark the end of the old Google"
 url: "https://fastcompany.com/91615554/googlebooks-mark-the-end-of-the-old-google?partner=rss"
+link: "https://fastcompany.com/91615554/googlebooks-mark-the-end-of-the-old-google?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

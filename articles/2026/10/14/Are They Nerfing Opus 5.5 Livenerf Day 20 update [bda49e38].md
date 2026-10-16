@@ -2,6 +2,7 @@
 id: "bda49e383472f992"
 title: "Are They Nerfing Opus 5.5? Livenerf Day 20 update"
 url: "https://reddit.com/r/ClaudeAI/comments/1x606aj/are_they_nerfing_opus_55_livenerf_day_20_update"
+link: "https://reddit.com/r/ClaudeAI/comments/1x606aj/are_they_nerfing_opus_55_livenerf_day_20_update"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

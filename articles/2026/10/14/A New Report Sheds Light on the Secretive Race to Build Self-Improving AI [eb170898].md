@@ -2,6 +2,7 @@
 id: "eb170898b27f35dd"
 title: "A New Report Sheds Light on the Secretive Race to Build Self-Improving AI"
 url: "https://time.com/article/2026/10/14/recursive-self-improvement-AI-report"
+link: "https://time.com/article/2026/10/14/recursive-self-improvement-AI-report"
 source: "TIME"
 domain: "time.com"
 source_type: "community"

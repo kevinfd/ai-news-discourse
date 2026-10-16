@@ -2,6 +2,7 @@
 id: "bfe97f12dafd69cf"
 title: "Michael Burry Is Bearish on Palantir, Which Is Up 19% Over the Past Year, but His Oracle Short Just Got a Boost From a 53% Stock Drop. Is His AI Bubble Bet Still Worth Following?"
 url: "https://fool.com/investing/2026/10/14/michael-burrys-palantir-short-is-up-35-since-late"
+link: "https://fool.com/investing/2026/10/14/michael-burrys-palantir-short-is-up-35-since-late"
 source: "The Motley Fool"
 domain: "fool.com"
 source_type: "mainstream_news"

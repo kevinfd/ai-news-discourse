@@ -2,6 +2,7 @@
 id: "839da186de4f564c"
 title: "US arrests Saudi employee of OpenAI for allegedly bugging its offices"
 url: "https://ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1"
+link: "https://ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "4e6ff4eda6441084"
 title: "Help"
 url: "https://reddit.com/r/artificial/comments/1x4ypqp/help"
+link: "https://reddit.com/r/artificial/comments/1x4ypqp/help"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

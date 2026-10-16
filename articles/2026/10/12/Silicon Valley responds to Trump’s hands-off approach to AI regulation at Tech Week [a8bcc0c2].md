@@ -2,6 +2,7 @@
 id: "a8bcc0c2e55a7f08"
 title: "Silicon Valley responds to Trump’s hands-off approach to AI regulation at Tech Week"
 url: "https://fastcompany.com/91622221/silicon-valley-responds-trumps-hands-off-approach-ai-regulation-tech-week?partner=rss"
+link: "https://fastcompany.com/91622221/silicon-valley-responds-trumps-hands-off-approach-ai-regulation-tech-week?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

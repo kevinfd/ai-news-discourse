@@ -2,6 +2,7 @@
 id: "00937bfcdb4ea100"
 title: "Veda: The First Agentic Hobby Operating System"
 url: "https://github.com/vahmoh25/Veda"
+link: "https://github.com/vahmoh25/Veda"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "fb8f85ddb877b935"
 title: "What if AI companies aren't using our chats for training, but for something else?"
 url: "https://reddit.com/r/artificial/comments/1x6ialc/what_if_ai_companies_arent_using_our_chats_for"
+link: "https://reddit.com/r/artificial/comments/1x6ialc/what_if_ai_companies_arent_using_our_chats_for"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

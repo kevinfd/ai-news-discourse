@@ -2,6 +2,7 @@
 id: "31bc7dd794fd1bf5"
 title: "OpenAI Employee Uses \"Unnamed Chatbot\" to Spy on OpenAI, Gets Arrested by FBI"
 url: "https://reddit.com/r/ChatGPT/comments/1x5g0u0/openai_employee_uses_unnamed_chatbot_to_spy_on"
+link: "https://reddit.com/r/ChatGPT/comments/1x5g0u0/openai_employee_uses_unnamed_chatbot_to_spy_on"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

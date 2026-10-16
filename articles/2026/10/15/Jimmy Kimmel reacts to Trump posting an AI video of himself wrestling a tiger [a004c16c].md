@@ -2,6 +2,7 @@
 id: "a004c16c3a46483a"
 title: "Jimmy Kimmel reacts to Trump posting an AI video of himself wrestling a tiger"
 url: "https://mashable.com/entertainment/jimmy-kimmel-trump-ai-tiger-wrestling-video"
+link: "https://mashable.com/entertainment/jimmy-kimmel-trump-ai-tiger-wrestling-video"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

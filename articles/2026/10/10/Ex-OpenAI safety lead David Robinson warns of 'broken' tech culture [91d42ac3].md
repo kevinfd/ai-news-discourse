@@ -2,6 +2,7 @@
 id: "91d42ac382ceb34f"
 title: "Ex-OpenAI safety lead David Robinson warns of 'broken' tech culture"
 url: "https://npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture"
+link: "https://npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture"
 source: "NPR"
 domain: "npr.org"
 source_type: "mainstream_news"

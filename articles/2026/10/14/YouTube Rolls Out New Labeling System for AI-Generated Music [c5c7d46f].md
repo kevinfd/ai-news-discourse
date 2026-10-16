@@ -2,6 +2,7 @@
 id: "c5c7d46f2129c357"
 title: "YouTube Rolls Out New Labeling System for AI-Generated Music"
 url: "https://cnet.com/tech/services-and-software/youtube-labels-ai-generated-music"
+link: "https://cnet.com/tech/services-and-software/youtube-labels-ai-generated-music"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

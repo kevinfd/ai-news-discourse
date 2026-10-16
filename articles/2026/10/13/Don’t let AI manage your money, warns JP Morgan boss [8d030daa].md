@@ -2,6 +2,7 @@
 id: "8d030daafce4b92d"
 title: "Don’t let AI manage your money, warns JP Morgan boss"
 url: "https://aol.com/articles/don-t-let-ai-manage-050000000.html"
+link: "https://aol.com/articles/don-t-let-ai-manage-050000000.html"
 source: "AOL"
 domain: "aol.com"
 source_type: "mainstream_news"

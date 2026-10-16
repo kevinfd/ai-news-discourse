@@ -2,6 +2,7 @@
 id: "12bdfea28f920bed"
 title: "Why 88% of AI pilots never make it to production"
 url: "https://thenewstack.io/agentic-ai-production-readiness"
+link: "https://thenewstack.io/agentic-ai-production-readiness"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

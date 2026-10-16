@@ -2,6 +2,7 @@
 id: "8404278126762b91"
 title: "TV4 postpones show after AI agent erases edited material"
 url: "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
+link: "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
 source: "Swedenherald"
 domain: "swedenherald.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "01b5df25f2591818"
 title: "Generative AI scandal has come to one of Nikon's competitions"
 url: "https://dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions"
+link: "https://dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions"
 source: "Dpreview"
 domain: "dpreview.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "47c1efe71126cb09"
 title: "Character.AI files for bankruptcy — what happens to your chats and AI companions now?"
 url: "https://tomsguide.com/ai/character-ai-files-for-bankruptcy-what-happens-to-your-chats-and-ai-companions-now"
+link: "https://tomsguide.com/ai/character-ai-files-for-bankruptcy-what-happens-to-your-chats-and-ai-companions-now"
 source: "Tom's Guide"
 domain: "tomsguide.com"
 source_type: "tech_press"

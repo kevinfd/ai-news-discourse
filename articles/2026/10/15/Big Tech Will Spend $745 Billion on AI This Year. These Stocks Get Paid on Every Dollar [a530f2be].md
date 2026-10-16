@@ -2,6 +2,7 @@
 id: "a530f2beff46cf1b"
 title: "Big Tech Will Spend $745 Billion on AI This Year. These Stocks Get Paid on Every Dollar."
 url: "https://fool.com/investing/2026/10/15/big-tech-745-billion-ai-stocks-paid-every-dollar"
+link: "https://fool.com/investing/2026/10/15/big-tech-745-billion-ai-stocks-paid-every-dollar"
 source: "The Motley Fool"
 domain: "fool.com"
 source_type: "mainstream_news"

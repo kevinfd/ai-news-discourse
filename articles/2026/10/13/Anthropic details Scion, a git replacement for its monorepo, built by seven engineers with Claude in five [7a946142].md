@@ -2,6 +2,7 @@
 id: "7a9461424bf8d6cc"
 title: "Anthropic details Scion, a git replacement for its monorepo, built by seven engineers with Claude in five months, as daily merges rose from 2.5K in May to 30K+ (Anthropic)"
 url: "https://techmeme.com/261013/p38"
+link: "https://techmeme.com/261013/p38"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

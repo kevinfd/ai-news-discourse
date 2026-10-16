@@ -2,6 +2,7 @@
 id: "d5b889d0a64e607c"
 title: "Made study rules for my adhd and claude is trolling 😭"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4idmi/made_study_rules_for_my_adhd_and_claude_is"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4idmi/made_study_rules_for_my_adhd_and_claude_is"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "0e23e45e18f37ca8"
 title: "Apple’s brand-new M6 Mac mini is on sale at Amazon — buy now for $779.99"
 url: "https://mashable.com/tech/oct-14-apple-2026-mac-mini-m6-deal"
+link: "https://mashable.com/tech/oct-14-apple-2026-mac-mini-m6-deal"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

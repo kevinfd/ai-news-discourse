@@ -2,6 +2,7 @@
 id: "aa91d281de22e9f0"
 title: "Just how sunlike is the sun?"
 url: "https://scientificamerican.com/article/just-how-sunlike-is-the-sun"
+link: "https://scientificamerican.com/article/just-how-sunlike-is-the-sun"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

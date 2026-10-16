@@ -2,6 +2,7 @@
 id: "955fe240b4fc7cca"
 title: "Elon Musk has Grok buying him Lego sets"
 url: "https://mashable.com/tech/elon-musk-grok-shopping-lego-ai"
+link: "https://mashable.com/tech/elon-musk-grok-shopping-lego-ai"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

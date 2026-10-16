@@ -2,6 +2,7 @@
 id: "21372e1bbc9ba4c7"
 title: "Can AI fix legacy IT? The ‘economics don’t hold up,’ says former IBM strategist"
 url: "https://zdnet.com/innovation/ai-legacy-it-modernization"
+link: "https://zdnet.com/innovation/ai-legacy-it-modernization"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

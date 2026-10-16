@@ -2,6 +2,7 @@
 id: "9189c6773aa75fe5"
 title: "The ‘Kelvin wave’ hitting California is a potent warning about sea-level rise"
 url: "https://scientificamerican.com/article/the-kelvin-wave-hitting-california-is-a-potent-warning-about-sea-level-rise"
+link: "https://scientificamerican.com/article/the-kelvin-wave-hitting-california-is-a-potent-warning-about-sea-level-rise"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

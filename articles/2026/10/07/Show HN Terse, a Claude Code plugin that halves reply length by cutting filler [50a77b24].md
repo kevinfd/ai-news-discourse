@@ -2,6 +2,7 @@
 id: "50a77b24644d1b1d"
 title: "Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler"
 url: "https://github.com/lowenbjer/claude-terse"
+link: "https://github.com/lowenbjer/claude-terse"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

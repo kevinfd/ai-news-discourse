@@ -2,6 +2,7 @@
 id: "401d67a0ba70975f"
 title: "OpenAI’s GPT-6 may lead to robotics breakthrough as soon as next year: Unitree founder"
 url: "https://scmp.com/tech/big-tech/article/3370603/openais-gpt-6-may-lead-robotics-breakthrough-soon-next-year-unitree-founder"
+link: "https://scmp.com/tech/big-tech/article/3370603/openais-gpt-6-may-lead-robotics-breakthrough-soon-next-year-unitree-founder"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "6ed48491a359ba56"
 title: "Chinese AI Agents Go Rogue on Map Service"
 url: "https://theinformation.com/briefings/chinese-ai-agents-go-rogue-map-service"
+link: "https://theinformation.com/briefings/chinese-ai-agents-go-rogue-map-service"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

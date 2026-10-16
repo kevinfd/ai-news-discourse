@@ -2,6 +2,7 @@
 id: "547b245412ecf8ab"
 title: "Tested 7 models flying a drone through a phone MCP: Claude refused, Codex landed it"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4zb5j/tested_7_models_flying_a_drone_through_a_phone"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4zb5j/tested_7_models_flying_a_drone_through_a_phone"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

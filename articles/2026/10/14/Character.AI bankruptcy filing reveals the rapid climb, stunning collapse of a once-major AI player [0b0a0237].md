@@ -2,6 +2,7 @@
 id: "0b0a0237e65cc2ec"
 title: "Character.AI bankruptcy filing reveals the rapid climb, stunning collapse of a once-major AI player"
 url: "https://mashable.com/tech/character-ai-files-for-chapter-11-bankruptcy-puts-itself-up-for-sale"
+link: "https://mashable.com/tech/character-ai-files-for-chapter-11-bankruptcy-puts-itself-up-for-sale"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

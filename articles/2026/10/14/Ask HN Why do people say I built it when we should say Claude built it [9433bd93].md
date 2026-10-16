@@ -2,6 +2,7 @@
 id: "9433bd93ac94ebf4"
 title: "Ask HN: Why do people say \"I built it\" when we should say \"Claude built it\"?"
 url: "https://news.ycombinator.com/item?id=50085114"
+link: "https://news.ycombinator.com/item?id=50085114"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

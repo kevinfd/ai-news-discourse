@@ -2,6 +2,7 @@
 id: "f49fa2ec7d53cdfe"
 title: "FBI arrests and investigates this OpenAI engineer over a ‘sophisticated listening device’"
 url: "https://fastcompany.com/91623503/fbi-arrests-investigates-openai-engineer-over-sophisticated-listening-device?partner=rss"
+link: "https://fastcompany.com/91623503/fbi-arrests-investigates-openai-engineer-over-sophisticated-listening-device?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

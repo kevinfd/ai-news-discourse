@@ -2,6 +2,7 @@
 id: "b9dcdda324f20786"
 title: "Google Deepmind’s New Resident Philosopher Tackles AI Ethics"
 url: "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin"
+link: "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin"
 source: "IEEE Spectrum"
 domain: "spectrum.ieee.org"
 source_type: "tech_press"

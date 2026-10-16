@@ -2,6 +2,7 @@
 id: "f455ebb1a086070d"
 title: "I asked a.i what a rogue a.i attack would look like, is this a possibility of a future to dread about?"
 url: "https://reddit.com/r/artificial/comments/1x5gdz0/i_asked_ai_what_a_rogue_ai_attack_would_look_like"
+link: "https://reddit.com/r/artificial/comments/1x5gdz0/i_asked_ai_what_a_rogue_ai_attack_would_look_like"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

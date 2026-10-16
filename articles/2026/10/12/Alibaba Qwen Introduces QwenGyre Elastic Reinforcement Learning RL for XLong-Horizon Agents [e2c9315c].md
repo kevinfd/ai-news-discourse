@@ -2,6 +2,7 @@
 id: "e2c9315c035cd01c"
 title: "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents"
 url: "https://marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents"
+link: "https://marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

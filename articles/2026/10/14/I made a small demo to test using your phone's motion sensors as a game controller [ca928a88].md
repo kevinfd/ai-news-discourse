@@ -2,6 +2,7 @@
 id: "ca928a88ad9a034e"
 title: "I made a small demo to test using your phone's motion sensors as a game controller"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5qfdu/i_made_a_small_demo_to_test_using_your_phones"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5qfdu/i_made_a_small_demo_to_test_using_your_phones"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

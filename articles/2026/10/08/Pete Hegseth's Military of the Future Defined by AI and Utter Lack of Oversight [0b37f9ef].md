@@ -2,6 +2,7 @@
 id: "0b37f9ef01c25d86"
 title: "Pete Hegseth's Military of the Future: Defined by AI and Utter Lack of Oversight"
 url: "https://theintercept.com/2026/10/08/hegseth-military-ai-drones-autonomous-war"
+link: "https://theintercept.com/2026/10/08/hegseth-military-ai-drones-autonomous-war"
 source: "The Intercept"
 domain: "theintercept.com"
 source_type: "community"

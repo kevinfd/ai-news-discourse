@@ -2,6 +2,7 @@
 id: "0522fc02b69ef4b7"
 title: "Introducing Mistral Large 4: Le chonk"
 url: "https://simonwillison.net/2026/Oct/6/le-chonk"
+link: "https://simonwillison.net/2026/Oct/6/le-chonk"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

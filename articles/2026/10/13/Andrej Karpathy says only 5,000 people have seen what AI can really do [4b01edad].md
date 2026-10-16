@@ -2,6 +2,7 @@
 id: "4b01edad278f57ef"
 title: "Andrej Karpathy says only 5,000 people have seen what AI can really do"
 url: "https://thenewstack.io/karpathy-levie-ai-capability-gap"
+link: "https://thenewstack.io/karpathy-levie-ai-capability-gap"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "community"

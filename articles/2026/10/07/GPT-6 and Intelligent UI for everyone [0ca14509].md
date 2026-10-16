@@ -2,6 +2,7 @@
 id: "0ca1450969b5beb5"
 title: "GPT-6 and Intelligent UI for everyone"
 url: "https://openai.com/index/gpt-6-for-everyone"
+link: "https://openai.com/index/gpt-6-for-everyone"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

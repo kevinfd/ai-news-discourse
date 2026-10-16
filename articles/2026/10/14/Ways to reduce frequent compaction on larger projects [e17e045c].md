@@ -2,6 +2,7 @@
 id: "e17e045c673adcde"
 title: "Ways to reduce frequent compaction on larger projects?"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5uhme/ways_to_reduce_frequent_compaction_on_larger"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5uhme/ways_to_reduce_frequent_compaction_on_larger"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

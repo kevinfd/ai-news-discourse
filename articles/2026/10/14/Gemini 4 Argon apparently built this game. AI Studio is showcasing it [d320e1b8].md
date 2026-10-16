@@ -2,6 +2,7 @@
 id: "d320e1b8b15e4d97"
 title: "Gemini 4 Argon apparently built this game. AI Studio is showcasing it."
 url: "https://reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai"
+link: "https://reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "595085953aeea904"
 title: "Show HN: Let your AI agents paint big arrows, boxes and text on your screen"
 url: "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
+link: "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

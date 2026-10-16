@@ -2,6 +2,7 @@
 id: "614c06c120035799"
 title: "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO"
 url: "https://cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html"
+link: "https://cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

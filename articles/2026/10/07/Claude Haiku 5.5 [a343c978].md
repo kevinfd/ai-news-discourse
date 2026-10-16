@@ -2,6 +2,7 @@
 id: "a343c9786e70baad"
 title: "Claude Haiku 5.5"
 url: "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5"
+link: "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

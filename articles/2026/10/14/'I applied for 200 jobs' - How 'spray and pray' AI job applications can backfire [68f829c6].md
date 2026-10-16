@@ -2,6 +2,7 @@
 id: "68f829c692c92250"
 title: "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire"
 url: "https://aol.com/articles/ok-jobseekers-employers-ai-230443000.html"
+link: "https://aol.com/articles/ok-jobseekers-employers-ai-230443000.html"
 source: "AOL"
 domain: "aol.com"
 source_type: "mainstream_news"

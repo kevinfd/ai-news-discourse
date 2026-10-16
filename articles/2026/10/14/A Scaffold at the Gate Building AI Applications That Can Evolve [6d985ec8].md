@@ -2,6 +2,7 @@
 id: "6d985ec8d52acd42"
 title: "A Scaffold at the Gate: Building AI Applications That Can Evolve"
 url: "https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve"
+link: "https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve"
 source: "Towards Data Science"
 domain: "towardsdatascience.com"
 source_type: "newsletter"

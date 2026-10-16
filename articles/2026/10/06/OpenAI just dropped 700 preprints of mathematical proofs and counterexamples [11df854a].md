@@ -2,6 +2,7 @@
 id: "11df854ac59d5d3c"
 title: "OpenAI just dropped 700 preprints of mathematical proofs and counterexamples"
 url: "https://github.com/openai/math/tree/main/preprints"
+link: "https://github.com/openai/math/tree/main/preprints"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

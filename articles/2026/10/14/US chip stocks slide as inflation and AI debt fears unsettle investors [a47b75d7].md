@@ -2,6 +2,7 @@
 id: "a47b75d71bfa16ac"
 title: "US chip stocks slide as inflation and AI debt fears unsettle investors"
 url: "https://ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1"
+link: "https://ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

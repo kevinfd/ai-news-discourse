@@ -2,6 +2,7 @@
 id: "3ebfc971d2812ece"
 title: "Why Companies Can't Prove Their AI Spending Pays Off"
 url: "https://theinformation.com/articles/companies-prove-ai-spending-pays"
+link: "https://theinformation.com/articles/companies-prove-ai-spending-pays"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

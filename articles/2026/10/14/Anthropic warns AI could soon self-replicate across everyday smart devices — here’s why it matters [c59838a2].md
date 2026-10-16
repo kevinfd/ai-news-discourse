@@ -2,6 +2,7 @@
 id: "c59838a22bf97cf8"
 title: "Anthropic warns AI could soon self-replicate across everyday smart devices — here’s why it matters"
 url: "https://tomsguide.com/ai/anthropic-warns-ai-could-soon-self-replicate-across-everyday-smart-devices-heres-why-it-matters"
+link: "https://tomsguide.com/ai/anthropic-warns-ai-could-soon-self-replicate-across-everyday-smart-devices-heres-why-it-matters"
 source: "Tom's Guide"
 domain: "tomsguide.com"
 source_type: "tech_press"

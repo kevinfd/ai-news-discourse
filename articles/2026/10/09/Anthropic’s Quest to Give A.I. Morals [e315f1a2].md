@@ -2,6 +2,7 @@
 id: "e315f1a2ecc80043"
 title: "Anthropic’s Quest to Give A.I. Morals"
 url: "https://nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html"
+link: "https://nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

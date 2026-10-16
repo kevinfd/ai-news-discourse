@@ -2,6 +2,7 @@
 id: "56a3d648c0008dc2"
 title: "Anthropic brings Wall Street an AI bull case"
 url: "https://axios.com/2026/10/15/anthropic-q3-revenue-cash-flow"
+link: "https://axios.com/2026/10/15/anthropic-q3-revenue-cash-flow"
 source: "Axios"
 domain: "axios.com"
 source_type: "mainstream_news"

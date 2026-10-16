@@ -2,6 +2,7 @@
 id: "abb447e81bd054f7"
 title: "The Roadmap to Mastering Agentic AI Systems in 2026"
 url: "https://kdnuggets.com/the-roadmap-to-mastering-agentic-ai-systems-in-2026"
+link: "https://kdnuggets.com/the-roadmap-to-mastering-agentic-ai-systems-in-2026"
 source: "KDnuggets"
 domain: "kdnuggets.com"
 source_type: "newsletter"

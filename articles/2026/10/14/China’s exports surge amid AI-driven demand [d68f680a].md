@@ -2,6 +2,7 @@
 id: "d68f680ad4e085e5"
 title: "China’s exports surge amid AI-driven demand"
 url: "https://aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss"
+link: "https://aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss"
 source: "Al Jazeera"
 domain: "aljazeera.com"
 source_type: "mainstream_news"

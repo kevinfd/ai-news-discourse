@@ -2,6 +2,7 @@
 id: "da1ba21b9baffe66"
 title: "Saudi National Arrested for Installing Audio Recording Device at OpenAI"
 url: "https://justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai"
+link: "https://justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai"
 source: "justice.gov"
 domain: "justice.gov"
 source_type: "community"

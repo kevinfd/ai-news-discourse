@@ -2,6 +2,7 @@
 id: "f2d4b0538b54bfb7"
 title: "Hot Topic... I have used 119 billion tokens in 30 days on my Max plan, but only 190 billion in 90 days. Is Opus 5.5 using extra tokens?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x6cobx/hot_topic_i_have_used_119_billion_tokens_in_30"
+link: "https://reddit.com/r/ClaudeAI/comments/1x6cobx/hot_topic_i_have_used_119_billion_tokens_in_30"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

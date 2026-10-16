@@ -2,6 +2,7 @@
 id: "4ba61afabcca154f"
 title: "How I used AI to become a chess grandmaster at 16"
 url: "https://ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94"
+link: "https://ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "0703ca7b5743fa87"
 title: "Google AI Long-Term Cross-Thread Memory Suddenly Gone"
 url: "https://reddit.com/r/artificial/comments/1x5i9kj/google_ai_longterm_crossthread_memory_suddenly"
+link: "https://reddit.com/r/artificial/comments/1x5i9kj/google_ai_longterm_crossthread_memory_suddenly"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

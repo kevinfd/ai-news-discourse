@@ -2,6 +2,7 @@
 id: "af437557ebd78789"
 title: "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models"
 url: "https://marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models"
+link: "https://marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

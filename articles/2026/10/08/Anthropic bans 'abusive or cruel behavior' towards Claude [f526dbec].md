@@ -2,6 +2,7 @@
 id: "f526dbecf422929f"
 title: "Anthropic bans 'abusive or cruel behavior' towards Claude"
 url: "https://theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
+link: "https://theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "community"

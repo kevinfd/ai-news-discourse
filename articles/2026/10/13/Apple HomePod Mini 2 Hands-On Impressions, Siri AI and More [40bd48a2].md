@@ -2,6 +2,7 @@
 id: "40bd48a2d9839705"
 title: "Apple HomePod Mini 2: Hands-On Impressions, Siri AI and More"
 url: "https://cnet.com/home/smart-home/apple-homepod-mini-2-same-look-but-so-much-siri-ai"
+link: "https://cnet.com/home/smart-home/apple-homepod-mini-2-same-look-but-so-much-siri-ai"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

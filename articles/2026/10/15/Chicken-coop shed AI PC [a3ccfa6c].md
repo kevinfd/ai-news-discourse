@@ -2,6 +2,7 @@
 id: "a3ccfa6c31e154e0"
 title: "Chicken-coop shed AI PC"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x6c5px/chickencoop_shed_ai_pc"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x6c5px/chickencoop_shed_ai_pc"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

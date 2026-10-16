@@ -2,6 +2,7 @@
 id: "f6812e32974f7a62"
 title: "LiquidAI/LFM2.5-24B-A2B"
 url: "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B"
+link: "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B"
 source: "Hugging Face"
 domain: "huggingface.co"
 source_type: "community"

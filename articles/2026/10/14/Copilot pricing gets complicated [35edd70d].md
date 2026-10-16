@@ -2,6 +2,7 @@
 id: "35edd70d62377ac9"
 title: "Copilot pricing gets complicated"
 url: "https://computerworld.com/article/4235201/microsofts-agent-push-complicates-copilot-pricing.html"
+link: "https://computerworld.com/article/4235201/microsofts-agent-push-complicates-copilot-pricing.html"
 source: "Computerworld"
 domain: "computerworld.com"
 source_type: "mainstream_news"

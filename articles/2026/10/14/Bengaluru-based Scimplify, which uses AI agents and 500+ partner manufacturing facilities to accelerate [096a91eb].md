@@ -2,6 +2,7 @@
 id: "096a91eb80eeb1aa"
 title: "Bengaluru-based Scimplify, which uses AI agents and 500+ partner manufacturing facilities to accelerate chemical production, raised $25M led by Hitachi Ventures (Jagmeet Singh/TechCrunch)"
 url: "https://techmeme.com/261014/p14"
+link: "https://techmeme.com/261014/p14"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

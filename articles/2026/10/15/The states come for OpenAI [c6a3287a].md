@@ -2,6 +2,7 @@
 id: "c6a3287a8503a205"
 title: "The states come for OpenAI"
 url: "https://platformer.news/openai-states-lawsuit-liability"
+link: "https://platformer.news/openai-states-lawsuit-liability"
 source: "Platformer"
 domain: "platformer.news"
 source_type: "newsletter"

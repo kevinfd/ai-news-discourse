@@ -2,6 +2,7 @@
 id: "bd36ec43e1a3f328"
 title: "Google Deepmind's Hassabis calls AI hacks 'early warning shots'"
 url: "https://channelnewsasia.com/business/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots-6458736"
+link: "https://channelnewsasia.com/business/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots-6458736"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

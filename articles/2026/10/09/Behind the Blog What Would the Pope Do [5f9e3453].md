@@ -2,6 +2,7 @@
 id: "5f9e3453e09e75b6"
 title: "Behind the Blog: What Would the Pope Do?"
 url: "https://404media.co/behind-the-blog-what-would-the-pope-do"
+link: "https://404media.co/behind-the-blog-what-would-the-pope-do"
 source: "404 Media"
 domain: "404media.co"
 source_type: "tech_press"

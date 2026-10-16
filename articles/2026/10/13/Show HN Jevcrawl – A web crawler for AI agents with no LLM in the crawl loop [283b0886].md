@@ -2,6 +2,7 @@
 id: "283b0886e43af851"
 title: "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop"
 url: "https://github.com/RayenMlayeh/jevcrawl"
+link: "https://github.com/RayenMlayeh/jevcrawl"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

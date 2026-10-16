@@ -2,6 +2,7 @@
 id: "7aa30906f2730c3c"
 title: "Google is now emailing Gemini subscribers about a change that will cost them 4x more"
 url: "https://androidauthority.com/google-ai-plus-pro-model-access-cut-off-date-3723558"
+link: "https://androidauthority.com/google-ai-plus-pro-model-access-cut-off-date-3723558"
 source: "Android Authority"
 domain: "androidauthority.com"
 source_type: "mainstream_news"

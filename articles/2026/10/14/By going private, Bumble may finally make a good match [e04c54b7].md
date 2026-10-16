@@ -2,6 +2,7 @@
 id: "e04c54b7fce3e330"
 title: "By going private, Bumble may finally make a good match"
 url: "https://ft.com/content/eba64db2-1df1-4141-a1c1-724f549fe8ff?syn-25a6b1a6=1"
+link: "https://ft.com/content/eba64db2-1df1-4141-a1c1-724f549fe8ff?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

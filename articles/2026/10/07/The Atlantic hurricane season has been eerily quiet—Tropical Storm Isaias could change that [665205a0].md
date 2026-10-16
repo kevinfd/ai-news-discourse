@@ -2,6 +2,7 @@
 id: "665205a009bc9780"
 title: "The Atlantic hurricane season has been eerily quiet—Tropical Storm Isaias could change that"
 url: "https://scientificamerican.com/article/the-atlantic-hurricane-season-has-been-eerily-quiet-tropical-storm-isaias-could-change-that"
+link: "https://scientificamerican.com/article/the-atlantic-hurricane-season-has-been-eerily-quiet-tropical-storm-isaias-could-change-that"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

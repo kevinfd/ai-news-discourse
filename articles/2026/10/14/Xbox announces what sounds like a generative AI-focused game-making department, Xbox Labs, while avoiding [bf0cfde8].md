@@ -2,6 +2,7 @@
 id: "bf0cfde886b71169"
 title: "Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI"
 url: "https://eurogamer.net/xbox-labs-genai-game-ports-vibe-code"
+link: "https://eurogamer.net/xbox-labs-genai-game-ports-vibe-code"
 source: "Eurogamer"
 domain: "eurogamer.net"
 source_type: "mainstream_news"

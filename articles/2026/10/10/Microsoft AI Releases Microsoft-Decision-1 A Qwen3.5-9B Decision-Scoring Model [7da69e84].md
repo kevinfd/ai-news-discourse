@@ -2,6 +2,7 @@
 id: "7da69e84635cf3b8"
 title: "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model"
 url: "https://marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model"
+link: "https://marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

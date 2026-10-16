@@ -2,6 +2,7 @@
 id: "1eb7cf3c2aa60c73"
 title: "Police are using AI to locate homes from a single interior photo, and even a picture of a washing machine can be enough"
 url: "https://techspot.com/news/114174-police-using-ai-locate-homes-single-interior-photo.html"
+link: "https://techspot.com/news/114174-police-using-ai-locate-homes-single-interior-photo.html"
 source: "Techspot"
 domain: "techspot.com"
 source_type: "community"

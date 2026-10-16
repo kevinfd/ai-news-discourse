@@ -2,6 +2,7 @@
 id: "2ab458fc2c765a77"
 title: "Chinese optical chip stocks extend rout amid fears of potential US curbs"
 url: "https://scmp.com/tech/tech-war/article/3370305/chinese-optical-chip-stocks-extend-rout-amid-fears-potential-us-curbs"
+link: "https://scmp.com/tech/tech-war/article/3370305/chinese-optical-chip-stocks-extend-rout-amid-fears-potential-us-curbs"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

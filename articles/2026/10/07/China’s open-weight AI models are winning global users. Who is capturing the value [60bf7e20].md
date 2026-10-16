@@ -2,6 +2,7 @@
 id: "60bf7e20d04b12a8"
 title: "China’s open-weight AI models are winning global users. Who is capturing the value?"
 url: "https://scmp.com/tech/tech-trends/article/3370012/chinas-open-weight-ai-models-are-winning-global-users-who-capturing-value"
+link: "https://scmp.com/tech/tech-trends/article/3370012/chinas-open-weight-ai-models-are-winning-global-users-who-capturing-value"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

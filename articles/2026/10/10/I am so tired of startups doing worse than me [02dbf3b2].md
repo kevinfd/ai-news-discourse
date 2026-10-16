@@ -2,6 +2,7 @@
 id: "02dbf3b28431a16c"
 title: "I am so tired of startups doing worse than me"
 url: "https://news.ycombinator.com/item?id=50036791"
+link: "https://news.ycombinator.com/item?id=50036791"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "12c8fdb840d72215"
 title: "China’s factories leaping straight into agentic AI and taking it global: Black Lake CEO"
 url: "https://scmp.com/tech/big-tech/article/3370490/chinas-factories-leaping-straight-agentic-ai-and-taking-it-global-black-lake-ceo"
+link: "https://scmp.com/tech/big-tech/article/3370490/chinas-factories-leaping-straight-agentic-ai-and-taking-it-global-black-lake-ceo"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

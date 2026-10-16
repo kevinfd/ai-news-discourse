@@ -2,6 +2,7 @@
 id: "332d5f4737164d40"
 title: "Anthropic warns AI models could soon copy themselves across home devices"
 url: "https://cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html"
+link: "https://cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

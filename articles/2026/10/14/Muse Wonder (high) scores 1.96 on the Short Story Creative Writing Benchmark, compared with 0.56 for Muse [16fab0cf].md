@@ -2,6 +2,7 @@
 id: "16fab0cfa0db22bd"
 title: "Muse Wonder (high) scores 1.96 on the Short Story Creative Writing Benchmark, compared with 0.56 for Muse Spark 1.3 (high). Gemini 4 Argon (high) scores 0.80, up from −2.17 for Gemini 3.1 Pro Preview."
 url: "https://reddit.com/r/singularity/comments/1x5wbkg/muse_wonder_high_scores_196_on_the_short_story"
+link: "https://reddit.com/r/singularity/comments/1x5wbkg/muse_wonder_high_scores_196_on_the_short_story"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

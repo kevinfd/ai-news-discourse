@@ -2,6 +2,7 @@
 id: "078515a7891bb86c"
 title: "When AI is subject to less regulation than your fridge, something is startlingly wrong | Richard Hermer"
 url: "https://theguardian.com/commentisfree/2026/oct/12/ai-regulation-fridge-risk-humanity-public-debate-international-law"
+link: "https://theguardian.com/commentisfree/2026/oct/12/ai-regulation-fridge-risk-humanity-public-debate-international-law"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "84f4bcc51f991ccb"
 title: "5 Fun Projects for LLM Inference Engineering"
 url: "https://kdnuggets.com/5-fun-projects-for-llm-inference-engineering"
+link: "https://kdnuggets.com/5-fun-projects-for-llm-inference-engineering"
 source: "KDnuggets"
 domain: "kdnuggets.com"
 source_type: "newsletter"

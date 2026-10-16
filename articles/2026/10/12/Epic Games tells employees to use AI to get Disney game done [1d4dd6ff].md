@@ -2,6 +2,7 @@
 id: "1d4dd6ffc1497d56"
 title: "Epic Games tells employees to use AI to get Disney game done"
 url: "https://avclub.com/epic-games-disney-ai-delay"
+link: "https://avclub.com/epic-games-disney-ai-delay"
 source: "A.V. Club"
 domain: "avclub.com"
 source_type: "community"

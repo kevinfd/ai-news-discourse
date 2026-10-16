@@ -2,6 +2,7 @@
 id: "45e427428df053a6"
 title: "Tinder hadnt updated most AI scam detection models in years, Senate report finds"
 url: "https://mashable.com/life/romance-scam-congress-report-tinder-match-group"
+link: "https://mashable.com/life/romance-scam-congress-report-tinder-match-group"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

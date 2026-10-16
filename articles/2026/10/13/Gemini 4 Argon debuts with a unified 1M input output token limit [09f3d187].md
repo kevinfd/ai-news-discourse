@@ -2,6 +2,7 @@
 id: "09f3d187d085f31f"
 title: "Gemini 4 Argon debuts with a unified 1M input/output token limit"
 url: "https://thenewstack.io/gemini-4-argon-live"
+link: "https://thenewstack.io/gemini-4-argon-live"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

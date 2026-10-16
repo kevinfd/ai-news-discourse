@@ -2,6 +2,7 @@
 id: "543664fc9c8e7476"
 title: "As US medical debt grows, AI will be used more to collect it"
 url: "https://theguardian.com/us-news/2026/oct/12/ai-medical-debt-billing"
+link: "https://theguardian.com/us-news/2026/oct/12/ai-medical-debt-billing"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

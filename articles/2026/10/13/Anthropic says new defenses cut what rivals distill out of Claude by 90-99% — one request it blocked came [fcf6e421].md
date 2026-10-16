@@ -2,6 +2,7 @@
 id: "fcf6e421796d75ad"
 title: "Anthropic says new defenses cut what rivals distill out of Claude by 90-99% — one request it blocked came from a user it believes was PLA-affiliated"
 url: "https://anthropic.com/research/distillation-defenses"
+link: "https://anthropic.com/research/distillation-defenses"
 source: "Anthropic"
 domain: "anthropic.com"
 source_type: "community"

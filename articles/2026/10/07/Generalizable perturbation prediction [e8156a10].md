@@ -2,6 +2,7 @@
 id: "e8156a10e02f1243"
 title: "Generalizable perturbation prediction"
 url: "https://nature.com/articles/s41592-026-03260-1"
+link: "https://nature.com/articles/s41592-026-03260-1"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

@@ -2,6 +2,7 @@
 id: "983f88a48840ee19"
 title: "An Anthropic researcher told his friend, in private, \"I'm just enjoying my last six months\""
 url: "https://reddit.com/r/ChatGPT/comments/1x5qfes/an_anthropic_researcher_told_his_friend_in"
+link: "https://reddit.com/r/ChatGPT/comments/1x5qfes/an_anthropic_researcher_told_his_friend_in"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

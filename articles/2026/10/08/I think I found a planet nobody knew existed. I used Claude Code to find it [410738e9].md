@@ -2,6 +2,7 @@
 id: "410738e993186151"
 title: "I think I found a planet nobody knew existed. I used Claude Code to find it"
 url: "https://reddit.com/r/ClaudeAI/s/mbe5IY2LF9"
+link: "https://reddit.com/r/ClaudeAI/s/mbe5IY2LF9"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

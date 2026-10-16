@@ -2,6 +2,7 @@
 id: "666480151325c013"
 title: "Why 3 days at work is the big AI promise that Bezos, Dimon, and Gates can't stop talking about"
 url: "https://businessinsider.com/bezos-dimon-gates-musk-cuban-ai-working-days-jobs-unemployment-2026-10"
+link: "https://businessinsider.com/bezos-dimon-gates-musk-cuban-ai-working-days-jobs-unemployment-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

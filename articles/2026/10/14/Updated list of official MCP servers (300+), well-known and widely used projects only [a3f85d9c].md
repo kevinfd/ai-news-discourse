@@ -2,6 +2,7 @@
 id: "a3f85d9ce565be10"
 title: "Updated list of official MCP servers (300+), well-known and widely used projects only"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5j0p7/updated_list_of_official_mcp_servers_300"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5j0p7/updated_list_of_official_mcp_servers_300"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

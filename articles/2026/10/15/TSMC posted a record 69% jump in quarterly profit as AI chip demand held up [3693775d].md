@@ -2,6 +2,7 @@
 id: "3693775d9f0349c2"
 title: "TSMC posted a record 69% jump in quarterly profit as AI chip demand held up"
 url: "https://qz.com/tsmc-record-profit-ai-chip-demand-101526"
+link: "https://qz.com/tsmc-record-profit-ai-chip-demand-101526"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

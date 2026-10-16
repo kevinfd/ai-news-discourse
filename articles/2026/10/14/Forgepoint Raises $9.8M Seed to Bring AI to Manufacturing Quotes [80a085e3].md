@@ -2,6 +2,7 @@
 id: "80a085e3cfc760a1"
 title: "Forgepoint Raises $9.8M Seed to Bring AI to Manufacturing Quotes"
 url: "https://unite.ai/forgepoint-9-8m-seed-ai-manufacturing-quotes"
+link: "https://unite.ai/forgepoint-9-8m-seed-ai-manufacturing-quotes"
 source: "Unite.AI"
 domain: "unite.ai"
 source_type: "mainstream_news"

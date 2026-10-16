@@ -2,6 +2,7 @@
 id: "90f78e708acc2265"
 title: "Character.ai Files For Bankruptcy, Citing Costs and Litigation"
 url: "https://theinformation.com/briefings/character-ai-files-bankruptcy-citing-costs-litigation"
+link: "https://theinformation.com/briefings/character-ai-files-bankruptcy-citing-costs-litigation"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

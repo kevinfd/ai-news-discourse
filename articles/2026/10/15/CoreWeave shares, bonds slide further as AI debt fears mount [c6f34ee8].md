@@ -2,6 +2,7 @@
 id: "c6f34ee81d51800e"
 title: "CoreWeave shares, bonds slide further as AI debt fears mount"
 url: "https://channelnewsasia.com/business/coreweave-shares-bonds-slide-further-ai-debt-fears-mount-6462286"
+link: "https://channelnewsasia.com/business/coreweave-shares-bonds-slide-further-ai-debt-fears-mount-6462286"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

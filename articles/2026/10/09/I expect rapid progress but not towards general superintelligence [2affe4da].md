@@ -2,6 +2,7 @@
 id: "2affe4da8255287e"
 title: "I expect rapid progress but not towards general superintelligence"
 url: "https://interconnects.ai/p/i-expect-rapid-progress-but-not-towards"
+link: "https://interconnects.ai/p/i-expect-rapid-progress-but-not-towards"
 source: "Interconnects"
 domain: "interconnects.ai"
 source_type: "newsletter"

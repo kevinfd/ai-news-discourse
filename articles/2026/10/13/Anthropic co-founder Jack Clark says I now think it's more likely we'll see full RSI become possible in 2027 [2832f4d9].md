@@ -2,6 +2,7 @@
 id: "2832f4d913b29f02"
 title: "Anthropic co-founder Jack Clark says \"I now think it's more likely we'll see full RSI become possible in 2027\", earlier than his previous prediction of 2028 (Jack Clark/Import AI)"
 url: "https://techmeme.com/261013/p29"
+link: "https://techmeme.com/261013/p29"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

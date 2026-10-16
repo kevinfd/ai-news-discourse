@@ -2,6 +2,7 @@
 id: "4610d2ac5312755a"
 title: "Welcome back: Gemini 2.5 Pro"
 url: "https://reddit.com/r/singularity/comments/1x51puo/welcome_back_gemini_25_pro"
+link: "https://reddit.com/r/singularity/comments/1x51puo/welcome_back_gemini_25_pro"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

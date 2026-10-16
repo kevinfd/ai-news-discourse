@@ -2,6 +2,7 @@
 id: "484cd26a729383a2"
 title: "Which third-party AI coding harnesses can currently be used safely with a Claude subscription without violating Anthropic's terms of service?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x68xb3/which_thirdparty_ai_coding_harnesses_can"
+link: "https://reddit.com/r/ClaudeAI/comments/1x68xb3/which_thirdparty_ai_coding_harnesses_can"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

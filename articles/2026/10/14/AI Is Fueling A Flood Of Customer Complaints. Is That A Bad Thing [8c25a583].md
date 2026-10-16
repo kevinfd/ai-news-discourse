@@ -2,6 +2,7 @@
 id: "8c25a583920bdc14"
 title: "AI Is Fueling A Flood Of Customer Complaints. Is That A Bad Thing?"
 url: "https://forbes.com/sites/bernardmarr/2026/10/14/ai-is-fueling-a-flood-of-customer-complaints-is-that-a-bad-thing"
+link: "https://forbes.com/sites/bernardmarr/2026/10/14/ai-is-fueling-a-flood-of-customer-complaints-is-that-a-bad-thing"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

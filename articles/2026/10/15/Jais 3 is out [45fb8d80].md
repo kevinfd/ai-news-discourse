@@ -2,6 +2,7 @@
 id: "45fb8d80a679bb60"
 title: "Jais 3 is out"
 url: "https://ifm.ai/jais"
+link: "https://ifm.ai/jais"
 source: "Ifm"
 domain: "ifm.ai"
 source_type: "community"

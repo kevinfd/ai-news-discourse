@@ -2,6 +2,7 @@
 id: "b6c0a4fce1a763b3"
 title: "How can I use Claude Code?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x58qbc/how_can_i_use_claude_code"
+link: "https://reddit.com/r/ClaudeAI/comments/1x58qbc/how_can_i_use_claude_code"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "36826c0326828036"
 title: "OpenAI sued by 8 states over ChatGPT safety concerns"
 url: "https://cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html"
+link: "https://cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

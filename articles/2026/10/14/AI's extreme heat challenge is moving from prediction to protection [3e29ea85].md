@@ -2,6 +2,7 @@
 id: "3e29ea85fc6979ec"
 title: "AI's extreme heat challenge is moving from prediction to protection"
 url: "https://axios.com/2026/10/14/ai-extreme-heat-weather-forecast-protection"
+link: "https://axios.com/2026/10/14/ai-extreme-heat-weather-forecast-protection"
 source: "Axios"
 domain: "axios.com"
 source_type: "mainstream_news"

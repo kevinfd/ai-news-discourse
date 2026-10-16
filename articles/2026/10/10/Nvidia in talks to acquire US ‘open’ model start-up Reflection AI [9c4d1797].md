@@ -2,6 +2,7 @@
 id: "9c4d1797038f04e3"
 title: "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI"
 url: "https://ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1"
+link: "https://ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "63d619bc066f5adc"
 title: "China, US discuss AI as chip stock rout hits Asian markets"
 url: "https://scmp.com/plus/tech/tech-war/article/3371013/china-us-discuss-ai-chip-stock-rout-hits-asian-markets"
+link: "https://scmp.com/plus/tech/tech-war/article/3371013/china-us-discuss-ai-chip-stock-rout-hits-asian-markets"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

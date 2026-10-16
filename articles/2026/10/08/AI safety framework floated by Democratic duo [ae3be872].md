@@ -2,6 +2,7 @@
 id: "ae3be8728beb4c12"
 title: "AI safety framework floated by Democratic duo"
 url: "https://politico.com/news/2026/10/08/ai-safety-framework-floated-by-democratic-duo-01112981"
+link: "https://politico.com/news/2026/10/08/ai-safety-framework-floated-by-democratic-duo-01112981"
 source: "Politico"
 domain: "politico.com"
 source_type: "mainstream_news"

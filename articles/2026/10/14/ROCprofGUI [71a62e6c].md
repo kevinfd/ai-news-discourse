@@ -2,6 +2,7 @@
 id: "71a62e6cb461aeb8"
 title: "ROCprofGUI"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x61mja/rocprofgui"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x61mja/rocprofgui"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

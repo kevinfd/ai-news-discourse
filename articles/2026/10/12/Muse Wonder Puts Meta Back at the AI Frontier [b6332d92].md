@@ -2,6 +2,7 @@
 id: "b6332d929c4772b9"
 title: "Muse Wonder Puts Meta Back at the AI Frontier"
 url: "https://wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier"
+link: "https://wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

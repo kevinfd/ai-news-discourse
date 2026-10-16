@@ -2,6 +2,7 @@
 id: "83fd0aecf50f5cfc"
 title: "Gemini 4 Argon only for Ultra in AI Studio"
 url: "https://reddit.com/r/singularity/comments/1x517su/gemini_4_argon_only_for_ultra_in_ai_studio"
+link: "https://reddit.com/r/singularity/comments/1x517su/gemini_4_argon_only_for_ultra_in_ai_studio"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

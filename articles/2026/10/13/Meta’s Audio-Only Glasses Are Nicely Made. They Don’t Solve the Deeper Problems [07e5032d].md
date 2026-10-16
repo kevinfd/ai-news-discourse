@@ -2,6 +2,7 @@
 id: "07e5032da05bc970"
 title: "Meta’s Audio-Only Glasses Are Nicely Made. They Don’t Solve the Deeper Problems"
 url: "https://cnet.com/tech/mobile/meta-ray-ban-audio-only-smart-glasses-first-impressions"
+link: "https://cnet.com/tech/mobile/meta-ray-ban-audio-only-smart-glasses-first-impressions"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

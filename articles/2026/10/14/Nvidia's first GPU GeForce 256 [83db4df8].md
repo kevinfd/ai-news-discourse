@@ -2,6 +2,7 @@
 id: "83db4df8b5369987"
 title: "Nvidia's first GPU: GeForce 256"
 url: "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256"
+link: "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256"
 source: "The Silicon Underground"
 domain: "dfarq.homeip.net"
 source_type: "community"

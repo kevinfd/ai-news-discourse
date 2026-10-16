@@ -2,6 +2,7 @@
 id: "c90b37a60d852319"
 title: "Some older Apple TV models are also getting Siri AI"
 url: "https://engadget.com/2285346/some-older-apple-tv-models-are-also-getting-siri-ai"
+link: "https://engadget.com/2285346/some-older-apple-tv-models-are-also-getting-siri-ai"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

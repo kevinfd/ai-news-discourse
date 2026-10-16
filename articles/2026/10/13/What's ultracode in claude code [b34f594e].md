@@ -2,6 +2,7 @@
 id: "b34f594e4cb443ed"
 title: "What's ultracode in claude code ?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4l4vq/whats_ultracode_in_claude_code"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4l4vq/whats_ultracode_in_claude_code"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

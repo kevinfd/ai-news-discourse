@@ -2,6 +2,7 @@
 id: "1a36455d359d6c4f"
 title: "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents"
 url: "https://news.ycombinator.com/item?id=50059096"
+link: "https://news.ycombinator.com/item?id=50059096"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "e84305afae01afe2"
 title: "My Alexa is guessing things about me — and it's getting weird"
 url: "https://businessinsider.com/what-does-amazon-alexa-know-about-me-dogs-name-2026-10"
+link: "https://businessinsider.com/what-does-amazon-alexa-know-about-me-dogs-name-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

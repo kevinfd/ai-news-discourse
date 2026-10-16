@@ -2,6 +2,7 @@
 id: "c7d8578180176fe2"
 title: "Why Microsoft renewal strategies must now include AI consumption management"
 url: "https://technologyrecord.com/article/why-microsoft-renewal-strategies-must-now-include-ai-consumption-management"
+link: "https://technologyrecord.com/article/why-microsoft-renewal-strategies-must-now-include-ai-consumption-management"
 source: "Technology Record"
 domain: "technologyrecord.com"
 source_type: "mainstream_news"

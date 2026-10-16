@@ -2,6 +2,7 @@
 id: "df050717a1adb49f"
 title: "4x 6000 Pro for the company"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x4yoqm/4x_6000_pro_for_the_company"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x4yoqm/4x_6000_pro_for_the_company"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

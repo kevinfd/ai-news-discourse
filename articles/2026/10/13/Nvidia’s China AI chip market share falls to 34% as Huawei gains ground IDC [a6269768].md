@@ -2,6 +2,7 @@
 id: "a626976837a0464a"
 title: "Nvidia’s China AI chip market share falls to 34% as Huawei gains ground: IDC"
 url: "https://seekingalpha.com/news/4652328-nvidias-china-ai-chip-market-share-falls-to-34-as-huawei-gains-ground-idc"
+link: "https://seekingalpha.com/news/4652328-nvidias-china-ai-chip-market-share-falls-to-34-as-huawei-gains-ground-idc"
 source: "Seeking Alpha"
 domain: "seekingalpha.com"
 source_type: "mainstream_news"

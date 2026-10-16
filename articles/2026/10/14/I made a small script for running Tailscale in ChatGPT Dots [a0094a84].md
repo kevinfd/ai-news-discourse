@@ -2,6 +2,7 @@
 id: "a0094a8464f7f28e"
 title: "I made a small script for running Tailscale in ChatGPT Dots"
 url: "https://reddit.com/r/ChatGPT/comments/1x5j1ka/i_made_a_small_script_for_running_tailscale_in"
+link: "https://reddit.com/r/ChatGPT/comments/1x5j1ka/i_made_a_small_script_for_running_tailscale_in"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "121b44698fc92650"
 title: "OpenAI fires 3 safety researchers in dispute over AI risks"
 url: "https://abcnews.com/Technology/wireStory/openai-fires-3-safety-researchers-dispute-ai-risks-137123277"
+link: "https://abcnews.com/Technology/wireStory/openai-fires-3-safety-researchers-dispute-ai-risks-137123277"
 source: "ABC News"
 domain: "abcnews.com"
 source_type: "mainstream_news"

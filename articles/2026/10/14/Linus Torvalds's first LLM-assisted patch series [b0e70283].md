@@ -2,6 +2,7 @@
 id: "b0e702832e00df4e"
 title: "Linus Torvalds's first LLM-assisted patch series"
 url: "https://lwn.net/Articles/1100449"
+link: "https://lwn.net/Articles/1100449"
 source: "LWN.net"
 domain: "lwn.net"
 source_type: "community"

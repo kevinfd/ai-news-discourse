@@ -2,6 +2,7 @@
 id: "633da07d3cbcac20"
 title: "How a year of extreme weather and a ‘Super El Niño’ will affect fall foliage"
 url: "https://scientificamerican.com/article/how-a-year-of-extreme-weather-and-a-super-el-nino-will-affect-fall-foliage"
+link: "https://scientificamerican.com/article/how-a-year-of-extreme-weather-and-a-super-el-nino-will-affect-fall-foliage"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

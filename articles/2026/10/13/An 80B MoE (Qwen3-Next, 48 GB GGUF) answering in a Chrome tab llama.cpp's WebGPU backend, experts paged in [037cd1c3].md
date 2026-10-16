@@ -2,6 +2,7 @@
 id: "037cd1c37cfbc590"
 title: "An 80B MoE (Qwen3-Next, 48 GB GGUF) answering in a Chrome tab: llama.cpp's WebGPU backend, experts paged in from disk"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x4xjuh/an_80b_moe_qwen3next_48_gb_gguf_answering_in_a"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x4xjuh/an_80b_moe_qwen3next_48_gb_gguf_answering_in_a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

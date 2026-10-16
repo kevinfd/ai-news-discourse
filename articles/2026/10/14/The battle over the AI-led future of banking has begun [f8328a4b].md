@@ -2,6 +2,7 @@
 id: "f8328a4b13b6bbfe"
 title: "The battle over the AI-led future of banking has begun"
 url: "https://ft.com/content/8c6a7595-9403-44f3-81ac-a2e5ceb37459"
+link: "https://ft.com/content/8c6a7595-9403-44f3-81ac-a2e5ceb37459"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

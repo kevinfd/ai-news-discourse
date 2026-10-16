@@ -2,6 +2,7 @@
 id: "87d7316e0ce1e190"
 title: "Figma CFO says design platform willing to put margins on the line to boost AI demand"
 url: "https://channelnewsasia.com/business/figma-cfo-says-design-platform-willing-put-margins-line-boost-ai-demand-6461406"
+link: "https://channelnewsasia.com/business/figma-cfo-says-design-platform-willing-put-margins-line-boost-ai-demand-6461406"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "d3f06c5cb28bf966"
 title: "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads"
 url: "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads"
+link: "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

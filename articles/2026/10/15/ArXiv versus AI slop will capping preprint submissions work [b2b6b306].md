@@ -2,6 +2,7 @@
 id: "b2b6b30655841f1d"
 title: "ArXiv versus AI slop: will capping preprint submissions work?"
 url: "https://nature.com/articles/d41586-026-03194-w"
+link: "https://nature.com/articles/d41586-026-03194-w"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

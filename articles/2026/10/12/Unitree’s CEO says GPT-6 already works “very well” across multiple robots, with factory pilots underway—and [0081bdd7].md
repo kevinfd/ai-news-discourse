@@ -2,6 +2,7 @@
 id: "0081bdd70864e9a5"
 title: "Unitree’s CEO says GPT-6 already works “very well” across multiple robots, with factory pilots underway—and GPT-7 could clear the remaining bottlenecks to mass deployment"
 url: "https://reddit.com/r/singularity/comments/1x4etjh/unitrees_ceo_says_gpt6_already_works_very_well"
+link: "https://reddit.com/r/singularity/comments/1x4etjh/unitrees_ceo_says_gpt6_already_works_very_well"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

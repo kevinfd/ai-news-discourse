@@ -2,6 +2,7 @@
 id: "558d7c6880acff47"
 title: "OpenAI claims an ex-employee took its product plans and presented them to Apple"
 url: "https://theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans"
+link: "https://theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

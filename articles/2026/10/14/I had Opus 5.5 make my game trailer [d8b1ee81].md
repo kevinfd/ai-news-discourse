@@ -2,6 +2,7 @@
 id: "d8b1ee81da821f19"
 title: "I had Opus 5.5 make my game trailer."
 url: "https://reddit.com/r/ClaudeAI/comments/1x64uow/i_had_opus_55_make_my_game_trailer"
+link: "https://reddit.com/r/ClaudeAI/comments/1x64uow/i_had_opus_55_make_my_game_trailer"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "7cf4038ef86a4d42"
 title: "The Toddlers Have Bazookas Now - a nice visualization of the Hugging Face incident"
 url: "https://youtube.com/watch?v=Do_55I-LzfE"
+link: "https://youtube.com/watch?v=Do_55I-LzfE"
 source: "YouTube"
 domain: "youtube.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "bc4e7f3431526e0a"
 title: "The irony of OpenAI crying foul over spying"
 url: "https://aljazeera.com/opinions/2026/10/15/the-irony-of-openai-crying-foul-over-spying?traffic_source=rss"
+link: "https://aljazeera.com/opinions/2026/10/15/the-irony-of-openai-crying-foul-over-spying?traffic_source=rss"
 source: "Al Jazeera"
 domain: "aljazeera.com"
 source_type: "mainstream_news"

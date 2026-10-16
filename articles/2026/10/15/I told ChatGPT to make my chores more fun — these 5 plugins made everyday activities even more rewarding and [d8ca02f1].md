@@ -2,6 +2,7 @@
 id: "d8ca02f1945a28e7"
 title: "I told ChatGPT to make my chores more fun — these 5 plugins made everyday activities even more rewarding and productive"
 url: "https://tomsguide.com/ai/i-told-chatgpt-to-make-my-chores-more-fun-these-5-plugins-made-everyday-activities-even-more-rewarding-and-productive"
+link: "https://tomsguide.com/ai/i-told-chatgpt-to-make-my-chores-more-fun-these-5-plugins-made-everyday-activities-even-more-rewarding-and-productive"
 source: "Tom's Guide"
 domain: "tomsguide.com"
 source_type: "tech_press"

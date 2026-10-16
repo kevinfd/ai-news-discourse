@@ -2,6 +2,7 @@
 id: "2027bec4b31cfb6c"
 title: "Some guardrails on ChatGPT for Teens don't work as promised, watchdog group says"
 url: "https://abcnews.com/Technology/wireStory/guardrails-chatgpt-teens-work-promised-watchdog-group-137079557"
+link: "https://abcnews.com/Technology/wireStory/guardrails-chatgpt-teens-work-promised-watchdog-group-137079557"
 source: "ABC News"
 domain: "abcnews.com"
 source_type: "mainstream_news"

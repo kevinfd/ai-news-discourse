@@ -2,6 +2,7 @@
 id: "b799501cff73c2e3"
 title: "Anthropic AI model submits false tip on unsolved Philly murder, police say"
 url: "https://nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051"
+link: "https://nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051"
 source: "NBC 10 Philadelphia"
 domain: "nbcphiladelphia.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "a38307379a516003"
 title: "Is Claude Pro really less well-rounded than ChatGPT Plus? Why?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x6hnb5/is_claude_pro_really_less_wellrounded_than"
+link: "https://reddit.com/r/ClaudeAI/comments/1x6hnb5/is_claude_pro_really_less_wellrounded_than"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

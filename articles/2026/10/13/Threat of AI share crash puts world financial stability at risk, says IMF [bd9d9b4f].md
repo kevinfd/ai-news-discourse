@@ -2,6 +2,7 @@
 id: "bd9d9b4f5d97ff06"
 title: "Threat of AI share crash puts world financial stability at risk, says IMF"
 url: "https://theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
+link: "https://theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

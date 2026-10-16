@@ -2,6 +2,7 @@
 id: "e1c259400cd4c074"
 title: "AI regulations: Consultation paper in a month; safety, deepfakes among key focus areas, says Vaishnaw"
 url: "https://thehindu.com/sci-tech/technology/ai-regulations-consultation-paper-in-a-month-safety-deepfakes-among-key-focus-areas-says-vaishnaw/article71559481.ece"
+link: "https://thehindu.com/sci-tech/technology/ai-regulations-consultation-paper-in-a-month-safety-deepfakes-among-key-focus-areas-says-vaishnaw/article71559481.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

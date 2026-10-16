@@ -2,6 +2,7 @@
 id: "80a5065b4ac648ae"
 title: "ChatGPT is an amazing private tutor!"
 url: "https://reddit.com/r/ChatGPT/comments/1x4yemi/chatgpt_is_an_amazing_private_tutor"
+link: "https://reddit.com/r/ChatGPT/comments/1x4yemi/chatgpt_is_an_amazing_private_tutor"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "053d50178ccf082d"
 title: "Demis Hassabis: AI could cause 'major' incidents within 2 years without safeguards"
 url: "https://reddit.com/r/singularity/comments/1x5oe17/demis_hassabis_ai_could_cause_major_incidents"
+link: "https://reddit.com/r/singularity/comments/1x5oe17/demis_hassabis_ai_could_cause_major_incidents"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

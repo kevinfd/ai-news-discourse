@@ -2,6 +2,7 @@
 id: "6f395da62af96a91"
 title: "Z.ai’s GLM-5.3 raises researcher fears the Chinese model can fake AI safety tests"
 url: "https://scmp.com/tech/big-tech/article/3370963/zais-glm-53-raises-researcher-fears-chinese-model-can-fake-ai-safety-tests"
+link: "https://scmp.com/tech/big-tech/article/3370963/zais-glm-53-raises-researcher-fears-chinese-model-can-fake-ai-safety-tests"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

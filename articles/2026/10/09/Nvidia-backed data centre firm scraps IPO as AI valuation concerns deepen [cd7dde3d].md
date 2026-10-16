@@ -2,6 +2,7 @@
 id: "cd7dde3d05081a52"
 title: "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen"
 url: "https://bbc.co.uk/news/articles/ck9dzpw4ll8po?at_campaign=rss&at_medium=RSS"
+link: "https://bbc.co.uk/news/articles/ck9dzpw4ll8po?at_campaign=rss&at_medium=RSS"
 source: "BBC News"
 domain: "bbc.co.uk"
 source_type: "mainstream_news"

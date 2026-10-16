@@ -2,6 +2,7 @@
 id: "6b9b330f23305112"
 title: "FTC seeks documents from OpenAI, Anthropic over AI safety incidents"
 url: "https://newsbytesapp.com/news/science/ftc-subpoenas-ai-giants-openai-anthropic-over-ai-safety-incidents/story"
+link: "https://newsbytesapp.com/news/science/ftc-subpoenas-ai-giants-openai-anthropic-over-ai-safety-incidents/story"
 source: "NewsBytes"
 domain: "newsbytesapp.com"
 source_type: "mainstream_news"

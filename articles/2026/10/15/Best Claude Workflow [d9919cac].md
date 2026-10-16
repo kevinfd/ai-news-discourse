@@ -2,6 +2,7 @@
 id: "d9919cac915b96e5"
 title: "Best Claude Workflow"
 url: "https://reddit.com/r/ClaudeAI/comments/1x6flno/best_claude_workflow"
+link: "https://reddit.com/r/ClaudeAI/comments/1x6flno/best_claude_workflow"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

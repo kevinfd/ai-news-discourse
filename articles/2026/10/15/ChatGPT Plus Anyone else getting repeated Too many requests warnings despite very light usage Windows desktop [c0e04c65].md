@@ -2,6 +2,7 @@
 id: "c0e04c6500487735"
 title: "ChatGPT Plus: Anyone else getting repeated \"Too many requests\" warnings despite very light usage? Windows desktop app bug?"
 url: "https://reddit.com/r/ChatGPT/comments/1x67cgj/chatgpt_plus_anyone_else_getting_repeated_too"
+link: "https://reddit.com/r/ChatGPT/comments/1x67cgj/chatgpt_plus_anyone_else_getting_repeated_too"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

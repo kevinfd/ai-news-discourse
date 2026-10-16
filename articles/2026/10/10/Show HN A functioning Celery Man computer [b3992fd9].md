@@ -2,6 +2,7 @@
 id: "b3992fd948488878"
 title: "Show HN: A functioning Celery Man computer"
 url: "https://celeryman.fun"
+link: "https://celeryman.fun"
 source: "Celeryman"
 domain: "celeryman.fun"
 source_type: "community"

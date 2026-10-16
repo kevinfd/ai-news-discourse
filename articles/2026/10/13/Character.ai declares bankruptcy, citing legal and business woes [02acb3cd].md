@@ -2,6 +2,7 @@
 id: "02acb3cd95f1e661"
 title: "Character.ai declares bankruptcy, citing legal and business woes"
 url: "https://cbsnews.com/news/character-ai-files-bankruptcy-disney-license"
+link: "https://cbsnews.com/news/character-ai-files-bankruptcy-disney-license"
 source: "CBS News"
 domain: "cbsnews.com"
 source_type: "mainstream_news"

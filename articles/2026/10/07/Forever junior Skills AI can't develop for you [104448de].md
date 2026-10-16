@@ -2,6 +2,7 @@
 id: "104448deeda90b2a"
 title: "Forever junior: Skills AI can't develop for you"
 url: "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers"
+link: "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers"
 source: "Criteo Tech Community"
 domain: "tech.criteo.com"
 source_type: "community"

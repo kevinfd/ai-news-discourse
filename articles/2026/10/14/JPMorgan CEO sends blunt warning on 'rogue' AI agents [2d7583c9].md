@@ -2,6 +2,7 @@
 id: "2d7583c9f827321b"
 title: "JPMorgan CEO sends blunt warning on 'rogue' AI agents"
 url: "https://thestreet.com/crypto/artificial-intelligence/jpmorgan-ceo-sends-blunt-warning-on-rogue-ai-agents"
+link: "https://thestreet.com/crypto/artificial-intelligence/jpmorgan-ceo-sends-blunt-warning-on-rogue-ai-agents"
 source: "TheStreet"
 domain: "thestreet.com"
 source_type: "mainstream_news"

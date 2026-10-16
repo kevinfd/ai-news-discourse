@@ -2,6 +2,7 @@
 id: "a7d18f279a7d613e"
 title: "Bender: AI's 'Existential' Risk Is 'Fake' [video]"
 url: "https://youtube.com/watch?v=QuZjcKshf_c"
+link: "https://youtube.com/watch?v=QuZjcKshf_c"
 source: "YouTube"
 domain: "youtube.com"
 source_type: "community"

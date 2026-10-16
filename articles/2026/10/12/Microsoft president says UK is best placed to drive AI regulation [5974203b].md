@@ -2,6 +2,7 @@
 id: "5974203bb3c7b557"
 title: "Microsoft president says UK is best placed to drive AI regulation"
 url: "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation"
+link: "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

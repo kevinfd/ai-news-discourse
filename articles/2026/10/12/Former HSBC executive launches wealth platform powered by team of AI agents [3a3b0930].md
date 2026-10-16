@@ -2,6 +2,7 @@
 id: "3a3b093045637a5a"
 title: "Former HSBC executive launches wealth platform powered by team of AI agents"
 url: "https://scmp.com/business/money/wealth/article/3370565/former-hsbc-executive-launches-wealth-platform-powered-team-ai-agents"
+link: "https://scmp.com/business/money/wealth/article/3370565/former-hsbc-executive-launches-wealth-platform-powered-team-ai-agents"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

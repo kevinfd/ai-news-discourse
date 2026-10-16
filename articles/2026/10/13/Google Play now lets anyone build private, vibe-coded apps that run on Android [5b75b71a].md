@@ -2,6 +2,7 @@
 id: "5b75b71a645976a1"
 title: "Google Play now lets anyone build private, vibe-coded apps that run on Android"
 url: "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you"
+link: "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

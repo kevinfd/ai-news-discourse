@@ -2,6 +2,7 @@
 id: "8e5077530de2da8c"
 title: "OpenAI Accuses Former Employee of Taking Confidential Information to Apple"
 url: "https://theinformation.com/briefings/openai-accuses-former-employee-taking-confidential-information-apple"
+link: "https://theinformation.com/briefings/openai-accuses-former-employee-taking-confidential-information-apple"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

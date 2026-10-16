@@ -2,6 +2,7 @@
 id: "0fb8f31ae8721b65"
 title: "Agents are using AI. Their agencies mostly aren't – why?"
 url: "https://insurancebusinessmag.com/us/news/technology/agents-are-using-ai--their-agencies-mostly-arent--why-593372.aspx"
+link: "https://insurancebusinessmag.com/us/news/technology/agents-are-using-ai--their-agencies-mostly-arent--why-593372.aspx"
 source: "Insurance Business America"
 domain: "insurancebusinessmag.com"
 source_type: "mainstream_news"

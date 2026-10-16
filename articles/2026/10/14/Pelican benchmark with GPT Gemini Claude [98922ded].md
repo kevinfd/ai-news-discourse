@@ -2,6 +2,7 @@
 id: "98922dedc1c95898"
 title: "Pelican benchmark with GPT / Gemini / Claude"
 url: "https://reddit.com/r/ChatGPT/comments/1x5lxc9/pelican_benchmark_with_gpt_gemini_claude"
+link: "https://reddit.com/r/ChatGPT/comments/1x5lxc9/pelican_benchmark_with_gpt_gemini_claude"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

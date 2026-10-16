@@ -2,6 +2,7 @@
 id: "b634eaa5d62fc6b7"
 title: "xAI Introduces Grok Voice 3.0 Speech-to-Speech Model for Voice Agents"
 url: "https://unite.ai/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents"
+link: "https://unite.ai/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents"
 source: "Unite.AI"
 domain: "unite.ai"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "84cc111131ab00a9"
 title: "AFL tells Sportsbet to stop using players in AI generated content"
 url: "https://theguardian.com/australia-news/2026/oct/14/afl-tells-sportsbet-to-stop-using-players-in-ai-generated-content"
+link: "https://theguardian.com/australia-news/2026/oct/14/afl-tells-sportsbet-to-stop-using-players-in-ai-generated-content"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

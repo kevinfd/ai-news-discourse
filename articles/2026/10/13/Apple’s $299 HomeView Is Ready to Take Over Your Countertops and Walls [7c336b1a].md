@@ -2,6 +2,7 @@
 id: "7c336b1a4a66a0fc"
 title: "Apple’s $299 HomeView Is Ready to Take Over Your Countertops and Walls"
 url: "https://cnet.com/home/smart-home/apple-homeview-smart-speaker-hub-square-screen"
+link: "https://cnet.com/home/smart-home/apple-homeview-smart-speaker-hub-square-screen"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

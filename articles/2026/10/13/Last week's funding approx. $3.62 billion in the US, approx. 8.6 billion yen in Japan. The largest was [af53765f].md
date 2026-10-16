@@ -2,6 +2,7 @@
 id: "af53765f5eb8636c"
 title: "Last week's funding: approx. $3.62 billion in the US, approx. 8.6 billion yen in Japan. The largest was TypeSafe AI at $870 million | Startup Weekly 10/5-10/9"
 url: "https://note.com/rich_quince7643/n/nf9a09439c038?hl=en"
+link: "https://note.com/rich_quince7643/n/nf9a09439c038?hl=en"
 source: "note"
 domain: "note.com"
 source_type: "mainstream_news"

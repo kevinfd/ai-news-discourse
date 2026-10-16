@@ -2,6 +2,7 @@
 id: "32c57872e5071d4a"
 title: "Environmentalists' new battle is AI"
 url: "https://qz.com/data-center-opposition-environmental-groups"
+link: "https://qz.com/data-center-opposition-environmental-groups"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

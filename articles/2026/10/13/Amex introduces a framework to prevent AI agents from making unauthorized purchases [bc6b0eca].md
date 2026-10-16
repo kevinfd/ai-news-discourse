@@ -2,6 +2,7 @@
 id: "bc6b0eca02367eaf"
 title: "Amex introduces a framework to prevent AI agents from making unauthorized purchases"
 url: "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases"
+link: "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

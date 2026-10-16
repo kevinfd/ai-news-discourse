@@ -2,6 +2,7 @@
 id: "4c640ca9263a8638"
 title: "Satya Nadella says we should assume all AI models are 'compromised'"
 url: "https://theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+link: "https://theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "community"

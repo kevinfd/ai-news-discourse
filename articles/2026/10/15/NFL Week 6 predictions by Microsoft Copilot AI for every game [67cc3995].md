@@ -2,6 +2,7 @@
 id: "67cc39952d4d32b5"
 title: "NFL Week 6 predictions by Microsoft Copilot AI for every game"
 url: "https://usatoday.com/story/sports/nfl/2026/10/15/nfl-picks-predictions-week-6-ai-2026/92233970007"
+link: "https://usatoday.com/story/sports/nfl/2026/10/15/nfl-picks-predictions-week-6-ai-2026/92233970007"
 source: "USA TODAY"
 domain: "usatoday.com"
 source_type: "mainstream_news"

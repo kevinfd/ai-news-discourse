@@ -2,6 +2,7 @@
 id: "559d6c284cafa236"
 title: "AI may change the price of your Big Mac and groceries — what this means for shoppers"
 url: "https://cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html"
+link: "https://cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

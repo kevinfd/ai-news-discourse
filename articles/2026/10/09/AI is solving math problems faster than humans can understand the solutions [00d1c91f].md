@@ -2,6 +2,7 @@
 id: "00d1c91f46389de4"
 title: "AI is solving math problems faster than humans can understand the solutions"
 url: "https://platformer.news/openai-math-breakthroughs-tao-reaction"
+link: "https://platformer.news/openai-math-breakthroughs-tao-reaction"
 source: "Platformer"
 domain: "platformer.news"
 source_type: "newsletter"

@@ -2,6 +2,7 @@
 id: "55c00860a295c258"
 title: "Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom"
 url: "https://scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom"
+link: "https://scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

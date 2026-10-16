@@ -2,6 +2,7 @@
 id: "f869ceb5043b48af"
 title: "Kevin Kelly's 2016 AI Predictions, 10 Years Later"
 url: "https://taylor.town/kk-ai-2026"
+link: "https://taylor.town/kk-ai-2026"
 source: "Surprisetalk"
 domain: "taylor.town"
 source_type: "community"

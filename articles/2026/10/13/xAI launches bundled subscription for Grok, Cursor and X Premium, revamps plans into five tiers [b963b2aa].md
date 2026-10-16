@@ -2,6 +2,7 @@
 id: "b963b2aa497418e3"
 title: "xAI launches bundled subscription for Grok, Cursor and X Premium, revamps plans into five tiers"
 url: "https://digitaltoday.co.kr/en/view/113868/xai-launches-bundled-subscription-for-grok-cursor-and-x-premium-revamps-plans-into-five-tiers"
+link: "https://digitaltoday.co.kr/en/view/113868/xai-launches-bundled-subscription-for-grok-cursor-and-x-premium-revamps-plans-into-five-tiers"
 source: "DigitalToday"
 domain: "digitaltoday.co.kr"
 source_type: "mainstream_news"

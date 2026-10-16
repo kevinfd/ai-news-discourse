@@ -2,6 +2,7 @@
 id: "d88728b43e06dac3"
 title: "Should an AI writing assistant ask before making a message more persuasive"
 url: "https://reddit.com/r/artificial/comments/1x6b7c0/should_an_ai_writing_assistant_ask_before_making"
+link: "https://reddit.com/r/artificial/comments/1x6b7c0/should_an_ai_writing_assistant_ask_before_making"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

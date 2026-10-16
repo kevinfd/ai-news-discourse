@@ -2,6 +2,7 @@
 id: "4619529b366836f4"
 title: "Major earthquake strikes Panama—damage and injuries are expected"
 url: "https://scientificamerican.com/article/major-earthquake-strikes-panama-damage-and-injuries-are-expected"
+link: "https://scientificamerican.com/article/major-earthquake-strikes-panama-damage-and-injuries-are-expected"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

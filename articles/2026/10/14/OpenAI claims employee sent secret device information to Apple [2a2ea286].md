@@ -2,6 +2,7 @@
 id: "2a2ea28617188b82"
 title: "OpenAI claims employee sent secret device information to Apple"
 url: "https://ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a?syn-25a6b1a6=1"
+link: "https://ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

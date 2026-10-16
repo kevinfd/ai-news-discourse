@@ -2,6 +2,7 @@
 id: "d587fa318b28c3aa"
 title: "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\""
 url: "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google"
+link: "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

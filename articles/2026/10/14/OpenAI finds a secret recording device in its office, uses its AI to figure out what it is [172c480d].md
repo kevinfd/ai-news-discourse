@@ -2,6 +2,7 @@
 id: "172c480d7cc95d1f"
 title: "OpenAI finds a secret recording device in its office, uses its AI to figure out what it is"
 url: "https://mashable.com/tech/openai-recording-device-found-employee-arrested"
+link: "https://mashable.com/tech/openai-recording-device-found-employee-arrested"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "971bbce3aedb7cfb"
 title: "sam altman is the gayest looking person i have ever seen"
 url: "https://reddit.com/r/artificial/comments/1x61fa0/sam_altman_is_the_gayest_looking_person_i_have"
+link: "https://reddit.com/r/artificial/comments/1x61fa0/sam_altman_is_the_gayest_looking_person_i_have"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

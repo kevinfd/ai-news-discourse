@@ -2,6 +2,7 @@
 id: "7fc9b386a8e2bb1a"
 title: "Turn your PDFs into audiobooks with ChatGPT — here's the simple trick"
 url: "https://tomsguide.com/ai/turn-your-pdfs-into-audiobooks-with-chatgpt-heres-the-simple-trick"
+link: "https://tomsguide.com/ai/turn-your-pdfs-into-audiobooks-with-chatgpt-heres-the-simple-trick"
 source: "Tom's Guide"
 domain: "tomsguide.com"
 source_type: "tech_press"

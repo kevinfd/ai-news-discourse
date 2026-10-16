@@ -2,6 +2,7 @@
 id: "7ff3cccd1a706618"
 title: "AI is mass decompiling games. That's both awesome and scary"
 url: "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary"
+link: "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary"
 source: "Popcar's Blog"
 domain: "popcar.bearblog.dev"
 source_type: "community"

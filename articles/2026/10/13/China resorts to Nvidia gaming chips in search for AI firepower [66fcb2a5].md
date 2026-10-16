@@ -2,6 +2,7 @@
 id: "66fcb2a5235ed438"
 title: "China resorts to Nvidia gaming chips in search for AI firepower"
 url: "https://ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1"
+link: "https://ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

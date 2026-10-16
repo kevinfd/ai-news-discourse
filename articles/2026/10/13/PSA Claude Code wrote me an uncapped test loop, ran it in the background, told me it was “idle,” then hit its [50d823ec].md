@@ -2,6 +2,7 @@
 id: "50d823eca675190b"
 title: "PSA: Claude Code wrote me an uncapped test loop, ran it in the background, told me it was “idle,” then hit its daily usage limit. It ran 17 hours and cost about $2.1K"
 url: "https://reddit.com/r/ClaudeAI/comments/1x540si/psa_claude_code_wrote_me_an_uncapped_test_loop"
+link: "https://reddit.com/r/ClaudeAI/comments/1x540si/psa_claude_code_wrote_me_an_uncapped_test_loop"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

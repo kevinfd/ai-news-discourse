@@ -2,6 +2,7 @@
 id: "29254f52c5c109d4"
 title: "One essential ingredient for AI safety? Democracy | Matthew Botvinick"
 url: "https://theguardian.com/commentisfree/2026/oct/12/ai-safety-democracy"
+link: "https://theguardian.com/commentisfree/2026/oct/12/ai-safety-democracy"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

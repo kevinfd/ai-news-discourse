@@ -2,6 +2,7 @@
 id: "f170ab6c6c3271f2"
 title: "Stepfun Step-5-Preview released! (600B/27B-1M Context)"
 url: "https://huggingface.co/stepfun-ai/Step-5-Preview-BF16"
+link: "https://huggingface.co/stepfun-ai/Step-5-Preview-BF16"
 source: "Hugging Face"
 domain: "huggingface.co"
 source_type: "community"

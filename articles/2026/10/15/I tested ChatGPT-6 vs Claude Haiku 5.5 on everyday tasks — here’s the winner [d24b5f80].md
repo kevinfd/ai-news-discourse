@@ -2,6 +2,7 @@
 id: "d24b5f80558c866d"
 title: "I tested ChatGPT-6 vs Claude Haiku 5.5 on everyday tasks — here’s the winner"
 url: "https://tomsguide.com/ai/i-tested-chatgpt-6-vs-claude-haiku-5-5-on-everyday-tasks-heres-the-winner"
+link: "https://tomsguide.com/ai/i-tested-chatgpt-6-vs-claude-haiku-5-5-on-everyday-tasks-heres-the-winner"
 source: "Tom's Guide"
 domain: "tomsguide.com"
 source_type: "tech_press"

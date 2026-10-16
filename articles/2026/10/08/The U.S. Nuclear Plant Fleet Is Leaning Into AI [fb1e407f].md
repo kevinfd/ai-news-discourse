@@ -2,6 +2,7 @@
 id: "fb1e407f7e73b354"
 title: "The U.S. Nuclear Plant Fleet Is Leaning Into AI"
 url: "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
+link: "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
 source: "IEEE Spectrum"
 domain: "spectrum.ieee.org"
 source_type: "tech_press"

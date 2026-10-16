@@ -2,6 +2,7 @@
 id: "6ac763dfbc0f96e3"
 title: "FBI arrest Saudi OpenAI employee for allegedly planting recording device in office"
 url: "https://euronews.com/2026/10/14/fbi-arrest-saudi-openai-employee-for-allegedly-planting-recording-device-in-office"
+link: "https://euronews.com/2026/10/14/fbi-arrest-saudi-openai-employee-for-allegedly-planting-recording-device-in-office"
 source: "Euronews"
 domain: "euronews.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "29dcb071d7781c8d"
 title: "Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent"
 url: "https://nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html"
+link: "https://nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "7b0ede9ffcbb90ec"
 title: "Amazon’s always-listening Bee wearable can now help you buy stuff"
 url: "https://theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs"
+link: "https://theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

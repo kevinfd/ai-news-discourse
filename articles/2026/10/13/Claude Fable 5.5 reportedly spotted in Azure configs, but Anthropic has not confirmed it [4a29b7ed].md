@@ -2,6 +2,7 @@
 id: "4a29b7ed4cb4cbc5"
 title: "Claude Fable 5.5 reportedly spotted in Azure configs, but Anthropic has not confirmed it"
 url: "https://cryptobriefing.com/claude-fable-5-5-azure-sighting"
+link: "https://cryptobriefing.com/claude-fable-5-5-azure-sighting"
 source: "Crypto Briefing"
 domain: "cryptobriefing.com"
 source_type: "mainstream_news"

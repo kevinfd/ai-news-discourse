@@ -2,6 +2,7 @@
 id: "c274b722eefd1921"
 title: "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks"
 url: "https://bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks"
+link: "https://bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks"
 source: "BleepingComputer"
 domain: "bleepingcomputer.com"
 source_type: "community"

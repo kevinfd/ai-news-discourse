@@ -2,6 +2,7 @@
 id: "669bcb92c47dbae3"
 title: "Palantir CTO:Some AI researchers taking up smoking;they expect AI to cure cancer"
 url: "https://businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10"
+link: "https://businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "community"

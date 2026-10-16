@@ -2,6 +2,7 @@
 id: "140359d06ad5c3da"
 title: "Gemini Doesn't Talk About Elections, But It Just Gave Me Its Internal Guidelines"
 url: "https://pcmag.com/news/gemini-doesnt-talk-about-elections-but-it-just-gave-me-its-internal-guidelines"
+link: "https://pcmag.com/news/gemini-doesnt-talk-about-elections-but-it-just-gave-me-its-internal-guidelines"
 source: "PCMag"
 domain: "pcmag.com"
 source_type: "tech_press"

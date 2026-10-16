@@ -2,6 +2,7 @@
 id: "7ba1509c800b7684"
 title: "Preserve research data for tomorrow’s AI-enabled integrity checks"
 url: "https://nature.com/articles/d41586-026-03244-3"
+link: "https://nature.com/articles/d41586-026-03244-3"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

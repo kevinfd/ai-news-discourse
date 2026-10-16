@@ -2,6 +2,7 @@
 id: "9931ca009c408084"
 title: "Scimplify raises $25M to challenge China’s grip on critical materials with AI"
 url: "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai"
+link: "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

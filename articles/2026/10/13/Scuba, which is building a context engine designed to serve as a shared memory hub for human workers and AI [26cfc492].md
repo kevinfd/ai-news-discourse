@@ -2,6 +2,7 @@
 id: "26cfc4922cf80ceb"
 title: "Scuba, which is building a \"context engine\" designed to serve as a shared memory hub for human workers and AI agents, raised $34M across pre-seed and seed (Alex Konrad/Upstarts Media)"
 url: "https://techmeme.com/261013/p28"
+link: "https://techmeme.com/261013/p28"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

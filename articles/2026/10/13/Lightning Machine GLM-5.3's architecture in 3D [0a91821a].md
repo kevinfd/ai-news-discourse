@@ -2,6 +2,7 @@
 id: "0a91821a351ab226"
 title: "Lightning Machine: GLM-5.3's architecture in 3D"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4ih2n/lightning_machine_glm53s_architecture_in_3d"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4ih2n/lightning_machine_glm53s_architecture_in_3d"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

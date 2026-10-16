@@ -2,6 +2,7 @@
 id: "2a594a4b4754bb7e"
 title: "If AI decides you're too risky for a loan, should a bank have to explain why?"
 url: "https://reddit.com/r/artificial/comments/1x4shmh/if_ai_decides_youre_too_risky_for_a_loan_should_a"
+link: "https://reddit.com/r/artificial/comments/1x4shmh/if_ai_decides_youre_too_risky_for_a_loan_should_a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

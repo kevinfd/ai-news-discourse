@@ -2,6 +2,7 @@
 id: "726fcff9c1a1f75b"
 title: "Thoughts on the guy cloning the entire Adobe suite?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x52tbs/thoughts_on_the_guy_cloning_the_entire_adobe_suite"
+link: "https://reddit.com/r/ClaudeAI/comments/1x52tbs/thoughts_on_the_guy_cloning_the_entire_adobe_suite"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

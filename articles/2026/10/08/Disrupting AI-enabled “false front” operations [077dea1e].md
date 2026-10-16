@@ -2,6 +2,7 @@
 id: "077dea1e8a7adb2e"
 title: "Disrupting AI-enabled “false front” operations"
 url: "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+link: "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

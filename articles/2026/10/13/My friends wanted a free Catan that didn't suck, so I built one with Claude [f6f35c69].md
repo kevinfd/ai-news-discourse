@@ -2,6 +2,7 @@
 id: "f6f35c6915ed4976"
 title: "My friends wanted a free Catan that didn't suck, so I built one with Claude"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4xu4p/my_friends_wanted_a_free_catan_that_didnt_suck_so"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4xu4p/my_friends_wanted_a_free_catan_that_didnt_suck_so"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "ac1923e9e6c85fe4"
 title: "chatgpt ads manager took $100 from my bank, anyone else?"
 url: "https://reddit.com/r/ChatGPT/comments/1x584w0/chatgpt_ads_manager_took_100_from_my_bank_anyone"
+link: "https://reddit.com/r/ChatGPT/comments/1x584w0/chatgpt_ads_manager_took_100_from_my_bank_anyone"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "e0bc19a4d03649f7"
 title: "Anthropic claims Chinese AI firms secretly use Claude. Is it true?"
 url: "https://scmp.com/tech/tech-war/article/3370317/anthropic-claims-chinese-ai-firms-secretly-use-claude-it-true"
+link: "https://scmp.com/tech/tech-war/article/3370317/anthropic-claims-chinese-ai-firms-secretly-use-claude-it-true"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

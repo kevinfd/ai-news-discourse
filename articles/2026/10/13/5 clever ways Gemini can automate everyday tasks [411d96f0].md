@@ -2,6 +2,7 @@
 id: "411d96f0264c1870"
 title: "5 clever ways Gemini can automate everyday tasks"
 url: "https://engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks"
+link: "https://engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

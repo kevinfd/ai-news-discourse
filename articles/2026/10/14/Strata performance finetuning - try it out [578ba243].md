@@ -2,6 +2,7 @@
 id: "578ba2434e96ba36"
 title: "Strata performance finetuning - try it out"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x65hq9/strata_performance_finetuning_try_it_out"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x65hq9/strata_performance_finetuning_try_it_out"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

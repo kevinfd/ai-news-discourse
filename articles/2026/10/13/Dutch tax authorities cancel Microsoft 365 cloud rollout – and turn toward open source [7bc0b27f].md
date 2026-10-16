@@ -2,6 +2,7 @@
 id: "7bc0b27f9d960abf"
 title: "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source"
 url: "https://zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout"
+link: "https://zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

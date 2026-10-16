@@ -2,6 +2,7 @@
 id: "f6b2f2c13710bd70"
 title: "Google AI crushed forecasts for Isaias but missed a crucial detail"
 url: "https://palmbeachpost.com/story/weather/hurricane/2026/10/14/google-deepmind-ai-hurricane-forecast-for-isaias-excelled-with-track-less-so-for-intensity/92229231007"
+link: "https://palmbeachpost.com/story/weather/hurricane/2026/10/14/google-deepmind-ai-hurricane-forecast-for-isaias-excelled-with-track-less-so-for-intensity/92229231007"
 source: "The Palm Beach Post"
 domain: "palmbeachpost.com"
 source_type: "mainstream_news"

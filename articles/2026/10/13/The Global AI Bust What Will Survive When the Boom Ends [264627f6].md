@@ -2,6 +2,7 @@
 id: "264627f6a8ed7a4e"
 title: "The Global AI Bust: What Will Survive When the Boom Ends"
 url: "https://foreignaffairs.com/united-states/global-ai-bust-ruchir-sharma"
+link: "https://foreignaffairs.com/united-states/global-ai-bust-ruchir-sharma"
 source: "Foreign Affairs Magazine"
 domain: "foreignaffairs.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "950288e683964473"
 title: "Cognizant study says workers want more AI use than jobs allow"
 url: "https://roi-nj.com/2026/10/13/tech/cognizant-study-says-workers-want-more-ai-use-than-jobs-allow"
+link: "https://roi-nj.com/2026/10/13/tech/cognizant-study-says-workers-want-more-ai-use-than-jobs-allow"
 source: "ROI-NJ"
 domain: "roi-nj.com"
 source_type: "mainstream_news"

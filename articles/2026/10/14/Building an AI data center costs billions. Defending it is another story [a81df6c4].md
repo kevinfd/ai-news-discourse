@@ -2,6 +2,7 @@
 id: "a81df6c4b1d427cd"
 title: "Building an AI data center costs billions. Defending it is another story"
 url: "https://fastcompany.com/91623111/building-an-ai-data-center-costs-billions-defending-it-is-another-story?partner=rss"
+link: "https://fastcompany.com/91623111/building-an-ai-data-center-costs-billions-defending-it-is-another-story?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

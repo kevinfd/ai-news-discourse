@@ -2,6 +2,7 @@
 id: "a86413402dc6dedd"
 title: "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit"
 url: "https://theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit"
+link: "https://theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

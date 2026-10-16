@@ -2,6 +2,7 @@
 id: "ababbded2cb01ce7"
 title: "Meta Unveils New AI Models to Challenge OpenAI and Anthropic"
 url: "https://theinformation.com/briefings/meta-unveils-new-ai-models-challenge-openai-anthropic"
+link: "https://theinformation.com/briefings/meta-unveils-new-ai-models-challenge-openai-anthropic"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

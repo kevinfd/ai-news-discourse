@@ -2,6 +2,7 @@
 id: "877cbcbdbb3b8ad6"
 title: "YouTube Music launches new labels as AI-generated music floods streaming platforms"
 url: "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms"
+link: "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "c9cfc8b0a7f76eea"
 title: "Apples new Home Collection features cameras, locks, and thermostats — when can you buy?"
 url: "https://mashable.com/tech/apple-home-collection-smart-home-accessories-launch-where-to-buy"
+link: "https://mashable.com/tech/apple-home-collection-smart-home-accessories-launch-where-to-buy"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

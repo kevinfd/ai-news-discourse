@@ -2,6 +2,7 @@
 id: "149824ac8f1764ce"
 title: "Fake Facebook Marketplace listing uses your name"
 url: "https://foxnews.com/tech/fake-facebook-marketplace-listing-uses-your-name"
+link: "https://foxnews.com/tech/fake-facebook-marketplace-listing-uses-your-name"
 source: "Fox News"
 domain: "foxnews.com"
 source_type: "mainstream_news"

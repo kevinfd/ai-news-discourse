@@ -2,6 +2,7 @@
 id: "b86a3cd450630e30"
 title: "Show HN: T0: We trained a 256M SOTA open-weights time-series forecasting model"
 url: "https://github.com/theforecastingcompany/tfc-t0"
+link: "https://github.com/theforecastingcompany/tfc-t0"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

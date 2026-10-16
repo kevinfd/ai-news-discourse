@@ -2,6 +2,7 @@
 id: "4d5a1b14f2871c7d"
 title: "What mathematicians should know about the Lean Theorem Prover: reliability & AI"
 url: "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai"
+link: "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai"
 source: "What's new"
 domain: "terrytao.wordpress.com"
 source_type: "community"

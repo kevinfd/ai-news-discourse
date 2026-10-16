@@ -2,6 +2,7 @@
 id: "61396ed8d3dcbe26"
 title: "Character.ai Bankruptcy Is First AI Bubble Domino to Fall"
 url: "https://404media.co/character-ai-bankruptcy-is-first-ai-bubble-domino-to-fall"
+link: "https://404media.co/character-ai-bankruptcy-is-first-ai-bubble-domino-to-fall"
 source: "404 Media"
 domain: "404media.co"
 source_type: "tech_press"

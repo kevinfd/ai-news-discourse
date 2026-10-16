@@ -2,6 +2,7 @@
 id: "6a21a86b94a1758e"
 title: "Kroger laying off 3,000 corporate employees over 3 years amid increased AI use"
 url: "https://thehill.com/business/6145505-kroger-layoffs-ai"
+link: "https://thehill.com/business/6145505-kroger-layoffs-ai"
 source: "The Hill"
 domain: "thehill.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "ae491a07b0326028"
 title: "METR shows an AI agent could alter what reviewers see in test logs"
 url: "https://misalignmentwatch.com/article/metr-shows-an-ai-agent-could-alter-what-reviewers-see-in-test-logs.html"
+link: "https://misalignmentwatch.com/article/metr-shows-an-ai-agent-could-alter-what-reviewers-see-in-test-logs.html"
 source: "AI Misalignment Watch"
 domain: "misalignmentwatch.com"
 source_type: "community"

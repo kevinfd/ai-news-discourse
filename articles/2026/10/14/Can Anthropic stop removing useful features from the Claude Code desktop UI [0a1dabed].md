@@ -2,6 +2,7 @@
 id: "0a1dabed37973be0"
 title: "Can Anthropic stop removing useful features from the Claude Code desktop UI?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x61z0o/can_anthropic_stop_removing_useful_features_from"
+link: "https://reddit.com/r/ClaudeAI/comments/1x61z0o/can_anthropic_stop_removing_useful_features_from"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

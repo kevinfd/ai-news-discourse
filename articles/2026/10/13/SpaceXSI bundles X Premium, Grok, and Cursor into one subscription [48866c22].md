@@ -2,6 +2,7 @@
 id: "48866c22a637b397"
 title: "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription"
 url: "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription"
+link: "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

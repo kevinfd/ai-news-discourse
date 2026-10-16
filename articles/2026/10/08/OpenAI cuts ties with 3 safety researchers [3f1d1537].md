@@ -2,6 +2,7 @@
 id: "3f1d1537d7c462dd"
 title: "OpenAI cuts ties with 3 safety researchers"
 url: "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports"
+link: "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "community"

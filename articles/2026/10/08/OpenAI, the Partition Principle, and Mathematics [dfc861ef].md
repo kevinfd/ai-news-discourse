@@ -2,6 +2,7 @@
 id: "dfc861ef0f353165"
 title: "OpenAI, the Partition Principle, and Mathematics"
 url: "https://karagila.org/2026/openai-pp"
+link: "https://karagila.org/2026/openai-pp"
 source: "karagila.org"
 domain: "karagila.org"
 source_type: "community"

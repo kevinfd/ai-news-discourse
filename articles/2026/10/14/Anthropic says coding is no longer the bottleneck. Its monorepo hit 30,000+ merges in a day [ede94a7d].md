@@ -2,6 +2,7 @@
 id: "ede94a7d57df887e"
 title: "Anthropic says coding is no longer the bottleneck. Its monorepo hit 30,000+ merges in a day."
 url: "https://reddit.com/r/artificial/comments/1x5htw8/anthropic_says_coding_is_no_longer_the_bottleneck"
+link: "https://reddit.com/r/artificial/comments/1x5htw8/anthropic_says_coding_is_no_longer_the_bottleneck"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

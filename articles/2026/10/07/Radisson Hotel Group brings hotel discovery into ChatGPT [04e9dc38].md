@@ -2,6 +2,7 @@
 id: "04e9dc3828b5420c"
 title: "Radisson Hotel Group brings hotel discovery into ChatGPT"
 url: "https://openai.com/index/radisson"
+link: "https://openai.com/index/radisson"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

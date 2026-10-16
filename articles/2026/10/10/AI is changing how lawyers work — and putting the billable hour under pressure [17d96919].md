@@ -2,6 +2,7 @@
 id: "17d9691974f75054"
 title: "AI is changing how lawyers work — and putting the billable hour under pressure"
 url: "https://cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html"
+link: "https://cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "b104dce487eb2665"
 title: "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies"
 url: "https://wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies"
+link: "https://wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

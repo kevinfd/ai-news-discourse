@@ -2,6 +2,7 @@
 id: "f445efafdd20bd99"
 title: "Is Downplaying AI Just Rational Self-Interest?"
 url: "https://reddit.com/r/singularity/comments/1x6b7hs/is_downplaying_ai_just_rational_selfinterest"
+link: "https://reddit.com/r/singularity/comments/1x6b7hs/is_downplaying_ai_just_rational_selfinterest"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

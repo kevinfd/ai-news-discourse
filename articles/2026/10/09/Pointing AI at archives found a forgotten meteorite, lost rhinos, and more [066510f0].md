@@ -2,6 +2,7 @@
 id: "066510f0a2f23074"
 title: "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more"
 url: "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives"
+link: "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives"
 source: "Jesse Waites"
 domain: "jessewaites.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "1912f29430d7589f"
 title: "Your Next Performance Review May Grade Your AI Skills—6 Tips To Prep"
 url: "https://forbes.com/sites/bryanrobinson/2026/10/15/your-next-performance-review-may-grade-your-ai-skills-6-tips-to-prep"
+link: "https://forbes.com/sites/bryanrobinson/2026/10/15/your-next-performance-review-may-grade-your-ai-skills-6-tips-to-prep"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

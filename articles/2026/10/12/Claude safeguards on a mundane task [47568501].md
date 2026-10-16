@@ -2,6 +2,7 @@
 id: "4756850122022248"
 title: "Claude safeguards on a mundane task"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4hv5c/claude_safeguards_on_a_mundane_task"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4hv5c/claude_safeguards_on_a_mundane_task"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

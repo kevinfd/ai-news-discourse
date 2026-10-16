@@ -2,6 +2,7 @@
 id: "ed08ba1d9ae3fe26"
 title: "New TTS king in town: Fish's Drama 3 35B3A!"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x6f9p2/new_tts_king_in_town_fishs_drama_3_35b3a"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x6f9p2/new_tts_king_in_town_fishs_drama_3_35b3a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "3506da728f12834b"
 title: "Q&A with MIT sociologist Sherry Turkle, who has been studying relationships between humans and machines since the 1970s, on her new book, AI chatbots, and more (New York Times)"
 url: "https://techmeme.com/261015/p10"
+link: "https://techmeme.com/261015/p10"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

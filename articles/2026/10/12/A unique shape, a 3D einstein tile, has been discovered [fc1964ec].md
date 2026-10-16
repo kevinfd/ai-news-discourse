@@ -2,6 +2,7 @@
 id: "fc1964ec8d002ac3"
 title: "A unique shape, a 3D einstein tile, has been discovered"
 url: "https://scientificamerican.com/article/a-unique-shape-a-3d-einstein-tile-has-been-discovered"
+link: "https://scientificamerican.com/article/a-unique-shape-a-3d-einstein-tile-has-been-discovered"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

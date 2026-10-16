@@ -2,6 +2,7 @@
 id: "28ab1f3a03a98d44"
 title: "Photographed Text"
 url: "https://reddit.com/r/artificial/comments/1x6edaf/photographed_text"
+link: "https://reddit.com/r/artificial/comments/1x6edaf/photographed_text"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

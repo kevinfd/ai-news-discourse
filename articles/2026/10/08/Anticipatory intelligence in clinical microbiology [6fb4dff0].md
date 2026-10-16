@@ -2,6 +2,7 @@
 id: "6fb4dff017e207d1"
 title: "Anticipatory intelligence in clinical microbiology"
 url: "https://nature.com/articles/s44222-026-00502-x"
+link: "https://nature.com/articles/s44222-026-00502-x"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

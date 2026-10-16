@@ -2,6 +2,7 @@
 id: "d65b379d10915264"
 title: "Why is AI bad?"
 url: "https://reddit.com/r/ChatGPT/comments/1x65lqn/why_is_ai_bad"
+link: "https://reddit.com/r/ChatGPT/comments/1x65lqn/why_is_ai_bad"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

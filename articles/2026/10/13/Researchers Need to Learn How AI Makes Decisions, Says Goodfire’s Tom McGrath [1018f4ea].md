@@ -2,6 +2,7 @@
 id: "1018f4ea6fb527fe"
 title: "Researchers Need to Learn How AI Makes Decisions, Says Goodfire’s Tom McGrath"
 url: "https://theinformation.com/articles/researchers-need-learn-ai-makes-decisions-says-goodfires-tom-mcgrath"
+link: "https://theinformation.com/articles/researchers-need-learn-ai-makes-decisions-says-goodfires-tom-mcgrath"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

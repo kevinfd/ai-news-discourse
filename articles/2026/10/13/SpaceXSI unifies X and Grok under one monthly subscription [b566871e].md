@@ -2,6 +2,7 @@
 id: "b566871e79fe4e64"
 title: "SpaceXSI unifies X and Grok under one monthly subscription"
 url: "https://mashable.com/tech/spacexsi-x-grok-cursor-subscription"
+link: "https://mashable.com/tech/spacexsi-x-grok-cursor-subscription"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

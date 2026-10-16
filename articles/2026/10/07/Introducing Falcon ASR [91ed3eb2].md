@@ -2,6 +2,7 @@
 id: "91ed3eb235f3237f"
 title: "Introducing Falcon ASR"
 url: "https://huggingface.co/blog/tiiuae/falcon-asr"
+link: "https://huggingface.co/blog/tiiuae/falcon-asr"
 source: "Hugging Face"
 domain: "huggingface.co"
 source_type: "company_blog"

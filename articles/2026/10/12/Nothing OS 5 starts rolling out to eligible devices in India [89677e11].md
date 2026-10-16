@@ -2,6 +2,7 @@
 id: "89677e113dc2ed53"
 title: "Nothing OS 5 starts rolling out to eligible devices in India"
 url: "https://thehindu.com/sci-tech/technology/gadgets/nothing-os-5-starts-rolling-out-to-eligible-devices-in-india/article71574839.ece"
+link: "https://thehindu.com/sci-tech/technology/gadgets/nothing-os-5-starts-rolling-out-to-eligible-devices-in-india/article71574839.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

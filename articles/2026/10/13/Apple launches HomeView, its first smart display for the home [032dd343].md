@@ -2,6 +2,7 @@
 id: "032dd34393c1261d"
 title: "Apple launches HomeView, its first smart display for the home"
 url: "https://theverge.com/tech/1009704/apple-homeview-smart-display-first-look"
+link: "https://theverge.com/tech/1009704/apple-homeview-smart-display-first-look"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

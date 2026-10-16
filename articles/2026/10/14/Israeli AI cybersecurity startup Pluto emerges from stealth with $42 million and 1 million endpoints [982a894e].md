@@ -2,6 +2,7 @@
 id: "982a894ed67ae17f"
 title: "Israeli AI cybersecurity startup Pluto emerges from stealth with $42 million and 1 million endpoints"
 url: "https://ynetnews.com/business/article/hj6nn1asze"
+link: "https://ynetnews.com/business/article/hj6nn1asze"
 source: "ynetnews"
 domain: "ynetnews.com"
 source_type: "mainstream_news"

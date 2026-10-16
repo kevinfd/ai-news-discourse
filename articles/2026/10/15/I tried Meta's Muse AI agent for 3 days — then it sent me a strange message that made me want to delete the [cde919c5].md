@@ -2,6 +2,7 @@
 id: "cde919c5a04821e0"
 title: "I tried Meta's Muse AI agent for 3 days — then it sent me a strange message that made me want to delete the app completely"
 url: "https://businessinsider.com/stopped-using-meta-muse-after-strange-message-from-ai-agent-2026-10"
+link: "https://businessinsider.com/stopped-using-meta-muse-after-strange-message-from-ai-agent-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "05c6e1dd4bbfa7bf"
 title: "Meta Refuses to Stop Selling AI Glasses. Dutch Group Is Preparing a Lawsuit."
 url: "https://gadgetreview.com/meta-refuses-to-stop-selling-ai-glasses-dutch-group-is-preparing-a-lawsuit"
+link: "https://gadgetreview.com/meta-refuses-to-stop-selling-ai-glasses-dutch-group-is-preparing-a-lawsuit"
 source: "Gadget Review"
 domain: "gadgetreview.com"
 source_type: "mainstream_news"

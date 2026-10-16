@@ -2,6 +2,7 @@
 id: "afb3044710223ab5"
 title: "Apple TV 4K: Where to buy the 4th generation of Apple TV"
 url: "https://mashable.com/tech/apple-tv-4k-4th-gen-preorder-where-to-buy"
+link: "https://mashable.com/tech/apple-tv-4k-4th-gen-preorder-where-to-buy"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

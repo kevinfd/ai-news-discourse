@@ -2,6 +2,7 @@
 id: "4e2c8c4b21154993"
 title: "Ballon D'or Heist - Wow...best ai video i've seen so far, what does this mean for hollywood?"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x53gxv/ballon_dor_heist_wowbest_ai_video_ive_seen_so_far"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x53gxv/ballon_dor_heist_wowbest_ai_video_ive_seen_so_far"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

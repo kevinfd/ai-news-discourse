@@ -2,6 +2,7 @@
 id: "5801be992843280f"
 title: "New Math from OpenAI"
 url: "https://thezvi.substack.com/p/new-math-from-openai"
+link: "https://thezvi.substack.com/p/new-math-from-openai"
 source: "Don't Worry About the Vase"
 domain: "thezvi.substack.com"
 source_type: "newsletter"

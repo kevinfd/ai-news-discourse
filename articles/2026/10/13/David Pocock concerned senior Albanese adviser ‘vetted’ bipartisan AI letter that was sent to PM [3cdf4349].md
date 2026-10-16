@@ -2,6 +2,7 @@
 id: "3cdf4349b71cfa89"
 title: "David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was sent to PM"
 url: "https://theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb"
+link: "https://theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

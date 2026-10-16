@@ -2,6 +2,7 @@
 id: "9c6388946f7828b1"
 title: "Linus Torvalds \"Did What I Preach\" Used AI to Make Code Decipherabl, Find Bugs"
 url: "https://phoronix.com/news/Linus-Torvalds-Assoc-Array"
+link: "https://phoronix.com/news/Linus-Torvalds-Assoc-Array"
 source: "Phoronix"
 domain: "phoronix.com"
 source_type: "community"

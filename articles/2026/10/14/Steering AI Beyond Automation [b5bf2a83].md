@@ -2,6 +2,7 @@
 id: "b5bf2a8338b1fa40"
 title: "Steering AI Beyond Automation"
 url: "https://normaltech.ai/p/steering-ai-beyond-automation"
+link: "https://normaltech.ai/p/steering-ai-beyond-automation"
 source: "AI Snake Oil"
 domain: "normaltech.ai"
 source_type: "newsletter"

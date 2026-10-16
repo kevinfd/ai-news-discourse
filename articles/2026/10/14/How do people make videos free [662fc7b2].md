@@ -2,6 +2,7 @@
 id: "662fc7b260b32160"
 title: "How do people make videos free?"
 url: "https://reddit.com/r/artificial/comments/1x65pg9/how_do_people_make_videos_free"
+link: "https://reddit.com/r/artificial/comments/1x65pg9/how_do_people_make_videos_free"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

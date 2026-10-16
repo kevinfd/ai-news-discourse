@@ -2,6 +2,7 @@
 id: "f541de964501b4fa"
 title: "What’s your most underrated use for Claude?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x52izu/whats_your_most_underrated_use_for_claude"
+link: "https://reddit.com/r/ClaudeAI/comments/1x52izu/whats_your_most_underrated_use_for_claude"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

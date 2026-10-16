@@ -2,6 +2,7 @@
 id: "fb1ef7d0ad58870a"
 title: "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern"
 url: "https://zdnet.com/innovation/claude-false-homicide-tip"
+link: "https://zdnet.com/innovation/claude-false-homicide-tip"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

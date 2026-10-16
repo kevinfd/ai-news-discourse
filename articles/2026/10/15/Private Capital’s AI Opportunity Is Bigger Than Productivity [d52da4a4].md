@@ -2,6 +2,7 @@
 id: "d52da4a4201d24d7"
 title: "Private Capital’s AI Opportunity Is Bigger Than Productivity"
 url: "https://forbes.com/councils/forbestechcouncil/2026/10/15/private-capitals-ai-opportunity-is-bigger-than-productivity"
+link: "https://forbes.com/councils/forbestechcouncil/2026/10/15/private-capitals-ai-opportunity-is-bigger-than-productivity"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

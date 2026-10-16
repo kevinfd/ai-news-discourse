@@ -2,6 +2,7 @@
 id: "d4e12b6e7db1f11e"
 title: "Anthropic and OpenAI: Two Paths to Powerful AI"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4pm1q/anthropic_and_openai_two_paths_to_powerful_ai"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4pm1q/anthropic_and_openai_two_paths_to_powerful_ai"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

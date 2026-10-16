@@ -2,6 +2,7 @@
 id: "d5f52a930662f916"
 title: "Apple says HomeView's facial recognition works only if users have a \"registered personal device\" with Apple Intelligence and Siri AI on the same Wi-Fi network (John Gruber/Daring Fireball)"
 url: "https://techmeme.com/261013/p31"
+link: "https://techmeme.com/261013/p31"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "ffefea41838789c3"
 title: "Extrudo.org built with Claude and some imagination"
 url: "https://reddit.com/r/ClaudeAI/comments/1x58kqn/extrudoorg_built_with_claude_and_some_imagination"
+link: "https://reddit.com/r/ClaudeAI/comments/1x58kqn/extrudoorg_built_with_claude_and_some_imagination"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

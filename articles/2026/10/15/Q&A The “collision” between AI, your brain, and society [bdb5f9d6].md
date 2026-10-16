@@ -2,6 +2,7 @@
 id: "bdb5f9d6d0998937"
 title: "Q&A: The “collision” between AI, your brain, and society"
 url: "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015"
+link: "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015"
 source: "MIT News"
 domain: "news.mit.edu"
 source_type: "research"

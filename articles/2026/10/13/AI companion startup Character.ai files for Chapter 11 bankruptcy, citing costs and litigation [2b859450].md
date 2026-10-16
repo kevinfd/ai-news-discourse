@@ -2,6 +2,7 @@
 id: "2b85945063994525"
 title: "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation"
 url: "https://cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html"
+link: "https://cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

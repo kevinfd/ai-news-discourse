@@ -2,6 +2,7 @@
 id: "64fe65ad1079d04a"
 title: "Best Semiconductor Stocks to Buy and Hold Through 2030"
 url: "https://fool.com/investing/2026/10/14/best-semiconductor-stocks-to-buy-and-hold-through"
+link: "https://fool.com/investing/2026/10/14/best-semiconductor-stocks-to-buy-and-hold-through"
 source: "The Motley Fool"
 domain: "fool.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "90995f7dbc9c2674"
 title: "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
 url: "https://openai.com/index/asana-browser-agent"
+link: "https://openai.com/index/asana-browser-agent"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

@@ -2,6 +2,7 @@
 id: "b1c049c961a143ae"
 title: "is worth going from 7800xt to 7900xtx for Qwen 3.8 27b?"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x56bqa/is_worth_going_from_7800xt_to_7900xtx_for_qwen_38"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x56bqa/is_worth_going_from_7800xt_to_7900xtx_for_qwen_38"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

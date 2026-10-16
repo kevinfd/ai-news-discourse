@@ -2,6 +2,7 @@
 id: "1f68df0d150585c4"
 title: "Why your AI agents can't reach the tools you're signed in to, and how to fix it"
 url: "https://read.aindeev.com/p/why-your-ai-agents-cant-reach-the"
+link: "https://read.aindeev.com/p/why-your-ai-agents-cant-reach-the"
 source: "The Leveraged Mind"
 domain: "read.aindeev.com"
 source_type: "community"

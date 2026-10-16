@@ -2,6 +2,7 @@
 id: "6ada4953bfc55c39"
 title: "Nadella calls for observable AI systems as agents evade restrictions"
 url: "https://cryptobriefing.com/nadella-warns-opaque-ai-security-controls"
+link: "https://cryptobriefing.com/nadella-warns-opaque-ai-security-controls"
 source: "Crypto Briefing"
 domain: "cryptobriefing.com"
 source_type: "mainstream_news"

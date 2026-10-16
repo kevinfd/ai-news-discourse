@@ -2,6 +2,7 @@
 id: "26ab7f150b868496"
 title: "Musician Raye reveals the scale of reseller AI bots buying up concert tickets"
 url: "https://mashable.com/tech/raye-reveals-the-scale-of-scalper-ai-bots-buying-up-concert-tickets"
+link: "https://mashable.com/tech/raye-reveals-the-scale-of-scalper-ai-bots-buying-up-concert-tickets"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

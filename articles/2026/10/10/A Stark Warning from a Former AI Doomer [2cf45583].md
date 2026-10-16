@@ -2,6 +2,7 @@
 id: "2cf45583906f2c56"
 title: "A Stark Warning from a Former AI Doomer"
 url: "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983"
+link: "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983"
 source: "Apple Podcasts"
 domain: "podcasts.apple.com"
 source_type: "community"

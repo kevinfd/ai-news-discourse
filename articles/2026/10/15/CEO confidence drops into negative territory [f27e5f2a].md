@@ -2,6 +2,7 @@
 id: "f27e5f2a076cfcf7"
 title: "CEO confidence drops into negative territory"
 url: "https://axios.com/2026/10/15/ceo-confidence-conference-board"
+link: "https://axios.com/2026/10/15/ceo-confidence-conference-board"
 source: "Axios"
 domain: "axios.com"
 source_type: "mainstream_news"

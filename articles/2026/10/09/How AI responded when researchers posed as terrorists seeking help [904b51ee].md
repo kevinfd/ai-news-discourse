@@ -2,6 +2,7 @@
 id: "904b51ee2ade4218"
 title: "How AI responded when researchers posed as terrorists seeking help"
 url: "https://cbsnews.com/news/researchers-ai-terrorist-operations-responded"
+link: "https://cbsnews.com/news/researchers-ai-terrorist-operations-responded"
 source: "CBS News"
 domain: "cbsnews.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "84919bf0206fad4d"
 title: "Netflix’s documentary of Huggingface discussion"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x4y1eq/netflixs_documentary_of_huggingface_discussion"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x4y1eq/netflixs_documentary_of_huggingface_discussion"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

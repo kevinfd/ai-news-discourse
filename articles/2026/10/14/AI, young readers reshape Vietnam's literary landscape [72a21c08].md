@@ -2,6 +2,7 @@
 id: "72a21c08fa767b70"
 title: "AI, young readers reshape Vietnam's literary landscape"
 url: "https://upi.com/Top_News/World-News/2026/10/15/vietnam-publishing-industry-potential/9951792034276"
+link: "https://upi.com/Top_News/World-News/2026/10/15/vietnam-publishing-industry-potential/9951792034276"
 source: "UPI"
 domain: "upi.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "f3157b16269d1946"
 title: "Should an AI support bot have to honor a request for a human?"
 url: "https://reddit.com/r/artificial/comments/1x4l3ut/should_an_ai_support_bot_have_to_honor_a_request"
+link: "https://reddit.com/r/artificial/comments/1x4l3ut/should_an_ai_support_bot_have_to_honor_a_request"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

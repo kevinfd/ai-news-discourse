@@ -2,6 +2,7 @@
 id: "24c7389afe46c47b"
 title: "I Tested Four Ways to Give an AI Assistant a Memory. The Obvious One Was the Worst Value."
 url: "https://towardsdatascience.com/i-tested-four-ways-to-give-an-ai-assistant-a-memory-the-obvious-one-was-the-worst-value"
+link: "https://towardsdatascience.com/i-tested-four-ways-to-give-an-ai-assistant-a-memory-the-obvious-one-was-the-worst-value"
 source: "Towards Data Science"
 domain: "towardsdatascience.com"
 source_type: "newsletter"

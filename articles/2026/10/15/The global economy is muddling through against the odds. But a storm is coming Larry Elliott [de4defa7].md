@@ -2,6 +2,7 @@
 id: "de4defa7b591e4c2"
 title: "The global economy is muddling through against the odds. But a storm is coming | Larry Elliott"
 url: "https://theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf"
+link: "https://theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "bc645e50c62e4932"
 title: "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI"
 url: "https://github.com/edrisranjbar/lifeos"
+link: "https://github.com/edrisranjbar/lifeos"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

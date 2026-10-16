@@ -2,6 +2,7 @@
 id: "3fd6baf567ca0940"
 title: "There's No \"Going Back\": On the receding horizons of the AI transition"
 url: "https://thelastwave.substack.com/p/theres-no-going-back"
+link: "https://thelastwave.substack.com/p/theres-no-going-back"
 source: "Substack"
 domain: "thelastwave.substack.com"
 source_type: "community"

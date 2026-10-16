@@ -2,6 +2,7 @@
 id: "ecaa0725ab57779c"
 title: "84 percent of ransomware victims point to AI link: Report"
 url: "https://thehill.com/policy/technology/6148518-a-i-weaponized-ransomware-survey"
+link: "https://thehill.com/policy/technology/6148518-a-i-weaponized-ransomware-survey"
 source: "The Hill"
 domain: "thehill.com"
 source_type: "mainstream_news"

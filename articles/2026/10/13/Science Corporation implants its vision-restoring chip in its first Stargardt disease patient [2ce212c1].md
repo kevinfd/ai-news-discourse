@@ -2,6 +2,7 @@
 id: "2ce212c19db2f99b"
 title: "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient"
 url: "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient"
+link: "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

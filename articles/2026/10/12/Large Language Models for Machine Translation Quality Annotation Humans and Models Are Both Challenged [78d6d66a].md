@@ -2,6 +2,7 @@
 id: "78d6d66a2b4f943a"
 title: "Large Language Models for Machine Translation Quality Annotation: Humans and Models Are Both Challenged"
 url: "https://machinelearning.apple.com/research/llm-translation-quality-annotation"
+link: "https://machinelearning.apple.com/research/llm-translation-quality-annotation"
 source: "Apple Machine Learning Research"
 domain: "machinelearning.apple.com"
 source_type: "research"

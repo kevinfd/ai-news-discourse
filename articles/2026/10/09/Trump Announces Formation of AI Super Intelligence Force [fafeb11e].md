@@ -2,6 +2,7 @@
 id: "fafeb11e512686ee"
 title: "Trump Announces Formation of AI \"Super Intelligence Force\""
 url: "https://cbsnews.com/news/ai-super-intelligence-force-trump-jay-clayton"
+link: "https://cbsnews.com/news/ai-super-intelligence-force-trump-jay-clayton"
 source: "CBS News"
 domain: "cbsnews.com"
 source_type: "community"

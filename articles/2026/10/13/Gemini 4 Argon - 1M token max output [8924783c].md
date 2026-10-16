@@ -2,6 +2,7 @@
 id: "8924783c5fb9578d"
 title: "Gemini 4 Argon - 1M token max output"
 url: "https://reddit.com/r/singularity/comments/1x55qs2/gemini_4_argon_1m_token_max_output"
+link: "https://reddit.com/r/singularity/comments/1x55qs2/gemini_4_argon_1m_token_max_output"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "bc3f52c3e7de01bb"
 title: "El-Sayed labels AI 'existential threat’"
 url: "https://thehill.com/policy/technology/6145290-el-sayed-labels-ai-existential-threat"
+link: "https://thehill.com/policy/technology/6145290-el-sayed-labels-ai-existential-threat"
 source: "The Hill"
 domain: "thehill.com"
 source_type: "mainstream_news"

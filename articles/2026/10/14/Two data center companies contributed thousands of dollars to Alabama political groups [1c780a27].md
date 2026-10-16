@@ -2,6 +2,7 @@
 id: "1c780a27f196973c"
 title: "Two data center companies contributed thousands of dollars to Alabama political groups"
 url: "https://al.com/business/2026/10/two-data-center-companies-contributed-thousands-of-dollars-to-alabama-political-groups.html"
+link: "https://al.com/business/2026/10/two-data-center-companies-contributed-thousands-of-dollars-to-alabama-political-groups.html"
 source: "al.com"
 domain: "al.com"
 source_type: "mainstream_news"

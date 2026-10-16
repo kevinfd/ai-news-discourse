@@ -2,6 +2,7 @@
 id: "b510e59d6dc4a359"
 title: "This Unlimited AI Prompt Generator Is Down to $98 for Life"
 url: "https://pcmag.com/deals/this-unlimited-ai-prompt-generator-is-down-to-98-for-life"
+link: "https://pcmag.com/deals/this-unlimited-ai-prompt-generator-is-down-to-98-for-life"
 source: "PCMag"
 domain: "pcmag.com"
 source_type: "tech_press"

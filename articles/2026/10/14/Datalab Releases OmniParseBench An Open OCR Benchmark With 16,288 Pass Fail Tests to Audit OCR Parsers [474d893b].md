@@ -2,6 +2,7 @@
 id: "474d893b0dbadede"
 title: "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers"
 url: "https://marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark"
+link: "https://marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "c77826b39fde6902"
 title: "In the AI era, coding means thinking like a systems architect"
 url: "https://nature.com/articles/d41586-026-02715-x"
+link: "https://nature.com/articles/d41586-026-02715-x"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

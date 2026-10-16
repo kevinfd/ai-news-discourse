@@ -2,6 +2,7 @@
 id: "2b85a359080d60bc"
 title: "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors"
 url: "https://marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors"
+link: "https://marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

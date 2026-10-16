@@ -2,6 +2,7 @@
 id: "b00bd35ef821f48b"
 title: "Moving a running model's layers between GPUs mid-reply (8 ms, no re-prefill)"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5i7o9/moving_a_running_models_layers_between_gpus"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5i7o9/moving_a_running_models_layers_between_gpus"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "d0bcab019ed52470"
 title: "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity"
 url: "https://wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity"
+link: "https://wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

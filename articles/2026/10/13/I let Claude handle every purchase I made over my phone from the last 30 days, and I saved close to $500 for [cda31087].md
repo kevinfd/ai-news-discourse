@@ -2,6 +2,7 @@
 id: "cda310872602093d"
 title: "I let Claude handle every purchase I made over my phone from the last 30 days, and I saved close to $500 for that"
 url: "https://reddit.com/r/ClaudeAI/comments/1x55mya/i_let_claude_handle_every_purchase_i_made_over_my"
+link: "https://reddit.com/r/ClaudeAI/comments/1x55mya/i_let_claude_handle_every_purchase_i_made_over_my"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "689e4e9b6d1db327"
 title: "Show Reddit: Atlas of Applied AI - A navigable map exploring the world of applied AI engineering."
 url: "https://gravitypersists.github.io/atlas-of-applied-ai"
+link: "https://gravitypersists.github.io/atlas-of-applied-ai"
 source: "gravitypersists.github.io"
 domain: "gravitypersists.github.io"
 source_type: "community"

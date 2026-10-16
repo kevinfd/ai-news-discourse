@@ -2,6 +2,7 @@
 id: "ec003ec20ed7c3a4"
 title: "NetBSD may have found a new role: The AI-free FOSS OS"
 url: "https://theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818"
+link: "https://theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818"
 source: "The Register"
 domain: "theregister.com"
 source_type: "community"

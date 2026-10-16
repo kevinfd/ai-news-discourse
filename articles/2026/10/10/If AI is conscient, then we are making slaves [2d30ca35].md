@@ -2,6 +2,7 @@
 id: "2d30ca359cfc785d"
 title: "If AI is conscient, then we are making slaves"
 url: "https://groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi"
+link: "https://groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi"
 source: "Ground Level AI"
 domain: "groundlevel-ai.com"
 source_type: "community"

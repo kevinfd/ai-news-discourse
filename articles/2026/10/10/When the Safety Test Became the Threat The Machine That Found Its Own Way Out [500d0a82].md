@@ -2,6 +2,7 @@
 id: "500d0a82cc651eff"
 title: "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out"
 url: "https://marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out"
+link: "https://marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

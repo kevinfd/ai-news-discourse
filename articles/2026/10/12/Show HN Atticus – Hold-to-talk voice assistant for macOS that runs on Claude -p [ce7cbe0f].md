@@ -2,6 +2,7 @@
 id: "ce7cbe0fa7852207"
 title: "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p"
 url: "https://github.com/SaarthurR/atticus-mac"
+link: "https://github.com/SaarthurR/atticus-mac"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

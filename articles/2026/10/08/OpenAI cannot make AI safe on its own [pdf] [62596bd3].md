@@ -2,6 +2,7 @@
 id: "62596bd327a1eb27"
 title: "OpenAI cannot make AI safe on its own [pdf]"
 url: "https://mikitabalesni.com/letter/letter.pdf"
+link: "https://mikitabalesni.com/letter/letter.pdf"
 source: "Mikitabalesni"
 domain: "mikitabalesni.com"
 source_type: "community"

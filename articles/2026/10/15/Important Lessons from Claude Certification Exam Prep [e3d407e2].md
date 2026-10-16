@@ -2,6 +2,7 @@
 id: "e3d407e2f98b840f"
 title: "Important Lessons from Claude Certification Exam Prep"
 url: "https://reddit.com/r/ClaudeAI/comments/1x6iqzc/important_lessons_from_claude_certification_exam"
+link: "https://reddit.com/r/ClaudeAI/comments/1x6iqzc/important_lessons_from_claude_certification_exam"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

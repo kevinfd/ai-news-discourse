@@ -2,6 +2,7 @@
 id: "7d048ab337d45bae"
 title: "SynthID Detector"
 url: "https://synthid.com"
+link: "https://synthid.com"
 source: "Synthid"
 domain: "synthid.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "7ccfc490d786096e"
 title: "Coding Agents Can Solve the Task — But How Much Work Did They Waste?"
 url: "https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste"
+link: "https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste"
 source: "Towards Data Science"
 domain: "towardsdatascience.com"
 source_type: "newsletter"

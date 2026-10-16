@@ -2,6 +2,7 @@
 id: "c4d6082c07a1abcc"
 title: "Build long-horizon agents with Grok 4.7 on Amazon Bedrock"
 url: "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock"
+link: "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

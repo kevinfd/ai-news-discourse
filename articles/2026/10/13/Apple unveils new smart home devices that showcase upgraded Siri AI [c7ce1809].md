@@ -2,6 +2,7 @@
 id: "c7ce1809af5a04dd"
 title: "Apple unveils new smart home devices that showcase upgraded Siri AI"
 url: "https://theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai"
+link: "https://theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

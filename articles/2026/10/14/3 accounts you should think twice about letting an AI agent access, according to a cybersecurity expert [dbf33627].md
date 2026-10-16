@@ -2,6 +2,7 @@
 id: "dbf3362750256ad6"
 title: "3 accounts you should think twice about letting an AI agent access, according to a cybersecurity expert"
 url: "https://tomsguide.com/ai/3-accounts-you-should-think-twice-about-letting-an-ai-agent-access-according-to-a-cybersecurity-expert"
+link: "https://tomsguide.com/ai/3-accounts-you-should-think-twice-about-letting-an-ai-agent-access-according-to-a-cybersecurity-expert"
 source: "Tom's Guide"
 domain: "tomsguide.com"
 source_type: "tech_press"

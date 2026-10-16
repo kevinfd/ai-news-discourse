@@ -2,6 +2,7 @@
 id: "68aa22e2b683ebbc"
 title: "Entire Swedish reality show season lost weeks before premiere amid disputed AI claims"
 url: "https://euronews.com/2026/10/14/entire-swedish-reality-show-season-lost-weeks-before-premiere-amid-disputed-ai-claims"
+link: "https://euronews.com/2026/10/14/entire-swedish-reality-show-season-lost-weeks-before-premiere-amid-disputed-ai-claims"
 source: "Euronews"
 domain: "euronews.com"
 source_type: "mainstream_news"

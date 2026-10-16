@@ -2,6 +2,7 @@
 id: "36347ea06c8c5adb"
 title: "Former Plaud exec raises $26M for AI app that listens to you in the background"
 url: "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background"
+link: "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

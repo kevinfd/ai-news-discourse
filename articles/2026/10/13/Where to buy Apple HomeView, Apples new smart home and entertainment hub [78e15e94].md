@@ -2,6 +2,7 @@
 id: "78e15e949920405e"
 title: "Where to buy Apple HomeView, Apples new smart home and entertainment hub"
 url: "https://mashable.com/tech/where-to-buy-apple-homeview-preorder"
+link: "https://mashable.com/tech/where-to-buy-apple-homeview-preorder"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

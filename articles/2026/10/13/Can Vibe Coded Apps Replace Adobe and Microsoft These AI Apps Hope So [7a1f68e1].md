@@ -2,6 +2,7 @@
 id: "7a1f68e16b7457a5"
 title: "Can Vibe Coded Apps Replace Adobe and Microsoft? These AI Apps Hope So"
 url: "https://cnet.com/tech/services-and-software/ai-vibe-code-apps-replace-adobe-microsoft-news"
+link: "https://cnet.com/tech/services-and-software/ai-vibe-code-apps-replace-adobe-microsoft-news"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

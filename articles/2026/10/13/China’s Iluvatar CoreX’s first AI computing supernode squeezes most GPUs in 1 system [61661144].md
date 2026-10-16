@@ -2,6 +2,7 @@
 id: "61661144261ce6bc"
 title: "China’s Iluvatar CoreX’s first AI computing supernode squeezes most GPUs in 1 system"
 url: "https://scmp.com/tech/tech-trends/article/3370711/chinas-iluvatar-corexs-first-ai-computing-supernode-squeezes-most-gpus-1-system"
+link: "https://scmp.com/tech/tech-trends/article/3370711/chinas-iluvatar-corexs-first-ai-computing-supernode-squeezes-most-gpus-1-system"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

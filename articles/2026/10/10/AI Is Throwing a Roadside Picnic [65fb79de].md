@@ -2,6 +2,7 @@
 id: "65fb79de01ca7fe0"
 title: "AI Is Throwing a Roadside Picnic"
 url: "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic"
+link: "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic"
 source: "Substack"
 domain: "metedata.substack.com"
 source_type: "community"

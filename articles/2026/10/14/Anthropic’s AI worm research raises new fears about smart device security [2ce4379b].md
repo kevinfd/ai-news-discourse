@@ -2,6 +2,7 @@
 id: "2ce4379b96ee6766"
 title: "Anthropic’s AI worm research raises new fears about smart device security"
 url: "https://scientificamerican.com/article/anthropics-ai-worm-research-raises-new-fears-about-smart-device-security"
+link: "https://scientificamerican.com/article/anthropics-ai-worm-research-raises-new-fears-about-smart-device-security"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

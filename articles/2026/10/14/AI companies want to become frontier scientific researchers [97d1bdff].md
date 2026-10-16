@@ -2,6 +2,7 @@
 id: "97d1bdff74fce807"
 title: "AI companies want to become frontier scientific researchers"
 url: "https://economist.com/science-and-technology/2026/10/14/ai-companies-want-to-become-frontier-scientific-researchers"
+link: "https://economist.com/science-and-technology/2026/10/14/ai-companies-want-to-become-frontier-scientific-researchers"
 source: "The Economist"
 domain: "economist.com"
 source_type: "mainstream_news"

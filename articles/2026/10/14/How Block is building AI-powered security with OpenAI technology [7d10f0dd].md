@@ -2,6 +2,7 @@
 id: "7d10f0ddfecf202c"
 title: "How Block is building AI-powered security with OpenAI technology"
 url: "https://openai.com/index/block-ai-powered-security"
+link: "https://openai.com/index/block-ai-powered-security"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

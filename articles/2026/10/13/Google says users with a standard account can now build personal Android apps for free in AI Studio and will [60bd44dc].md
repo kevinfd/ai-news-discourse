@@ -2,6 +2,7 @@
 id: "60bd44dcc9b18d59"
 title: "Google says users with a standard account can now build personal Android apps for free in AI Studio and will be able to share them with friends in coming months (Artie Beaty/ZDNET)"
 url: "https://techmeme.com/261013/p34"
+link: "https://techmeme.com/261013/p34"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

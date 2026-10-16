@@ -2,6 +2,7 @@
 id: "8635d0995c1deba4"
 title: "Anthropic co-founder Jack Clark moves his recursive AI self-improvement prediction up to 2027. Claude Opus 5.5 is already outperforming human AI researchers on experimental tasks at 1/30 the cost, while AI research judgment doubles every three months. The race to build smarter AI could soon be drive"
 url: "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space"
+link: "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space"
 source: "Import AI"
 domain: "jack-clark.net"
 source_type: "community"

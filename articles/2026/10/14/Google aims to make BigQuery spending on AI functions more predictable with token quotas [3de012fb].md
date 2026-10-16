@@ -2,6 +2,7 @@
 id: "3de012fb11885bfe"
 title: "Google aims to make BigQuery spending on AI functions more predictable with token quotas"
 url: "https://infoworld.com/article/4235774/google-aims-to-make-bigquery-spending-on-ai-functions-more-predictable-with-token-quotas.html"
+link: "https://infoworld.com/article/4235774/google-aims-to-make-bigquery-spending-on-ai-functions-more-predictable-with-token-quotas.html"
 source: "InfoWorld"
 domain: "infoworld.com"
 source_type: "mainstream_news"

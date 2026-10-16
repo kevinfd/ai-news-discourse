@@ -2,6 +2,7 @@
 id: "01931353b05d4762"
 title: "SoftBank seeks $100B from Gulf investors to expand AI bet"
 url: "https://ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd"
+link: "https://ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "community"

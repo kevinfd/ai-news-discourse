@@ -2,6 +2,7 @@
 id: "2451ab587bb461b3"
 title: "Anthropic’s Claude AI submits false tip on Philadelphia unsolved homicide case"
 url: "https://thehindu.com/news/international/anthropics-claude-ai-submits-false-tip-on-philadelphia-unsolved-homicide-case/article71569220.ece"
+link: "https://thehindu.com/news/international/anthropics-claude-ai-submits-false-tip-on-philadelphia-unsolved-homicide-case/article71569220.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

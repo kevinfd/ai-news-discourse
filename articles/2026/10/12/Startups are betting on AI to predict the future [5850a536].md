@@ -2,6 +2,7 @@
 id: "5850a5368443325c"
 title: "Startups are betting on AI to predict the future"
 url: "https://thehindu.com/sci-tech/technology/startups-are-betting-on-ai-to-predict-the-future/article71573682.ece"
+link: "https://thehindu.com/sci-tech/technology/startups-are-betting-on-ai-to-predict-the-future/article71573682.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

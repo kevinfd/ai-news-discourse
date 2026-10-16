@@ -2,6 +2,7 @@
 id: "340ef6a9218fc611"
 title: "New ‘First Proof’ exam reveals how AI-powered math is a pay-to-play sport"
 url: "https://scientificamerican.com/article/new-first-proof-exam-reveals-how-ai-powered-math-is-a-pay-for-play-sport"
+link: "https://scientificamerican.com/article/new-first-proof-exam-reveals-how-ai-powered-math-is-a-pay-for-play-sport"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

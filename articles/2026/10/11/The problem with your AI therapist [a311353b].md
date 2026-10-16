@@ -2,6 +2,7 @@
 id: "a311353b491d97f5"
 title: "The problem with your AI therapist"
 url: "https://ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1"
+link: "https://ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

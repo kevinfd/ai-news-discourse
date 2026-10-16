@@ -2,6 +2,7 @@
 id: "d308959ea0a20082"
 title: "Trick to Make Image Generation Better"
 url: "https://reddit.com/r/ChatGPT/comments/1x5zej4/trick_to_make_image_generation_better"
+link: "https://reddit.com/r/ChatGPT/comments/1x5zej4/trick_to_make_image_generation_better"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "6b0ff170156a4b58"
 title: "Man posing as NFL player accused of conning women out of $1.3M"
 url: "https://foxnews.com/tech/man-posing-nfl-player-accused-conning-women-1-3m"
+link: "https://foxnews.com/tech/man-posing-nfl-player-accused-conning-women-1-3m"
 source: "Fox News"
 domain: "foxnews.com"
 source_type: "mainstream_news"

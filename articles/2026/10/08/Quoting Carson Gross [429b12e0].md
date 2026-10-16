@@ -2,6 +2,7 @@
 id: "429b12e0917d3152"
 title: "Quoting Carson Gross"
 url: "https://simonwillison.net/2026/Oct/8/carson-gross"
+link: "https://simonwillison.net/2026/Oct/8/carson-gross"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

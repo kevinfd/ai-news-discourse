@@ -2,6 +2,7 @@
 id: "23e019903525fb44"
 title: "Why A.I. Agents Are Going Rogue"
 url: "https://nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html"
+link: "https://nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

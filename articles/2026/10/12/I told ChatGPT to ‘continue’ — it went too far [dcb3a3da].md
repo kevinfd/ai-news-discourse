@@ -2,6 +2,7 @@
 id: "dcb3a3da4a22a1eb"
 title: "I told ChatGPT to ‘continue’ — it went too far"
 url: "https://nature.com/articles/d41586-026-02714-y"
+link: "https://nature.com/articles/d41586-026-02714-y"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

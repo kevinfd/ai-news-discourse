@@ -2,6 +2,7 @@
 id: "06248b1b561cc714"
 title: "Nvidia adds 64GB DGX Spark configuration for local AI development"
 url: "https://gcn.com/nvidia-dgx-spark-64gb-local-ai/22385"
+link: "https://gcn.com/nvidia-dgx-spark-64gb-local-ai/22385"
 source: "GCN"
 domain: "gcn.com"
 source_type: "mainstream_news"

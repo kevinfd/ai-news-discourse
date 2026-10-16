@@ -2,6 +2,7 @@
 id: "47fe7faca89633a7"
 title: "FBI Arrests OpenAI Employee Suspected of Planting a Surveillance Bug"
 url: "https://cnet.com/tech/services-and-software/openai-employee-fbi-arrest-recording-device-news"
+link: "https://cnet.com/tech/services-and-software/openai-employee-fbi-arrest-recording-device-news"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

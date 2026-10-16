@@ -2,6 +2,7 @@
 id: "cdab8d48828d4535"
 title: "TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context"
 url: "https://marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context"
+link: "https://marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

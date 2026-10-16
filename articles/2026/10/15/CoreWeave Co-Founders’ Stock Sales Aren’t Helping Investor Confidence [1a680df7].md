@@ -2,6 +2,7 @@
 id: "1a680df7df1dafa3"
 title: "CoreWeave Co-Founders’ Stock Sales Aren’t Helping Investor Confidence"
 url: "https://theinformation.com/articles/coreweave-co-founders-stock-sales-helping-investor-confidence"
+link: "https://theinformation.com/articles/coreweave-co-founders-stock-sales-helping-investor-confidence"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "ab36a87e3627bd69"
 title: "What is the actual percentage of people for and against AI?"
 url: "https://news.ycombinator.com/item?id=50000356"
+link: "https://news.ycombinator.com/item?id=50000356"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

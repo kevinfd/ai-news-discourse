@@ -2,6 +2,7 @@
 id: "04d33513409aaa04"
 title: "No model is better than another its the god damn tools templates are broken & some tools need clean filenames"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x6jgtq/no_model_is_better_than_another_its_the_god_damn"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x6jgtq/no_model_is_better_than_another_its_the_god_damn"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

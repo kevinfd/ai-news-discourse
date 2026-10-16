@@ -2,6 +2,7 @@
 id: "878f00089b517c50"
 title: "OpenAI releases 722 math manuscripts"
 url: "https://github.com/openai/math/blob/main/CONTENTS.md"
+link: "https://github.com/openai/math/blob/main/CONTENTS.md"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

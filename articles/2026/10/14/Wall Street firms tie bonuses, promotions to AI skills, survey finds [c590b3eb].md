@@ -2,6 +2,7 @@
 id: "c590b3ebe5e80e4e"
 title: "Wall Street firms tie bonuses, promotions to AI skills, survey finds"
 url: "https://channelnewsasia.com/business/wall-street-firms-tie-bonuses-promotions-ai-skills-survey-finds-6458701"
+link: "https://channelnewsasia.com/business/wall-street-firms-tie-bonuses-promotions-ai-skills-survey-finds-6458701"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

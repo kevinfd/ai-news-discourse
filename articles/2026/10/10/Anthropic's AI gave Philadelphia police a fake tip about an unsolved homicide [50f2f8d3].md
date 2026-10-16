@@ -2,6 +2,7 @@
 id: "50f2f8d37049a92b"
 title: "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide"
 url: "https://theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+link: "https://theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "community"

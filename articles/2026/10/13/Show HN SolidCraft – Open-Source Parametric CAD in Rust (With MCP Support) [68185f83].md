@@ -2,6 +2,7 @@
 id: "68185f838dbfd510"
 title: "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)"
 url: "https://github.com/bherbruck/solidcraft"
+link: "https://github.com/bherbruck/solidcraft"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

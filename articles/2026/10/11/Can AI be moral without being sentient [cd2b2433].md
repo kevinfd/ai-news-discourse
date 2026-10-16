@@ -2,6 +2,7 @@
 id: "cd2b2433071eed13"
 title: "Can AI be moral without being sentient?"
 url: "https://fastcompany.com/91620073/can-ai-be-moral-without-being-sentient?partner=rss"
+link: "https://fastcompany.com/91620073/can-ai-be-moral-without-being-sentient?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "69007dc1368d5651"
 title: "G2 TechBlend Features EPC Group’s TAR-8 Standard for Microsoft 365 Tenant AI Readiness Across Copilot and Multi-Model AI"
 url: "https://palmbeachpost.com/press-release/story/249860/g2-techblend-features-epc-groups-tar-8-standard-for-microsoft-365-tenant-ai-readiness-across-copilot-and-multi-model-ai"
+link: "https://palmbeachpost.com/press-release/story/249860/g2-techblend-features-epc-groups-tar-8-standard-for-microsoft-365-tenant-ai-readiness-across-copilot-and-multi-model-ai"
 source: "The Palm Beach Post"
 domain: "palmbeachpost.com"
 source_type: "mainstream_news"

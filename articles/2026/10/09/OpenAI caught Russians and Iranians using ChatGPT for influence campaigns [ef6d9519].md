@@ -2,6 +2,7 @@
 id: "ef6d95199e8f9476"
 title: "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns"
 url: "https://npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt"
+link: "https://npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt"
 source: "NPR"
 domain: "npr.org"
 source_type: "mainstream_news"

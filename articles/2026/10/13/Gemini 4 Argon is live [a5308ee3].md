@@ -2,6 +2,7 @@
 id: "a5308ee31e4d7a53"
 title: "Gemini 4 Argon is live"
 url: "https://reddit.com/r/singularity/comments/1x50r5i/gemini_4_argon_is_live"
+link: "https://reddit.com/r/singularity/comments/1x50r5i/gemini_4_argon_is_live"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

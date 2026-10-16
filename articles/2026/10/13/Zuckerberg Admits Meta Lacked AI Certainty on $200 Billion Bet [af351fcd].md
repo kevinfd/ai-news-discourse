@@ -2,6 +2,7 @@
 id: "af351fcdb6254730"
 title: "Zuckerberg Admits Meta Lacked AI Certainty on $200 Billion Bet"
 url: "https://bloomberg.com/news/articles/2026-10-13/zuckerberg-admits-meta-lacked-ai-certainty-on-200-billion-bet"
+link: "https://bloomberg.com/news/articles/2026-10-13/zuckerberg-admits-meta-lacked-ai-certainty-on-200-billion-bet"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

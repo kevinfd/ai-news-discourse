@@ -2,6 +2,7 @@
 id: "e1e9d7f8b0f13a08"
 title: "Epic says its new vibe-coded Epic Games Launcher is faster than Steam"
 url: "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app"
+link: "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

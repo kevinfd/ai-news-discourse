@@ -2,6 +2,7 @@
 id: "4467183067847142"
 title: "I tested Qwen3.8 27B KLD for 21 Models at 9 different KV quants that fit on 16GB VRAM (189 benchmarks)."
 url: "https://reddit.com/r/LocalLLaMA/comments/1x6fwcd/i_tested_qwen38_27b_kld_for_21_models_at_9"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x6fwcd/i_tested_qwen38_27b_kld_for_21_models_at_9"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

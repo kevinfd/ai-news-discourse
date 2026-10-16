@@ -2,6 +2,7 @@
 id: "5c3c2cb7a4b8663f"
 title: "NIH appears to shut down public comments on science peer-review rule change ahead of schedule"
 url: "https://scientificamerican.com/article/nih-appears-to-shut-down-public-comments-on-science-peer-review-rule-change-ahead-of-schedule"
+link: "https://scientificamerican.com/article/nih-appears-to-shut-down-public-comments-on-science-peer-review-rule-change-ahead-of-schedule"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

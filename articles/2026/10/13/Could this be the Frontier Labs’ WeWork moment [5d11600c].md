@@ -2,6 +2,7 @@
 id: "5d11600ca8895d67"
 title: "Could this be the Frontier Labs’ WeWork moment?"
 url: "https://garymarcus.substack.com/p/could-this-be-the-frontier-labs-wework"
+link: "https://garymarcus.substack.com/p/could-this-be-the-frontier-labs-wework"
 source: "Marcus on AI"
 domain: "garymarcus.substack.com"
 source_type: "newsletter"

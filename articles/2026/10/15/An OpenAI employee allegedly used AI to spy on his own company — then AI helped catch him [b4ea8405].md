@@ -2,6 +2,7 @@
 id: "b4ea8405cac8a011"
 title: "An OpenAI employee allegedly used AI to spy on his own company — then AI helped catch him"
 url: "https://tomsguide.com/ai/an-openai-employee-allegedly-used-ai-to-spy-on-his-own-company-then-ai-helped-catch-him"
+link: "https://tomsguide.com/ai/an-openai-employee-allegedly-used-ai-to-spy-on-his-own-company-then-ai-helped-catch-him"
 source: "Tom's Guide"
 domain: "tomsguide.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "af91cab50030fc0c"
 title: "Lawsuit alleges OpenAI stole childrens user data"
 url: "https://mashable.com/tech/openai-lawsuit-childrens-data"
+link: "https://mashable.com/tech/openai-lawsuit-childrens-data"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "65b199ce0334b0e0"
 title: "Apple releases HomeView smart home hub with screen as showcase for Siri AI"
 url: "https://cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html"
+link: "https://cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

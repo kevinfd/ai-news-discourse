@@ -2,6 +2,7 @@
 id: "8e462e16b647882c"
 title: "Workday Launches Work Intelligence to Identify Jobs and Tasks AI Could Change"
 url: "https://techrepublic.com/article/news-workday-work-intelligence-ai-workforce-planning"
+link: "https://techrepublic.com/article/news-workday-work-intelligence-ai-workforce-planning"
 source: "TechRepublic"
 domain: "techrepublic.com"
 source_type: "mainstream_news"

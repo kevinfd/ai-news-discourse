@@ -2,6 +2,7 @@
 id: "4b603adc82379fcf"
 title: "What is NVIDIA DLSS and how does it work?"
 url: "https://engadget.com/2281734/what-is-nvidia-dlss-how-works"
+link: "https://engadget.com/2281734/what-is-nvidia-dlss-how-works"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "62801d95d03aa360"
 title: "Nvidia says to invest in French medical website"
 url: "https://thehindu.com/sci-tech/technology/nvidia-says-to-invest-in-french-medical-website/article71582214.ece"
+link: "https://thehindu.com/sci-tech/technology/nvidia-says-to-invest-in-french-medical-website/article71582214.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

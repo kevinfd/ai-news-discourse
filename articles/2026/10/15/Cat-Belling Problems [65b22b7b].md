@@ -2,6 +2,7 @@
 id: "65b22b7b8999d77d"
 title: "Cat-Belling Problems"
 url: "https://lesswrong.com/posts/SwYBLQvo8MddDcCwz/cat-belling-problems"
+link: "https://lesswrong.com/posts/SwYBLQvo8MddDcCwz/cat-belling-problems"
 source: "LessWrong (curated)"
 domain: "lesswrong.com"
 source_type: "community"

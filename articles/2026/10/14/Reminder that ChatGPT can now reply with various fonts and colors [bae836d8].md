@@ -2,6 +2,7 @@
 id: "bae836d81dd52ab5"
 title: "Reminder that ChatGPT can now reply with various fonts and colors."
 url: "https://reddit.com/r/ChatGPT/comments/1x5nbh7/reminder_that_chatgpt_can_now_reply_with_various"
+link: "https://reddit.com/r/ChatGPT/comments/1x5nbh7/reminder_that_chatgpt_can_now_reply_with_various"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

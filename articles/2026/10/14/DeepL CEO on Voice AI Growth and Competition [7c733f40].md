@@ -2,6 +2,7 @@
 id: "7c733f401c926618"
 title: "DeepL CEO on Voice AI Growth and Competition"
 url: "https://bloomberg.com/news/videos/2026-10-14/deepl-ceo-on-voice-ai-growth-and-competition-video"
+link: "https://bloomberg.com/news/videos/2026-10-14/deepl-ceo-on-voice-ai-growth-and-competition-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

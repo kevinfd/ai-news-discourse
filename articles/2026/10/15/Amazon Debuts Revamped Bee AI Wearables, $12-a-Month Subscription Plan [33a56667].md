@@ -2,6 +2,7 @@
 id: "33a566675261d1a4"
 title: "Amazon Debuts Revamped Bee AI Wearables, $12-a-Month Subscription Plan"
 url: "https://bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan"
+link: "https://bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

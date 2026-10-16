@@ -2,6 +2,7 @@
 id: "4760f6c34abaf7c5"
 title: "Show HN: Pacer – will your AI coding subscription last until the reset?"
 url: "https://github.com/dkremsa/claude-pacer"
+link: "https://github.com/dkremsa/claude-pacer"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

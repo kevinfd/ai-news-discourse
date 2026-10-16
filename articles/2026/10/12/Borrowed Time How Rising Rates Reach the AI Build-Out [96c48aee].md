@@ -2,6 +2,7 @@
 id: "96c48aee5342c1f4"
 title: "Borrowed Time: How Rising Rates Reach the AI Build-Out"
 url: "https://ai-supremacy.com/p/how-rising-rates-reach-the-ai-infra-buildout-2026-october"
+link: "https://ai-supremacy.com/p/how-rising-rates-reach-the-ai-infra-buildout-2026-october"
 source: "AI Supremacy"
 domain: "ai-supremacy.com"
 source_type: "newsletter"

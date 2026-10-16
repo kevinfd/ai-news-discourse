@@ -2,6 +2,7 @@
 id: "4deae89d199f527c"
 title: "China's high speed rail network is probably a harbinger of the future of Ai. Massive rail network, massive debt, operating at loss, low actual usage."
 url: "https://reddit.com/r/artificial/comments/1x4jwrj/chinas_high_speed_rail_network_is_probably_a"
+link: "https://reddit.com/r/artificial/comments/1x4jwrj/chinas_high_speed_rail_network_is_probably_a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

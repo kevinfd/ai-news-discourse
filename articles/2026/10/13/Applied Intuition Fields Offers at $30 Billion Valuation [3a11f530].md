@@ -2,6 +2,7 @@
 id: "3a11f530f64406a8"
 title: "Applied Intuition Fields Offers at $30 Billion Valuation"
 url: "https://theinformation.com/articles/applied-intuition-fields-offers-30-billion-valuation-2"
+link: "https://theinformation.com/articles/applied-intuition-fields-offers-30-billion-valuation-2"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "aa29e37d9922444a"
 title: "Three Samplers, One Posterior: NUTS vs. Emcee vs. Nested Sampling"
 url: "https://towardsdatascience.com/three-samplers-one-posterior-nuts-vs-emcee-vs-nested-sampling"
+link: "https://towardsdatascience.com/three-samplers-one-posterior-nuts-vs-emcee-vs-nested-sampling"
 source: "Towards Data Science"
 domain: "towardsdatascience.com"
 source_type: "newsletter"

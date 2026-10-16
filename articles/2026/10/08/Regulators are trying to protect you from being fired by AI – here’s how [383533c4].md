@@ -2,6 +2,7 @@
 id: "383533c4a5f7ea4f"
 title: "Regulators are trying to protect you from being fired by AI – here’s how"
 url: "https://zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai"
+link: "https://zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

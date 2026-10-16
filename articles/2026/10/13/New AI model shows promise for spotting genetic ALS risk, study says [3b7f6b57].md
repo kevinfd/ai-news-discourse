@@ -2,6 +2,7 @@
 id: "3b7f6b57861fe93d"
 title: "New AI model shows promise for spotting genetic ALS risk, study says"
 url: "https://alsnewstoday.com/news/new-ai-model-shows-promise-spotting-genetic-als-risk"
+link: "https://alsnewstoday.com/news/new-ai-model-shows-promise-spotting-genetic-als-risk"
 source: "ALS News Today"
 domain: "alsnewstoday.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "9a3fda6f691a45ca"
 title: "OpenFatigue™ — Open is the new closed"
 url: "https://openfatigue.ai"
+link: "https://openfatigue.ai"
 source: "Lobsters"
 domain: "openfatigue.ai"
 source_type: "community"

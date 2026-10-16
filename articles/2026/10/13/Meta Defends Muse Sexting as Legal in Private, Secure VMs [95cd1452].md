@@ -2,6 +2,7 @@
 id: "95cd14525cd9d7b3"
 title: "Meta Defends Muse Sexting as Legal in Private, Secure VMs"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4wm50/meta_defends_muse_sexting_as_legal_in_private"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4wm50/meta_defends_muse_sexting_as_legal_in_private"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "5f65c4d68146dee7"
 title: "AI-assisted proof of optimal packing for 11 squares"
 url: "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
+link: "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

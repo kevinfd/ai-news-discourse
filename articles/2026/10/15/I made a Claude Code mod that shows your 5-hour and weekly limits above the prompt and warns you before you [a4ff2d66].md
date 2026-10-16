@@ -2,6 +2,7 @@
 id: "a4ff2d6641169452"
 title: "I made a Claude Code mod that shows your 5-hour and weekly limits above the prompt and warns you before you hit them"
 url: "https://reddit.com/r/ClaudeAI/comments/1x6al0c/i_made_a_claude_code_mod_that_shows_your_5hour"
+link: "https://reddit.com/r/ClaudeAI/comments/1x6al0c/i_made_a_claude_code_mod_that_shows_your_5hour"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

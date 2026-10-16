@@ -2,6 +2,7 @@
 id: "c82b8f36320837ba"
 title: "Scientists unlock the longevity secrets of 194-year-old Jonathan the giant tortoise"
 url: "https://scientificamerican.com/article/scientists-unlock-the-longevity-secrets-of-194-year-old-jonathan-the-giant-tortoise"
+link: "https://scientificamerican.com/article/scientists-unlock-the-longevity-secrets-of-194-year-old-jonathan-the-giant-tortoise"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

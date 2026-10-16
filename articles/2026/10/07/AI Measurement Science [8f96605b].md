@@ -2,6 +2,7 @@
 id: "8f96605bdf3961ea"
 title: "AI Measurement Science"
 url: "https://aimslab.stanford.edu/textbook"
+link: "https://aimslab.stanford.edu/textbook"
 source: "aimslab.stanford.edu"
 domain: "aimslab.stanford.edu"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "e1953bab13110a6c"
 title: "What's the best way to have Claude Code and Codex work together for a single project?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x6dhb0/whats_the_best_way_to_have_claude_code_and_codex"
+link: "https://reddit.com/r/ClaudeAI/comments/1x6dhb0/whats_the_best_way_to_have_claude_code_and_codex"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

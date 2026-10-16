@@ -2,6 +2,7 @@
 id: "827f8572d72e755d"
 title: "Is AI smart and intelligent?"
 url: "https://reddit.com/r/artificial/comments/1x4s942/is_ai_smart_and_intelligent"
+link: "https://reddit.com/r/artificial/comments/1x4s942/is_ai_smart_and_intelligent"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

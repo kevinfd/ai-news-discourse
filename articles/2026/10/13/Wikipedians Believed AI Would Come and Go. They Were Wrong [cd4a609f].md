@@ -2,6 +2,7 @@
 id: "cd4a609f745e0d9d"
 title: "Wikipedians Believed AI Would Come and Go. They Were Wrong"
 url: "https://wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence"
+link: "https://wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

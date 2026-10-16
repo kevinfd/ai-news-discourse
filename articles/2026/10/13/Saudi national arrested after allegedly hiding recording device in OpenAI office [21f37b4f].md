@@ -2,6 +2,7 @@
 id: "21f37b4f93b45d70"
 title: "Saudi national arrested after allegedly hiding recording device in OpenAI office"
 url: "https://thehill.com/policy/technology/6146643-open-ai-spying-fbi-doj"
+link: "https://thehill.com/policy/technology/6146643-open-ai-spying-fbi-doj"
 source: "The Hill"
 domain: "thehill.com"
 source_type: "mainstream_news"

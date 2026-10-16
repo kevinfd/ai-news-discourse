@@ -2,6 +2,7 @@
 id: "4e013c4cf6ba49f1"
 title: "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room"
 url: "https://cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html"
+link: "https://cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

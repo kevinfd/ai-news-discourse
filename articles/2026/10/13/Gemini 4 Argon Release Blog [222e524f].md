@@ -2,6 +2,7 @@
 id: "222e524f5c5f6ef7"
 title: "Gemini 4 Argon Release Blog"
 url: "https://reddit.com/r/singularity/comments/1x53762/gemini_4_argon_release_blog"
+link: "https://reddit.com/r/singularity/comments/1x53762/gemini_4_argon_release_blog"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

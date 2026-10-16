@@ -2,6 +2,7 @@
 id: "66cb1e68848fee2d"
 title: "Gemini 4 Argon: Built to solve your hardest problems"
 url: "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon"
+link: "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon"
 source: "Google AI Blog"
 domain: "blog.google"
 source_type: "company_blog"

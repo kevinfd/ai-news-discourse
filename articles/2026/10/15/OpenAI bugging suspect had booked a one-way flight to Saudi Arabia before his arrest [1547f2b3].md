@@ -2,6 +2,7 @@
 id: "1547f2b332a3dc69"
 title: "OpenAI bugging suspect had booked a one-way flight to Saudi Arabia before his arrest"
 url: "https://qz.com/openai-bugging-suspect-one-way-flight-saudi-arabia-101526"
+link: "https://qz.com/openai-bugging-suspect-one-way-flight-saudi-arabia-101526"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

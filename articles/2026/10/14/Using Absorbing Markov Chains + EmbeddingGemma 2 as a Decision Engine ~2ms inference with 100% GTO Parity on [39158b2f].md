@@ -2,6 +2,7 @@
 id: "39158b2ff809fbbf"
 title: "Using Absorbing Markov Chains + EmbeddingGemma 2 as a Decision Engine: ~2ms inference with 100% GTO Parity on Vegas Blackjack"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5wjps/using_absorbing_markov_chains_embeddinggemma_2_as"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5wjps/using_absorbing_markov_chains_embeddinggemma_2_as"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "41c62699d00d5176"
 title: "Startup Evos Raises Funding To Target Industrial Businesses"
 url: "https://forbes.com/sites/davidprosser/2026/10/14/startup-evos-raises-funding-to-target-industrial-businesses"
+link: "https://forbes.com/sites/davidprosser/2026/10/14/startup-evos-raises-funding-to-target-industrial-businesses"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

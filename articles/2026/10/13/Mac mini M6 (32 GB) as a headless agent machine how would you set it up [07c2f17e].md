@@ -2,6 +2,7 @@
 id: "07c2f17e15390ca1"
 title: "Mac mini M6 (32 GB) as a headless agent machine: how would you set it up?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4w1ay/mac_mini_m6_32_gb_as_a_headless_agent_machine_how"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4w1ay/mac_mini_m6_32_gb_as_a_headless_agent_machine_how"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

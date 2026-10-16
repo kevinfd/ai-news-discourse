@@ -2,6 +2,7 @@
 id: "71b5c0c81e2a86f8"
 title: "Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private"
 url: "https://github.com/darshi1337/apogee"
+link: "https://github.com/darshi1337/apogee"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

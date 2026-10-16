@@ -2,6 +2,7 @@
 id: "466bce1d1a1b3c5c"
 title: "LGTM: A parody of modern AI adoption in the tech industry [video]"
 url: "https://youtube.com/watch?v=3TNpOD6bov8"
+link: "https://youtube.com/watch?v=3TNpOD6bov8"
 source: "YouTube"
 domain: "youtube.com"
 source_type: "community"

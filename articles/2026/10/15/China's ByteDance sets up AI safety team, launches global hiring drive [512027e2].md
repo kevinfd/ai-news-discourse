@@ -2,6 +2,7 @@
 id: "512027e217a3d1b2"
 title: "China's ByteDance sets up AI safety team, launches global hiring drive"
 url: "https://miamiherald.com/news/business/article317632645.html"
+link: "https://miamiherald.com/news/business/article317632645.html"
 source: "Miami Herald"
 domain: "miamiherald.com"
 source_type: "mainstream_news"

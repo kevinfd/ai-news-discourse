@@ -2,6 +2,7 @@
 id: "8dd4eb691f6aed7c"
 title: "Claude for videos"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5jrwi/claude_for_videos"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5jrwi/claude_for_videos"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

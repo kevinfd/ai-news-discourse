@@ -2,6 +2,7 @@
 id: "8da712d69045a575"
 title: "Apple and OpenAI are heading to court for their first major trade secret showdown"
 url: "https://qz.com/apple-openai-trade-secret-hearing-injunction-dismissal-101426"
+link: "https://qz.com/apple-openai-trade-secret-hearing-injunction-dismissal-101426"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

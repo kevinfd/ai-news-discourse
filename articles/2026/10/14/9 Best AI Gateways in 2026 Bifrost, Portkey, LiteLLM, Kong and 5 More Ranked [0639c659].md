@@ -2,6 +2,7 @@
 id: "0639c659615d0bb6"
 title: "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked"
 url: "https://marktechpost.com/2026/10/14/best-ai-gateways-2026"
+link: "https://marktechpost.com/2026/10/14/best-ai-gateways-2026"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

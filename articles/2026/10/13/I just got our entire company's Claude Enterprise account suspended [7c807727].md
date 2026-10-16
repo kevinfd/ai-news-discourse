@@ -2,6 +2,7 @@
 id: "7c807727a20607c5"
 title: "I just got our entire company's Claude Enterprise account suspended"
 url: "https://twitter.com/heinenbros/status/2110081812169162923"
+link: "https://twitter.com/heinenbros/status/2110081812169162923"
 source: "Twitter"
 domain: "twitter.com"
 source_type: "community"

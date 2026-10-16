@@ -2,6 +2,7 @@
 id: "5390f1b229bbfcbf"
 title: "Tech giants race to get AI gadgets on shelves for holiday rush"
 url: "https://cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html"
+link: "https://cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

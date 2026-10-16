@@ -2,6 +2,7 @@
 id: "6ebb678b95e9504b"
 title: "OpenAI’s London staff receive average of £2.3m per person annually"
 url: "https://theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person"
+link: "https://theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

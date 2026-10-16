@@ -2,6 +2,7 @@
 id: "16da57f90f8c1d20"
 title: "The Gemini Agent"
 url: "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026"
+link: "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026"
 source: "Google Cloud Blog"
 domain: "cloud.google.com"
 source_type: "community"

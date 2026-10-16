@@ -2,6 +2,7 @@
 id: "bf16b1ef888d9a16"
 title: "Siemens makes strategic investment in energy infrastructure firm Skeleton Technologies to bolster AI data center offering"
 url: "https://datacenterdynamics.com/en/news/siemens-makes-strategic-investment-in-energy-infrastructure-firm-skeleton-technologies-to-bolster-ai-data-center-offering"
+link: "https://datacenterdynamics.com/en/news/siemens-makes-strategic-investment-in-energy-infrastructure-firm-skeleton-technologies-to-bolster-ai-data-center-offering"
 source: "DatacenterDynamics"
 domain: "datacenterdynamics.com"
 source_type: "mainstream_news"

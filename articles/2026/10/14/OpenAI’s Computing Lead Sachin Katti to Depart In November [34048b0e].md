@@ -2,6 +2,7 @@
 id: "34048b0ef2f88d13"
 title: "OpenAI’s Computing Lead Sachin Katti to Depart In November"
 url: "https://theinformation.com/briefings/openais-computing-lead-sachin-katti-depart-november"
+link: "https://theinformation.com/briefings/openais-computing-lead-sachin-katti-depart-november"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

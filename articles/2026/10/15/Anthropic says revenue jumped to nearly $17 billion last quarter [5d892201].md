@@ -2,6 +2,7 @@
 id: "5d8922010c60d842"
 title: "Anthropic says revenue jumped to nearly $17 billion last quarter"
 url: "https://thehindu.com/sci-tech/technology/anthropic-says-revenue-jumped-to-nearly-17-billion-last-quarter/article71586601.ece"
+link: "https://thehindu.com/sci-tech/technology/anthropic-says-revenue-jumped-to-nearly-17-billion-last-quarter/article71586601.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

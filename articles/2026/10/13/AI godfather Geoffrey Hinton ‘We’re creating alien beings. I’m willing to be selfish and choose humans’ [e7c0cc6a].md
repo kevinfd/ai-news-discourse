@@ -2,6 +2,7 @@
 id: "e7c0cc6a8c7d073c"
 title: "AI godfather Geoffrey Hinton: ‘We’re creating alien beings. I’m willing to be selfish and choose humans’"
 url: "https://theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech"
+link: "https://theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

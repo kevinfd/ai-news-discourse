@@ -2,6 +2,7 @@
 id: "4d7186297d657218"
 title: "Non-coders: which other subs do you follow for everyday AI use?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4v113/noncoders_which_other_subs_do_you_follow_for"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4v113/noncoders_which_other_subs_do_you_follow_for"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

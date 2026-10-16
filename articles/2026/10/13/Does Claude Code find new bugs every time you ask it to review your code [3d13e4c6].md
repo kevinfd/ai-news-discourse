@@ -2,6 +2,7 @@
 id: "3d13e4c637a45cd1"
 title: "Does Claude Code find new bugs every time you ask it to review your code"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4ssct/does_claude_code_find_new_bugs_every_time_you_ask"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4ssct/does_claude_code_find_new_bugs_every_time_you_ask"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

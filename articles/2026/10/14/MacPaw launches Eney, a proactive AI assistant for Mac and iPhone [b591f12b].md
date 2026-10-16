@@ -2,6 +2,7 @@
 id: "b591f12b638523d2"
 title: "MacPaw launches Eney, a proactive AI assistant for Mac and iPhone"
 url: "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone"
+link: "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone"
 source: "9to5Mac"
 domain: "9to5mac.com"
 source_type: "mainstream_news"

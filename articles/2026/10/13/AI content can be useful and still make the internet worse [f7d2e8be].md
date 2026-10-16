@@ -2,6 +2,7 @@
 id: "f7d2e8bed023f964"
 title: "AI content can be useful and still make the internet worse"
 url: "https://reddit.com/r/artificial/comments/1x4r6hr/ai_content_can_be_useful_and_still_make_the"
+link: "https://reddit.com/r/artificial/comments/1x4r6hr/ai_content_can_be_useful_and_still_make_the"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

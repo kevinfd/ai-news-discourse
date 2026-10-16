@@ -2,6 +2,7 @@
 id: "cb0de2c580328e3a"
 title: "Nvidia, AMD, Micron fall as AI stock sell-off deepens"
 url: "https://cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html"
+link: "https://cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

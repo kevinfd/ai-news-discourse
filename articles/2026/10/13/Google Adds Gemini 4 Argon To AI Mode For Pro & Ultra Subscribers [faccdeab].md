@@ -2,6 +2,7 @@
 id: "faccdeabb0dec5c1"
 title: "Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers"
 url: "https://searchenginejournal.com/google-gemini-4-argon-ai-mode/592806"
+link: "https://searchenginejournal.com/google-gemini-4-argon-ai-mode/592806"
 source: "Search Engine Journal"
 domain: "searchenginejournal.com"
 source_type: "mainstream_news"

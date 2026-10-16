@@ -2,6 +2,7 @@
 id: "8e85b8afc49521e5"
 title: "ChatGPT and basically the entire internet has become an intervention every time sadness is expressed"
 url: "https://reddit.com/r/ChatGPT/comments/1x5loiy/chatgpt_and_basically_the_entire_internet_has"
+link: "https://reddit.com/r/ChatGPT/comments/1x5loiy/chatgpt_and_basically_the_entire_internet_has"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

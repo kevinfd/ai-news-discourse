@@ -2,6 +2,7 @@
 id: "44c65736f8dd5ac9"
 title: "The gap in shared understanding of LLM capability is widening"
 url: "https://twitter.com/karpathy/status/2109361546505966046"
+link: "https://twitter.com/karpathy/status/2109361546505966046"
 source: "Twitter"
 domain: "twitter.com"
 source_type: "community"

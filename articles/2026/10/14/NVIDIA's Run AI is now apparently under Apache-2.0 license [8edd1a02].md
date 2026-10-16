@@ -2,6 +2,7 @@
 id: "8edd1a020853220d"
 title: "NVIDIA's Run:AI is now apparently under Apache-2.0 license."
 url: "https://github.com/dsx-ai-factory/run-ai"
+link: "https://github.com/dsx-ai-factory/run-ai"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

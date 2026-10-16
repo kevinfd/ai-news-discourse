@@ -2,6 +2,7 @@
 id: "0d1f8405096c8f99"
 title: "Banks face liability over use of AI chatbots, report finds"
 url: "https://americanbanker.com/news/banks-face-liability-over-use-of-ai-chatbots-report-finds"
+link: "https://americanbanker.com/news/banks-face-liability-over-use-of-ai-chatbots-report-finds"
 source: "American Banker"
 domain: "americanbanker.com"
 source_type: "mainstream_news"

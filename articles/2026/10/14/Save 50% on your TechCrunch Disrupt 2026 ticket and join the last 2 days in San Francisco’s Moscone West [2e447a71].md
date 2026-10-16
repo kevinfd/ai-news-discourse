@@ -2,6 +2,7 @@
 id: "2e447a71d8fc2e9a"
 title: "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West"
 url: "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco"
+link: "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

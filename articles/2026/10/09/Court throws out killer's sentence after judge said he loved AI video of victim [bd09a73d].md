@@ -2,6 +2,7 @@
 id: "bd09a73d35990048"
 title: "Court throws out killer's sentence after judge said he loved AI video of victim"
 url: "https://nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457"
+link: "https://nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457"
 source: "NBC News"
 domain: "nbcnews.com"
 source_type: "community"

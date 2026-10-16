@@ -2,6 +2,7 @@
 id: "2c0e898929da0804"
 title: "Show HN: Parsimony – an open-source benchmark for how much code AI models add"
 url: "https://parsimony.lasu.dev"
+link: "https://parsimony.lasu.dev"
 source: "Parsimony"
 domain: "parsimony.lasu.dev"
 source_type: "community"

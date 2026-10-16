@@ -2,6 +2,7 @@
 id: "915424b6bb077b59"
 title: "OpenAI is reportedly scrambling to make its next flagship safe to release after canceling a weaker model over safety concerns. It has diverted 10% of its compute to safety as its new looping architecture makes AI reasoning harder to monitor. U.S. government testing could delay the launch by up to 30"
 url: "https://reddit.com/r/singularity/comments/1x5ljvv/openai_is_reportedly_scrambling_to_make_its_next"
+link: "https://reddit.com/r/singularity/comments/1x5ljvv/openai_is_reportedly_scrambling_to_make_its_next"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

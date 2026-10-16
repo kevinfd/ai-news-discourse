@@ -2,6 +2,7 @@
 id: "c3ef57ede1682319"
 title: "Switching from ChatGPT/Codex to Claude: how do you migrate your context?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5mz50/switching_from_chatgptcodex_to_claude_how_do_you"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5mz50/switching_from_chatgptcodex_to_claude_how_do_you"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

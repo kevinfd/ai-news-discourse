@@ -2,6 +2,7 @@
 id: "9e1ae6197922b67f"
 title: "As Big Tech Designs Its Own AI Chips, the Companies Behind the Scenes Win"
 url: "https://fool.com/investing/2026/10/14/as-big-tech-designs-its-own-ai-chips-the-companies"
+link: "https://fool.com/investing/2026/10/14/as-big-tech-designs-its-own-ai-chips-the-companies"
 source: "The Motley Fool"
 domain: "fool.com"
 source_type: "mainstream_news"

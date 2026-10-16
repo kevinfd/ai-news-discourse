@@ -2,6 +2,7 @@
 id: "4d1f0a2bea75cfab"
 title: "An AI image of Mia Goth sparks Instagram fan account controversy"
 url: "https://mashable.com/tech/mia-goth-ai-image-instagram-fan-account"
+link: "https://mashable.com/tech/mia-goth-ai-image-instagram-fan-account"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

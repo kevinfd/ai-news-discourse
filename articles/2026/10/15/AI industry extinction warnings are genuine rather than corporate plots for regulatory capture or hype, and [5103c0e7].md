@@ -2,6 +2,7 @@
 id: "5103c0e7ef5555d1"
 title: "AI industry extinction warnings are genuine rather than corporate plots for regulatory capture or hype, and they go as far back as the mid-2000s and the 2010s (Scott Alexander/Astral Codex Ten)"
 url: "https://techmeme.com/261015/p19"
+link: "https://techmeme.com/261015/p19"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "8d50d66712644c7e"
 title: "AI regulation must mimic Industrial Revolution laws, UK minister says"
 url: "https://ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6=1"
+link: "https://ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

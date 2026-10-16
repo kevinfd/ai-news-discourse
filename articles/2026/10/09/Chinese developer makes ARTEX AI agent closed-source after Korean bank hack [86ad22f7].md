@@ -2,6 +2,7 @@
 id: "86ad22f7825825ea"
 title: "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack"
 url: "https://thehindu.com/sci-tech/technology/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack/article71562469.ece"
+link: "https://thehindu.com/sci-tech/technology/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack/article71562469.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

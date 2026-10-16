@@ -2,6 +2,7 @@
 id: "21ddaf23b388b8a6"
 title: "OpenAI revenue gap report rattles AI stocks"
 url: "https://thehindu.com/sci-tech/technology/openai-revenue-gap-report-rattles-ai-stocks/article71562465.ece"
+link: "https://thehindu.com/sci-tech/technology/openai-revenue-gap-report-rattles-ai-stocks/article71562465.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

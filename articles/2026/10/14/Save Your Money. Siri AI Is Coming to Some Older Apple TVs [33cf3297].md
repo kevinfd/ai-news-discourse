@@ -2,6 +2,7 @@
 id: "33cf329763e4be68"
 title: "Save Your Money. Siri AI Is Coming to Some Older Apple TVs"
 url: "https://cnet.com/home/smart-home/siri-ai-coming-to-older-apple-devices"
+link: "https://cnet.com/home/smart-home/siri-ai-coming-to-older-apple-devices"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

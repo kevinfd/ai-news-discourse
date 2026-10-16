@@ -2,6 +2,7 @@
 id: "d0921f904fc819a7"
 title: "ISS details AI-assisted breach of North African government database exposing 300,000 identity records"
 url: "https://cryptobriefing.com/ai-breach-north-african-government-database"
+link: "https://cryptobriefing.com/ai-breach-north-african-government-database"
 source: "Crypto Briefing"
 domain: "cryptobriefing.com"
 source_type: "mainstream_news"

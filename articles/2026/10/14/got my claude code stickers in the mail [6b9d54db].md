@@ -2,6 +2,7 @@
 id: "6b9d54dba395d3ad"
 title: "got my claude code stickers in the mail"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5l1a3/got_my_claude_code_stickers_in_the_mail"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5l1a3/got_my_claude_code_stickers_in_the_mail"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

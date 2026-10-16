@@ -2,6 +2,7 @@
 id: "04efe038c657e914"
 title: "AI overlords say they want to democratise their technology. Here’s how | Richard Wilson and Clara Long"
 url: "https://theguardian.com/commentisfree/2026/oct/14/ai-overlords-democratise-technology"
+link: "https://theguardian.com/commentisfree/2026/oct/14/ai-overlords-democratise-technology"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

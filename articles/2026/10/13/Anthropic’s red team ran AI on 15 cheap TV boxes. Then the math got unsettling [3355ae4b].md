@@ -2,6 +2,7 @@
 id: "3355ae4bc70b10bd"
 title: "Anthropic’s red team ran AI on 15 cheap TV boxes. Then the math got unsettling."
 url: "https://thenewstack.io/self-replicating-ai-worms"
+link: "https://thenewstack.io/self-replicating-ai-worms"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

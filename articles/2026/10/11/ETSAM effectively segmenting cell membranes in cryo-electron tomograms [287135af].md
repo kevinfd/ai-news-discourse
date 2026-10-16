@@ -2,6 +2,7 @@
 id: "287135af602e1587"
 title: "ETSAM: effectively segmenting cell membranes in cryo-electron tomograms"
 url: "https://nature.com/articles/s41467-026-77962-7"
+link: "https://nature.com/articles/s41467-026-77962-7"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

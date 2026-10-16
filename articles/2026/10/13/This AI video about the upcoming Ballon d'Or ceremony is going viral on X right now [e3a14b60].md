@@ -2,6 +2,7 @@
 id: "e3a14b607ff14c47"
 title: "This AI video about the upcoming Ballon d'Or ceremony is going viral on X right now."
 url: "https://reddit.com/r/singularity/comments/1x4v401/this_ai_video_about_the_upcoming_ballon_dor"
+link: "https://reddit.com/r/singularity/comments/1x4v401/this_ai_video_about_the_upcoming_ballon_dor"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

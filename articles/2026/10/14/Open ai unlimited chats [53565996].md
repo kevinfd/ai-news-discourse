@@ -2,6 +2,7 @@
 id: "5356599617564a78"
 title: "Open ai unlimited chats"
 url: "https://reddit.com/r/ChatGPT/comments/1x5jam1/open_ai_unlimited_chats"
+link: "https://reddit.com/r/ChatGPT/comments/1x5jam1/open_ai_unlimited_chats"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

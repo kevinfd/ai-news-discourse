@@ -2,6 +2,7 @@
 id: "64e05dc11397a759"
 title: "Watch an Unconstitutional Flock Search"
 url: "https://404media.co/watch-an-unconstitutional-flock-search"
+link: "https://404media.co/watch-an-unconstitutional-flock-search"
 source: "404 Media"
 domain: "404media.co"
 source_type: "tech_press"

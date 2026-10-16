@@ -2,6 +2,7 @@
 id: "2b78f55e5bcb6506"
 title: "Does Stacking Beat Your Best Model?"
 url: "https://towardsdatascience.com/does-stacking-beat-your-best-model"
+link: "https://towardsdatascience.com/does-stacking-beat-your-best-model"
 source: "Towards Data Science"
 domain: "towardsdatascience.com"
 source_type: "newsletter"

@@ -2,6 +2,7 @@
 id: "0f232d59a4cfa71d"
 title: "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash"
 url: "https://blog.cloudflare.com/clef-faster-cheaper-multimodal"
+link: "https://blog.cloudflare.com/clef-faster-cheaper-multimodal"
 source: "Cloudflare Blog"
 domain: "blog.cloudflare.com"
 source_type: "company_blog"

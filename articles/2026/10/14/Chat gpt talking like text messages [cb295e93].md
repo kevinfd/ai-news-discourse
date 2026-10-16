@@ -2,6 +2,7 @@
 id: "cb295e93c0623f4c"
 title: "Chat gpt talking like text messages?"
 url: "https://reddit.com/r/ChatGPT/comments/1x5ivu0/chat_gpt_talking_like_text_messages"
+link: "https://reddit.com/r/ChatGPT/comments/1x5ivu0/chat_gpt_talking_like_text_messages"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

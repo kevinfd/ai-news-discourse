@@ -2,6 +2,7 @@
 id: "68deb19c4e8f13a3"
 title: "Got desk rejected at TMLR with no idea why [D]"
 url: "https://reddit.com/r/MachineLearning/comments/1x4h5bx/got_desk_rejected_at_tmlr_with_no_idea_why_d"
+link: "https://reddit.com/r/MachineLearning/comments/1x4h5bx/got_desk_rejected_at_tmlr_with_no_idea_why_d"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

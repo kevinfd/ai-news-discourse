@@ -2,6 +2,7 @@
 id: "dc5d87b633a1cd62"
 title: "Mark Zuckerberg attempting to drink Guinness goes predictably viral"
 url: "https://mashable.com/life/mark-zuckerberg-guinness"
+link: "https://mashable.com/life/mark-zuckerberg-guinness"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

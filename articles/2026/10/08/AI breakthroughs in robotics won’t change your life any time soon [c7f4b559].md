@@ -2,6 +2,7 @@
 id: "c7f4b559a8fbb05c"
 title: "AI breakthroughs in robotics won’t change your life any time soon"
 url: "https://technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon"
+link: "https://technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon"
 source: "MIT Technology Review"
 domain: "technologyreview.com"
 source_type: "tech_press"

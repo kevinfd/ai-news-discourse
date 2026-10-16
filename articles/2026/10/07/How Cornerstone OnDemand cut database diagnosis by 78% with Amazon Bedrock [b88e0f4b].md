@@ -2,6 +2,7 @@
 id: "b88e0f4b41500fd5"
 title: "How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock"
 url: "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock"
+link: "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

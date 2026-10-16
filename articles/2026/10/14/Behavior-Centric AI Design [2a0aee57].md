@@ -2,6 +2,7 @@
 id: "2a0aee574d899f86"
 title: "Behavior-Centric AI Design"
 url: "https://swamp-club.com/behavior"
+link: "https://swamp-club.com/behavior"
 source: "Swamp Club"
 domain: "swamp-club.com"
 source_type: "community"

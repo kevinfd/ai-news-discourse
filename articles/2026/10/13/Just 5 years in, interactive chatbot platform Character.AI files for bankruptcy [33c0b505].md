@@ -2,6 +2,7 @@
 id: "33c0b505464624f8"
 title: "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy"
 url: "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy"
+link: "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

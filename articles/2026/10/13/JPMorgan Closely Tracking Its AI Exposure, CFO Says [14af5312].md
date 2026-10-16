@@ -2,6 +2,7 @@
 id: "14af5312dfcb188b"
 title: "JPMorgan Closely Tracking Its AI Exposure, CFO Says"
 url: "https://theinformation.com/briefings/jpmorgan-closely-tracking-ai-exposure-cfo-says"
+link: "https://theinformation.com/briefings/jpmorgan-closely-tracking-ai-exposure-cfo-says"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

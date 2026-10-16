@@ -2,6 +2,7 @@
 id: "c23d03e789ab7917"
 title: "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him"
 url: "https://wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him"
+link: "https://wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

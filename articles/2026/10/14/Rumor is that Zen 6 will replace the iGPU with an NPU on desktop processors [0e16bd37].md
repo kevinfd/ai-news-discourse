@@ -2,6 +2,7 @@
 id: "0e16bd376259823d"
 title: "Rumor is that Zen 6 will replace the iGPU with an NPU on desktop processors"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5qd8l/rumor_is_that_zen_6_will_replace_the_igpu_with_an"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5qd8l/rumor_is_that_zen_6_will_replace_the_igpu_with_an"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

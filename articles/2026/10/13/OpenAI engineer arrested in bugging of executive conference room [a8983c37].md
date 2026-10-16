@@ -2,6 +2,7 @@
 id: "a8983c3740ba20e7"
 title: "OpenAI engineer arrested in bugging of executive conference room"
 url: "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room"
+link: "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room"
 source: "The San Francisco Standard"
 domain: "sfstandard.com"
 source_type: "community"

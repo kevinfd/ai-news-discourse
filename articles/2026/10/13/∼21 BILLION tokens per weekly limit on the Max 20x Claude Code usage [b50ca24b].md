@@ -2,6 +2,7 @@
 id: "b50ca24b4c285dd3"
 title: "∼21 BILLION tokens per weekly limit on the Max 20x Claude Code usage"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4inan/21_billion_tokens_per_weekly_limit_on_the_max_20x"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4inan/21_billion_tokens_per_weekly_limit_on_the_max_20x"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

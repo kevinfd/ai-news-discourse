@@ -2,6 +2,7 @@
 id: "dd106deebac2ad6f"
 title: "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock"
 url: "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock"
+link: "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

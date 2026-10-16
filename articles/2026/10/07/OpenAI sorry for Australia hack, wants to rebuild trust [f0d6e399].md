@@ -2,6 +2,7 @@
 id: "f0d6e399404324eb"
 title: "OpenAI sorry for Australia hack, wants to rebuild trust"
 url: "https://thehindu.com/sci-tech/technology/openai-sorry-for-australia-hack-wants-to-rebuild-trust/article71554173.ece"
+link: "https://thehindu.com/sci-tech/technology/openai-sorry-for-australia-hack-wants-to-rebuild-trust/article71554173.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

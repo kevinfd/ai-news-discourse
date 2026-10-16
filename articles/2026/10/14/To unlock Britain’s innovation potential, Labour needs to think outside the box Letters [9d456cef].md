@@ -2,6 +2,7 @@
 id: "9d456ceffae7a8c7"
 title: "To unlock Britain’s innovation potential, Labour needs to think outside the box | Letters"
 url: "https://theguardian.com/education/2026/oct/14/to-unlock-britains-innovation-potential-labour-needs-to-think-outside-the-box"
+link: "https://theguardian.com/education/2026/oct/14/to-unlock-britains-innovation-potential-labour-needs-to-think-outside-the-box"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

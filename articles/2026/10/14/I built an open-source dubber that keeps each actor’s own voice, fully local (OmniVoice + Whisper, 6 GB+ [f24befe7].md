@@ -2,6 +2,7 @@
 id: "f24befe7f922a3cb"
 title: "I built an open-source dubber that keeps each actor’s own voice, fully local (OmniVoice + Whisper, 6 GB+ NVIDIA)"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x61o5a/i_built_an_opensource_dubber_that_keeps_each"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x61o5a/i_built_an_opensource_dubber_that_keeps_each"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

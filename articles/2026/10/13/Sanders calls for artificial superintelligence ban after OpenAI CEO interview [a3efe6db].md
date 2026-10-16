@@ -2,6 +2,7 @@
 id: "a3efe6dbda77bd1b"
 title: "Sanders calls for artificial superintelligence ban after OpenAI CEO interview"
 url: "https://thehill.com/homenews/senate/6144432-sanders-calls-ai-ban"
+link: "https://thehill.com/homenews/senate/6144432-sanders-calls-ai-ban"
 source: "Thehill"
 domain: "thehill.com"
 source_type: "community"

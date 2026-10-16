@@ -2,6 +2,7 @@
 id: "9af2d4a6d3d7f129"
 title: "'AI' Is Not a Tool by Rich Hickey"
 url: "https://linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
+link: "https://linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
 source: "Linkedin"
 domain: "linkedin.com"
 source_type: "community"

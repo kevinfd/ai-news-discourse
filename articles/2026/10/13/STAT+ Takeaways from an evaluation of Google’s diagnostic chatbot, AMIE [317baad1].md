@@ -2,6 +2,7 @@
 id: "317baad12295fada"
 title: "STAT+: Takeaways from an evaluation of Google’s diagnostic chatbot, AMIE"
 url: "https://statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech"
+link: "https://statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech"
 source: "STAT News"
 domain: "statnews.com"
 source_type: "mainstream_news"

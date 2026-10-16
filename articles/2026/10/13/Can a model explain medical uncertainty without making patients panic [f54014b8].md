@@ -2,6 +2,7 @@
 id: "f54014b8828a4231"
 title: "Can a model explain medical uncertainty without making patients panic?"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4kms9/can_a_model_explain_medical_uncertainty_without"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4kms9/can_a_model_explain_medical_uncertainty_without"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "a7fbaa502fd8ab2e"
 title: "OpenAI studies internal signals behind AI 'metagaming' during training"
 url: "https://misalignmentwatch.com/article/openai-studies-internal-signals-behind-ai-metagaming-during-training.html"
+link: "https://misalignmentwatch.com/article/openai-studies-internal-signals-behind-ai-metagaming-during-training.html"
 source: "AI Misalignment Watch"
 domain: "misalignmentwatch.com"
 source_type: "community"

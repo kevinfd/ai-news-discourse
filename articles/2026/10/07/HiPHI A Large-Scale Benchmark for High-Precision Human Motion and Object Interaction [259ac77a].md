@@ -2,6 +2,7 @@
 id: "259ac77af9d3d56b"
 title: "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction"
 url: "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction"
+link: "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction"
 source: "IEEE Spectrum"
 domain: "content.knowledgehub.wiley.com"
 source_type: "tech_press"

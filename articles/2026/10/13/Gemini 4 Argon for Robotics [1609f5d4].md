@@ -2,6 +2,7 @@
 id: "1609f5d4ca7309cc"
 title: "Gemini 4 Argon for Robotics"
 url: "https://developers.googleblog.com/gemini-4-argon-for-robotics"
+link: "https://developers.googleblog.com/gemini-4-argon-for-robotics"
 source: "developers.googleblog.com"
 domain: "developers.googleblog.com"
 source_type: "community"

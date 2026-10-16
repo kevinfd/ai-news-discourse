@@ -2,6 +2,7 @@
 id: "16162a7735673854"
 title: "Meta’s Muse AI agent is a clever little bastard"
 url: "https://fastcompany.com/91622556/metas-muse-ai-agent-clever-little-bastard?partner=rss"
+link: "https://fastcompany.com/91622556/metas-muse-ai-agent-clever-little-bastard?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

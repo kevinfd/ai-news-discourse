@@ -2,6 +2,7 @@
 id: "eb72dd5c230337ed"
 title: "Don't just build output, build tooling"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4s8zh/dont_just_build_output_build_tooling"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4s8zh/dont_just_build_output_build_tooling"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

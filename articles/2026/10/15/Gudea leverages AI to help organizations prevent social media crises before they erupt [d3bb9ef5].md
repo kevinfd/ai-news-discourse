@@ -2,6 +2,7 @@
 id: "d3bb9ef55af64792"
 title: "Gudea leverages AI to help organizations prevent social media crises before they erupt"
 url: "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt"
+link: "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

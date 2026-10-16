@@ -2,6 +2,7 @@
 id: "151557cd93d7df8e"
 title: "SmartNews Said to Plan December Tokyo IPO as Valuation Craters"
 url: "https://bloomberg.com/news/articles/2026-10-15/smartnews-said-to-plan-december-tokyo-ipo-as-valuation-craters"
+link: "https://bloomberg.com/news/articles/2026-10-15/smartnews-said-to-plan-december-tokyo-ipo-as-valuation-craters"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "f31ed8b011d8e8ed"
 title: "Learn and get better at kernel work for LLM?"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x4xfus/learn_and_get_better_at_kernel_work_for_llm"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x4xfus/learn_and_get_better_at_kernel_work_for_llm"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

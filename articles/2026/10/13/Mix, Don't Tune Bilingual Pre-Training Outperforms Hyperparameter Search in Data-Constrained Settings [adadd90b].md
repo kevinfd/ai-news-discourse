@@ -2,6 +2,7 @@
 id: "adadd90b83d78209"
 title: "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings"
 url: "https://machinelearning.apple.com/research/mix-dont-tune"
+link: "https://machinelearning.apple.com/research/mix-dont-tune"
 source: "Apple Machine Learning Research"
 domain: "machinelearning.apple.com"
 source_type: "research"

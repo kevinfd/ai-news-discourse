@@ -2,6 +2,7 @@
 id: "7c3d28e2c6da034f"
 title: "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million"
 url: "https://nbcnews.com/tech/tech-news/characterai-files-bankruptcy-sell-assets-disney-20-million-rcna603174"
+link: "https://nbcnews.com/tech/tech-news/characterai-files-bankruptcy-sell-assets-disney-20-million-rcna603174"
 source: "NBC News"
 domain: "nbcnews.com"
 source_type: "community"

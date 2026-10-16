@@ -2,6 +2,7 @@
 id: "46a008a1b3c97f93"
 title: "Responsible AI for Children: IEEE Delivers a Trusted Safety Formula to Help Protect Kids Online"
 url: "https://afp.com/en/agency/inside-afp/external-press-releases/responsible-ai-children-ieee-delivers-trusted-safety"
+link: "https://afp.com/en/agency/inside-afp/external-press-releases/responsible-ai-children-ieee-delivers-trusted-safety"
 source: "Agence France-Presse"
 domain: "afp.com"
 source_type: "mainstream_news"

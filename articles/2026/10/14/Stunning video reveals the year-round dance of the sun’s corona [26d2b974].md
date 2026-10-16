@@ -2,6 +2,7 @@
 id: "26d2b974ae054195"
 title: "Stunning video reveals the year-round dance of the sun’s corona"
 url: "https://scientificamerican.com/article/stunning-video-reveals-the-year-round-dance-of-the-suns-corona"
+link: "https://scientificamerican.com/article/stunning-video-reveals-the-year-round-dance-of-the-suns-corona"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

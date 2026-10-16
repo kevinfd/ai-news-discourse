@@ -2,6 +2,7 @@
 id: "0a50c42c3b5d3b89"
 title: "The new Apple HomeView smart display is already $10 off at Amazon"
 url: "https://mashable.com/tech/oct-15-apple-homeview-record-low-deal"
+link: "https://mashable.com/tech/oct-15-apple-homeview-record-low-deal"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

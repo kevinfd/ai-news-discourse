@@ -2,6 +2,7 @@
 id: "0b5142d2fd55cab5"
 title: "AI: Off the Charts"
 url: "https://ai-supremacy.com/p/ai-off-the-charts-personal-assistants-top-ai-apps-open-source-models"
+link: "https://ai-supremacy.com/p/ai-off-the-charts-personal-assistants-top-ai-apps-open-source-models"
 source: "AI Supremacy"
 domain: "ai-supremacy.com"
 source_type: "newsletter"

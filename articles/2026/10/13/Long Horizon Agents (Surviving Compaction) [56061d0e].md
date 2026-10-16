@@ -2,6 +2,7 @@
 id: "56061d0ea30ca58d"
 title: "Long Horizon Agents (Surviving Compaction)"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x4wf9k/long_horizon_agents_surviving_compaction"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x4wf9k/long_horizon_agents_surviving_compaction"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

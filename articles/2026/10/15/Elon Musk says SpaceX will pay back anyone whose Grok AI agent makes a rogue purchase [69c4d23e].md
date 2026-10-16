@@ -2,6 +2,7 @@
 id: "69c4d23e0a79d799"
 title: "Elon Musk says SpaceX will pay back anyone whose Grok AI agent makes a rogue purchase"
 url: "https://businessinsider.com/elon-musk-spacex-will-pay-users-back-grok-purchase-mistakes-2026-10"
+link: "https://businessinsider.com/elon-musk-spacex-will-pay-users-back-grok-purchase-mistakes-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

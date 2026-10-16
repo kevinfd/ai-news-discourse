@@ -2,6 +2,7 @@
 id: "d0d43f0d79dcba29"
 title: "The Age of Reason Is Safely Behind Us"
 url: "https://blog.keyvan.net/p/the-age-of-reason-is-safely-behind"
+link: "https://blog.keyvan.net/p/the-age-of-reason-is-safely-behind"
 source: "Keyvan's blog"
 domain: "blog.keyvan.net"
 source_type: "community"

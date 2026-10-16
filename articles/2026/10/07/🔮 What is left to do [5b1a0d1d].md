@@ -2,6 +2,7 @@
 id: "5b1a0d1d6120ae97"
 title: "🔮 What is left to do"
 url: "https://exponentialview.co/p/what-is-left-to-do"
+link: "https://exponentialview.co/p/what-is-left-to-do"
 source: "Exponential View"
 domain: "exponentialview.co"
 source_type: "newsletter"

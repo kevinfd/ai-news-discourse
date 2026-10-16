@@ -2,6 +2,7 @@
 id: "767a60b7b44a791c"
 title: "Companies are building with AI — and exposing new security risks"
 url: "https://axios.com/2026/10/13/censys-ai-vibe-coding-exposures"
+link: "https://axios.com/2026/10/13/censys-ai-vibe-coding-exposures"
 source: "Axios"
 domain: "axios.com"
 source_type: "mainstream_news"

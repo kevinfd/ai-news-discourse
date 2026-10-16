@@ -2,6 +2,7 @@
 id: "808e4891f6cc9c6d"
 title: "Best Books/Courses/Channels to Leapfrog on AI/ML Material"
 url: "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on"
+link: "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on"
 source: "Lobsters"
 domain: "lobste.rs"
 source_type: "community"

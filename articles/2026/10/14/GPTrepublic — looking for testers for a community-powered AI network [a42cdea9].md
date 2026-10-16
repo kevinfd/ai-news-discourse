@@ -2,6 +2,7 @@
 id: "a42cdea908965309"
 title: "GPTrepublic — looking for testers for a community-powered AI network"
 url: "https://reddit.com/r/artificial/comments/1x5qdsh/gptrepublic_looking_for_testers_for_a"
+link: "https://reddit.com/r/artificial/comments/1x5qdsh/gptrepublic_looking_for_testers_for_a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "58df322f46a9de9b"
 title: "Show HN: NanoMuse – An open-source AI agent for your phone and computer"
 url: "https://github.com/nano-muse/nanoMuse"
+link: "https://github.com/nano-muse/nanoMuse"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "fdda605d06e15e52"
 title: "SpaceX Unifies X Premium, Grok, and Cursor Under a Single 'X Subscription'"
 url: "https://pcmag.com/news/spacex-unifies-x-premium-grok-and-cursor-under-a-single-x-subscription"
+link: "https://pcmag.com/news/spacex-unifies-x-premium-grok-and-cursor-under-a-single-x-subscription"
 source: "PCMag"
 domain: "pcmag.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "7969d459a3ed1004"
 title: "ChatGPT Image 2.5"
 url: "https://reddit.com/r/ChatGPT/comments/1x5t69d/chatgpt_image_25"
+link: "https://reddit.com/r/ChatGPT/comments/1x5t69d/chatgpt_image_25"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

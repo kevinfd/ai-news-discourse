@@ -2,6 +2,7 @@
 id: "b281029c0a004f59"
 title: "Freaking out about AI taking your job? Try being an MIT math student."
 url: "https://bostonglobe.com/2026/10/15/metro/mit-ai-math-students-openai"
+link: "https://bostonglobe.com/2026/10/15/metro/mit-ai-math-students-openai"
 source: "The Boston Globe"
 domain: "bostonglobe.com"
 source_type: "mainstream_news"

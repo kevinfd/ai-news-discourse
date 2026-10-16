@@ -2,6 +2,7 @@
 id: "459b40b9fb9a6bb3"
 title: "pi-multi-agent-skill: minimalist subagents approach for pi with no extension and no tool, just a skill and a small CLI to save your context window, with support for steer and persistent running."
 url: "https://reddit.com/r/LocalLLaMA/comments/1x6140h/pimultiagentskill_minimalist_subagents_approach"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x6140h/pimultiagentskill_minimalist_subagents_approach"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

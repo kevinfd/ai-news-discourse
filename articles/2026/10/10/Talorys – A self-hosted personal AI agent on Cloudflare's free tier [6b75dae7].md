@@ -2,6 +2,7 @@
 id: "6b75dae75d979d91"
 title: "Talorys – A self-hosted personal AI agent on Cloudflare's free tier"
 url: "https://github.com/rociiu/talorys"
+link: "https://github.com/rociiu/talorys"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

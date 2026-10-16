@@ -2,6 +2,7 @@
 id: "cc7bc4d75560f0cd"
 title: "When Dario declares AGI before Sam"
 url: "https://reddit.com/r/ChatGPT/comments/1x5yqvz/when_dario_declares_agi_before_sam"
+link: "https://reddit.com/r/ChatGPT/comments/1x5yqvz/when_dario_declares_agi_before_sam"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

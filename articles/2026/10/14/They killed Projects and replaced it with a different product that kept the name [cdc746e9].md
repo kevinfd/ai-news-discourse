@@ -2,6 +2,7 @@
 id: "cdc746e9e8c3d67e"
 title: "They killed Projects and replaced it with a different product that kept the name"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5vvlc/they_killed_projects_and_replaced_it_with_a"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5vvlc/they_killed_projects_and_replaced_it_with_a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

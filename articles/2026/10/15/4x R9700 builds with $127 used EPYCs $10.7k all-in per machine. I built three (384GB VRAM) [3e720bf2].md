@@ -2,6 +2,7 @@
 id: "3e720bf25f5174f5"
 title: "4x R9700 builds with $127 used EPYCs: $10.7k all-in per machine. I built three (384GB VRAM)"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x67qeu/4x_r9700_builds_with_127_used_epycs_107k_allin"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x67qeu/4x_r9700_builds_with_127_used_epycs_107k_allin"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "32df1ceff4eecf58"
 title: "Tencent Sells Nearly $5.7 Billion of Bonds to Fund AI Efforts"
 url: "https://bloomberg.com/news/articles/2026-10-13/tencent-kicks-off-5-billion-bond-sale-to-finance-ai-spending"
+link: "https://bloomberg.com/news/articles/2026-10-13/tencent-kicks-off-5-billion-bond-sale-to-finance-ai-spending"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

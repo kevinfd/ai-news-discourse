@@ -2,6 +2,7 @@
 id: "6630f5d269d9f066"
 title: "Mumsnet denies using AI for content after prompt appears on message board"
 url: "https://theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt"
+link: "https://theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "community"

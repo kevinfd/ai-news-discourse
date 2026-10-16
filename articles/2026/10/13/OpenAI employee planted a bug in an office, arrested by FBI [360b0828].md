@@ -2,6 +2,7 @@
 id: "360b0828e411bc55"
 title: "OpenAI employee planted a bug in an office, arrested by FBI"
 url: "https://reddit.com/r/singularity/comments/1x56x7s/openai_employee_planted_a_bug_in_an_office"
+link: "https://reddit.com/r/singularity/comments/1x56x7s/openai_employee_planted_a_bug_in_an_office"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

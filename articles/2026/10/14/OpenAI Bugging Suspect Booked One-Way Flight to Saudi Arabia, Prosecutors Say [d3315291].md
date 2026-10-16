@@ -2,6 +2,7 @@
 id: "d3315291d3ed5708"
 title: "OpenAI Bugging Suspect Booked One-Way Flight to Saudi Arabia, Prosecutors Say"
 url: "https://gizmodo.com/openai-bugging-suspect-booked-one-way-flight-to-saudi-arabia-prosecutors-say-2000826061"
+link: "https://gizmodo.com/openai-bugging-suspect-booked-one-way-flight-to-saudi-arabia-prosecutors-say-2000826061"
 source: "Gizmodo"
 domain: "gizmodo.com"
 source_type: "mainstream_news"

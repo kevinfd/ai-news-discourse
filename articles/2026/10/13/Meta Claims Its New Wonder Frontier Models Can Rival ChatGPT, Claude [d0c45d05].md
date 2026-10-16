@@ -2,6 +2,7 @@
 id: "d0c45d05aaceb295"
 title: "Meta Claims Its New Wonder Frontier Models Can Rival ChatGPT, Claude"
 url: "https://pcmag.com/news/meta-claims-its-new-wonder-frontier-models-can-rival-chatgpt-claude"
+link: "https://pcmag.com/news/meta-claims-its-new-wonder-frontier-models-can-rival-chatgpt-claude"
 source: "PCMag"
 domain: "pcmag.com"
 source_type: "tech_press"

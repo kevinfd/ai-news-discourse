@@ -2,6 +2,7 @@
 id: "2bfb54d8c7fd0cda"
 title: "Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism'"
 url: "https://abc.net.au/news/2026-10-14/pope-leo-xiv-ai-adviser-paolo-benanti-australia-copyright/107263800"
+link: "https://abc.net.au/news/2026-10-14/pope-leo-xiv-ai-adviser-paolo-benanti-australia-copyright/107263800"
 source: "ABC News Australia"
 domain: "abc.net.au"
 source_type: "mainstream_news"

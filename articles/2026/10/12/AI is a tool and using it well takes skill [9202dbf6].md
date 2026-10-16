@@ -2,6 +2,7 @@
 id: "9202dbf6eedd440b"
 title: "AI is a tool and using it well takes skill"
 url: "https://yyhh.org/blog/2026/10/ai-is-a-tool"
+link: "https://yyhh.org/blog/2026/10/ai-is-a-tool"
 source: "yyhh.org"
 domain: "yyhh.org"
 source_type: "community"

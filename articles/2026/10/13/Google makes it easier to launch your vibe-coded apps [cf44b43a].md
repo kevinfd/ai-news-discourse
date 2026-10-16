@@ -2,6 +2,7 @@
 id: "cf44b43a1d49bdee"
 title: "Google makes it easier to launch your vibe-coded apps"
 url: "https://theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch"
+link: "https://theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

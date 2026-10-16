@@ -2,6 +2,7 @@
 id: "821afa65ec965089"
 title: "500B tokens later: Letting AI agents decompile a first-person shooter"
 url: "https://momo5502.com/posts/2026-10-09-game-decompilation"
+link: "https://momo5502.com/posts/2026-10-09-game-decompilation"
 source: "Maurice's Blog"
 domain: "momo5502.com"
 source_type: "community"

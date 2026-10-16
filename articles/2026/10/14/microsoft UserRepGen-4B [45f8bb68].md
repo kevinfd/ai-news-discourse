@@ -2,6 +2,7 @@
 id: "45f8bb682d722314"
 title: "microsoft/UserRepGen-4B"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x664yt/microsoftuserrepgen4b"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x664yt/microsoftuserrepgen4b"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

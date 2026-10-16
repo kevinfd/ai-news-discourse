@@ -2,6 +2,7 @@
 id: "d5ae7179978ef50b"
 title: "DLSS 5 gets toned down for its Hogwarts Legacy debut next month"
 url: "https://theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements"
+link: "https://theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

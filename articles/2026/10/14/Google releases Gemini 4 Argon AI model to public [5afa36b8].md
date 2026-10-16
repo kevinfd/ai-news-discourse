@@ -2,6 +2,7 @@
 id: "5afa36b82bfe22c4"
 title: "Google releases Gemini 4 Argon AI model to public"
 url: "https://americanbazaaronline.com/2026/10/14/google-releases-gemini-4-argon-ai-model-490048"
+link: "https://americanbazaaronline.com/2026/10/14/google-releases-gemini-4-argon-ai-model-490048"
 source: "The American Bazaar"
 domain: "americanbazaaronline.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "7627b2cb9899de86"
 title: "I built a cheap dual 3090 rig from used parts, but why isn't it much faster?"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5mohk/i_built_a_cheap_dual_3090_rig_from_used_parts_but"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5mohk/i_built_a_cheap_dual_3090_rig_from_used_parts_but"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "329c554a912c4aff"
 title: "Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents"
 url: "https://marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b"
+link: "https://marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

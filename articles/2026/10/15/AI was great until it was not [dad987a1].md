@@ -2,6 +2,7 @@
 id: "dad987a1f1a7751c"
 title: "AI was great until it was not"
 url: "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not"
+link: "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not"
 source: "Substack"
 domain: "thetheorygirlie.substack.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "164931110e7fd687"
 title: "Machine Learning Tutorial/Workshop [D]"
 url: "https://reddit.com/r/MachineLearning/comments/1x4qcxw/machine_learning_tutorialworkshop_d"
+link: "https://reddit.com/r/MachineLearning/comments/1x4qcxw/machine_learning_tutorialworkshop_d"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

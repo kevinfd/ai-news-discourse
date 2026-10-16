@@ -2,6 +2,7 @@
 id: "6d322b3f89f7fe74"
 title: "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism"
 url: "https://theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism"
+link: "https://theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

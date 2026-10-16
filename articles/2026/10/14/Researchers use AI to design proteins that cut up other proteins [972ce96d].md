@@ -2,6 +2,7 @@
 id: "972ce96df38a5766"
 title: "Researchers use AI to design proteins that cut up other proteins"
 url: "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins"
+link: "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

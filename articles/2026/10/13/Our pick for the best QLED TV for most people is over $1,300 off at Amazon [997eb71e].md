@@ -2,6 +2,7 @@
 id: "997eb71ed52644aa"
 title: "Our pick for the \"best QLED TV for most people\" is over $1,300 off at Amazon"
 url: "https://mashable.com/tech/oct-13-tcl-qm8l-series-tv-deal"
+link: "https://mashable.com/tech/oct-13-tcl-qm8l-series-tv-deal"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

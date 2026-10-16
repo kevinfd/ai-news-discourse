@@ -2,6 +2,7 @@
 id: "c64ea6b8eb3a4571"
 title: "Mainland Chinese traders boost Hong Kong stock buying for fourth month as AI bets surge"
 url: "https://scmp.com/business/china-business/article/3370564/mainland-chinese-traders-boost-hong-kong-stock-buying-4th-month-ai-bets-surge"
+link: "https://scmp.com/business/china-business/article/3370564/mainland-chinese-traders-boost-hong-kong-stock-buying-4th-month-ai-bets-surge"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

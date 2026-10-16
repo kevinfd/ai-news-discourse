@@ -2,6 +2,7 @@
 id: "67e9f9ccce89abc0"
 title: "An Open Letter on AI and Cybersecurity from the Scientific Community"
 url: "https://ai-security-letter.org"
+link: "https://ai-security-letter.org"
 source: "ai-security-letter.org"
 domain: "ai-security-letter.org"
 source_type: "community"

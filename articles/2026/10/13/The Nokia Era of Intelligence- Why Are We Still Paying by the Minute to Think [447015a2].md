@@ -2,6 +2,7 @@
 id: "447015a2d9b37ff1"
 title: "The Nokia Era of Intelligence- Why Are We Still Paying by the Minute to Think"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4rsjz/the_nokia_era_of_intelligence_why_are_we_still"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4rsjz/the_nokia_era_of_intelligence_why_are_we_still"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

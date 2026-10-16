@@ -2,6 +2,7 @@
 id: "770df069ccb53165"
 title: "Self-Compacting Language Model Agents"
 url: "https://machinelearning.apple.com/research/self-compacting-language-agents"
+link: "https://machinelearning.apple.com/research/self-compacting-language-agents"
 source: "Apple Machine Learning Research"
 domain: "machinelearning.apple.com"
 source_type: "research"

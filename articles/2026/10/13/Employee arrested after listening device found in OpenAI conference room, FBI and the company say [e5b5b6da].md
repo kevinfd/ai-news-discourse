@@ -2,6 +2,7 @@
 id: "e5b5b6da041a17c8"
 title: "Employee arrested after listening device found in OpenAI conference room, FBI and the company say"
 url: "https://abcnews.com/Technology/wireStory/employee-arrested-after-listening-device-found-openai-conference-137239998"
+link: "https://abcnews.com/Technology/wireStory/employee-arrested-after-listening-device-found-openai-conference-137239998"
 source: "ABC News"
 domain: "abcnews.com"
 source_type: "mainstream_news"

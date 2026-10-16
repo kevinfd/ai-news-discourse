@@ -2,6 +2,7 @@
 id: "2c1582075070ed56"
 title: "Iowa, Nebraska and six other states are suing OpenAI for endangering children"
 url: "https://engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children"
+link: "https://engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

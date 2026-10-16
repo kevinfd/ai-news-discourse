@@ -2,6 +2,7 @@
 id: "c72f868b1ebfb411"
 title: "Has ChatGPT changed from like six months ago?"
 url: "https://reddit.com/r/ChatGPT/comments/1x68ghu/has_chatgpt_changed_from_like_six_months_ago"
+link: "https://reddit.com/r/ChatGPT/comments/1x68ghu/has_chatgpt_changed_from_like_six_months_ago"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

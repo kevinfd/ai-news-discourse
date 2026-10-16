@@ -2,6 +2,7 @@
 id: "9c5bc243ea8b3106"
 title: "GPT-3.5 answered, GPT-4 voided. I built an EOS gate for AGI"
 url: "https://getswiftapi.com"
+link: "https://getswiftapi.com"
 source: "SwiftAPI Labs"
 domain: "getswiftapi.com"
 source_type: "community"

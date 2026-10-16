@@ -2,6 +2,7 @@
 id: "2c3ce0b13a2faeed"
 title: "Tree Appreciator"
 url: "https://simonwillison.net/2026/Oct/14/tree-appreciator"
+link: "https://simonwillison.net/2026/Oct/14/tree-appreciator"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

@@ -2,6 +2,7 @@
 id: "bc6f7d6d13e5ee6f"
 title: "Uber’s AI infra, from the inside"
 url: "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside"
+link: "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside"
 source: "The Pragmatic Engineer"
 domain: "newsletter.pragmaticengineer.com"
 source_type: "newsletter"

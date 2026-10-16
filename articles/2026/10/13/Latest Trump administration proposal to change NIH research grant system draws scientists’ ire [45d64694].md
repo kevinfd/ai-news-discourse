@@ -2,6 +2,7 @@
 id: "45d64694c8a3b8fb"
 title: "Latest Trump administration proposal to change NIH research grant system draws scientists’ ire"
 url: "https://scientificamerican.com/article/latest-trump-administration-proposal-to-change-nih-research-grant-system-draws-scientists-ire"
+link: "https://scientificamerican.com/article/latest-trump-administration-proposal-to-change-nih-research-grant-system-draws-scientists-ire"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "995de510e1cfcc16"
 title: "Logitech commences local manufacturing in India to drive agility and AI-era expansion"
 url: "https://thehindu.com/sci-tech/technology/logitech-commences-local-manufacturing-in-india-to-drive-agility-and-ai-era-expansion/article71587209.ece"
+link: "https://thehindu.com/sci-tech/technology/logitech-commences-local-manufacturing-in-india-to-drive-agility-and-ai-era-expansion/article71587209.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

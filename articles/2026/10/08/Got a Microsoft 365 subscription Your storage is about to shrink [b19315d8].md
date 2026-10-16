@@ -2,6 +2,7 @@
 id: "b19315d8b3db7b67"
 title: "Got a Microsoft 365 subscription? Your storage is about to shrink"
 url: "https://zdnet.com/tech/microsoft-365-subscription-storage-limits"
+link: "https://zdnet.com/tech/microsoft-365-subscription-storage-limits"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

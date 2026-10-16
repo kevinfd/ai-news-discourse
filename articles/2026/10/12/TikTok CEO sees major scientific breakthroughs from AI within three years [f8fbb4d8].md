@@ -2,6 +2,7 @@
 id: "f8fbb4d8e948e5db"
 title: "TikTok CEO sees major scientific breakthroughs from AI within three years"
 url: "https://cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html"
+link: "https://cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

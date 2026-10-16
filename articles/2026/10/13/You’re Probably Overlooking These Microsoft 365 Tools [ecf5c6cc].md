@@ -2,6 +2,7 @@
 id: "ecf5c6cc372ae2f9"
 title: "You’re Probably Overlooking These Microsoft 365 Tools"
 url: "https://today.duke.edu/2026/10/youre-probably-overlooking-these-microsoft-365-tools"
+link: "https://today.duke.edu/2026/10/youre-probably-overlooking-these-microsoft-365-tools"
 source: "Duke Today"
 domain: "today.duke.edu"
 source_type: "mainstream_news"

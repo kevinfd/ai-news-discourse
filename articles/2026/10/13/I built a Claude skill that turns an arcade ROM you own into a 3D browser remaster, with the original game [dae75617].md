@@ -2,6 +2,7 @@
 id: "dae75617acd590fe"
 title: "I built a Claude skill that turns an arcade ROM you own into a 3D browser remaster, with the original game code still running underneath"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4vye1/i_built_a_claude_skill_that_turns_an_arcade_rom"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4vye1/i_built_a_claude_skill_that_turns_an_arcade_rom"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

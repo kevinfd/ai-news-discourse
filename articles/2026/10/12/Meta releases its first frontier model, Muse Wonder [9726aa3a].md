@@ -2,6 +2,7 @@
 id: "9726aa3a5f66ec7f"
 title: "Meta releases its first frontier model, Muse Wonder"
 url: "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder"
+link: "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

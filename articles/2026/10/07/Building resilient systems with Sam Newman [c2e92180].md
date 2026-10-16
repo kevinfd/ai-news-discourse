@@ -2,6 +2,7 @@
 id: "c2e92180363e5e10"
 title: "Building resilient systems with Sam Newman"
 url: "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam"
+link: "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam"
 source: "The Pragmatic Engineer"
 domain: "newsletter.pragmaticengineer.com"
 source_type: "newsletter"

@@ -2,6 +2,7 @@
 id: "4b3690189115dd31"
 title: "DeepSeek’s cost-saving AI may lead to inaccuracy in model performance: research"
 url: "https://scmp.com/tech/tech-trends/article/3370550/deepseeks-cost-saving-ai-may-lead-inaccuracy-model-performance-research"
+link: "https://scmp.com/tech/tech-trends/article/3370550/deepseeks-cost-saving-ai-may-lead-inaccuracy-model-performance-research"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

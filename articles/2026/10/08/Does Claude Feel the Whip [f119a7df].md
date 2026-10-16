@@ -2,6 +2,7 @@
 id: "f119a7dff374d0c3"
 title: "Does Claude Feel the Whip?"
 url: "https://noemamag.com/does-claude-feel-the-whip"
+link: "https://noemamag.com/does-claude-feel-the-whip"
 source: "NOEMA"
 domain: "noemamag.com"
 source_type: "community"

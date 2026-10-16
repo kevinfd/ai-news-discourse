@@ -2,6 +2,7 @@
 id: "e429541e453f7de2"
 title: "i used codex's image generation tool and minimax to make animated rts sprites"
 url: "https://reddit.com/r/ChatGPT/comments/1x5v3av/i_used_codexs_image_generation_tool_and_minimax"
+link: "https://reddit.com/r/ChatGPT/comments/1x5v3av/i_used_codexs_image_generation_tool_and_minimax"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

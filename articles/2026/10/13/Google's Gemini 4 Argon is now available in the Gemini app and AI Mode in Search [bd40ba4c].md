@@ -2,6 +2,7 @@
 id: "bd40ba4ccf8d3dd4"
 title: "Google's Gemini 4 Argon is now available in the Gemini app and AI Mode in Search"
 url: "https://engadget.com/2285023/google-gemini-4-argon-is-now-available-in-the-gemini-app-and-ai-mode-in-search"
+link: "https://engadget.com/2285023/google-gemini-4-argon-is-now-available-in-the-gemini-app-and-ai-mode-in-search"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

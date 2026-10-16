@@ -2,6 +2,7 @@
 id: "2d935789bd4b55a8"
 title: "Google will let you distribute vibe-coded Android apps with just a Google account"
 url: "https://engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio"
+link: "https://engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

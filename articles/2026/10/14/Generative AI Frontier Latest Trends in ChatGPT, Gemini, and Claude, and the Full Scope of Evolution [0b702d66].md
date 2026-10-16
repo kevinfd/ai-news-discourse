@@ -2,6 +2,7 @@
 id: "0b702d669711d9be"
 title: "Generative AI Frontier: Latest Trends in ChatGPT, Gemini, and Claude, and the Full Scope of Evolution Non-Engineers Should Grasp (Practical Guide)"
 url: "https://note.com/kandoinspirefact/n/ne9867792a164?hl=en"
+link: "https://note.com/kandoinspirefact/n/ne9867792a164?hl=en"
 source: "note"
 domain: "note.com"
 source_type: "mainstream_news"

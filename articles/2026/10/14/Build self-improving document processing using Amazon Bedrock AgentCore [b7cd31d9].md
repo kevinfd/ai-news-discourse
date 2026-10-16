@@ -2,6 +2,7 @@
 id: "b7cd31d958bda34d"
 title: "Build self-improving document processing using Amazon Bedrock AgentCore"
 url: "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore"
+link: "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

@@ -2,6 +2,7 @@
 id: "96432e5dd1ce6136"
 title: "66% of billion-dollar companies leave critical bugs unpatched — the part the AI bug-hunting hype leaves out"
 url: "https://thenewstack.io/chainguard-mythos-security-harness"
+link: "https://thenewstack.io/chainguard-mythos-security-harness"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

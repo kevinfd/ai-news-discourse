@@ -2,6 +2,7 @@
 id: "6dc963c30a0fb3d2"
 title: "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race."
 url: "https://thenewstack.io/torvalds-claude-code-kernel"
+link: "https://thenewstack.io/torvalds-claude-code-kernel"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "6fa1718dea57beeb"
 title: "Claude writes addictive stories."
 url: "https://reddit.com/r/ClaudeAI/comments/1x4uujp/claude_writes_addictive_stories"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4uujp/claude_writes_addictive_stories"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

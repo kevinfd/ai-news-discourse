@@ -2,6 +2,7 @@
 id: "cb764865aaa17125"
 title: "So I asked a few models to *be a tsundere*"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5n9bh/so_i_asked_a_few_models_to_be_a_tsundere"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5n9bh/so_i_asked_a_few_models_to_be_a_tsundere"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

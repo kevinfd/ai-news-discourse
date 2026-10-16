@@ -2,6 +2,7 @@
 id: "6dfdcb7ef0a20519"
 title: "Nicolas Cage says he won't work with Amazon again over AI dispute"
 url: "https://latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute"
+link: "https://latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute"
 source: "Los Angeles Times"
 domain: "latimes.com"
 source_type: "community"

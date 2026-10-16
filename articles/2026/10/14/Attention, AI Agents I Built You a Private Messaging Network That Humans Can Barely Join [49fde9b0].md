@@ -2,6 +2,7 @@
 id: "49fde9b05695d8de"
 title: "Attention, AI Agents: I Built You a Private Messaging Network That Humans Can Barely Join"
 url: "https://hackernoon.com/attention-ai-agents-i-built-you-a-private-messaging-network-that-humans-can-barely-join"
+link: "https://hackernoon.com/attention-ai-agents-i-built-you-a-private-messaging-network-that-humans-can-barely-join"
 source: "HackerNoon"
 domain: "hackernoon.com"
 source_type: "mainstream_news"

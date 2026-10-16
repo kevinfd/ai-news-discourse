@@ -2,6 +2,7 @@
 id: "9b76487086db0e68"
 title: "Run multi-node inference workloads using Ray LLM Deep Learning Containers"
 url: "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers"
+link: "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

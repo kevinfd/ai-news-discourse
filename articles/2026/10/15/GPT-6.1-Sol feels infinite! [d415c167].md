@@ -2,6 +2,7 @@
 id: "d415c167aef1a894"
 title: "GPT-6.1-Sol feels infinite!"
 url: "https://reddit.com/r/ChatGPT/comments/1x69jdo/gpt61sol_feels_infinite"
+link: "https://reddit.com/r/ChatGPT/comments/1x69jdo/gpt61sol_feels_infinite"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

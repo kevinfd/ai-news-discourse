@@ -2,6 +2,7 @@
 id: "a25d7ba828fa6be8"
 title: "AI Odyssey - Part 3 ‘Claude and the Mirror’"
 url: "https://reddit.com/r/artificial/comments/1x5rwz4/ai_odyssey_part_3_claude_and_the_mirror"
+link: "https://reddit.com/r/artificial/comments/1x5rwz4/ai_odyssey_part_3_claude_and_the_mirror"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

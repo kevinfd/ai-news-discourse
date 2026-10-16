@@ -2,6 +2,7 @@
 id: "a2954f96b6c9d11a"
 title: "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges"
 url: "https://thehindu.com/sci-tech/technology/openai-employee-who-left-for-apple-took-files-about-unreleased-device-openai-alleges/article71586620.ece"
+link: "https://thehindu.com/sci-tech/technology/openai-employee-who-left-for-apple-took-files-about-unreleased-device-openai-alleges/article71586620.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

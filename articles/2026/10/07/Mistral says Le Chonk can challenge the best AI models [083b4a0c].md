@@ -2,6 +2,7 @@
 id: "083b4a0cd473b98b"
 title: "Mistral says \"Le Chonk\" can challenge the best AI models"
 url: "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models"
+link: "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

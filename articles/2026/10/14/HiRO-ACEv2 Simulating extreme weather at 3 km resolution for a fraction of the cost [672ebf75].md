@@ -2,6 +2,7 @@
 id: "672ebf75c430cf70"
 title: "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost"
 url: "https://huggingface.co/blog/allenai/hiro-acev2"
+link: "https://huggingface.co/blog/allenai/hiro-acev2"
 source: "Hugging Face"
 domain: "huggingface.co"
 source_type: "company_blog"

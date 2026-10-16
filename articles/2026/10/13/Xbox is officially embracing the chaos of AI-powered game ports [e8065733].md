@@ -2,6 +2,7 @@
 id: "e8065733daf943b5"
 title: "Xbox is officially embracing the chaos of AI-powered game ports"
 url: "https://theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
+link: "https://theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

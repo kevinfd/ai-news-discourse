@@ -2,6 +2,7 @@
 id: "3ed623cf7e051e23"
 title: "China approves Alibaba AI models for use in iPhone Duo and other Apple handsets"
 url: "https://scmp.com/tech/big-tech/article/3370893/china-approves-alibaba-ai-models-use-iphone-duo-and-other-apple-handsets"
+link: "https://scmp.com/tech/big-tech/article/3370893/china-approves-alibaba-ai-models-use-iphone-duo-and-other-apple-handsets"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

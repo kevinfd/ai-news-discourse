@@ -2,6 +2,7 @@
 id: "9149c3f387998fd1"
 title: "Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried"
 url: "https://nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html"
+link: "https://nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

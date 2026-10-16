@@ -2,6 +2,7 @@
 id: "d01d974e70c13005"
 title: "Workday is using TypeSafe’s Jev to build user interfaces on the fly"
 url: "https://thenewstack.io/workday-is-using-typesafes-jev-to-build-user-interfaces-on-the-fly"
+link: "https://thenewstack.io/workday-is-using-typesafes-jev-to-build-user-interfaces-on-the-fly"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "af4fc393096f4ac9"
 title: "Disney strikes $20-million deal for Character.ai's assets as AI startup files for bankruptcy"
 url: "https://latimes.com/business/story/2026-10-13/disney-strikes-20-million-deal-for-character-ais-assets-as-ai-startup-files-for-bankruptcy"
+link: "https://latimes.com/business/story/2026-10-13/disney-strikes-20-million-deal-for-character-ais-assets-as-ai-startup-files-for-bankruptcy"
 source: "Los Angeles Times"
 domain: "latimes.com"
 source_type: "mainstream_news"

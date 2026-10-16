@@ -2,6 +2,7 @@
 id: "39e50559b4280d11"
 title: "Google CEO announces Gemini 4 Argon release: 'Over the past few weeks, our teams and early partners have put Argon to work on some of their most demanding challenges: modernizing massive codebases, speeding up model inference, and accelerating breakthroughs in quantum computing and life sciences.'"
 url: "https://linkedin.com/posts/sundarpichai_today-were-rolling-out-gemini-4-argon-ugcPost-7515805988420001792-DFeB?amp%3Butm_campaign=reddit&amp%3Butm_content=post&amp%3Butm_term=artificial"
+link: "https://linkedin.com/posts/sundarpichai_today-were-rolling-out-gemini-4-argon-ugcPost-7515805988420001792-DFeB?amp%3Butm_campaign=reddit&amp%3Butm_content=post&amp%3Butm_term=artificial"
 source: "Linkedin"
 domain: "linkedin.com"
 source_type: "community"

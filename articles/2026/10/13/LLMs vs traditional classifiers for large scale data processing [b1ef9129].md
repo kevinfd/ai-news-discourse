@@ -2,6 +2,7 @@
 id: "b1ef9129ca0c05a1"
 title: "LLMs vs traditional classifiers for large scale data processing"
 url: "https://reddit.com/r/artificial/comments/1x57j1j/llms_vs_traditional_classifiers_for_large_scale"
+link: "https://reddit.com/r/artificial/comments/1x57j1j/llms_vs_traditional_classifiers_for_large_scale"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

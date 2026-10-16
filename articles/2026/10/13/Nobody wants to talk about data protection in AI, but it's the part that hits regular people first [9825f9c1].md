@@ -2,6 +2,7 @@
 id: "9825f9c176e45f95"
 title: "Nobody wants to talk about data protection in AI, but it's the part that hits regular people first"
 url: "https://reddit.com/r/artificial/comments/1x4lphz/nobody_wants_to_talk_about_data_protection_in_ai"
+link: "https://reddit.com/r/artificial/comments/1x4lphz/nobody_wants_to_talk_about_data_protection_in_ai"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

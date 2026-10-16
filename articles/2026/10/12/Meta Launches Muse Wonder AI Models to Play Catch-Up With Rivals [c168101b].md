@@ -2,6 +2,7 @@
 id: "c168101bc0f5a458"
 title: "Meta Launches Muse Wonder AI Models to Play Catch-Up With Rivals"
 url: "https://cnet.com/tech/services-and-software/meta-muse-and-wonder-ai-models"
+link: "https://cnet.com/tech/services-and-software/meta-muse-and-wonder-ai-models"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

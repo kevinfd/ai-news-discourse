@@ -2,6 +2,7 @@
 id: "3082116296fa073e"
 title: "Meta and Microsoft take steps to reduce employee usage of Claude AI"
 url: "https://rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai"
+link: "https://rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai"
 source: "RS Web Solutions (RSWEBSOLS)"
 domain: "rswebsols.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "c8b781f8f75360f0"
 title: "Tessera-27B-B-CJK, Zellige AIs new finetune of Qwen with novel approaches to how we think about token savings"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5xm28/tessera27bbcjk_zellige_ais_new_finetune_of_qwen"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5xm28/tessera27bbcjk_zellige_ais_new_finetune_of_qwen"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

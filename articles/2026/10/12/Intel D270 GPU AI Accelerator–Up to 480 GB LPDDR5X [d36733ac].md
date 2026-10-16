@@ -2,6 +2,7 @@
 id: "d36733ac43fe8a14"
 title: "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X"
 url: "https://intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
+link: "https://intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
 source: "Intel"
 domain: "intel.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "10142c80dc72428b"
 title: "Two AI agents in a job interview and neither one knows how to hang up"
 url: "https://reddit.com/r/ChatGPT/comments/1x66iap/two_ai_agents_in_a_job_interview_and_neither_one"
+link: "https://reddit.com/r/ChatGPT/comments/1x66iap/two_ai_agents_in_a_job_interview_and_neither_one"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "734c49897dcff6e8"
 title: "What's the most annoying thing about using AI that nobody seems to be fixing?"
 url: "https://reddit.com/r/artificial/comments/1x68126/whats_the_most_annoying_thing_about_using_ai_that"
+link: "https://reddit.com/r/artificial/comments/1x68126/whats_the_most_annoying_thing_about_using_ai_that"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

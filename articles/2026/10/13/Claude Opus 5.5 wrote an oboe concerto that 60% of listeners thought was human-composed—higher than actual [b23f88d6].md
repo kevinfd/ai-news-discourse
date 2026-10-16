@@ -2,6 +2,7 @@
 id: "b23f88d688925b12"
 title: "Claude Opus 5.5 wrote an oboe concerto that 60% of listeners thought was human-composed—higher than actual pieces by Handel at 58% and Vivaldi at 43%"
 url: "https://reddit.com/r/singularity/comments/1x4k8pa/claude_opus_55_wrote_an_oboe_concerto_that_60_of"
+link: "https://reddit.com/r/singularity/comments/1x4k8pa/claude_opus_55_wrote_an_oboe_concerto_that_60_of"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

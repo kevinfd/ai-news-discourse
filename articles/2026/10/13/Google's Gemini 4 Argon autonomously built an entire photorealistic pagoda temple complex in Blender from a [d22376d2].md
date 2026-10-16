@@ -2,6 +2,7 @@
 id: "d22376d29be089d4"
 title: "Google's Gemini 4 Argon autonomously built an entire photorealistic pagoda temple complex in Blender from a single prompt, with zero human intervention, using multiple AI agents to critique and refine its own work"
 url: "https://reddit.com/r/singularity/comments/1x53gba/googles_gemini_4_argon_autonomously_built_an"
+link: "https://reddit.com/r/singularity/comments/1x53gba/googles_gemini_4_argon_autonomously_built_an"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

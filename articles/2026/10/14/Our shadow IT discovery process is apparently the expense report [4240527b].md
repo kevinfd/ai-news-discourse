@@ -2,6 +2,7 @@
 id: "4240527bc7eb896c"
 title: "Our shadow IT discovery process is apparently the expense report"
 url: "https://reddit.com/r/artificial/comments/1x5u4yt/our_shadow_it_discovery_process_is_apparently_the"
+link: "https://reddit.com/r/artificial/comments/1x5u4yt/our_shadow_it_discovery_process_is_apparently_the"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

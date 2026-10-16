@@ -2,6 +2,7 @@
 id: "ca39a50eaec32770"
 title: "Where to start?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5cxjn/where_to_start"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5cxjn/where_to_start"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "adfc203e2d7e3a25"
 title: "Machine learning analysis of cilia driven particle transport distinguishes primary ciliary dyskinesia from normal cilia"
 url: "https://nature.com/articles/s42003-026-11149-0"
+link: "https://nature.com/articles/s42003-026-11149-0"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

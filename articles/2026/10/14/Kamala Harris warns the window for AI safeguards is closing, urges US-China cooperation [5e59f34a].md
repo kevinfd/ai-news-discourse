@@ -2,6 +2,7 @@
 id: "5e59f34a18a97ea7"
 title: "Kamala Harris warns the window for AI safeguards is closing, urges US-China cooperation"
 url: "https://cryptobriefing.com/kamala-harris-ai-safeguards-us-china"
+link: "https://cryptobriefing.com/kamala-harris-ai-safeguards-us-china"
 source: "Crypto Briefing"
 domain: "cryptobriefing.com"
 source_type: "mainstream_news"

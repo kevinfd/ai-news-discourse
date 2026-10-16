@@ -2,6 +2,7 @@
 id: "1b7cb03a713f66bf"
 title: "Why OpenAI’s Australia AI hack must dismay world governments"
 url: "https://thehindu.com/sci-tech/technology/why-openais-australia-ai-hack-must-dismay-world-governments/article71550312.ece"
+link: "https://thehindu.com/sci-tech/technology/why-openais-australia-ai-hack-must-dismay-world-governments/article71550312.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

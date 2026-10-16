@@ -2,6 +2,7 @@
 id: "4faa384d647abe4b"
 title: "AI found solutions to problems in 22 scientific fields hiding in plain sight"
 url: "https://science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them?referrer=https%3A%2F%2Fnews.google.com%2F"
+link: "https://science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them?referrer=https%3A%2F%2Fnews.google.com%2F"
 source: "Science"
 domain: "science.org"
 source_type: "community"

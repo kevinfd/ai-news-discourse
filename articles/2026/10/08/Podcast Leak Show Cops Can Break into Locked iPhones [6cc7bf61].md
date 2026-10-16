@@ -2,6 +2,7 @@
 id: "6cc7bf6185430b9a"
 title: "Podcast: Leak Show Cops Can Break into Locked iPhones"
 url: "https://404media.co/podcast-leak-show-cops-can-break-into-locked-iphones"
+link: "https://404media.co/podcast-leak-show-cops-can-break-into-locked-iphones"
 source: "404 Media"
 domain: "404media.co"
 source_type: "tech_press"

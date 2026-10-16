@@ -2,6 +2,7 @@
 id: "3f7f64abf1cdecf8"
 title: "OpenAI annualised revenues $20bn less than previously signalled"
 url: "https://ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1"
+link: "https://ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

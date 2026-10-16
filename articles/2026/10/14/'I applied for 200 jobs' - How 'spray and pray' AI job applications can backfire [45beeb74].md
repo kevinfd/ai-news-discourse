@@ -2,6 +2,7 @@
 id: "45beeb74dacf45ff"
 title: "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire"
 url: "https://bbc.co.uk/news/articles/c623dnkn8pkyo?at_campaign=rss&at_medium=RSS"
+link: "https://bbc.co.uk/news/articles/c623dnkn8pkyo?at_campaign=rss&at_medium=RSS"
 source: "BBC News"
 domain: "bbc.co.uk"
 source_type: "mainstream_news"

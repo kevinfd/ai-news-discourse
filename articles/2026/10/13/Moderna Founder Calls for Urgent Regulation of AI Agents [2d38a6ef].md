@@ -2,6 +2,7 @@
 id: "2d38a6efdc7cd2b1"
 title: "Moderna Founder Calls for Urgent Regulation of AI Agents"
 url: "https://bloomberg.com/news/articles/2026-10-13/moderna-founder-calls-for-urgent-regulation-of-ai-agents"
+link: "https://bloomberg.com/news/articles/2026-10-13/moderna-founder-calls-for-urgent-regulation-of-ai-agents"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

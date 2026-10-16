@@ -2,6 +2,7 @@
 id: "0d5dd9f63929e84d"
 title: "Young New Yorkers are facing a tough job market — and a college degree may not make a difference"
 url: "https://businessinsider.com/unemployment-new-york-college-degree-2026-10"
+link: "https://businessinsider.com/unemployment-new-york-college-degree-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

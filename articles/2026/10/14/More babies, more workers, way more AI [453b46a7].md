@@ -2,6 +2,7 @@
 id: "453b46a709561007"
 title: "More babies, more workers, way more AI"
 url: "https://businessinsider.com/remote-work-long-term-effects-birth-rates-labor-ai-2026-10"
+link: "https://businessinsider.com/remote-work-long-term-effects-birth-rates-labor-ai-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

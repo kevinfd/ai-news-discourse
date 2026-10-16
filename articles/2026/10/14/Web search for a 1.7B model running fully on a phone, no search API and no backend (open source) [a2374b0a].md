@@ -2,6 +2,7 @@
 id: "a2374b0a7fba5346"
 title: "Web search for a 1.7B model running fully on a phone, no search API and no backend (open source)"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5oqiy/web_search_for_a_17b_model_running_fully_on_a"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5oqiy/web_search_for_a_17b_model_running_fully_on_a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

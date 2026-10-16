@@ -2,6 +2,7 @@
 id: "ee6218bc3b709f65"
 title: "Kurt Campbell on US’ China focus, the Indo-Pacific Quad, risks of AI"
 url: "https://scmp.com/plus/news/china/diplomacy/article/3370379/kurt-campbell-us-china-focus-indo-pacific-quad-risks-ai"
+link: "https://scmp.com/plus/news/china/diplomacy/article/3370379/kurt-campbell-us-china-focus-indo-pacific-quad-risks-ai"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

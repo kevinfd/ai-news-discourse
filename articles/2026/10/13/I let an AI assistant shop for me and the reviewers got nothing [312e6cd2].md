@@ -2,6 +2,7 @@
 id: "312e6cd2d7b60363"
 title: "I let an AI assistant shop for me and the reviewers got nothing"
 url: "https://fastcompany.com/91621388/i-let-ai-assistant-shop-me-reviewers-got-nothing?partner=rss"
+link: "https://fastcompany.com/91621388/i-let-ai-assistant-shop-me-reviewers-got-nothing?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

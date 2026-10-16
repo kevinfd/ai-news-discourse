@@ -2,6 +2,7 @@
 id: "b9b745f5af6c2f8d"
 title: "Your database decision could come back to haunt you"
 url: "https://thenewstack.io/ai-prototypes-database-replatforming"
+link: "https://thenewstack.io/ai-prototypes-database-replatforming"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "da3d8d250b02de46"
 title: "Alibaba’s AI cloud revenue set to surge over 50% as investment blitz pays off: analysts"
 url: "https://scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts"
+link: "https://scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

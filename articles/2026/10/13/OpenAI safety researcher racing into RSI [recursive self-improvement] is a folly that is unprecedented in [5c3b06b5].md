@@ -2,6 +2,7 @@
 id: "5c3b06b56b31f12c"
 title: "OpenAI safety researcher: \"racing into RSI [recursive self-improvement] is a folly that is unprecedented in world history ... there have not been fundamental advancements in alignment since RLHF [9 years ago]\""
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4yo2t/openai_safety_researcher_racing_into_rsi"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4yo2t/openai_safety_researcher_racing_into_rsi"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

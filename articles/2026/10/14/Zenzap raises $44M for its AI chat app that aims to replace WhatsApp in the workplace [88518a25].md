@@ -2,6 +2,7 @@
 id: "88518a254bc645ea"
 title: "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace"
 url: "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace"
+link: "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

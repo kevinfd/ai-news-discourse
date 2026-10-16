@@ -2,6 +2,7 @@
 id: "7e0898d5127c6ecc"
 title: "Exclusive: Microsoft Reorganizes Azure Cloud Unit Amid AI Overhaul"
 url: "https://theinformation.com/briefings/exclusive-microsoft-reorganizes-azure-cloud-unit-amid-ai-overhaul"
+link: "https://theinformation.com/briefings/exclusive-microsoft-reorganizes-azure-cloud-unit-amid-ai-overhaul"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

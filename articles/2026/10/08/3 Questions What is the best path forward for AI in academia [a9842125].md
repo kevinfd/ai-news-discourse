@@ -2,6 +2,7 @@
 id: "a9842125a33e1ecb"
 title: "3 Questions: What is the best path forward for AI in academia?"
 url: "https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008"
+link: "https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008"
 source: "MIT News"
 domain: "news.mit.edu"
 source_type: "research"

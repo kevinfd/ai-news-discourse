@@ -2,6 +2,7 @@
 id: "00d55ade6f4a808f"
 title: "OpenAI Employee Arrested for Spying on Execs Using Hidden Recording Device"
 url: "https://pcmag.com/news/openai-employee-arrested-for-spying-on-execs-using-hidden-recording-device"
+link: "https://pcmag.com/news/openai-employee-arrested-for-spying-on-execs-using-hidden-recording-device"
 source: "PCMag"
 domain: "pcmag.com"
 source_type: "tech_press"

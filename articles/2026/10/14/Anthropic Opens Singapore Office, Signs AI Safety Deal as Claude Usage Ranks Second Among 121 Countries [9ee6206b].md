@@ -2,6 +2,7 @@
 id: "9ee6206b73a36d53"
 title: "Anthropic Opens Singapore Office, Signs AI Safety Deal as Claude Usage Ranks Second Among 121 Countries"
 url: "https://ibtimes.sg/anthropic-opens-singapore-office-signs-ai-safety-deal-claude-usage-ranks-second-among-121-95150"
+link: "https://ibtimes.sg/anthropic-opens-singapore-office-signs-ai-safety-deal-claude-usage-ranks-second-among-121-95150"
 source: "International Business Times Singapore"
 domain: "ibtimes.sg"
 source_type: "mainstream_news"

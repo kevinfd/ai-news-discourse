@@ -2,6 +2,7 @@
 id: "1c9eb61cc5227211"
 title: "once every 3 clicks, Claude code shows a heart 💗"
 url: "https://reddit.com/r/ClaudeAI/comments/1x613v8/once_every_3_clicks_claude_code_shows_a_heart"
+link: "https://reddit.com/r/ClaudeAI/comments/1x613v8/once_every_3_clicks_claude_code_shows_a_heart"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

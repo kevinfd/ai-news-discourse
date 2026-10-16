@@ -2,6 +2,7 @@
 id: "48313ce4e18c211e"
 title: "Ask HN: What is the current trajectory of a senior engineer?"
 url: "https://news.ycombinator.com/item?id=50084969"
+link: "https://news.ycombinator.com/item?id=50084969"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "5ba34ea74552fda7"
 title: "‘Worrying omens’ stalk global economy despite resilient growth"
 url: "https://ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229?syn-25a6b1a6=1"
+link: "https://ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "e4d28d1cd2fef21a"
 title: "Scoop: \"OG\" Bill Gates returns to wage war on AI risks"
 url: "https://axios.com/2026/10/15/bill-gates-ai-safety-push"
+link: "https://axios.com/2026/10/15/bill-gates-ai-safety-push"
 source: "Axios"
 domain: "axios.com"
 source_type: "mainstream_news"

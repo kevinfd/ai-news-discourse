@@ -2,6 +2,7 @@
 id: "97d0fc27d34bff20"
 title: "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market"
 url: "https://cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html"
+link: "https://cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

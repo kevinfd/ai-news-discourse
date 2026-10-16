@@ -2,6 +2,7 @@
 id: "5bc24f8022e9b291"
 title: "Anthropic to Build First Data Center in Japan"
 url: "https://theinformation.com/briefings/anthropic-build-first-data-center-japan"
+link: "https://theinformation.com/briefings/anthropic-build-first-data-center-japan"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

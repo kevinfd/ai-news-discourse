@@ -2,6 +2,7 @@
 id: "bed27991d0127691"
 title: "AI risks could repeat China shock that cost jobs, former US commerce chief Raimondo warns"
 url: "https://scmp.com/tech/article/3370838/ai-risks-could-repeat-china-shock-cost-jobs-former-us-commerce-chief-raimondo-warns"
+link: "https://scmp.com/tech/article/3370838/ai-risks-could-repeat-china-shock-cost-jobs-former-us-commerce-chief-raimondo-warns"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

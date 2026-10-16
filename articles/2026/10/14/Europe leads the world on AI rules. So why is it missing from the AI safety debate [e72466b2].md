@@ -2,6 +2,7 @@
 id: "e72466b23381169c"
 title: "Europe leads the world on AI rules. So why is it missing from the AI safety debate?"
 url: "https://cnn.com/2026/10/14/business/europe-ai-act-safety-debate-intl?amp%3Butm_campaign=missions&amp%3Butm_source=reddit"
+link: "https://cnn.com/2026/10/14/business/europe-ai-act-safety-debate-intl?amp%3Butm_campaign=missions&amp%3Butm_source=reddit"
 source: "CNN"
 domain: "cnn.com"
 source_type: "community"

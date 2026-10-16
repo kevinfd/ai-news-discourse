@@ -2,6 +2,7 @@
 id: "5399c370a08edb43"
 title: "[Video + Manga] Grok, Cursor, and X all in one. Professor Lock explains the new \"The X Subscription\" plan | Hyper House New Service Explanation"
 url: "https://note.com/hyperhouse/n/nb6732edea4ee?hl=en"
+link: "https://note.com/hyperhouse/n/nb6732edea4ee?hl=en"
 source: "note"
 domain: "note.com"
 source_type: "mainstream_news"

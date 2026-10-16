@@ -2,6 +2,7 @@
 id: "b3da879193aa447d"
 title: "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'"
 url: "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564"
+link: "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564"
 source: "Variety"
 domain: "variety.com"
 source_type: "community"

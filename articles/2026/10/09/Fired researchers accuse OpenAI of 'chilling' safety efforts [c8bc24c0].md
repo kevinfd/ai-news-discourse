@@ -2,6 +2,7 @@
 id: "c8bc24c042a876a6"
 title: "Fired researchers accuse OpenAI of 'chilling' safety efforts"
 url: "https://thehindu.com/sci-tech/technology/fired-researchers-accuse-openai-of-chilling-safety-efforts/article71562463.ece"
+link: "https://thehindu.com/sci-tech/technology/fired-researchers-accuse-openai-of-chilling-safety-efforts/article71562463.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

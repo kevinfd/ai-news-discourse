@@ -2,6 +2,7 @@
 id: "8f30da42419ba904"
 title: "Innodata vs. IONQ: A Look at Revenue Trends Between Artificial Intelligence and Quantum Computing Innovators"
 url: "https://fool.com/coverage/charts/2026/10/14/innodata-vs-ionq-a-look-at-revenue-trends-between-artificial-intelligence-and-quantum-computing-innovators"
+link: "https://fool.com/coverage/charts/2026/10/14/innodata-vs-ionq-a-look-at-revenue-trends-between-artificial-intelligence-and-quantum-computing-innovators"
 source: "The Motley Fool"
 domain: "fool.com"
 source_type: "mainstream_news"

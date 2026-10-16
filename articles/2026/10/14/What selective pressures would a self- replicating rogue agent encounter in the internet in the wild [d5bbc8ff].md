@@ -2,6 +2,7 @@
 id: "d5bbc8ff3935b31b"
 title: "What selective pressures would a self- replicating rogue agent encounter in the internet in the wild?"
 url: "https://reddit.com/r/singularity/comments/1x667cq/what_selective_pressures_would_a_self_replicating"
+link: "https://reddit.com/r/singularity/comments/1x667cq/what_selective_pressures_would_a_self_replicating"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "478198d55e7b2767"
 title: "Google's Gemini 4 Argon takes #1 in understanding the physical world beyond what it sees. It can reconstruct past events, predict what happens next, and infer hidden objects and human intentions. Argon scored 59.1% on long videos, versus under 41% for rivals, while its spatial reasoning jumped 21 po"
 url: "https://reddit.com/r/singularity/comments/1x65hj1/googles_gemini_4_argon_takes_1_in_understanding"
+link: "https://reddit.com/r/singularity/comments/1x65hj1/googles_gemini_4_argon_takes_1_in_understanding"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

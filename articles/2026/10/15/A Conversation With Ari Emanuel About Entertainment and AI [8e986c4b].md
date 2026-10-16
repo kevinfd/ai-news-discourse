@@ -2,6 +2,7 @@
 id: "8e986c4bcc6546e1"
 title: "A Conversation With Ari Emanuel About Entertainment and AI"
 url: "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai"
+link: "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai"
 source: "Stratechery"
 domain: "stratechery.com"
 source_type: "newsletter"

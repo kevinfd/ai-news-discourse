@@ -2,6 +2,7 @@
 id: "e11e7b8788100f9c"
 title: "Rogue Anthropic AI agent gave police fake tip in unsolved murder case"
 url: "https://bbc.co.uk/news/articles/cqkg50j1yd5lo?at_campaign=rss&at_medium=RSS"
+link: "https://bbc.co.uk/news/articles/cqkg50j1yd5lo?at_campaign=rss&at_medium=RSS"
 source: "BBC News"
 domain: "bbc.co.uk"
 source_type: "mainstream_news"

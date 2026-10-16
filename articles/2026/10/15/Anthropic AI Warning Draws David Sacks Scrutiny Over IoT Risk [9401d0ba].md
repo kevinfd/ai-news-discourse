@@ -2,6 +2,7 @@
 id: "9401d0badad61151"
 title: "Anthropic AI Warning Draws David Sacks Scrutiny Over IoT Risk"
 url: "https://thecoinrepublic.com/2026/10/15/anthropic-ai-warning-draws-david-sacks-scrutiny-over-iot-risk"
+link: "https://thecoinrepublic.com/2026/10/15/anthropic-ai-warning-draws-david-sacks-scrutiny-over-iot-risk"
 source: "The Coin Republic"
 domain: "thecoinrepublic.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "895dcc7080afb66d"
 title: "The Companies Winning With AI Are Pairing Young And Mature Workers"
 url: "https://forbes.com/councils/forbesbusinessdevelopmentcouncil/2026/10/14/the-companies-winning-with-ai-are-pairing-young-and-mature-workers"
+link: "https://forbes.com/councils/forbesbusinessdevelopmentcouncil/2026/10/14/the-companies-winning-with-ai-are-pairing-young-and-mature-workers"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

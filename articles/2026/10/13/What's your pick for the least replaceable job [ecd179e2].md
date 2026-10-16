@@ -2,6 +2,7 @@
 id: "ecd179e255c6ad17"
 title: "What's your pick for the least replaceable job?"
 url: "https://reddit.com/r/singularity/comments/1x4yelh/whats_your_pick_for_the_least_replaceable_job"
+link: "https://reddit.com/r/singularity/comments/1x4yelh/whats_your_pick_for_the_least_replaceable_job"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

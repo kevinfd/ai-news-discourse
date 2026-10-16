@@ -2,6 +2,7 @@
 id: "a925c0e15fd328bd"
 title: "Inside a TPG-Backed Accounting Firm’s Plans for AI and More Acquisitions"
 url: "https://theinformation.com/articles/inside-tpg-backed-accounting-firms-plans-ai-acquisitions"
+link: "https://theinformation.com/articles/inside-tpg-backed-accounting-firms-plans-ai-acquisitions"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

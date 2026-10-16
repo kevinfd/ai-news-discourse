@@ -2,6 +2,7 @@
 id: "dbdb824a6a3559fb"
 title: "Microsoft 365 Unlocks Copilot Notebooks for Every User Tier"
 url: "https://geeky-gadgets.com/new-microsoft-onenote-features"
+link: "https://geeky-gadgets.com/new-microsoft-onenote-features"
 source: "Geeky Gadgets"
 domain: "geeky-gadgets.com"
 source_type: "mainstream_news"

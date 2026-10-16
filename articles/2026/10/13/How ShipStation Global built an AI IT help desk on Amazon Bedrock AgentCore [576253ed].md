@@ -2,6 +2,7 @@
 id: "576253ed894737fc"
 title: "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore"
 url: "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore"
+link: "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

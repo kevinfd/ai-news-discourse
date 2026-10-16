@@ -2,6 +2,7 @@
 id: "8440981c4dc4ab3a"
 title: "Running RAG with a (small) language model in the browser"
 url: "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser"
+link: "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser"
 source: "Lobsters"
 domain: "bart.degoe.de"
 source_type: "community"

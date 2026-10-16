@@ -2,6 +2,7 @@
 id: "c6798ab209ec7a89"
 title: "To preface: I am not anti AI"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4j08b/to_preface_i_am_not_anti_ai"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4j08b/to_preface_i_am_not_anti_ai"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

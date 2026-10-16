@@ -2,6 +2,7 @@
 id: "b95269740eaf14bd"
 title: "Rogue AI or human error? The real story behind the OpenAI-Hugging Face incident"
 url: "https://scientificamerican.com/podcast/episode/rogue-ai-or-human-error-the-real-story-behind-the-openai-hugging-face-incident"
+link: "https://scientificamerican.com/podcast/episode/rogue-ai-or-human-error-the-real-story-behind-the-openai-hugging-face-incident"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

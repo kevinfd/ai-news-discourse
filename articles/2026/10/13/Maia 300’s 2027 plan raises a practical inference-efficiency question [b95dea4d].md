@@ -2,6 +2,7 @@
 id: "b95dea4d19a4977c"
 title: "Maia 300’s 2027 plan raises a practical inference-efficiency question"
 url: "https://reddit.com/r/artificial/comments/1x4m0vt/maia_300s_2027_plan_raises_a_practical"
+link: "https://reddit.com/r/artificial/comments/1x4m0vt/maia_300s_2027_plan_raises_a_practical"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

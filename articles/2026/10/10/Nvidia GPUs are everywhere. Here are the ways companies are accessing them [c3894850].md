@@ -2,6 +2,7 @@
 id: "c389485080d405d9"
 title: "Nvidia GPUs are everywhere. Here are the ways companies are accessing them"
 url: "https://cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html"
+link: "https://cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

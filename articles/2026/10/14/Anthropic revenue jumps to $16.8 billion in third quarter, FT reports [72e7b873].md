@@ -2,6 +2,7 @@
 id: "72e7b8739207d8c0"
 title: "Anthropic revenue jumps to $16.8 billion in third quarter, FT reports"
 url: "https://reuters.com/technology/anthropic-revenue-jumps-168-billion-third-quarter-ft-reports-2026-10-14"
+link: "https://reuters.com/technology/anthropic-revenue-jumps-168-billion-third-quarter-ft-reports-2026-10-14"
 source: "Reuters"
 domain: "reuters.com"
 source_type: "community"

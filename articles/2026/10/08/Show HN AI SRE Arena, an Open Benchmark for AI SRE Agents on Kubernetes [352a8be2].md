@@ -2,6 +2,7 @@
 id: "352a8be27229a4e5"
 title: "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes"
 url: "https://github.com/edgedelta/project-arena"
+link: "https://github.com/edgedelta/project-arena"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

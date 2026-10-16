@@ -2,6 +2,7 @@
 id: "4d3f580e1e438778"
 title: "Kalshi Admits That It Took a Random Guy's Video and Used AI to Make Him the Host of an Ad, Changing His Race in the Process"
 url: "https://futurism.com/artificial-intelligence/kalshi-admits-random-guy-video-ai-race-swap-ad"
+link: "https://futurism.com/artificial-intelligence/kalshi-admits-random-guy-video-ai-race-swap-ad"
 source: "Futurism"
 domain: "futurism.com"
 source_type: "community"

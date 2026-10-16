@@ -2,6 +2,7 @@
 id: "49a5982411260eee"
 title: "Anthropic is asking a federal appeals court to rehear its Pentagon blacklist fight"
 url: "https://qz.com/anthropic-pentagon-blacklist-appeals-court-rehearing-101426"
+link: "https://qz.com/anthropic-pentagon-blacklist-appeals-court-rehearing-101426"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

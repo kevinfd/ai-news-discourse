@@ -2,6 +2,7 @@
 id: "03ba57306ebd254c"
 title: "America's not ready for the consequences of space warfare"
 url: "https://axios.com/2026/10/15/space-war-china-russia"
+link: "https://axios.com/2026/10/15/space-war-china-russia"
 source: "Axios"
 domain: "axios.com"
 source_type: "mainstream_news"

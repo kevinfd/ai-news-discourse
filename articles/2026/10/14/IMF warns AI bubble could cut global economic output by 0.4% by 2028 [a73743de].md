@@ -2,6 +2,7 @@
 id: "a73743de3cf6ac72"
 title: "IMF warns AI bubble could cut global economic output by 0.4% by 2028"
 url: "https://cnbctv18.com/economy/imf-warns-ai-unwind-could-cut-global-gdp-as-leverage-rises-alpha-article-20011595.htm"
+link: "https://cnbctv18.com/economy/imf-warns-ai-unwind-could-cut-global-gdp-as-leverage-rises-alpha-article-20011595.htm"
 source: "CNBCTV18"
 domain: "cnbctv18.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "24d721d473226f25"
 title: "Python 3.15.0 added to actions/python-versions"
 url: "https://simonwillison.net/2026/Oct/10/python-actions"
+link: "https://simonwillison.net/2026/Oct/10/python-actions"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

@@ -2,6 +2,7 @@
 id: "c2ef578a4730e99d"
 title: "Microsoft’s new Surface Laptop Ultra finally has a starting price (you should sit down)"
 url: "https://zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price"
+link: "https://zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "83be7b8ff697b25f"
 title: "Why China Wants to Master the Robotic Hand"
 url: "https://bloomberg.com/news/videos/2026-10-13/why-china-wants-to-master-the-robotic-hand-video"
+link: "https://bloomberg.com/news/videos/2026-10-13/why-china-wants-to-master-the-robotic-hand-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

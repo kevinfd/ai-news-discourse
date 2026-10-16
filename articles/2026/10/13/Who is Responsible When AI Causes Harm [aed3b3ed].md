@@ -2,6 +2,7 @@
 id: "aed3b3ed9430a0ba"
 title: "Who is Responsible When AI Causes Harm?"
 url: "https://hai.stanford.edu/news/who-is-responsible-when-ai-causes-harm"
+link: "https://hai.stanford.edu/news/who-is-responsible-when-ai-causes-harm"
 source: "Stanford HAI"
 domain: "hai.stanford.edu"
 source_type: "mainstream_news"

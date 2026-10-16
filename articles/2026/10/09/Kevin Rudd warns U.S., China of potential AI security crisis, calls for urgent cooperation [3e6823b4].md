@@ -2,6 +2,7 @@
 id: "3e6823b4c68c18c2"
 title: "Kevin Rudd warns U.S., China of potential AI security crisis, calls for urgent cooperation"
 url: "https://thehindu.com/sci-tech/technology/kevin-rudd-warns-us-china-of-potential-ai-security-crisis-calls-for-urgent-cooperation/article71563017.ece"
+link: "https://thehindu.com/sci-tech/technology/kevin-rudd-warns-us-china-of-potential-ai-security-crisis-calls-for-urgent-cooperation/article71563017.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

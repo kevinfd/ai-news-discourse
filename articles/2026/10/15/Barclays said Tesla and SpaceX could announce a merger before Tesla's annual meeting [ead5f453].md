@@ -2,6 +2,7 @@
 id: "ead5f4532f2d414c"
 title: "Barclays said Tesla and SpaceX could announce a merger before Tesla's annual meeting"
 url: "https://qz.com/tesla-spacex-merger-barclays-announcement-annual-meeting-101526"
+link: "https://qz.com/tesla-spacex-merger-barclays-announcement-annual-meeting-101526"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "8ffbb59bcc021f73"
 title: "OpenAI May Hold Back Next Generation Model for Checks, CFO Says"
 url: "https://bloomberg.com/news/videos/2026-10-14/openai-may-hold-back-next-generation-model-for-checks-video"
+link: "https://bloomberg.com/news/videos/2026-10-14/openai-may-hold-back-next-generation-model-for-checks-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

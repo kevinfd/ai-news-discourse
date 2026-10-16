@@ -2,6 +2,7 @@
 id: "5a56686bb2c5f42a"
 title: "What happens to the world economy if the US AI bubble bursts? It’ll hurt, admits the IMF, the only question is how badly"
 url: "https://diginomica.com/what-happens-world-economy-if-us-ai-bubble-bursts-itll-hurt-admits-imf-only-question-how-badly"
+link: "https://diginomica.com/what-happens-world-economy-if-us-ai-bubble-bursts-itll-hurt-admits-imf-only-question-how-badly"
 source: "diginomica"
 domain: "diginomica.com"
 source_type: "mainstream_news"

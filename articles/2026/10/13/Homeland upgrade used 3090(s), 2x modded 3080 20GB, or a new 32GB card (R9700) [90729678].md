@@ -2,6 +2,7 @@
 id: "90729678d162e04a"
 title: "Homeland upgrade: used 3090(s), 2x modded 3080 20GB, or a new 32GB card (R9700)"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x58s5x/homeland_upgrade_used_3090s_2x_modded_3080_20gb"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x58s5x/homeland_upgrade_used_3090s_2x_modded_3080_20gb"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

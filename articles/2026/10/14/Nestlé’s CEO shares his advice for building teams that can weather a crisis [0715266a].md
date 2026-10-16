@@ -2,6 +2,7 @@
 id: "0715266a0f434080"
 title: "Nestlé’s CEO shares his advice for building teams that can weather a crisis"
 url: "https://businessinsider.com/nestle-ceo-advice-building-teams-handle-crisis-2026-10"
+link: "https://businessinsider.com/nestle-ceo-advice-building-teams-handle-crisis-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

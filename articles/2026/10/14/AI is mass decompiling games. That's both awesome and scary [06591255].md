@@ -2,6 +2,7 @@
 id: "0659125559370f17"
 title: "AI is mass decompiling games. That's both awesome and scary."
 url: "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games"
+link: "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

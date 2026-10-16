@@ -2,6 +2,7 @@
 id: "11c354e77122116c"
 title: "The science of superintelligence and why AI is still a useful word"
 url: "https://nature.com/articles/d41586-026-03198-6"
+link: "https://nature.com/articles/d41586-026-03198-6"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

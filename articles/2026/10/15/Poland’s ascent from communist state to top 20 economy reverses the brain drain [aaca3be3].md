@@ -2,6 +2,7 @@
 id: "aaca3be3f3447af9"
 title: "Poland’s ascent from communist state to top 20 economy reverses the brain drain"
 url: "https://theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub"
+link: "https://theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

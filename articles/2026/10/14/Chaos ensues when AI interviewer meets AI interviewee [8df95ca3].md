@@ -2,6 +2,7 @@
 id: "8df95ca30f9db531"
 title: "Chaos ensues when AI interviewer meets AI interviewee"
 url: "https://theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144"
+link: "https://theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144"
 source: "The Register"
 domain: "theregister.com"
 source_type: "community"

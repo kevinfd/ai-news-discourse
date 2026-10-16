@@ -2,6 +2,7 @@
 id: "4c8ceb9354924392"
 title: "ChatGPT changed its HTML structure and broke some extensions AI Memory Vault is still working"
 url: "https://reddit.com/r/ChatGPT/comments/1x5k5rn/chatgpt_changed_its_html_structure_and_broke_some"
+link: "https://reddit.com/r/ChatGPT/comments/1x5k5rn/chatgpt_changed_its_html_structure_and_broke_some"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

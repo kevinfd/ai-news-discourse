@@ -2,6 +2,7 @@
 id: "7882426230cc1900"
 title: "I built an MCP server with Claude Code that lets Claude search and apply to jobs. Here’s how the build went (and what you can learn)"
 url: "https://reddit.com/r/ClaudeAI/comments/1x60bmf/i_built_an_mcp_server_with_claude_code_that_lets"
+link: "https://reddit.com/r/ClaudeAI/comments/1x60bmf/i_built_an_mcp_server_with_claude_code_that_lets"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "81f2b48cb6b4b239"
 title: "Apple unveils HomeView smart display in renewed home push"
 url: "https://thehindu.com/sci-tech/technology/apple-unveils-homeview-smart-display-in-renewed-home-push/article71582173.ece"
+link: "https://thehindu.com/sci-tech/technology/apple-unveils-homeview-smart-display-in-renewed-home-push/article71582173.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

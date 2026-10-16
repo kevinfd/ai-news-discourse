@@ -2,6 +2,7 @@
 id: "a13b136a25a0f02d"
 title: "OpenAI Turns the Tables on Apple in Legal Fight Over Trade Secrets"
 url: "https://gizmodo.com/openai-turns-the-tables-on-apple-in-legal-fight-over-trade-secrets-2000826007"
+link: "https://gizmodo.com/openai-turns-the-tables-on-apple-in-legal-fight-over-trade-secrets-2000826007"
 source: "Gizmodo"
 domain: "gizmodo.com"
 source_type: "mainstream_news"

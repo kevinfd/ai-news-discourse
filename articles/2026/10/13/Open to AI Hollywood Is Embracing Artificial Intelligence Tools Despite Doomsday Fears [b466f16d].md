@@ -2,6 +2,7 @@
 id: "b466f16dc7367114"
 title: "Open to AI: Hollywood Is Embracing Artificial Intelligence Tools Despite Doomsday Fears"
 url: "https://variety.com/2026/digital/features/ai-hollywood-embraces-artificial-intelligence-1236909213?lang=vi"
+link: "https://variety.com/2026/digital/features/ai-hollywood-embraces-artificial-intelligence-1236909213?lang=vi"
 source: "Variety"
 domain: "variety.com"
 source_type: "mainstream_news"

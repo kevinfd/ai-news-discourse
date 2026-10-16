@@ -2,6 +2,7 @@
 id: "899d2cfa5c0c91ea"
 title: "NiCLIP: neuroimaging contrastive language-image pretraining model for predicting text from brain activation images"
 url: "https://nature.com/articles/s41467-026-78451-7"
+link: "https://nature.com/articles/s41467-026-78451-7"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

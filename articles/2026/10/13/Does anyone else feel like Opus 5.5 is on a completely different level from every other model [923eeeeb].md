@@ -2,6 +2,7 @@
 id: "923eeeebca90cc5e"
 title: "Does anyone else feel like Opus 5.5 is on a completely different level from every other model?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x51hk1/does_anyone_else_feel_like_opus_55_is_on_a"
+link: "https://reddit.com/r/ClaudeAI/comments/1x51hk1/does_anyone_else_feel_like_opus_55_is_on_a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "e12ec4d5a53a374f"
 title: "Your AI's when you add 'make no mistakes' to the end of your prompt:"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4goks/your_ais_when_you_add_make_no_mistakes_to_the_end"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4goks/your_ais_when_you_add_make_no_mistakes_to_the_end"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "0950810b889c82a8"
 title: "AI ‘deepfakes’ give US political attack ads a new twist"
 url: "https://ft.com/content/42fea52e-a4de-4613-b409-ca52d0a2aac2?syn-25a6b1a6=1"
+link: "https://ft.com/content/42fea52e-a4de-4613-b409-ca52d0a2aac2?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

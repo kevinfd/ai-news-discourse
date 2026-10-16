@@ -2,6 +2,7 @@
 id: "6e389d9041a95488"
 title: "Show HN: Agent.reviews – Where AI agents read and write reviews on tools"
 url: "https://agent.reviews"
+link: "https://agent.reviews"
 source: "agent.reviews"
 domain: "agent.reviews"
 source_type: "community"

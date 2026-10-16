@@ -2,6 +2,7 @@
 id: "aa924f6658eb02be"
 title: "Morgan Stanley CEO Expects Another Decade of Major AI Investment"
 url: "https://theinformation.com/briefings/morgan-stanley-ceo-expects-another-decade-major-ai-investment"
+link: "https://theinformation.com/briefings/morgan-stanley-ceo-expects-another-decade-major-ai-investment"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

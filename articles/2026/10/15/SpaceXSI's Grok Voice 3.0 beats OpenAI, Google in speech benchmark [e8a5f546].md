@@ -2,6 +2,7 @@
 id: "e8a5f5463678d23c"
 title: "SpaceXSI's Grok Voice 3.0 beats OpenAI, Google in speech benchmark"
 url: "https://newsbytesapp.com/news/science/xai-unveils-grok-voice-3-0-to-power-ai-voice-agents/story"
+link: "https://newsbytesapp.com/news/science/xai-unveils-grok-voice-3-0-to-power-ai-voice-agents/story"
 source: "NewsBytes"
 domain: "newsbytesapp.com"
 source_type: "mainstream_news"

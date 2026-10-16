@@ -2,6 +2,7 @@
 id: "19c45cc3b756fb5c"
 title: "A new feature for my blog, built using my voice"
 url: "https://simonwillison.net/2026/Oct/9/built-using-my-voice"
+link: "https://simonwillison.net/2026/Oct/9/built-using-my-voice"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

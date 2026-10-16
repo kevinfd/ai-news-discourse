@@ -2,6 +2,7 @@
 id: "7eb7cda751aeff42"
 title: "Is this idea from AI or humans? A detector claims it can tell"
 url: "https://nature.com/articles/d41586-026-03247-0"
+link: "https://nature.com/articles/d41586-026-03247-0"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

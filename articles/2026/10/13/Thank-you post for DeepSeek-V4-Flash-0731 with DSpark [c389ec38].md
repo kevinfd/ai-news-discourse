@@ -2,6 +2,7 @@
 id: "c389ec381b1e284d"
 title: "Thank-you post for DeepSeek-V4-Flash-0731 with DSpark"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x592dl/thankyou_post_for_deepseekv4flash0731_with_dspark"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x592dl/thankyou_post_for_deepseekv4flash0731_with_dspark"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "8c4215de3a665791"
 title: "How Long Until AI Hacks Everything?"
 url: "https://theatlantic.com/technology/2026/10/ai-hacking-cybersecurity-race/688911"
+link: "https://theatlantic.com/technology/2026/10/ai-hacking-cybersecurity-race/688911"
 source: "The Atlantic"
 domain: "theatlantic.com"
 source_type: "mainstream_news"

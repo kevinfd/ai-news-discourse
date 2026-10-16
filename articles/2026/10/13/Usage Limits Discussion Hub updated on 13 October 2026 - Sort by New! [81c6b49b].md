@@ -2,6 +2,7 @@
 id: "81c6b49ba400151f"
 title: "Usage Limits Discussion Hub updated on 13 October 2026 - Sort by New!"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4rmx5/usage_limits_discussion_hub_updated_on_13_october"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4rmx5/usage_limits_discussion_hub_updated_on_13_october"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

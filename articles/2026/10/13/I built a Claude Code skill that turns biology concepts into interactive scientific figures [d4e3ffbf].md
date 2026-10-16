@@ -2,6 +2,7 @@
 id: "d4e3ffbf09ca2c04"
 title: "I built a Claude Code skill that turns biology concepts into interactive scientific figures"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4v18f/i_built_a_claude_code_skill_that_turns_biology"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4v18f/i_built_a_claude_code_skill_that_turns_biology"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

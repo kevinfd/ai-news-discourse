@@ -8,7 +8,7 @@ from typing import Optional
 # Every article from every source carries exactly these frontmatter keys, in
 # this order. Missing values are written as `null` so columns stay aligned.
 FIELD_ORDER = [
-    "id", "title", "url", "source", "domain", "source_type", "collector",
+    "id", "title", "url", "link", "source", "domain", "source_type", "collector",
     "date", "published_date", "collected_at", "authors", "language", "summary",
     "tags", "orgs", "topics", "content_source", "word_count", "paywalled",
     "image", "discussion_url", "score", "comments", "community",
@@ -46,6 +46,7 @@ class Article:
     def frontmatter(self) -> str:
         d = asdict(self)
         d["published_date"] = (self.date or "")[:10] or None
+        d["link"] = self.url   # duplicate of url under Latent Lab's canonical key
         lines = ["---"]
         for key in FIELD_ORDER:
             lines.append(f"{key}: {_yaml_scalar(d.get(key))}")

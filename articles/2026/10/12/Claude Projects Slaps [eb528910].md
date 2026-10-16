@@ -2,6 +2,7 @@
 id: "eb528910539e0e37"
 title: "Claude Projects Slaps"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4fh1n/claude_projects_slaps"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4fh1n/claude_projects_slaps"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

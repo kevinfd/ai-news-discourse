@@ -2,6 +2,7 @@
 id: "72dd2426bbe64568"
 title: "Is AI Killing the Value of Human Writing?"
 url: "https://transitions.substack.com/p/is-ai-killing-the-value-of-human"
+link: "https://transitions.substack.com/p/is-ai-killing-the-value-of-human"
 source: "Substack"
 domain: "transitions.substack.com"
 source_type: "community"

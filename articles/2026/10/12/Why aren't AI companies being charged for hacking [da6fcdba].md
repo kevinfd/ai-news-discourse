@@ -2,6 +2,7 @@
 id: "da6fcdba137659ce"
 title: "Why aren't AI companies being charged for hacking?"
 url: "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking"
+link: "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking"
 source: "Musing Mortoray"
 domain: "mortoray.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "5b37e56ce0437042"
 title: "Does better work always mean better workers?"
 url: "https://research.google/blog/does-better-work-always-mean-better-workers"
+link: "https://research.google/blog/does-better-work-always-mean-better-workers"
 source: "Google Research"
 domain: "research.google"
 source_type: "research"

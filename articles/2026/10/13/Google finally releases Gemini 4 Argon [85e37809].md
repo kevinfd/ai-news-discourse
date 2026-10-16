@@ -2,6 +2,7 @@
 id: "85e37809c5c8dbe7"
 title: "Google finally releases Gemini 4 Argon"
 url: "https://theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+link: "https://theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

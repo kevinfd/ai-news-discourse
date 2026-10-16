@@ -2,6 +2,7 @@
 id: "e55d7ee417a55c3e"
 title: "Climate scientists issue a sobering diagnosis about Earth's 'vital signs'"
 url: "https://scientificamerican.com/article/climate-scientists-issue-a-sobering-diagnosis-about-earths-vital-signs"
+link: "https://scientificamerican.com/article/climate-scientists-issue-a-sobering-diagnosis-about-earths-vital-signs"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

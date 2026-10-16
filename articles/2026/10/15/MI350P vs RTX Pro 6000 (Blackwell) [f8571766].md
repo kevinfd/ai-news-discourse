@@ -2,6 +2,7 @@
 id: "f85717663625d379"
 title: "MI350P vs RTX Pro 6000 (Blackwell)"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x68fml/mi350p_vs_rtx_pro_6000_blackwell"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x68fml/mi350p_vs_rtx_pro_6000_blackwell"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

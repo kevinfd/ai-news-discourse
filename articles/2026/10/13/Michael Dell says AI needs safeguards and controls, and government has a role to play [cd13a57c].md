@@ -2,6 +2,7 @@
 id: "cd13a57ce59ef9cc"
 title: "Michael Dell says AI needs safeguards and controls, and government has a role to play"
 url: "https://cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html"
+link: "https://cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

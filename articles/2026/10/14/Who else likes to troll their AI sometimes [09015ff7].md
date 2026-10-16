@@ -2,6 +2,7 @@
 id: "09015ff7d5a334aa"
 title: "Who else likes to troll their AI sometimes"
 url: "https://reddit.com/r/ChatGPT/comments/1x5m1xp/who_else_likes_to_troll_their_ai_sometimes"
+link: "https://reddit.com/r/ChatGPT/comments/1x5m1xp/who_else_likes_to_troll_their_ai_sometimes"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

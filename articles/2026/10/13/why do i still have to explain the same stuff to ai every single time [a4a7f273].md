@@ -2,6 +2,7 @@
 id: "a4a7f27392b8c315"
 title: "why do i still have to explain the same stuff to ai every single time"
 url: "https://reddit.com/r/artificial/comments/1x56bhc/why_do_i_still_have_to_explain_the_same_stuff_to"
+link: "https://reddit.com/r/artificial/comments/1x56bhc/why_do_i_still_have_to_explain_the_same_stuff_to"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

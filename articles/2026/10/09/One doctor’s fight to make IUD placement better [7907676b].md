@@ -2,6 +2,7 @@
 id: "7907676bc44c87c3"
 title: "One doctor’s fight to make IUD placement better"
 url: "https://scientificamerican.com/podcast/episode/one-doctors-fight-to-make-iud-placement-better"
+link: "https://scientificamerican.com/podcast/episode/one-doctors-fight-to-make-iud-placement-better"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

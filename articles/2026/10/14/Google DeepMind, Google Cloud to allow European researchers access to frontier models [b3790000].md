@@ -2,6 +2,7 @@
 id: "b379000060fe5f79"
 title: "Google DeepMind, Google Cloud to allow European researchers access to frontier models"
 url: "https://channelnewsasia.com/business/google-deepmind-google-cloud-allow-european-researchers-access-frontier-models-6458146"
+link: "https://channelnewsasia.com/business/google-deepmind-google-cloud-allow-european-researchers-access-frontier-models-6458146"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

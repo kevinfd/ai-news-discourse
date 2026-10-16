@@ -2,6 +2,7 @@
 id: "e540598aacd912ec"
 title: "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office"
 url: "https://wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office"
+link: "https://wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

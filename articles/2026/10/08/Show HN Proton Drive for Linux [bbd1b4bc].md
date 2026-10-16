@@ -2,6 +2,7 @@
 id: "bbd1b4bc84883cfe"
 title: "Show HN: Proton Drive for Linux"
 url: "https://oss.lsantos.dev/proton-drive-linux-fs"
+link: "https://oss.lsantos.dev/proton-drive-linux-fs"
 source: "oss.lsantos.dev"
 domain: "oss.lsantos.dev"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "77171849d001d93b"
 title: "Start vibe-coding your own iPhone Shortcuts already"
 url: "https://fastcompany.com/91621141/start-vibe-coding-your-own-iphone-shortcuts-already?partner=rss"
+link: "https://fastcompany.com/91621141/start-vibe-coding-your-own-iphone-shortcuts-already?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

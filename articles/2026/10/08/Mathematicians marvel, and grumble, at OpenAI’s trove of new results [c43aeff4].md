@@ -2,6 +2,7 @@
 id: "c43aeff4f5d40645"
 title: "Mathematicians marvel, and grumble, at OpenAI’s trove of new results"
 url: "https://scientificamerican.com/article/mathematicians-marvel-and-grumble-at-openais-trove-of-new-results"
+link: "https://scientificamerican.com/article/mathematicians-marvel-and-grumble-at-openais-trove-of-new-results"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

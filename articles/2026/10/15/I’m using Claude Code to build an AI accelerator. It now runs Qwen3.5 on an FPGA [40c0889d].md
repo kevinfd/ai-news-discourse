@@ -2,6 +2,7 @@
 id: "40c0889d422eab09"
 title: "I’m using Claude Code to build an AI accelerator. It now runs Qwen3.5 on an FPGA."
 url: "https://reddit.com/r/ClaudeAI/comments/1x6ajc5/im_using_claude_code_to_build_an_ai_accelerator"
+link: "https://reddit.com/r/ClaudeAI/comments/1x6ajc5/im_using_claude_code_to_build_an_ai_accelerator"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

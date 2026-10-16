@@ -2,6 +2,7 @@
 id: "1f6ec46c3517a25f"
 title: "Tell HN: HN has lost the joy for me"
 url: "https://news.ycombinator.com/item?id=49989504"
+link: "https://news.ycombinator.com/item?id=49989504"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

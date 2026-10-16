@@ -2,6 +2,7 @@
 id: "825b9f31564e9caa"
 title: "OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model"
 url: "https://theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model"
+link: "https://theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

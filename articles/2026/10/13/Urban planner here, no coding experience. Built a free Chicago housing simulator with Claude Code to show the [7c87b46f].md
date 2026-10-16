@@ -2,6 +2,7 @@
 id: "7c87b46f53b38758"
 title: "Urban planner here, no coding experience. Built a free Chicago housing simulator with Claude Code to show the housing crisis and how land use policy can fix it"
 url: "https://fixchicagohousing.com"
+link: "https://fixchicagohousing.com"
 source: "fixchicagohousing.com"
 domain: "fixchicagohousing.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "315547d26fcc314e"
 title: "A suspected case of pneumonic plague is raising fears of an outbreak. Should you be worried?"
 url: "https://scientificamerican.com/article/a-suspected-case-of-pneumonic-plague-is-raising-fears-of-an-outbreak-should-you-be-worried"
+link: "https://scientificamerican.com/article/a-suspected-case-of-pneumonic-plague-is-raising-fears-of-an-outbreak-should-you-be-worried"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

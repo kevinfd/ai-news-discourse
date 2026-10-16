@@ -2,6 +2,7 @@
 id: "d89652834c6b8b8a"
 title: "Amp adds Puck and GPT-Live-1 for managing AI agents"
 url: "https://reddit.com/r/artificial/comments/1x60ypx/amp_adds_puck_and_gptlive1_for_managing_ai_agents"
+link: "https://reddit.com/r/artificial/comments/1x60ypx/amp_adds_puck_and_gptlive1_for_managing_ai_agents"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "8d61a5148a25f76f"
 title: "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context"
 url: "https://marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context"
+link: "https://marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

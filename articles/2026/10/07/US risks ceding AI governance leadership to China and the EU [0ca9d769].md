@@ -2,6 +2,7 @@
 id: "0ca9d7692ed23aab"
 title: "US risks ceding AI governance leadership to China and the EU"
 url: "https://scmp.com/opinion/world-opinion/article/3369823/us-risks-ceding-ai-governance-leadership-china-and-eu"
+link: "https://scmp.com/opinion/world-opinion/article/3369823/us-risks-ceding-ai-governance-leadership-china-and-eu"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

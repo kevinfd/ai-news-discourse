@@ -2,6 +2,7 @@
 id: "f1d1d592f2268d2e"
 title: "This September was the hottest ever on record for the U.S."
 url: "https://scientificamerican.com/article/this-september-was-the-hottest-ever-on-record-for-the-u-s"
+link: "https://scientificamerican.com/article/this-september-was-the-hottest-ever-on-record-for-the-u-s"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

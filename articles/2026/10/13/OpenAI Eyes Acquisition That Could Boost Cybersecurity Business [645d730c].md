@@ -2,6 +2,7 @@
 id: "645d730ca8270451"
 title: "OpenAI Eyes Acquisition That Could Boost Cybersecurity Business"
 url: "https://theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits"
+link: "https://theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

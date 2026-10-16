@@ -2,6 +2,7 @@
 id: "3744c8a0ebdee2ce"
 title: "The AI race is back on"
 url: "https://theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
+link: "https://theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

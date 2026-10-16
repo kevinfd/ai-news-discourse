@@ -2,6 +2,7 @@
 id: "471b665e7ce1470b"
 title: "Ex-Google UX Researcher Highlights Patterns Meta, OpenAI Are Using to Juice Personal Agent Adoption"
 url: "https://reddit.com/r/artificial/comments/1x4fav0/exgoogle_ux_researcher_highlights_patterns_meta"
+link: "https://reddit.com/r/artificial/comments/1x4fav0/exgoogle_ux_researcher_highlights_patterns_meta"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

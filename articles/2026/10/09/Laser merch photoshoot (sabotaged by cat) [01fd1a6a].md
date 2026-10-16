@@ -2,6 +2,7 @@
 id: "01fd1a6a9fbb1b02"
 title: "Laser merch photoshoot (sabotaged by cat)"
 url: "https://aiweirdness.com/laser-merch-photoshoot-sabotaged-by-cat"
+link: "https://aiweirdness.com/laser-merch-photoshoot-sabotaged-by-cat"
 source: "AI Weirdness"
 domain: "aiweirdness.com"
 source_type: "newsletter"

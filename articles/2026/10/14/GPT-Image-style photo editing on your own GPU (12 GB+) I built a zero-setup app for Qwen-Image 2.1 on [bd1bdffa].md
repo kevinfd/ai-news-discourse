@@ -2,6 +2,7 @@
 id: "bd1bdffa0eba9b4d"
 title: "GPT-Image-style photo editing on your own GPU (12 GB+): I built a zero-setup app for Qwen-Image 2.1 on stable-diffusion.cpp"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5wyii/gptimagestyle_photo_editing_on_your_own_gpu_12_gb"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5wyii/gptimagestyle_photo_editing_on_your_own_gpu_12_gb"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "9459f48b4b201a77"
 title: "Lettuce engineered to produce meat proteins"
 url: "https://scientificamerican.com/article/lettuce-engineered-to-produce-meat-proteins"
+link: "https://scientificamerican.com/article/lettuce-engineered-to-produce-meat-proteins"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

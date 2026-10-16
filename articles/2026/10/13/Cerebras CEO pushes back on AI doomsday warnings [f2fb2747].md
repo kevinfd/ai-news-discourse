@@ -2,6 +2,7 @@
 id: "f2fb2747c1a45191"
 title: "Cerebras CEO pushes back on AI doomsday warnings"
 url: "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings"
+link: "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

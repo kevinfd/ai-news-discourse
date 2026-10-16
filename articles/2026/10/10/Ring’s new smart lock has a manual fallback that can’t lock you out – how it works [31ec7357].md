@@ -2,6 +2,7 @@
 id: "31ec7357b5b810af"
 title: "Ring’s new smart lock has a manual fallback that can’t lock you out – how it works"
 url: "https://zdnet.com/uncategorized/ring-smart-lock-manual-power-dial"
+link: "https://zdnet.com/uncategorized/ring-smart-lock-manual-power-dial"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

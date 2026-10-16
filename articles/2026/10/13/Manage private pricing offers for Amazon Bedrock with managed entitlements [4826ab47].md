@@ -2,6 +2,7 @@
 id: "4826ab478a6a20b8"
 title: "Manage private pricing offers for Amazon Bedrock with managed entitlements"
 url: "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements"
+link: "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

@@ -2,6 +2,7 @@
 id: "8a70427187b8981c"
 title: "Simulating student learning for better AI tutoring"
 url: "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring"
+link: "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring"
 source: "Microsoft Research"
 domain: "microsoft.com"
 source_type: "research"

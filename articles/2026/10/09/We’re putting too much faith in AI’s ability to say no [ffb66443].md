@@ -2,6 +2,7 @@
 id: "ffb664430fda6f4d"
 title: "We’re putting too much faith in AI’s ability to say no"
 url: "https://technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no"
+link: "https://technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no"
 source: "MIT Technology Review"
 domain: "technologyreview.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "355b7de619960881"
 title: "What are they saying about AI at San Francisco Tech Week?"
 url: "https://npr.org/2026/10/10/nx-s1-5995420/what-are-they-saying-about-ai-at-san-francisco-tech-week"
+link: "https://npr.org/2026/10/10/nx-s1-5995420/what-are-they-saying-about-ai-at-san-francisco-tech-week"
 source: "NPR"
 domain: "npr.org"
 source_type: "mainstream_news"

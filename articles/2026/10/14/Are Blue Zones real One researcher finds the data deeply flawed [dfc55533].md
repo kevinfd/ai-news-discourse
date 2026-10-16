@@ -2,6 +2,7 @@
 id: "dfc555330a02df92"
 title: "Are Blue Zones real? One researcher finds the data deeply flawed"
 url: "https://scientificamerican.com/podcast/episode/are-blue-zones-real-one-researcher-finds-the-data-deeply-flawed"
+link: "https://scientificamerican.com/podcast/episode/are-blue-zones-real-one-researcher-finds-the-data-deeply-flawed"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

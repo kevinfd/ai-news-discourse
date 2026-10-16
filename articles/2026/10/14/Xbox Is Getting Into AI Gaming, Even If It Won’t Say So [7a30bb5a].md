@@ -2,6 +2,7 @@
 id: "7a30bb5a7ee6579b"
 title: "Xbox Is Getting Into AI Gaming, Even If It Won’t Say So"
 url: "https://gamespot.com/articles/xbox-is-getting-into-ai-gaming-even-if-it-wont-say-so"
+link: "https://gamespot.com/articles/xbox-is-getting-into-ai-gaming-even-if-it-wont-say-so"
 source: "GameSpot"
 domain: "gamespot.com"
 source_type: "mainstream_news"

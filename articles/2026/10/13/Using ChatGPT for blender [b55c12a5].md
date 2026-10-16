@@ -2,6 +2,7 @@
 id: "b55c12a5f0b87a93"
 title: "Using ChatGPT for blender"
 url: "https://reddit.com/r/ChatGPT/comments/1x59csu/using_chatgpt_for_blender"
+link: "https://reddit.com/r/ChatGPT/comments/1x59csu/using_chatgpt_for_blender"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

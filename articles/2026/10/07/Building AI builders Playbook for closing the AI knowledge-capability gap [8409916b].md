@@ -2,6 +2,7 @@
 id: "8409916b02e51d95"
 title: "Building AI builders: Playbook for closing the AI knowledge-capability gap"
 url: "https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap"
+link: "https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

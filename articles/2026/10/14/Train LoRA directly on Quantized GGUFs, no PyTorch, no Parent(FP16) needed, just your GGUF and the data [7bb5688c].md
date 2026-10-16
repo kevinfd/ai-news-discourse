@@ -2,6 +2,7 @@
 id: "7bb5688cda75bfec"
 title: "Train LoRA directly on Quantized GGUFs, no PyTorch, no Parent(FP16) needed, just your GGUF and the data"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

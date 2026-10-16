@@ -2,6 +2,7 @@
 id: "55ad4d4c80163a40"
 title: "Working on a tool to help Claude make good pixel art"
 url: "https://reddit.com/r/ClaudeAI/comments/1x6akki/working_on_a_tool_to_help_claude_make_good_pixel"
+link: "https://reddit.com/r/ClaudeAI/comments/1x6akki/working_on_a_tool_to_help_claude_make_good_pixel"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

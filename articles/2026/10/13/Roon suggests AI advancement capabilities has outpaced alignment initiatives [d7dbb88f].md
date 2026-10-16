@@ -2,6 +2,7 @@
 id: "d7dbb88f6ce1ccb0"
 title: "Roon suggests AI advancement/capabilities has outpaced alignment initiatives"
 url: "https://reddit.com/r/singularity/comments/1x4ljqo/roon_suggests_ai_advancementcapabilities_has"
+link: "https://reddit.com/r/singularity/comments/1x4ljqo/roon_suggests_ai_advancementcapabilities_has"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

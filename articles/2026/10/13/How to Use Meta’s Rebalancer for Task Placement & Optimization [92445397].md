@@ -2,6 +2,7 @@
 id: "924453974f6b7964"
 title: "How to Use Meta’s Rebalancer for Task Placement & Optimization"
 url: "https://marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization"
+link: "https://marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

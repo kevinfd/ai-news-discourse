@@ -2,6 +2,7 @@
 id: "a91d48e8a913a842"
 title: "Penguin Mail – open-source Rust email client for Linux with AI"
 url: "https://penguin-mail.com"
+link: "https://penguin-mail.com"
 source: "Penguin Mail"
 domain: "penguin-mail.com"
 source_type: "community"

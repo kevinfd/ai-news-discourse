@@ -2,6 +2,7 @@
 id: "db5dfafeaf8ae5cc"
 title: "Ask HN: Do you want a router that has DD-WRT pre-installed?"
 url: "https://news.ycombinator.com/item?id=50039291"
+link: "https://news.ycombinator.com/item?id=50039291"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

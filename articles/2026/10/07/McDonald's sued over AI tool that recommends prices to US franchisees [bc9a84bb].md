@@ -2,6 +2,7 @@
 id: "bc9a84bbe6497a0d"
 title: "McDonald's sued over AI tool that recommends prices to US franchisees"
 url: "https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe"
+link: "https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe"
 source: "AP News"
 domain: "apnews.com"
 source_type: "community"

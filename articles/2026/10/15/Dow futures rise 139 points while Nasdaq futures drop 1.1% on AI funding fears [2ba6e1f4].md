@@ -2,6 +2,7 @@
 id: "2ba6e1f43c7ce82d"
 title: "Dow futures rise 139 points while Nasdaq futures drop 1.1% on AI funding fears"
 url: "https://qz.com/nasdaq-dow-futures-ai-funding-fears-coreweave-101526"
+link: "https://qz.com/nasdaq-dow-futures-ai-funding-fears-coreweave-101526"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

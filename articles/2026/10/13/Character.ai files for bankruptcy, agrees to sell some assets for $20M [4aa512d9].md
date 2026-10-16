@@ -2,6 +2,7 @@
 id: "4aa512d961854fef"
 title: "Character.ai files for bankruptcy, agrees to sell some assets for $20M"
 url: "https://reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13"
+link: "https://reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13"
 source: "Reuters"
 domain: "reuters.com"
 source_type: "community"

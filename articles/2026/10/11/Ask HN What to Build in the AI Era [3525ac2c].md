@@ -2,6 +2,7 @@
 id: "3525ac2c09d5d0c3"
 title: "Ask HN: What to Build in the AI Era?"
 url: "https://news.ycombinator.com/item?id=50049047"
+link: "https://news.ycombinator.com/item?id=50049047"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "91d466b46659eec8"
 title: "Google positions Gemini 4 Argon for long-horizon agentic work"
 url: "https://infoworld.com/article/4235118/google-positions-gemini-4-argon-for-long-horizon-agentic-work.html"
+link: "https://infoworld.com/article/4235118/google-positions-gemini-4-argon-for-long-horizon-agentic-work.html"
 source: "InfoWorld"
 domain: "infoworld.com"
 source_type: "mainstream_news"

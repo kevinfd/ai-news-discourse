@@ -2,6 +2,7 @@
 id: "86c24a287c2180c2"
 title: "Anthropic has a message for Claude users: Don't be cruel"
 url: "https://cbsnews.com/news/anthropic-bans-abusive-behavior-claude"
+link: "https://cbsnews.com/news/anthropic-bans-abusive-behavior-claude"
 source: "CBS News"
 domain: "cbsnews.com"
 source_type: "mainstream_news"

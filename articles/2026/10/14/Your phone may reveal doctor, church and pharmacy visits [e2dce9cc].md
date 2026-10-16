@@ -2,6 +2,7 @@
 id: "e2dce9cc2f8f881e"
 title: "Your phone may reveal doctor, church and pharmacy visits"
 url: "https://foxnews.com/tech/phone-may-reveal-doctor-church-pharmacy-visits"
+link: "https://foxnews.com/tech/phone-may-reveal-doctor-church-pharmacy-visits"
 source: "Fox News"
 domain: "foxnews.com"
 source_type: "mainstream_news"

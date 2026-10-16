@@ -2,6 +2,7 @@
 id: "21c23ab08aafeb08"
 title: "Supercomputing researchers document evolution of AI hardware"
 url: "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006"
+link: "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006"
 source: "MIT News"
 domain: "news.mit.edu"
 source_type: "research"

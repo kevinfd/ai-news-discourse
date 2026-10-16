@@ -2,6 +2,7 @@
 id: "31cd8f23f7e409b6"
 title: "Google Will Let Anyone Publish Privately Listed Vibe-Coded Apps on Play Store"
 url: "https://bloomberg.com/news/articles/2026-10-13/google-will-let-anyone-publish-privately-listed-vibe-coded-apps-on-play-store"
+link: "https://bloomberg.com/news/articles/2026-10-13/google-will-let-anyone-publish-privately-listed-vibe-coded-apps-on-play-store"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "13c68ef579b05999"
 title: "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked"
 url: "https://theverge.com/tech/1010727/eiliko-robot-hack-energize-lab"
+link: "https://theverge.com/tech/1010727/eiliko-robot-hack-energize-lab"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

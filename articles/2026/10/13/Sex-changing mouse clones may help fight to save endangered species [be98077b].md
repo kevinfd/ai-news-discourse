@@ -2,6 +2,7 @@
 id: "be98077b26b4e16a"
 title: "Sex-changing mouse clones may help fight to save endangered species"
 url: "https://scientificamerican.com/article/sex-changing-mouse-clones-may-help-fight-to-save-endangered-species"
+link: "https://scientificamerican.com/article/sex-changing-mouse-clones-may-help-fight-to-save-endangered-species"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

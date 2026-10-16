@@ -2,6 +2,7 @@
 id: "ac9650e1aef7cde3"
 title: "Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning"
 url: "https://tracel.ai/blog/release-0.22.0"
+link: "https://tracel.ai/blog/release-0.22.0"
 source: "Lobsters"
 domain: "tracel.ai"
 source_type: "community"

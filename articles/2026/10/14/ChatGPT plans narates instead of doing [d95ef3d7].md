@@ -2,6 +2,7 @@
 id: "d95ef3d765b32c03"
 title: "ChatGPT plans/narates instead of doing?"
 url: "https://reddit.com/r/ChatGPT/comments/1x62qps/chatgpt_plansnarates_instead_of_doing"
+link: "https://reddit.com/r/ChatGPT/comments/1x62qps/chatgpt_plansnarates_instead_of_doing"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

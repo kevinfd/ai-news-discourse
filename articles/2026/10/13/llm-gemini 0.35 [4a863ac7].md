@@ -2,6 +2,7 @@
 id: "4a863ac766466900"
 title: "llm-gemini 0.35"
 url: "https://simonwillison.net/2026/Oct/13/llm-gemini"
+link: "https://simonwillison.net/2026/Oct/13/llm-gemini"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

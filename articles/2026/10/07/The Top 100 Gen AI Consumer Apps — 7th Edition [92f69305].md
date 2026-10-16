@@ -2,6 +2,7 @@
 id: "92f693059dc5c4a0"
 title: "The Top 100 Gen AI Consumer Apps — 7th Edition"
 url: "https://a16z.com/100-gen-ai-apps-7"
+link: "https://a16z.com/100-gen-ai-apps-7"
 source: "Andreessen Horowitz"
 domain: "a16z.com"
 source_type: "community"

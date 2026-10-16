@@ -2,6 +2,7 @@
 id: "36f8b63f76cf1a1f"
 title: "Chip stocks slide after Broadcom boss likens AI investing to ‘casino’"
 url: "https://theguardian.com/business/2026/oct/13/chip-stocks-broadcom-ai-samsung-shares-cxmt"
+link: "https://theguardian.com/business/2026/oct/13/chip-stocks-broadcom-ai-samsung-shares-cxmt"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

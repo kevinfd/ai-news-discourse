@@ -2,6 +2,7 @@
 id: "3d215d45da7ebc1f"
 title: "What Is Deepseek?"
 url: "https://builtin.com/articles/what-is-deepseek"
+link: "https://builtin.com/articles/what-is-deepseek"
 source: "Built In"
 domain: "builtin.com"
 source_type: "mainstream_news"

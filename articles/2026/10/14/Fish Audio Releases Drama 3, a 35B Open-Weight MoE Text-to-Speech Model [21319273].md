@@ -2,6 +2,7 @@
 id: "21319273819e7a0f"
 title: "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model"
 url: "https://marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model"
+link: "https://marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

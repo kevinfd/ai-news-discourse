@@ -2,6 +2,7 @@
 id: "d5b475e1082099c1"
 title: "Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers."
 url: "https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964"
+link: "https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964"
 source: "Gizmodo"
 domain: "gizmodo.com"
 source_type: "community"

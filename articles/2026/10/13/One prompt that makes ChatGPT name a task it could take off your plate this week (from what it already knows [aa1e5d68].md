@@ -2,6 +2,7 @@
 id: "aa1e5d68e06d5ef6"
 title: "One prompt that makes ChatGPT name a task it could take off your plate this week (from what it already knows about you)"
 url: "https://reddit.com/r/ChatGPT/comments/1x527uc/one_prompt_that_makes_chatgpt_name_a_task_it"
+link: "https://reddit.com/r/ChatGPT/comments/1x527uc/one_prompt_that_makes_chatgpt_name_a_task_it"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "54fcf01de74992e3"
 title: "Sternbahn - a Sunvox based modular audio playground"
 url: "https://reddit.com/r/ClaudeAI/comments/1x6cj85/sternbahn_a_sunvox_based_modular_audio_playground"
+link: "https://reddit.com/r/ClaudeAI/comments/1x6cj85/sternbahn_a_sunvox_based_modular_audio_playground"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

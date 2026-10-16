@@ -2,6 +2,7 @@
 id: "a66fb2c9853e7d2f"
 title: "Meta says its new AI models on par with OpenAI, Anthropic"
 url: "https://thehindu.com/sci-tech/technology/meta-says-its-new-ai-models-on-par-with-openai-anthropic/article71577915.ece"
+link: "https://thehindu.com/sci-tech/technology/meta-says-its-new-ai-models-on-par-with-openai-anthropic/article71577915.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

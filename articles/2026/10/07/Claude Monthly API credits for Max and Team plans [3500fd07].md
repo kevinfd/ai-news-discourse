@@ -2,6 +2,7 @@
 id: "3500fd07055ed2cc"
 title: "Claude: Monthly API credits for Max and Team plans"
 url: "https://support.claude.com/en/articles/17154008-monthly-api-credits-for-max-and-team-plans"
+link: "https://support.claude.com/en/articles/17154008-monthly-api-credits-for-max-and-team-plans"
 source: "Claude Help Center"
 domain: "support.claude.com"
 source_type: "community"

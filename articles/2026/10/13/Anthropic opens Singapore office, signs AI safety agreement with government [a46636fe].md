@@ -2,6 +2,7 @@
 id: "a46636fe39c503d0"
 title: "Anthropic opens Singapore office, signs AI safety agreement with government"
 url: "https://channelnewsasia.com/singapore/anthropic-office-safety-agreement-government-deal-6456671"
+link: "https://channelnewsasia.com/singapore/anthropic-office-safety-agreement-government-deal-6456671"
 source: "CNA"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

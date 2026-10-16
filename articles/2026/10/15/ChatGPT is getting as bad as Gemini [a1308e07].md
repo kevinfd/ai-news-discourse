@@ -2,6 +2,7 @@
 id: "a1308e074cf3d6d0"
 title: "ChatGPT is getting as bad as Gemini"
 url: "https://reddit.com/r/ChatGPT/comments/1x6hivb/chatgpt_is_getting_as_bad_as_gemini"
+link: "https://reddit.com/r/ChatGPT/comments/1x6hivb/chatgpt_is_getting_as_bad_as_gemini"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

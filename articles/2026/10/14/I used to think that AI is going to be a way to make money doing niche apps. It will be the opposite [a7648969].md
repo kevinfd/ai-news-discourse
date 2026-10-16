@@ -2,6 +2,7 @@
 id: "a76489693e29868c"
 title: "I used to think that AI is going to be a way to make money doing niche apps. It will be the opposite."
 url: "https://reddit.com/r/ChatGPT/comments/1x5p4vz/i_used_to_think_that_ai_is_going_to_be_a_way_to"
+link: "https://reddit.com/r/ChatGPT/comments/1x5p4vz/i_used_to_think_that_ai_is_going_to_be_a_way_to"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

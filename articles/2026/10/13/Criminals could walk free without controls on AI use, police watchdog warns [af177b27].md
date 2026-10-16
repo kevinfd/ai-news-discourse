@@ -2,6 +2,7 @@
 id: "af177b274d9150a1"
 title: "Criminals could walk free without controls on AI use, police watchdog warns"
 url: "https://ft.com/content/2caa52e1-637a-4934-802e-418b649b4c12?syn-25a6b1a6=1"
+link: "https://ft.com/content/2caa52e1-637a-4934-802e-418b649b4c12?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

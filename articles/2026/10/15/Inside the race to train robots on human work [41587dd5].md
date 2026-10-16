@@ -2,6 +2,7 @@
 id: "41587dd5577f9a73"
 title: "Inside the race to train robots on human work"
 url: "https://businessinsider.com/ai-companies-human-workers-robot-training-data-2026-10"
+link: "https://businessinsider.com/ai-companies-human-workers-robot-training-data-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "df4c0eb3e8be45fc"
 title: "Photos show how classrooms have changed for millennials, Gen Z, and Gen Alpha"
 url: "https://businessinsider.com/photos-how-classrooms-evolved-over-generations-millenials-gen-z-2026-10"
+link: "https://businessinsider.com/photos-how-classrooms-evolved-over-generations-millenials-gen-z-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

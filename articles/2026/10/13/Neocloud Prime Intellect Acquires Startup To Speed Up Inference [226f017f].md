@@ -2,6 +2,7 @@
 id: "226f017f1bbf1076"
 title: "Neocloud Prime Intellect Acquires Startup To Speed Up Inference"
 url: "https://theinformation.com/articles/neocloud-prime-intellect-acquires-startup-speed-inference"
+link: "https://theinformation.com/articles/neocloud-prime-intellect-acquires-startup-speed-inference"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

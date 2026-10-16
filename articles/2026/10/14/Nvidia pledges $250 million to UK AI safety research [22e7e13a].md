@@ -2,6 +2,7 @@
 id: "22e7e13a112c0eb1"
 title: "Nvidia pledges $250 million to UK AI safety research"
 url: "https://channelnewsasia.com/business/nvidia-pledges-250-million-uk-ai-safety-research-6458176"
+link: "https://channelnewsasia.com/business/nvidia-pledges-250-million-uk-ai-safety-research-6458176"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

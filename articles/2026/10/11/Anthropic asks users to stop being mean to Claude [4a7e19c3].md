@@ -2,6 +2,7 @@
 id: "4a7e19c37d45b051"
 title: "Anthropic asks users to stop being mean to Claude"
 url: "https://theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218"
+link: "https://theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218"
 source: "The Register"
 domain: "theregister.com"
 source_type: "community"

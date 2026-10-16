@@ -2,6 +2,7 @@
 id: "5c3fe5b844de55e7"
 title: "Show HN: Building an LLM from Scratch in TypeScript"
 url: "https://book.humanexperiences.io"
+link: "https://book.humanexperiences.io"
 source: "Building an LLM in NodeJS"
 domain: "book.humanexperiences.io"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "ef418e71db48ab37"
 title: "I'm building a cozy game with Claude"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4uo9j/im_building_a_cozy_game_with_claude"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4uo9j/im_building_a_cozy_game_with_claude"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

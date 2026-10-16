@@ -2,6 +2,7 @@
 id: "f8819854f7bd619f"
 title: "Apple Intelligence, Alibaba Qwen set for late-October beta model launch in Chinese mainland market: media"
 url: "https://globaltimes.cn/page/202610/1372342.shtml"
+link: "https://globaltimes.cn/page/202610/1372342.shtml"
 source: "Global Times"
 domain: "globaltimes.cn"
 source_type: "mainstream_news"

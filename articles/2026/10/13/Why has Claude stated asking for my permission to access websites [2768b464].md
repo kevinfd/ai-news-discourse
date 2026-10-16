@@ -2,6 +2,7 @@
 id: "2768b464a9769340"
 title: "Why has Claude stated asking for my permission to access websites?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4qlei/why_has_claude_stated_asking_for_my_permission_to"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4qlei/why_has_claude_stated_asking_for_my_permission_to"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

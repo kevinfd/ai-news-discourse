@@ -2,6 +2,7 @@
 id: "793114a5d8e50ec3"
 title: "NVIDIA AlphaNIST: Emergent Assembly Skills from Binary Task Rewards"
 url: "https://reddit.com/r/singularity/comments/1x5uolg/nvidia_alphanist_emergent_assembly_skills_from"
+link: "https://reddit.com/r/singularity/comments/1x5uolg/nvidia_alphanist_emergent_assembly_skills_from"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

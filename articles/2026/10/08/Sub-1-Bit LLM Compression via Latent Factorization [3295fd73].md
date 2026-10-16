@@ -2,6 +2,7 @@
 id: "3295fd7388cdcc6b"
 title: "Sub-1-Bit LLM Compression via Latent Factorization"
 url: "https://github.com/SamsungLabs/LittleBit"
+link: "https://github.com/SamsungLabs/LittleBit"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

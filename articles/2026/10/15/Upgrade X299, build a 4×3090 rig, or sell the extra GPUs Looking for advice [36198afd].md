@@ -2,6 +2,7 @@
 id: "36198afd6b90f881"
 title: "Upgrade X299, build a 4×3090 rig, or sell the extra GPUs? Looking for advice"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x69sit/upgrade_x299_build_a_43090_rig_or_sell_the_extra"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x69sit/upgrade_x299_build_a_43090_rig_or_sell_the_extra"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

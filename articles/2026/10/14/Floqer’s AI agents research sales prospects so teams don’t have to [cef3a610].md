@@ -2,6 +2,7 @@
 id: "cef3a61011ee1d9d"
 title: "Floqer’s AI agents research sales prospects so teams don’t have to"
 url: "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers"
+link: "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

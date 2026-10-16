@@ -2,6 +2,7 @@
 id: "e4280242928fdb8e"
 title: "Apple Home Event Rumor Roundup: Everything We Expect to See Tomorrow"
 url: "https://cnet.com/home/smart-home/everything-we-expect-apple-smart-home-event"
+link: "https://cnet.com/home/smart-home/everything-we-expect-apple-smart-home-event"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

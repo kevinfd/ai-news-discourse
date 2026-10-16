@@ -2,6 +2,7 @@
 id: "4d5e1f5c1fab6083"
 title: "Discovering the value of humanistic inquiry"
 url: "https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007"
+link: "https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007"
 source: "MIT News"
 domain: "news.mit.edu"
 source_type: "research"

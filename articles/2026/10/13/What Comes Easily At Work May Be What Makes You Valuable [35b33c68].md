@@ -2,6 +2,7 @@
 id: "35b33c687573a036"
 title: "What Comes Easily At Work May Be What Makes You Valuable"
 url: "https://forbes.com/sites/niritcohen/2026/10/13/what-comes-easily-at-work-may-be-what-makes-you-valuable"
+link: "https://forbes.com/sites/niritcohen/2026/10/13/what-comes-easily-at-work-may-be-what-makes-you-valuable"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

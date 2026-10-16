@@ -2,6 +2,7 @@
 id: "03ad170c47b95f91"
 title: "Anthropic Reports $16.8 billion in Third-Quarter Revenue"
 url: "https://theinformation.com/briefings/anthropic-reports-16-8-billion-third-quarter-revenue"
+link: "https://theinformation.com/briefings/anthropic-reports-16-8-billion-third-quarter-revenue"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

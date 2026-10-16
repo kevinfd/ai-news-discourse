@@ -2,6 +2,7 @@
 id: "b3f4cffc6d1ba122"
 title: "My history podcast app now has an Atlas to explore"
 url: "https://reddit.com/r/artificial/comments/1x5r66p/my_history_podcast_app_now_has_an_atlas_to_explore"
+link: "https://reddit.com/r/artificial/comments/1x5r66p/my_history_podcast_app_now_has_an_atlas_to_explore"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

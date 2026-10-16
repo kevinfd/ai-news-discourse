@@ -2,6 +2,7 @@
 id: "f0e889a1cab4528a"
 title: "Sources: Decagon, which offers AI customer service agents and was last valued at $4.5B, hired a bank and is in early talks with buyers, including ServiceNow (Katie Roof/Business Insider)"
 url: "https://techmeme.com/261013/p36"
+link: "https://techmeme.com/261013/p36"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "edd58468d564448f"
 title: "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
 url: "https://openai.com/index/sophos"
+link: "https://openai.com/index/sophos"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

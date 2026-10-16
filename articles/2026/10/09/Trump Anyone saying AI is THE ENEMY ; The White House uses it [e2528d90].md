@@ -2,6 +2,7 @@
 id: "e2528d90a08e21c2"
 title: "Trump: Anyone saying \"AI\" is \"THE ENEMY\"; The White House uses it"
 url: "https://axios.com/2026/10/08/trump-ai-super-intelligence-white-house"
+link: "https://axios.com/2026/10/08/trump-ai-super-intelligence-white-house"
 source: "Axios"
 domain: "axios.com"
 source_type: "community"

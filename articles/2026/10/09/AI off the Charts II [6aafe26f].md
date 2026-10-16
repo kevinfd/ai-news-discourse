@@ -2,6 +2,7 @@
 id: "6aafe26fbc433fb5"
 title: "AI off the Charts II"
 url: "https://ai-supremacy.com/p/ai-off-the-charts-ii-state-of-ai-2026-chart-summary"
+link: "https://ai-supremacy.com/p/ai-off-the-charts-ii-state-of-ai-2026-chart-summary"
 source: "AI Supremacy"
 domain: "ai-supremacy.com"
 source_type: "newsletter"

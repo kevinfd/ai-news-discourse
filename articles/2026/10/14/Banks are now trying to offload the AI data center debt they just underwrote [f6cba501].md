@@ -2,6 +2,7 @@
 id: "f6cba501345f0b73"
 title: "Banks are now trying to offload the AI data center debt they just underwrote"
 url: "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote"
+link: "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote"
 source: "Startup Fortune"
 domain: "startupfortune.com"
 source_type: "community"

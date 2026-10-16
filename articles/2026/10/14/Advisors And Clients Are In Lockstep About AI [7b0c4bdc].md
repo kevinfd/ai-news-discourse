@@ -2,6 +2,7 @@
 id: "7b0c4bdcf580055a"
 title: "Advisors And Clients Are In Lockstep About AI"
 url: "https://forbes.com/councils/forbesfinancecouncil/2026/10/14/advisors-and-clients-are-in-lockstep-about-ai"
+link: "https://forbes.com/councils/forbesfinancecouncil/2026/10/14/advisors-and-clients-are-in-lockstep-about-ai"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

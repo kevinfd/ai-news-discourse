@@ -2,6 +2,7 @@
 id: "09e091667d56f96f"
 title: "Has anyone figured out how to fix the forced routing to GPT6 when you explicitly have 5.6 Sol selected?"
 url: "https://reddit.com/r/ChatGPT/comments/1x6ee48/has_anyone_figured_out_how_to_fix_the_forced"
+link: "https://reddit.com/r/ChatGPT/comments/1x6ee48/has_anyone_figured_out_how_to_fix_the_forced"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

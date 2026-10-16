@@ -2,6 +2,7 @@
 id: "6d5df1c7707d5cfb"
 title: "LSEG taps Nvidia for faster historical market data processing"
 url: "https://channelnewsasia.com/business/lseg-taps-nvidia-faster-historical-market-data-processing-6458171"
+link: "https://channelnewsasia.com/business/lseg-taps-nvidia-faster-historical-market-data-processing-6458171"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

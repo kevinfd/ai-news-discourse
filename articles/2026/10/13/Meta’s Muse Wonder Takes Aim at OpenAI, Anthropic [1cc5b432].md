@@ -2,6 +2,7 @@
 id: "1cc5b4329262f426"
 title: "Meta’s Muse Wonder Takes Aim at OpenAI, Anthropic"
 url: "https://bloomberg.com/news/videos/2026-10-13/meta-s-muse-wonder-takes-aim-at-openai-anthropic-video"
+link: "https://bloomberg.com/news/videos/2026-10-13/meta-s-muse-wonder-takes-aim-at-openai-anthropic-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

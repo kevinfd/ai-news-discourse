@@ -2,6 +2,7 @@
 id: "bff8f4bb9453ae44"
 title: "Google’s Latest Android Updates Use AI to Clamp Down on Mobile Scams"
 url: "https://pcmag.com/news/googles-latest-android-updates-use-ai-to-clamp-down-on-mobile-scams"
+link: "https://pcmag.com/news/googles-latest-android-updates-use-ai-to-clamp-down-on-mobile-scams"
 source: "PCMag"
 domain: "pcmag.com"
 source_type: "tech_press"

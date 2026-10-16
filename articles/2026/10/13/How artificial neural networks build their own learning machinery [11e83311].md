@@ -2,6 +2,7 @@
 id: "11e83311a7c54e72"
 title: "How artificial neural networks build their own learning machinery"
 url: "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013"
+link: "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013"
 source: "MIT News"
 domain: "news.mit.edu"
 source_type: "research"

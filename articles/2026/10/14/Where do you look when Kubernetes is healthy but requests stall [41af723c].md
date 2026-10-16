@@ -2,6 +2,7 @@
 id: "41af723c866e82c0"
 title: "Where do you look when Kubernetes is healthy but requests stall?"
 url: "https://thenewstack.io/kubernetes-hidden-latency-telemetry"
+link: "https://thenewstack.io/kubernetes-hidden-latency-telemetry"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

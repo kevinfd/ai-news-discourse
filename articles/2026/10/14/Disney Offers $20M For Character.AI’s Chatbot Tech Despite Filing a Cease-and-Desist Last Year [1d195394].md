@@ -2,6 +2,7 @@
 id: "1d1953941bad75b1"
 title: "Disney Offers $20M For Character.AI’s Chatbot Tech Despite Filing a Cease-and-Desist Last Year"
 url: "https://techtimes.com/articles/329000/20261014/disney-offers-20m-characterais-chatbot-tech-despite-filing-cease-desist-last-year.htm"
+link: "https://techtimes.com/articles/329000/20261014/disney-offers-20m-characterais-chatbot-tech-despite-filing-cease-desist-last-year.htm"
 source: "Tech Times"
 domain: "techtimes.com"
 source_type: "mainstream_news"

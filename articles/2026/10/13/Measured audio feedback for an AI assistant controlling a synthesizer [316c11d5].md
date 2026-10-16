@@ -2,6 +2,7 @@
 id: "316c11d5287d1364"
 title: "Measured audio feedback for an AI assistant controlling a synthesizer"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x53ir7/measured_audio_feedback_for_an_ai_assistant"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x53ir7/measured_audio_feedback_for_an_ai_assistant"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

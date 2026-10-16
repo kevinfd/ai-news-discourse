@@ -2,6 +2,7 @@
 id: "577b1e613f992a59"
 title: "Cops can creep on Airbnb"
 url: "https://404media.co/cops-can-creep-on-airbnb"
+link: "https://404media.co/cops-can-creep-on-airbnb"
 source: "404 Media"
 domain: "404media.co"
 source_type: "tech_press"

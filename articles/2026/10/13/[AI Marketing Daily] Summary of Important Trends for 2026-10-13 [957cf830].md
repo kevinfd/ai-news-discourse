@@ -2,6 +2,7 @@
 id: "957cf830d679d83c"
 title: "[AI Marketing Daily] Summary of Important Trends for 2026-10-13"
 url: "https://note.com/beckcreativ/n/n0d0831c112db?hl=en"
+link: "https://note.com/beckcreativ/n/n0d0831c112db?hl=en"
 source: "note"
 domain: "note.com"
 source_type: "mainstream_news"

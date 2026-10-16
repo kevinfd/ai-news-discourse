@@ -2,6 +2,7 @@
 id: "001d891962cb3046"
 title: "How I predict LLM catastrophes will happen in major countries"
 url: "https:///r/LLMDevs/comments/1x5nn7b/how_i_predict_llm_catastrophes_will_happen_in"
+link: "https:///r/LLMDevs/comments/1x5nn7b/how_i_predict_llm_catastrophes_will_happen_in"
 source: ""
 domain: ""
 source_type: "community"

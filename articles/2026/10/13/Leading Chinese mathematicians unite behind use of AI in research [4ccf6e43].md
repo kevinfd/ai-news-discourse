@@ -2,6 +2,7 @@
 id: "4ccf6e433a5b7949"
 title: "Leading Chinese mathematicians unite behind use of AI in research"
 url: "https://scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research"
+link: "https://scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "community"

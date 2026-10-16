@@ -2,6 +2,7 @@
 id: "781aea6e31389948"
 title: "Claude news roundup (Oct 13): Torvalds drafts a kernel patch with Claude Code, Epic tells devs \"no more hand-written code\""
 url: "https://reddit.com/r/ClaudeAI/comments/1x4hfmg/claude_news_roundup_oct_13_torvalds_drafts_a"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4hfmg/claude_news_roundup_oct_13_torvalds_drafts_a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

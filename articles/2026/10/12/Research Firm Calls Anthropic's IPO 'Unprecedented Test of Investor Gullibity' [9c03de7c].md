@@ -2,6 +2,7 @@
 id: "9c03de7cac4a1322"
 title: "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'"
 url: "https://cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html"
+link: "https://cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "community"

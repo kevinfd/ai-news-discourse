@@ -2,6 +2,7 @@
 id: "50fe4fc9a0039890"
 title: "Google’s new Fitbit Edge solves my biggest gripe with the Pixel Watch"
 url: "https://zdnet.com/tech/googles-new-fitbit-edge-solves-my-biggest-gripe-with-the-pixel-watch"
+link: "https://zdnet.com/tech/googles-new-fitbit-edge-solves-my-biggest-gripe-with-the-pixel-watch"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

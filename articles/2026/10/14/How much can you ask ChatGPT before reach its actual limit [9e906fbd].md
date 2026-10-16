@@ -2,6 +2,7 @@
 id: "9e906fbd686f166f"
 title: "How much can you ask ChatGPT before reach its actual limit?"
 url: "https://reddit.com/r/ChatGPT/comments/1x5wd1r/how_much_can_you_ask_chatgpt_before_reach_its"
+link: "https://reddit.com/r/ChatGPT/comments/1x5wd1r/how_much_can_you_ask_chatgpt_before_reach_its"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

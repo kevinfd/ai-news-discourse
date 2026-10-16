@@ -2,6 +2,7 @@
 id: "7c720624312f28b5"
 title: "MAIA: Interview of Guillaume Princen on Anthropic’s AI Strategy"
 url: "https://bloomberg.com/news/videos/2026-10-14/anthropic-s-princen-on-ai-safety-concerns-video"
+link: "https://bloomberg.com/news/videos/2026-10-14/anthropic-s-princen-on-ai-safety-concerns-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

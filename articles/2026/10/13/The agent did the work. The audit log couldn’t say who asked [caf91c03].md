@@ -2,6 +2,7 @@
 id: "caf91c03b2d61eda"
 title: "The agent did the work. The audit log couldn’t say who asked."
 url: "https://thenewstack.io/ai-agent-credentials-identity-provider"
+link: "https://thenewstack.io/ai-agent-credentials-identity-provider"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

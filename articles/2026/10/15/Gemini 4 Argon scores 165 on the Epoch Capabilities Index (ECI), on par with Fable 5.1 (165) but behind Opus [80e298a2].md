@@ -2,6 +2,7 @@
 id: "80e298a2cc3a7b78"
 title: "Gemini 4 Argon scores 165 on the Epoch Capabilities Index (ECI), on par with Fable 5.1 (165) but behind Opus 5.5 (167) and GPT-6 Astra (166)."
 url: "https://reddit.com/r/singularity/comments/1x6j76i/gemini_4_argon_scores_165_on_the_epoch"
+link: "https://reddit.com/r/singularity/comments/1x6j76i/gemini_4_argon_scores_165_on_the_epoch"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

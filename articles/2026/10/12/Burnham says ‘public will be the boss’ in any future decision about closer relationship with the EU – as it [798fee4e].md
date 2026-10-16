@@ -2,6 +2,7 @@
 id: "798fee4eeb6a1e0b"
 title: "Burnham says ‘public will be the boss’ in any future decision about closer relationship with the EU – as it happened"
 url: "https://theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest"
+link: "https://theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

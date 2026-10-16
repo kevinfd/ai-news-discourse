@@ -2,6 +2,7 @@
 id: "2f3282e483141f68"
 title: "The EU’s next chapter in AI is agentic"
 url: "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+link: "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

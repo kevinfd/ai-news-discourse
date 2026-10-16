@@ -2,6 +2,7 @@
 id: "d15a3dcd8e86d68f"
 title: "'Careless use of AI is the real threat - not the ghost stories'"
 url: "https://bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_campaign=rss&at_medium=RSS"
+link: "https://bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_campaign=rss&at_medium=RSS"
 source: "BBC News"
 domain: "bbc.co.uk"
 source_type: "mainstream_news"

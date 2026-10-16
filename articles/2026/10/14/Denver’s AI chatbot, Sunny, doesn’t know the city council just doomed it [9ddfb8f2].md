@@ -2,6 +2,7 @@
 id: "9ddfb8f2b609d08a"
 title: "Denver’s AI chatbot, Sunny, doesn’t know the city council just doomed it"
 url: "https://denverite.com/2026/10/14/denver-website-ai-chatbot"
+link: "https://denverite.com/2026/10/14/denver-website-ai-chatbot"
 source: "Denverite"
 domain: "denverite.com"
 source_type: "mainstream_news"

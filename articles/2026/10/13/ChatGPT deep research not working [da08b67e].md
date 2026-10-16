@@ -2,6 +2,7 @@
 id: "da08b67eb0e757be"
 title: "ChatGPT deep research not working?"
 url: "https://reddit.com/r/ChatGPT/comments/1x57ph7/chatgpt_deep_research_not_working"
+link: "https://reddit.com/r/ChatGPT/comments/1x57ph7/chatgpt_deep_research_not_working"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

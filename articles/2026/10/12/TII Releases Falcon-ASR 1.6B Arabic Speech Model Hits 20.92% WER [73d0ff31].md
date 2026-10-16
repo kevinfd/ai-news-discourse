@@ -2,6 +2,7 @@
 id: "73d0ff31d60974a6"
 title: "TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER"
 url: "https://marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition"
+link: "https://marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

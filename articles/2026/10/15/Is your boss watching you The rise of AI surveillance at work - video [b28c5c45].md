@@ -2,6 +2,7 @@
 id: "b28c5c45a369b551"
 title: "Is your boss watching you? The rise of AI surveillance at work - video"
 url: "https://theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video"
+link: "https://theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

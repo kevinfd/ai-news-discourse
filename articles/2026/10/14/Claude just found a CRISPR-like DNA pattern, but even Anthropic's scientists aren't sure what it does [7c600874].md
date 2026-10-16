@@ -2,6 +2,7 @@
 id: "7c60087412687908"
 title: "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does"
 url: "https://scientificamerican.com/article/claude-just-found-a-crispr-like-dna-pattern-but-even-anthropics-scientists-arent-sure-what-it-does"
+link: "https://scientificamerican.com/article/claude-just-found-a-crispr-like-dna-pattern-but-even-anthropics-scientists-arent-sure-what-it-does"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

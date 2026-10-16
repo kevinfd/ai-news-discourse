@@ -2,6 +2,7 @@
 id: "17f3055d10707e47"
 title: "When a chat finally gets it right, ask it to write the prompt that would have gotten there in one message"
 url: "https://reddit.com/r/ChatGPT/comments/1x4zd4r/when_a_chat_finally_gets_it_right_ask_it_to_write"
+link: "https://reddit.com/r/ChatGPT/comments/1x4zd4r/when_a_chat_finally_gets_it_right_ask_it_to_write"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

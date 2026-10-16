@@ -2,6 +2,7 @@
 id: "62ad3d61ab841d28"
 title: "CERN partners with Mistral to build a Large Physics Model"
 url: "https://cryptobriefing.com/cern-mistral-large-physics-model"
+link: "https://cryptobriefing.com/cern-mistral-large-physics-model"
 source: "Crypto Briefing"
 domain: "cryptobriefing.com"
 source_type: "mainstream_news"

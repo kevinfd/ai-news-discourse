@@ -2,6 +2,7 @@
 id: "9cdd95d0c92b0ab9"
 title: "Zuckerberg says Meta has reached AI ‘frontier’"
 url: "https://ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1"
+link: "https://ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

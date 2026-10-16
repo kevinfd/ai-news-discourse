@@ -2,6 +2,7 @@
 id: "d522661776d77599"
 title: "OpenAI’s Plan To Revive Sora"
 url: "https://theinformation.com/articles/openais-plan-revive-sora"
+link: "https://theinformation.com/articles/openais-plan-revive-sora"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "ccfa76baee9a2b4b"
 title: "Use of AI in job interviews on the rise – but UK recruiters say they can spot the cheats"
 url: "https://theguardian.com/technology/2026/oct/14/use-of-ai-job-interviews-on-rise-uk-recruiters-cheats"
+link: "https://theguardian.com/technology/2026/oct/14/use-of-ai-job-interviews-on-rise-uk-recruiters-cheats"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

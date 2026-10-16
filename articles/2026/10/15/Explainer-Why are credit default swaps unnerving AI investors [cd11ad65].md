@@ -2,6 +2,7 @@
 id: "cd11ad65ab8d4400"
 title: "Explainer-Why are credit default swaps unnerving AI investors?"
 url: "https://channelnewsasia.com/business/explainer-why-are-credit-default-swaps-unnerving-ai-investors-6462301"
+link: "https://channelnewsasia.com/business/explainer-why-are-credit-default-swaps-unnerving-ai-investors-6462301"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

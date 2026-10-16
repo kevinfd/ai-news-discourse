@@ -2,6 +2,7 @@
 id: "c3dd83ddf525206a"
 title: "AI or SI or Computer intelligence?"
 url: "https://reddit.com/r/artificial/comments/1x5j9jo/ai_or_si_or_computer_intelligence"
+link: "https://reddit.com/r/artificial/comments/1x5j9jo/ai_or_si_or_computer_intelligence"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

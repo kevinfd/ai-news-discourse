@@ -2,6 +2,7 @@
 id: "6b9359b3ebf2e0fc"
 title: "You're saving one minute and now I can't know if I'm talking a human"
 url: "https://news.ycombinator.com/item?id=50009712"
+link: "https://news.ycombinator.com/item?id=50009712"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

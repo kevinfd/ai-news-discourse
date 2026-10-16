@@ -2,6 +2,7 @@
 id: "a9e2bcaf20d2be4f"
 title: "ChatGPT senses fear"
 url: "https://reddit.com/r/ChatGPT/comments/1x6h1oo/chatgpt_senses_fear"
+link: "https://reddit.com/r/ChatGPT/comments/1x6h1oo/chatgpt_senses_fear"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

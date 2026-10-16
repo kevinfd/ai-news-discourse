@@ -2,6 +2,7 @@
 id: "3a7e517f900ca5af"
 title: "Nobel week: light-controlled brains, particles from outer space and mirror molecules"
 url: "https://scientificamerican.com/podcast/episode/nobel-week-light-controlled-brains-particles-from-outer-space-and-mirror-molecules"
+link: "https://scientificamerican.com/podcast/episode/nobel-week-light-controlled-brains-particles-from-outer-space-and-mirror-molecules"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

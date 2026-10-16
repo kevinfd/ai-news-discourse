@@ -2,6 +2,7 @@
 id: "29ba840ccc073f48"
 title: "Google’s Demis Hassabis Puts a Hopeful Spin on AI’s Environmental Impact"
 url: "https://cnet.com/tech/services-and-software/international-ai-summit-demis-hassabis-climate"
+link: "https://cnet.com/tech/services-and-software/international-ai-summit-demis-hassabis-climate"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

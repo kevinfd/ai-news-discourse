@@ -2,6 +2,7 @@
 id: "70093601d1461d3d"
 title: "Judge orders OpenAI to turn over hiring records in Apple trade secrets case"
 url: "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case"
+link: "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

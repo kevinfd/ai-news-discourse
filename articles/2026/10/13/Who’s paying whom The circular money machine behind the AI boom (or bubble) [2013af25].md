@@ -2,6 +2,7 @@
 id: "2013af253e5933fc"
 title: "Who’s paying whom? The circular money machine behind the AI boom (or bubble)"
 url: "https://theconversation.com/whos-paying-whom-the-circular-money-machine-behind-the-ai-boom-or-bubble-293938"
+link: "https://theconversation.com/whos-paying-whom-the-circular-money-machine-behind-the-ai-boom-or-bubble-293938"
 source: "The Conversation"
 domain: "theconversation.com"
 source_type: "mainstream_news"

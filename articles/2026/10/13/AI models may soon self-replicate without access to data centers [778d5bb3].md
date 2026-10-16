@@ -2,6 +2,7 @@
 id: "778d5bb3cc44f445"
 title: "AI models may soon self-replicate without access to data centers"
 url: "https://reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13"
+link: "https://reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13"
 source: "Reuters"
 domain: "reuters.com"
 source_type: "community"

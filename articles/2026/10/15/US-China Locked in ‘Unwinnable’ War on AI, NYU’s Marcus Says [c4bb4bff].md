@@ -2,6 +2,7 @@
 id: "c4bb4bff33dea762"
 title: "US-China Locked in ‘Unwinnable’ War on AI, NYU’s Marcus Says"
 url: "https://bloomberg.com/news/articles/2026-10-15/us-china-locked-in-unwinnable-war-on-ai-nyu-s-marcus-says"
+link: "https://bloomberg.com/news/articles/2026-10-15/us-china-locked-in-unwinnable-war-on-ai-nyu-s-marcus-says"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

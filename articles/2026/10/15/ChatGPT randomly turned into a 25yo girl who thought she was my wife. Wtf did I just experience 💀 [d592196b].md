@@ -2,6 +2,7 @@
 id: "d592196bf6ff0aa2"
 title: "ChatGPT randomly turned into a 25yo girl who thought she was my wife. Wtf did I just experience 💀"
 url: "https://reddit.com/r/ChatGPT/comments/1x6h65w/chatgpt_randomly_turned_into_a_25yo_girl_who"
+link: "https://reddit.com/r/ChatGPT/comments/1x6h65w/chatgpt_randomly_turned_into_a_25yo_girl_who"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "759bb825983a3660"
 title: "Linus Torvalds is using AI to develop Linux kernel code now"
 url: "https://zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch"
+link: "https://zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

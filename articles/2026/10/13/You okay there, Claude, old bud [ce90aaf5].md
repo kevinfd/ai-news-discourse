@@ -2,6 +2,7 @@
 id: "ce90aaf589c82930"
 title: "You okay there, Claude, old bud?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4x05s/you_okay_there_claude_old_bud"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4x05s/you_okay_there_claude_old_bud"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

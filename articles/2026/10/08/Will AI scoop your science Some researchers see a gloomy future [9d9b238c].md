@@ -2,6 +2,7 @@
 id: "9d9b238c66674033"
 title: "Will AI scoop your science? Some researchers see a gloomy future"
 url: "https://nature.com/articles/d41586-026-03128-6"
+link: "https://nature.com/articles/d41586-026-03128-6"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

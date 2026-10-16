@@ -2,6 +2,7 @@
 id: "c84d78ab9d51b339"
 title: "Show HN: Free open source Adobe Lightroom alternative, completely local with AI"
 url: "https://github.com/thesnarkitecht/rembrandt"
+link: "https://github.com/thesnarkitecht/rembrandt"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

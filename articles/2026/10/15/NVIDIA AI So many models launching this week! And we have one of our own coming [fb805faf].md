@@ -2,6 +2,7 @@
 id: "fb805fafa5ac436e"
 title: "NVIDIA AI: So many models launching this week! And we have one of our own coming..."
 url: "https://reddit.com/r/LocalLLaMA/comments/1x6ijlk/nvidia_ai_so_many_models_launching_this_week_and"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x6ijlk/nvidia_ai_so_many_models_launching_this_week_and"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

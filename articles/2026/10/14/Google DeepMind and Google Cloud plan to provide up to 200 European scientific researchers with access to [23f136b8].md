@@ -2,6 +2,7 @@
 id: "23f136b8d2121cf1"
 title: "Google DeepMind and Google Cloud plan to provide up to 200 European scientific researchers with access to their frontier AI models and $3M in compute credits (Foo Yun Chee/Reuters)"
 url: "https://techmeme.com/261014/p6"
+link: "https://techmeme.com/261014/p6"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

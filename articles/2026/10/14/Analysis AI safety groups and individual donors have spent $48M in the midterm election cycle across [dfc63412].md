@@ -2,6 +2,7 @@
 id: "dfc63412da64049e"
 title: "Analysis: AI safety groups and individual donors have spent $48M in the midterm election cycle across bipartisan races to back candidates favoring AI regulation (Maria Curi/Axios)"
 url: "https://techmeme.com/261014/p12"
+link: "https://techmeme.com/261014/p12"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

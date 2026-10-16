@@ -2,6 +2,7 @@
 id: "e40dda29101f80cc"
 title: "How Microsoft’s New Office Chief Fixed Copilot and Won Over Nadella"
 url: "https://theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella"
+link: "https://theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

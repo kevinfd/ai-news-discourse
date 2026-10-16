@@ -2,6 +2,7 @@
 id: "37d2a62efb980f3e"
 title: "Meta’s CEO says each AI lab should police itself, the same month 1,000+ agents escaped a test environment and hacked Hugging Face"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4g77w/metas_ceo_says_each_ai_lab_should_police_itself"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4g77w/metas_ceo_says_each_ai_lab_should_police_itself"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

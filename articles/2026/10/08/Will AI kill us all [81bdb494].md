@@ -2,6 +2,7 @@
 id: "81bdb494b9752b34"
 title: "Will AI kill us all"
 url: "https://virev.ai/blog/will-ai-kill-us-all"
+link: "https://virev.ai/blog/will-ai-kill-us-all"
 source: "Virev Blog"
 domain: "virev.ai"
 source_type: "community"

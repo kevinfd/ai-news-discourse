@@ -2,6 +2,7 @@
 id: "96179ff094ebb0d5"
 title: "AI’s mathematics blitz pushes science into strange new territory"
 url: "https://economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory"
+link: "https://economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory"
 source: "The Economist"
 domain: "economist.com"
 source_type: "mainstream_news"

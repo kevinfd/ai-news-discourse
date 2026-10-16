@@ -2,6 +2,7 @@
 id: "02d138237cc3b3a5"
 title: "NTT to Build Data Center for Anthropic in Osaka! The Impact of a Potential 1 Trillion Yen AI Hub on Japan"
 url: "https://note.com/major_flax8842/n/nf2800abe9a38?hl=en"
+link: "https://note.com/major_flax8842/n/nf2800abe9a38?hl=en"
 source: "note"
 domain: "note.com"
 source_type: "mainstream_news"

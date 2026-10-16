@@ -2,6 +2,7 @@
 id: "e064a47272b7898f"
 title: "I'm a CEO and a mom. I built AI agents to help run my household — and save hours every week."
 url: "https://businessinsider.com/mom-ai-agents-school-sports-schedules-ceo-2026-10"
+link: "https://businessinsider.com/mom-ai-agents-school-sports-schedules-ceo-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

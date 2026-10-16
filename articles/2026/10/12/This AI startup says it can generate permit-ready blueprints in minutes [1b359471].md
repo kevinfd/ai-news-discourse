@@ -2,6 +2,7 @@
 id: "1b3594718c485142"
 title: "This AI startup says it can generate permit-ready blueprints in minutes"
 url: "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes"
+link: "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

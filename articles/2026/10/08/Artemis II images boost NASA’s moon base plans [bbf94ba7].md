@@ -2,6 +2,7 @@
 id: "bbf94ba7bd267d2f"
 title: "Artemis II images boost NASA’s moon base plans"
 url: "https://scientificamerican.com/article/artemis-ii-images-boost-nasas-moon-base-plans"
+link: "https://scientificamerican.com/article/artemis-ii-images-boost-nasas-moon-base-plans"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

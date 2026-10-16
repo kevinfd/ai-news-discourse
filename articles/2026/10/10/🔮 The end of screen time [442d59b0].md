@@ -2,6 +2,7 @@
 id: "442d59b0029b7d3d"
 title: "🔮 The end of screen time"
 url: "https://exponentialview.co/p/the-end-of-screen-time"
+link: "https://exponentialview.co/p/the-end-of-screen-time"
 source: "Exponential View"
 domain: "exponentialview.co"
 source_type: "newsletter"

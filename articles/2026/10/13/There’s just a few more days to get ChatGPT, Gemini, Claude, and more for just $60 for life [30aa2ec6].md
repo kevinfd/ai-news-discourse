@@ -2,6 +2,7 @@
 id: "30aa2ec6b44cd08b"
 title: "There’s just a few more days to get ChatGPT, Gemini, Claude, and more for just $60 for life"
 url: "https://mashable.com/tech/oct-12-chatplayground-ai-unlimited-plan-lifetime-subscriptions"
+link: "https://mashable.com/tech/oct-12-chatplayground-ai-unlimited-plan-lifetime-subscriptions"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

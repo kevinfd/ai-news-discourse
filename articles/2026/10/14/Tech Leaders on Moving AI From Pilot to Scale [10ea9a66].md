@@ -2,6 +2,7 @@
 id: "10ea9a6627a52786"
 title: "Tech Leaders on Moving AI From Pilot to Scale"
 url: "https://bloomberg.com/news/videos/2026-10-14/tech-leaders-on-moving-ai-from-pilot-to-scale-video"
+link: "https://bloomberg.com/news/videos/2026-10-14/tech-leaders-on-moving-ai-from-pilot-to-scale-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

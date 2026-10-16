@@ -2,6 +2,7 @@
 id: "963b8184663b383e"
 title: "Quoting Matthew Green"
 url: "https://simonwillison.net/2026/Oct/9/matthew-green"
+link: "https://simonwillison.net/2026/Oct/9/matthew-green"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

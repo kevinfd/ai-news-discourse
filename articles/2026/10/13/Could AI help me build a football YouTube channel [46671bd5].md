@@ -2,6 +2,7 @@
 id: "46671bd5c58599e1"
 title: "Could AI help me build a football YouTube channel?"
 url: "https://reddit.com/r/artificial/comments/1x4zvgs/could_ai_help_me_build_a_football_youtube_channel"
+link: "https://reddit.com/r/artificial/comments/1x4zvgs/could_ai_help_me_build_a_football_youtube_channel"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "7eece8151429ca18"
 title: "The huge lurking leverage of AI hyperscalers"
 url: "https://ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1"
+link: "https://ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

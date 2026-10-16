@@ -2,6 +2,7 @@
 id: "8d1b5970f0e4c138"
 title: "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next"
 url: "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next"
+link: "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

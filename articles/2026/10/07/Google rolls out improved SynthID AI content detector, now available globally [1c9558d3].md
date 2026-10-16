@@ -2,6 +2,7 @@
 id: "1c9558d381626972"
 title: "Google rolls out improved SynthID AI content detector, now available globally"
 url: "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally"
+link: "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

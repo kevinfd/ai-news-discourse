@@ -2,6 +2,7 @@
 id: "9f821e3d4347028f"
 title: "Adobe rebuilt Photoshop and Premiere for NVIDIA's RTX Spark platform"
 url: "https://engadget.com/2287388/adobe-rebuilt-photoshop-and-premiere-for-nvidia-rtx-spark"
+link: "https://engadget.com/2287388/adobe-rebuilt-photoshop-and-premiere-for-nvidia-rtx-spark"
 source: "Engadget"
 domain: "engadget.com"
 source_type: "tech_press"

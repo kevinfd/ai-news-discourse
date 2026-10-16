@@ -2,6 +2,7 @@
 id: "909023be3271eb60"
 title: "Denmark’s biggest retailer is training robots for supermarket night shifts. When will they be ready?"
 url: "https://euronews.com/2026/10/14/denmarks-biggest-retailer-is-training-robots-for-supermarket-night-shifts-when-will-they-b"
+link: "https://euronews.com/2026/10/14/denmarks-biggest-retailer-is-training-robots-for-supermarket-night-shifts-when-will-they-b"
 source: "Euronews"
 domain: "euronews.com"
 source_type: "mainstream_news"

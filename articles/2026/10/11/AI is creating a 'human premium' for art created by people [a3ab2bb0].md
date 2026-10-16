@@ -2,6 +2,7 @@
 id: "a3ab2bb084c5484e"
 title: "AI is creating a 'human premium' for art created by people"
 url: "https://bbc.com/news/articles/c5vgjm3gk7rzo"
+link: "https://bbc.com/news/articles/c5vgjm3gk7rzo"
 source: "BBC News"
 domain: "bbc.com"
 source_type: "community"

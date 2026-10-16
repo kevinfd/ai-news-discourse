@@ -2,6 +2,7 @@
 id: "8fb6a2676a9aebcb"
 title: "How often do you actually run /insights?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x6g720/how_often_do_you_actually_run_insights"
+link: "https://reddit.com/r/ClaudeAI/comments/1x6g720/how_often_do_you_actually_run_insights"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

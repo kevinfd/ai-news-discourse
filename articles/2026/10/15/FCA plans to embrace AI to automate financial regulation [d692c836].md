@@ -2,6 +2,7 @@
 id: "d692c8367743b387"
 title: "FCA plans to embrace AI to automate financial regulation"
 url: "https://ft.com/content/3a9364ec-6930-4877-a1a2-c053dd689760?syn-25a6b1a6=1"
+link: "https://ft.com/content/3a9364ec-6930-4877-a1a2-c053dd689760?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "4d9e9cd041b7c402"
 title: "Anthropic Executive Says Open-Source AI Models Are Higher Risk"
 url: "https://bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk"
+link: "https://bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

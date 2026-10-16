@@ -2,6 +2,7 @@
 id: "592496c5dbdf66ec"
 title: "The super intelligence shit is a humiliation ritual for OpenAI"
 url: "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z"
+link: "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z"
 source: "Bsky"
 domain: "bsky.app"
 source_type: "community"

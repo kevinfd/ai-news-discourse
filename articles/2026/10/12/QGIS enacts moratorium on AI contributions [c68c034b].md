@@ -2,6 +2,7 @@
 id: "c68c034bd72cd63d"
 title: "QGIS enacts moratorium on AI contributions"
 url: "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
+link: "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

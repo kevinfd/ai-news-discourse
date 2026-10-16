@@ -2,6 +2,7 @@
 id: "58a3a523b50eafe7"
 title: "Hurricane Isaias just set a new record for Atlantic storms"
 url: "https://scientificamerican.com/article/hurricane-isaias-just-set-a-new-record-for-atlantic-storms"
+link: "https://scientificamerican.com/article/hurricane-isaias-just-set-a-new-record-for-atlantic-storms"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

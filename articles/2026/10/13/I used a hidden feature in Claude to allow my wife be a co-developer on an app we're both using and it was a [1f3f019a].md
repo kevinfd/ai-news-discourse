@@ -2,6 +2,7 @@
 id: "1f3f019a0097718d"
 title: "I used a hidden feature in Claude to allow my wife be a co-developer on an app we're both using and it was a good decision"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4xfet/i_used_a_hidden_feature_in_claude_to_allow_my"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4xfet/i_used_a_hidden_feature_in_claude_to_allow_my"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

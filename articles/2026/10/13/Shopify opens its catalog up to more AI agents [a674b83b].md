@@ -2,6 +2,7 @@
 id: "a674b83b3ddb344d"
 title: "Shopify opens its catalog up to more AI agents"
 url: "https://theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
+link: "https://theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

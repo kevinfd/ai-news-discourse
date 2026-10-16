@@ -2,6 +2,7 @@
 id: "661776efa62d6bdf"
 title: "I made Claude sign up for my app as a brand-new user and tell me everywhere it got stuck"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5eblc/i_made_claude_sign_up_for_my_app_as_a_brandnew"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5eblc/i_made_claude_sign_up_for_my_app_as_a_brandnew"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

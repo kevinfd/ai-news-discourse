@@ -2,6 +2,7 @@
 id: "9905e8c005224d2d"
 title: "Ask HN: How do you review code nowadays?"
 url: "https://news.ycombinator.com/item?id=50076575"
+link: "https://news.ycombinator.com/item?id=50076575"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

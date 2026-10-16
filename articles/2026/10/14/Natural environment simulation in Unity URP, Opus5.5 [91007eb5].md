@@ -2,6 +2,7 @@
 id: "91007eb52d686ce6"
 title: "Natural environment simulation in Unity URP, Opus5.5."
 url: "https://reddit.com/r/ClaudeAI/comments/1x658de/natural_environment_simulation_in_unity_urp_opus55"
+link: "https://reddit.com/r/ClaudeAI/comments/1x658de/natural_environment_simulation_in_unity_urp_opus55"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

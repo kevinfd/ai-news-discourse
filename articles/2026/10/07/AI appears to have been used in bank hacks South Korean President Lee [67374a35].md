@@ -2,6 +2,7 @@
 id: "67374a3516b80a59"
 title: "AI appears to have been used in bank hacks: South Korean President Lee"
 url: "https://thehindu.com/sci-tech/technology/ai-appears-to-have-been-used-in-bank-hacks-south-korean-president-lee/article71554373.ece"
+link: "https://thehindu.com/sci-tech/technology/ai-appears-to-have-been-used-in-bank-hacks-south-korean-president-lee/article71554373.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

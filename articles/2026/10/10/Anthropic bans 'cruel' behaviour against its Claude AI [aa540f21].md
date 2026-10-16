@@ -2,6 +2,7 @@
 id: "aa540f2175ddf9a1"
 title: "Anthropic bans 'cruel' behaviour against its Claude AI"
 url: "https://thehindu.com/sci-tech/technology/anthropic-bans-cruel-behaviour-against-its-claude-ai/article71562464.ece"
+link: "https://thehindu.com/sci-tech/technology/anthropic-bans-cruel-behaviour-against-its-claude-ai/article71562464.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

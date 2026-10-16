@@ -2,6 +2,7 @@
 id: "435b666b144d702c"
 title: "He helped build Meta’s smart-glasses technology. Now he wants to take on Big Tech’s grip on personal AI"
 url: "https://fastcompany.com/91623703/ash-saulsbury-awear-ai?partner=rss"
+link: "https://fastcompany.com/91623703/ash-saulsbury-awear-ai?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

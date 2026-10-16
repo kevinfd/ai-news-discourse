@@ -2,6 +2,7 @@
 id: "ffa500b2f8c0e38e"
 title: "YouTube Will Begin Labeling AI-Generated Music"
 url: "https://cordcuttersnews.com/youtube-will-begin-labeling-ai-generated-music"
+link: "https://cordcuttersnews.com/youtube-will-begin-labeling-ai-generated-music"
 source: "Cord Cutters News"
 domain: "cordcuttersnews.com"
 source_type: "mainstream_news"

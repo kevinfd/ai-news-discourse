@@ -2,6 +2,7 @@
 id: "7855a09f0a295b5d"
 title: "Claude Code's new UI update is too ugly."
 url: "https://reddit.com/r/ClaudeAI/comments/1x5vkpv/claude_codes_new_ui_update_is_too_ugly"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5vkpv/claude_codes_new_ui_update_is_too_ugly"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

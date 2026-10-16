@@ -2,6 +2,7 @@
 id: "8bf1e3ba83de5332"
 title: "📈 What is bigger than AI?"
 url: "https://exponentialview.co/p/what-is-bigger-than-ai"
+link: "https://exponentialview.co/p/what-is-bigger-than-ai"
 source: "Exponential View"
 domain: "exponentialview.co"
 source_type: "newsletter"

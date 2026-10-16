@@ -2,6 +2,7 @@
 id: "873b15cbb26f5a6c"
 title: "I'm a non-dev marketer and I stopped buying marketing tools because I can now build them!"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4rie8/im_a_nondev_marketer_and_i_stopped_buying"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4rie8/im_a_nondev_marketer_and_i_stopped_buying"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

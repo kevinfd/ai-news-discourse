@@ -2,6 +2,7 @@
 id: "c11b8b011c289276"
 title: "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech"
 url: "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech"
+link: "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

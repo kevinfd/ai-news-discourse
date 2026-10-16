@@ -2,6 +2,7 @@
 id: "ca46a2fab5ba8485"
 title: "Beyond hours saved: Building the business case for agentic automation"
 url: "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation"
+link: "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

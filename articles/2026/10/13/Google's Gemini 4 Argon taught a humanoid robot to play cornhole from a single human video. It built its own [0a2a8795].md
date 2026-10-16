@@ -2,6 +2,7 @@
 id: "0a2a8795b82d4a4e"
 title: "Google's Gemini 4 Argon taught a humanoid robot to play cornhole from a single human video. It built its own physics simulator, trained the throws, and refined them on the real robot. Apollo then landed 7 shots in a row. Google says this cuts weeks of robotics engineering down to hours."
 url: "https://reddit.com/r/singularity/comments/1x58mbn/googles_gemini_4_argon_taught_a_humanoid_robot_to"
+link: "https://reddit.com/r/singularity/comments/1x58mbn/googles_gemini_4_argon_taught_a_humanoid_robot_to"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

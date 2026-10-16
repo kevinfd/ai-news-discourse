@@ -2,6 +2,7 @@
 id: "d41e6885a08966f6"
 title: "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots"
 url: "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots"
+link: "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots"
 source: "IEEE Spectrum"
 domain: "content.knowledgehub.wiley.com"
 source_type: "tech_press"

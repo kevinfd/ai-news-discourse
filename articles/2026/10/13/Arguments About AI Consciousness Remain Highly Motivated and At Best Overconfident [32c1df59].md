@@ -2,6 +2,7 @@
 id: "32c1df5976df6df3"
 title: "Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident"
 url: "https://thezvi.substack.com/p/arguments-about-ai-consciousness-b99"
+link: "https://thezvi.substack.com/p/arguments-about-ai-consciousness-b99"
 source: "Don't Worry About the Vase"
 domain: "thezvi.substack.com"
 source_type: "newsletter"

@@ -2,6 +2,7 @@
 id: "f9f2d005a441df20"
 title: "Cerence AI and Geely Advance Human-Machine Interaction Through Robotics Technology Services Partnership"
 url: "https://manilatimes.net/2026/10/15/tmt-newswire/globenewswire/cerence-ai-and-geely-advance-human-machine-interaction-through-robotics-technology-services-partnership/2446230"
+link: "https://manilatimes.net/2026/10/15/tmt-newswire/globenewswire/cerence-ai-and-geely-advance-human-machine-interaction-through-robotics-technology-services-partnership/2446230"
 source: "The Manila Times"
 domain: "manilatimes.net"
 source_type: "mainstream_news"

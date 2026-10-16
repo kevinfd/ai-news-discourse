@@ -2,6 +2,7 @@
 id: "2e74fa48028a45c5"
 title: "What is Google's latest AI 'Gemini 4 Argon'? A thorough explanation of its amazing reasoning power and use cases!"
 url: "https://note.com/tokugiman/n/nc3ebff3bdc6a?hl=en"
+link: "https://note.com/tokugiman/n/nc3ebff3bdc6a?hl=en"
 source: "note"
 domain: "note.com"
 source_type: "mainstream_news"

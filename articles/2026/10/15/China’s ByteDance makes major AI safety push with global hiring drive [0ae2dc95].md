@@ -2,6 +2,7 @@
 id: "0ae2dc954b1df7bf"
 title: "China’s ByteDance makes major AI safety push with global hiring drive"
 url: "https://thenews.com.pk/latest/1420031-chinas-bytedance-makes-major-ai-safety-push-with-global-hiring-drive"
+link: "https://thenews.com.pk/latest/1420031-chinas-bytedance-makes-major-ai-safety-push-with-global-hiring-drive"
 source: "The News International"
 domain: "thenews.com.pk"
 source_type: "mainstream_news"

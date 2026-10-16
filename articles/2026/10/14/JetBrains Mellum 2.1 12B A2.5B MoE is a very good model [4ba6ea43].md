@@ -2,6 +2,7 @@
 id: "4ba6ea43b7308139"
 title: "JetBrains Mellum 2.1 12B A2.5B MoE is a very good model."
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5uqcu/jetbrains_mellum_21_12b_a25b_moe_is_a_very_good"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5uqcu/jetbrains_mellum_21_12b_a25b_moe_is_a_very_good"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

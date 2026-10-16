@@ -2,6 +2,7 @@
 id: "483119fbc0beb9dd"
 title: "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI"
 url: "https://cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html"
+link: "https://cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "48926f953b564848"
 title: "Show HN: MemorySync – Memory for AI Agents"
 url: "https://memorysync.io/try"
+link: "https://memorysync.io/try"
 source: "MemorySync"
 domain: "memorysync.io"
 source_type: "community"

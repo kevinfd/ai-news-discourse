@@ -2,6 +2,7 @@
 id: "29dda6791d4ecdce"
 title: "USA Today sues OpenAI for copyright infringement over AI training"
 url: "https://reuters.com/legal/legalindustry/usa-today-sues-openai-copyright-infringement-over-ai-training-2026-10-08"
+link: "https://reuters.com/legal/legalindustry/usa-today-sues-openai-copyright-infringement-over-ai-training-2026-10-08"
 source: "Reuters"
 domain: "reuters.com"
 source_type: "community"

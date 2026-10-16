@@ -2,6 +2,7 @@
 id: "950fd49d85d3e7d3"
 title: "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s"
 url: "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites"
+link: "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

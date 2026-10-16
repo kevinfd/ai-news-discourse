@@ -2,6 +2,7 @@
 id: "bcf5a85bd00ec598"
 title: "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck"
 url: "https://cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html"
+link: "https://cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

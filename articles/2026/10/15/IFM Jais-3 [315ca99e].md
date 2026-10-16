@@ -2,6 +2,7 @@
 id: "315ca99e535f4cb7"
 title: "IFM/Jais-3"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x6gxj3/ifmjais3"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x6gxj3/ifmjais3"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

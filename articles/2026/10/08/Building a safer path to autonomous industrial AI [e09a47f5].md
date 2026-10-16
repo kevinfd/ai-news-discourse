@@ -2,6 +2,7 @@
 id: "e09a47f5417a68b7"
 title: "Building a safer path to autonomous industrial AI"
 url: "https://technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai"
+link: "https://technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai"
 source: "MIT Technology Review"
 domain: "technologyreview.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "4276cbef1159e8b5"
 title: "Mass. AG joins effort to protect sensitive AI chatbot data in bankruptcy"
 url: "https://masslive.com/politics/2026/10/mass-ag-joins-effort-to-protect-sensitive-ai-chatbot-data-in-bankruptcy.html"
+link: "https://masslive.com/politics/2026/10/mass-ag-joins-effort-to-protect-sensitive-ai-chatbot-data-in-bankruptcy.html"
 source: "MassLive"
 domain: "masslive.com"
 source_type: "mainstream_news"

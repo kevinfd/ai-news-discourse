@@ -2,6 +2,7 @@
 id: "7d7a2e5b65f0e12e"
 title: "To Build Or Buy AI Agents? Here Are The Pros, Cons And Complexities"
 url: "https://forbes.com/councils/forbestechcouncil/2026/10/14/to-build-or-buy-ai-agents-here-are-the-pros-cons-and-complexities"
+link: "https://forbes.com/councils/forbestechcouncil/2026/10/14/to-build-or-buy-ai-agents-here-are-the-pros-cons-and-complexities"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

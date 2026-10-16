@@ -2,6 +2,7 @@
 id: "202df5f4b5999773"
 title: "Are we building superintelligence, or a new religion around AI?"
 url: "https://reddit.com/r/singularity/comments/1x4pxp3/are_we_building_superintelligence_or_a_new"
+link: "https://reddit.com/r/singularity/comments/1x4pxp3/are_we_building_superintelligence_or_a_new"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

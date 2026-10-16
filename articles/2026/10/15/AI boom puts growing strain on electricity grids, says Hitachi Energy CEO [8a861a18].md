@@ -2,6 +2,7 @@
 id: "8a861a18eff0ad66"
 title: "AI boom puts growing strain on electricity grids, says Hitachi Energy CEO"
 url: "https://channelnewsasia.com/business/ai-boom-strain-electricity-grids-hitachi-energy-ceo-6461951"
+link: "https://channelnewsasia.com/business/ai-boom-strain-electricity-grids-hitachi-energy-ceo-6461951"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

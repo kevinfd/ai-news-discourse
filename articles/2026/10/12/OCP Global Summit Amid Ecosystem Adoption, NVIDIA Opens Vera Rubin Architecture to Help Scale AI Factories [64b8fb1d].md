@@ -2,6 +2,7 @@
 id: "64b8fb1d42bf98f3"
 title: "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide"
 url: "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories"
+link: "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories"
 source: "NVIDIA Blog"
 domain: "blogs.nvidia.com"
 source_type: "company_blog"

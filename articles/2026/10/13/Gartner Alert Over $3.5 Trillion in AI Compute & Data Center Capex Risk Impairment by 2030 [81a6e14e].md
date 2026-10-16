@@ -2,6 +2,7 @@
 id: "81a6e14e1a6acbcf"
 title: "Gartner Alert: Over $3.5 Trillion in AI Compute & Data Center Capex Risk Impairment by 2030"
 url: "https://cxotoday.com/ai/gartner-alert-over-3-5-trillion-in-ai-compute-data-center-capex-risk-impairment-by-2030"
+link: "https://cxotoday.com/ai/gartner-alert-over-3-5-trillion-in-ai-compute-data-center-capex-risk-impairment-by-2030"
 source: "CXOtoday"
 domain: "cxotoday.com"
 source_type: "mainstream_news"

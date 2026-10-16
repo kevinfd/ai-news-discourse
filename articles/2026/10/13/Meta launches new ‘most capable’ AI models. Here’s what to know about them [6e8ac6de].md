@@ -2,6 +2,7 @@
 id: "6e8ac6de8aea0eea"
 title: "Meta launches new ‘most capable’ AI models. Here’s what to know about them"
 url: "https://euronews.com/2026/10/13/meta-launches-new-most-capable-ai-models-heres-what-to-know-about-them"
+link: "https://euronews.com/2026/10/13/meta-launches-new-most-capable-ai-models-heres-what-to-know-about-them"
 source: "Euronews"
 domain: "euronews.com"
 source_type: "mainstream_news"

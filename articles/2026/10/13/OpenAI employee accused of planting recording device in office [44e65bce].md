@@ -2,6 +2,7 @@
 id: "44e65bcee3e455c3"
 title: "OpenAI employee accused of planting recording device in office"
 url: "https://cbsnews.com/news/openai-employee-arrest-recording-device"
+link: "https://cbsnews.com/news/openai-employee-arrest-recording-device"
 source: "CBS News"
 domain: "cbsnews.com"
 source_type: "mainstream_news"

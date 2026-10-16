@@ -2,6 +2,7 @@
 id: "259eef55d6a4187b"
 title: "Cohere moves to buy AI cybersecurity startup AISLE"
 url: "https://channelnewsasia.com/business/cohere-moves-buy-ai-cybersecurity-startup-aisle-6461846"
+link: "https://channelnewsasia.com/business/cohere-moves-buy-ai-cybersecurity-startup-aisle-6461846"
 source: "Channel NewsAsia"
 domain: "channelnewsasia.com"
 source_type: "mainstream_news"

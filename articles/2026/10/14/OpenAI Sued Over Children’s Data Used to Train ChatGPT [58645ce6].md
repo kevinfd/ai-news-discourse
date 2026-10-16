@@ -2,6 +2,7 @@
 id: "58645ce62985d0d4"
 title: "OpenAI Sued Over Children’s Data Used to Train ChatGPT"
 url: "https://cnet.com/tech/services-and-software/chatgpt-accused-using-childrens-data"
+link: "https://cnet.com/tech/services-and-software/chatgpt-accused-using-childrens-data"
 source: "CNET"
 domain: "cnet.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "bba357fbb5e38d4e"
 title: "El-Sayed backs AI kill switch, safety agency"
 url: "https://politico.com/news/2026/10/13/el-sayed-ai-kill-switch-safety-agency-01116280"
+link: "https://politico.com/news/2026/10/13/el-sayed-ai-kill-switch-safety-agency-01116280"
 source: "Politico"
 domain: "politico.com"
 source_type: "mainstream_news"

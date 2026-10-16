@@ -2,6 +2,7 @@
 id: "6b1a3c269acf5841"
 title: "Former ARPA-H director Renee Wegrzyn wants to solve science’s ‘magic hands’ problem"
 url: "https://fastcompany.com/91623379/former-arpa-h-director-renee-wegrzyn-wants-to-solve-sciences-magic-hands-problem?partner=rss"
+link: "https://fastcompany.com/91623379/former-arpa-h-director-renee-wegrzyn-wants-to-solve-sciences-magic-hands-problem?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

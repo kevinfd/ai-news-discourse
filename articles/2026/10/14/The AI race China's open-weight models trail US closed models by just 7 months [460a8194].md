@@ -2,6 +2,7 @@
 id: "460a8194c622bbd7"
 title: "The AI race: China's open-weight models trail US closed models by just 7 months"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5pjv7/the_ai_race_chinas_openweight_models_trail_us"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5pjv7/the_ai_race_chinas_openweight_models_trail_us"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

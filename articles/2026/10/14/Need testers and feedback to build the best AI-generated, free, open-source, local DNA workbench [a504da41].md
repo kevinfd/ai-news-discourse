@@ -2,6 +2,7 @@
 id: "a504da414593537c"
 title: "Need testers and feedback to build the best AI-generated, free, open-source, local DNA workbench."
 url: "https://reddit.com/r/ChatGPT/comments/1x5mot0/need_testers_and_feedback_to_build_the_best"
+link: "https://reddit.com/r/ChatGPT/comments/1x5mot0/need_testers_and_feedback_to_build_the_best"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

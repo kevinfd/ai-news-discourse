@@ -2,6 +2,7 @@
 id: "ad4e14640e358f44"
 title: "Helping teens learn, plan, and shape the future of AI"
 url: "https://openai.com/index/teens-learn-and-plan"
+link: "https://openai.com/index/teens-learn-and-plan"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

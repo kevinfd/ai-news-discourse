@@ -2,6 +2,7 @@
 id: "550c4c02e9ff21a9"
 title: "Run fast, private agents on-device with LFM2.5-24B-A2B"
 url: "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+link: "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
 source: "Hugging Face"
 domain: "huggingface.co"
 source_type: "company_blog"

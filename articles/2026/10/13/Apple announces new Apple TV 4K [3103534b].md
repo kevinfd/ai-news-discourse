@@ -2,6 +2,7 @@
 id: "3103534bab43d70b"
 title: "Apple announces new Apple TV 4K"
 url: "https://mashable.com/tech/apple-tv-4k-announced-price-release-date"
+link: "https://mashable.com/tech/apple-tv-4k-announced-price-release-date"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

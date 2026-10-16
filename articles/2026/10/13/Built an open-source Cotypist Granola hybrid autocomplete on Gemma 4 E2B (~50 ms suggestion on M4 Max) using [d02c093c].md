@@ -2,6 +2,7 @@
 id: "d02c093c759860e4"
 title: "Built an open-source Cotypist/Granola hybrid: autocomplete on Gemma 4 E2B (~50 ms/suggestion on M4 Max) using your own meeting notes as context"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x4x5km/built_an_opensource_cotypistgranola_hybrid"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x4x5km/built_an_opensource_cotypistgranola_hybrid"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

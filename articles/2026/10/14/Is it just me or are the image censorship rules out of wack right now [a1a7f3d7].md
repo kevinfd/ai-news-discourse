@@ -2,6 +2,7 @@
 id: "a1a7f3d700f6dfe7"
 title: "Is it just me or are the image censorship rules out of wack right now?"
 url: "https://reddit.com/r/ChatGPT/comments/1x60aeu/is_it_just_me_or_are_the_image_censorship_rules"
+link: "https://reddit.com/r/ChatGPT/comments/1x60aeu/is_it_just_me_or_are_the_image_censorship_rules"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

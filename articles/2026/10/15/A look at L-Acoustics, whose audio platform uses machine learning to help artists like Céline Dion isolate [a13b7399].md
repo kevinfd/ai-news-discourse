@@ -2,6 +2,7 @@
 id: "a13b7399bbf70006"
 title: "A look at L-Acoustics, whose audio platform uses machine learning to help artists like Céline Dion isolate their voices and cut through noise at live concerts (Benoit Berthelot/Bloomberg)"
 url: "https://techmeme.com/261015/p9"
+link: "https://techmeme.com/261015/p9"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

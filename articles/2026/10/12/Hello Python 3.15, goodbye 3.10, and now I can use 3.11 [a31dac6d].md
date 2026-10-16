@@ -2,6 +2,7 @@
 id: "a31dac6d0b53e097"
 title: "Hello Python 3.15, goodbye 3.10, and now I can use 3.11"
 url: "https://simonwillison.net/2026/Oct/12/python-3-15"
+link: "https://simonwillison.net/2026/Oct/12/python-3-15"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

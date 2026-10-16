@@ -2,6 +2,7 @@
 id: "ad41e5ad7dfaa995"
 title: "FYI: You are now an enemy of the US if you call it AI instead of SI"
 url: "https://forbes.com/sites/conormurray/2026/10/08/trump-calls-anyone-who-says-ai-instead-of-super-intelligence-an-enemy"
+link: "https://forbes.com/sites/conormurray/2026/10/08/trump-calls-anyone-who-says-ai-instead-of-super-intelligence-an-enemy"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "community"

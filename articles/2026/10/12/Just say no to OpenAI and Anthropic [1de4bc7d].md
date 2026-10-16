@@ -2,6 +2,7 @@
 id: "1de4bc7d979490fd"
 title: "Just say no to OpenAI and Anthropic"
 url: "https://micahflee.com/just-say-no-to-openai-and-anthropic"
+link: "https://micahflee.com/just-say-no-to-openai-and-anthropic"
 source: "Micah Lee"
 domain: "micahflee.com"
 source_type: "community"

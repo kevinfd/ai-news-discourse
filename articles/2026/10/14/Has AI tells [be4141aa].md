@@ -2,6 +2,7 @@
 id: "be4141aad3c26827"
 title: "Has AI tells"
 url: "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
+link: "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
 source: "Theconsensus"
 domain: "theconsensus.dev"
 source_type: "community"

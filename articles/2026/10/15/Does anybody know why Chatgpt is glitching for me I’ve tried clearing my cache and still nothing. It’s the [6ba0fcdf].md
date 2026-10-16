@@ -2,6 +2,7 @@
 id: "6ba0fcdf08a28b6f"
 title: "Does anybody know why Chatgpt is glitching for me? I’ve tried clearing my cache and still nothing. It’s the same on multiple mobile browsers."
 url: "https://reddit.com/r/ChatGPT/comments/1x6dfyd/does_anybody_know_why_chatgpt_is_glitching_for_me"
+link: "https://reddit.com/r/ChatGPT/comments/1x6dfyd/does_anybody_know_why_chatgpt_is_glitching_for_me"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

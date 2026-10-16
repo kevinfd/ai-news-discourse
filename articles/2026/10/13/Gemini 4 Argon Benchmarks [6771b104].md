@@ -2,6 +2,7 @@
 id: "6771b104fab573a0"
 title: "Gemini 4 Argon Benchmarks"
 url: "https://reddit.com/r/singularity/comments/1x53r9g/gemini_4_argon_benchmarks"
+link: "https://reddit.com/r/singularity/comments/1x53r9g/gemini_4_argon_benchmarks"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

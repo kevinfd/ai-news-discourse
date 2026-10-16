@@ -2,6 +2,7 @@
 id: "6f005906857f1a5f"
 title: "AI Laser Locking for Quantum Computers: How QuEra Automates It"
 url: "https://quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers"
+link: "https://quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers"
 source: "QuEra Computing Inc."
 domain: "quera.com"
 source_type: "community"

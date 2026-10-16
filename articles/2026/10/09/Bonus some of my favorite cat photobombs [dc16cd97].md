@@ -2,6 +2,7 @@
 id: "dc16cd9739998af1"
 title: "Bonus: some of my favorite cat photobombs"
 url: "https://aiweirdness.com/bonus-some-of-my-favorite-cat-photobombs"
+link: "https://aiweirdness.com/bonus-some-of-my-favorite-cat-photobombs"
 source: "AI Weirdness"
 domain: "aiweirdness.com"
 source_type: "newsletter"

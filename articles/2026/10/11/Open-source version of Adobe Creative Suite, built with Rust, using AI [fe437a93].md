@@ -2,6 +2,7 @@
 id: "fe437a932325f327"
 title: "Open-source version of Adobe Creative Suite, built with Rust, using AI"
 url: "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai"
+link: "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai"
 source: "Petapixel"
 domain: "petapixel.com"
 source_type: "community"

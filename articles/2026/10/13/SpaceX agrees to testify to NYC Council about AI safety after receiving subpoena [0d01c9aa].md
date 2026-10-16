@@ -2,6 +2,7 @@
 id: "0d01c9aa53f6c288"
 title: "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena"
 url: "https://cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html"
+link: "https://cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

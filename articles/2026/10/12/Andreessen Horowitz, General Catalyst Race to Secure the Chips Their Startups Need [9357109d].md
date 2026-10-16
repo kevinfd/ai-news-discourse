@@ -2,6 +2,7 @@
 id: "9357109da589125e"
 title: "Andreessen Horowitz, General Catalyst Race to Secure the Chips Their Startups Need"
 url: "https://theinformation.com/articles/andreessen-horowitz-general-catalyst-race-secure-chips-startups-need"
+link: "https://theinformation.com/articles/andreessen-horowitz-general-catalyst-race-secure-chips-startups-need"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

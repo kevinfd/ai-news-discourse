@@ -2,6 +2,7 @@
 id: "5122ec35e7e96259"
 title: "Ask HN: Where has creativity in software gone?"
 url: "https://news.ycombinator.com/item?id=50081189"
+link: "https://news.ycombinator.com/item?id=50081189"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

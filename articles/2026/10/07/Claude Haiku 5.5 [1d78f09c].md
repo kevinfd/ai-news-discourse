@@ -2,6 +2,7 @@
 id: "1d78f09c640d45a5"
 title: "Claude Haiku 5.5"
 url: "https://anthropic.com/claude-haiku-5-5"
+link: "https://anthropic.com/claude-haiku-5-5"
 source: "Anthropic"
 domain: "anthropic.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "7b2cb15b39a336e7"
 title: "Iranian campaign planted fake articles in real U.S. publications using ChatGPT"
 url: "https://washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media"
+link: "https://washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media"
 source: "Washington Post"
 domain: "washingtonpost.com"
 source_type: "community"

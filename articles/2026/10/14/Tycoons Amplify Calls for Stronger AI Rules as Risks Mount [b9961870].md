@@ -2,6 +2,7 @@
 id: "b9961870b2ae23c0"
 title: "Tycoons Amplify Calls for Stronger AI Rules as Risks Mount"
 url: "https://bloomberg.com/news/articles/2026-10-14/tycoons-amplify-calls-for-stronger-ai-rules-as-risks-mount"
+link: "https://bloomberg.com/news/articles/2026-10-14/tycoons-amplify-calls-for-stronger-ai-rules-as-risks-mount"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

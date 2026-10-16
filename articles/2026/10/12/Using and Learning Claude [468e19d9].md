@@ -2,6 +2,7 @@
 id: "468e19d94b1138f8"
 title: "Using and Learning Claude"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4gt8j/using_and_learning_claude"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4gt8j/using_and_learning_claude"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

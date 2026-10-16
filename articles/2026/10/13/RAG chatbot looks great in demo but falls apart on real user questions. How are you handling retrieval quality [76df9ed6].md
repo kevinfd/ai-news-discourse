@@ -2,6 +2,7 @@
 id: "76df9ed649884647"
 title: "RAG chatbot looks great in demo but falls apart on real user questions. How are you handling retrieval quality?"
 url: "https://reddit.com/r/artificial/comments/1x4suc4/rag_chatbot_looks_great_in_demo_but_falls_apart"
+link: "https://reddit.com/r/artificial/comments/1x4suc4/rag_chatbot_looks_great_in_demo_but_falls_apart"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

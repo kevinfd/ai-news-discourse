@@ -2,6 +2,7 @@
 id: "806311d84ca426b3"
 title: "Big Tech used AI to take what it wanted. Now consumers are fighting back, too"
 url: "https://fastcompany.com/91623692/big-tech-used-ai-to-take-what-it-wanted-now-consumers-can-too?partner=rss"
+link: "https://fastcompany.com/91623692/big-tech-used-ai-to-take-what-it-wanted-now-consumers-can-too?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

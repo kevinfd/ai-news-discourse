@@ -2,6 +2,7 @@
 id: "1b4c0c36bd02ed86"
 title: "Law firms are building AI around their most valuable asset: experience"
 url: "https://businessinsider.com/law-firms-building-ai-based-on-their-own-data-expertise-2026-10"
+link: "https://businessinsider.com/law-firms-building-ai-based-on-their-own-data-expertise-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "98436b32e04aa708"
 title: "Are we early adopters?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5c232/are_we_early_adopters"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5c232/are_we_early_adopters"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

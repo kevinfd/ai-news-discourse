@@ -2,6 +2,7 @@
 id: "3f46635408918748"
 title: "OpenAI’s ironic credibility problem"
 url: "https://understandingai.org/p/openais-ironic-credibility-problem"
+link: "https://understandingai.org/p/openais-ironic-credibility-problem"
 source: "Understanding AI"
 domain: "understandingai.org"
 source_type: "newsletter"

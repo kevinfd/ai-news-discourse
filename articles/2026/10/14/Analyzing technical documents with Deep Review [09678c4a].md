@@ -2,6 +2,7 @@
 id: "09678c4af3430244"
 title: "Analyzing technical documents with Deep Review"
 url: "https://research.google/blog/analyzing-technical-documents-with-deep-review"
+link: "https://research.google/blog/analyzing-technical-documents-with-deep-review"
 source: "Google Research"
 domain: "research.google"
 source_type: "research"

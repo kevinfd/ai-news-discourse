@@ -2,6 +2,7 @@
 id: "04602d03590e8af7"
 title: "I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno"
 url: "https://theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
+link: "https://theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

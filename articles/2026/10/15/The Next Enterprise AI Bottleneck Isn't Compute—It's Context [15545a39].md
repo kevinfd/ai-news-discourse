@@ -2,6 +2,7 @@
 id: "15545a394362192d"
 title: "The Next Enterprise AI Bottleneck Isn't Compute—It's Context"
 url: "https://forbes.com/councils/forbestechcouncil/2026/10/15/the-next-enterprise-ai-bottleneck-isnt-compute-its-context"
+link: "https://forbes.com/councils/forbestechcouncil/2026/10/15/the-next-enterprise-ai-bottleneck-isnt-compute-its-context"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "b5e5dd18a14e5018"
 title: "Linus Torvalds Working on a Hefty Linux Kernel Improvement with Claude Code"
 url: "https://phoronix.com/news/Linus-Torvalds-Claude-Code"
+link: "https://phoronix.com/news/Linus-Torvalds-Claude-Code"
 source: "Phoronix"
 domain: "phoronix.com"
 source_type: "community"

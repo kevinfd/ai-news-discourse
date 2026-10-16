@@ -2,6 +2,7 @@
 id: "fd908b04f4cdd590"
 title: "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis"
 url: "https://nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html"
+link: "https://nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

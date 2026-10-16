@@ -2,6 +2,7 @@
 id: "8605337632724e33"
 title: "Democrats lay groundwork for massive AI offensive"
 url: "https://politico.com/news/2026/10/09/democrats-ai-oversight-agenda-next-congress-01113748"
+link: "https://politico.com/news/2026/10/09/democrats-ai-oversight-agenda-next-congress-01113748"
 source: "Politico"
 domain: "politico.com"
 source_type: "mainstream_news"

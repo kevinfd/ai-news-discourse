@@ -2,6 +2,7 @@
 id: "473e7b824b454095"
 title: "OpenAI and Anthropic Tell British Lawmakers: Regulate Us"
 url: "https://wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us"
+link: "https://wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

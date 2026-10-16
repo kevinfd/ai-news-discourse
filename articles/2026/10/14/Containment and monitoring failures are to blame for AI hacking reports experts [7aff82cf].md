@@ -2,6 +2,7 @@
 id: "7aff82cf50e7c250"
 title: "Containment and monitoring failures are to blame for AI hacking reports: experts"
 url: "https://csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+link: "https://csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
 source: "CSO Online"
 domain: "csoonline.com"
 source_type: "community"

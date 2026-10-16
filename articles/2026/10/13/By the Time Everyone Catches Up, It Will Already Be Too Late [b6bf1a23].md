@@ -2,6 +2,7 @@
 id: "b6bf1a23fa4d6057"
 title: "By the Time Everyone Catches Up, It Will Already Be Too Late"
 url: "https://reddit.com/r/singularity/comments/1x58bdd/by_the_time_everyone_catches_up_it_will_already"
+link: "https://reddit.com/r/singularity/comments/1x58bdd/by_the_time_everyone_catches_up_it_will_already"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

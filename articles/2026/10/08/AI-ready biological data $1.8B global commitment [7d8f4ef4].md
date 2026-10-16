@@ -2,6 +2,7 @@
 id: "7d8f4ef47acb10b6"
 title: "AI-ready biological data: $1.8B global commitment"
 url: "https://biohub.org/news/virtual-biology-initiative-expansion"
+link: "https://biohub.org/news/virtual-biology-initiative-expansion"
 source: "Biohub"
 domain: "biohub.org"
 source_type: "community"

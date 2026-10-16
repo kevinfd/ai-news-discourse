@@ -2,6 +2,7 @@
 id: "94fff99cead8735c"
 title: "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI"
 url: "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi"
+link: "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi"
 source: "wolfstreet.com"
 domain: "wolfstreet.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "c1f7ee8c97718d08"
 title: "OpenAI Fires Three Safety Researchers"
 url: "https://thezvi.substack.com/p/openai-fires-three-safety-researchers"
+link: "https://thezvi.substack.com/p/openai-fires-three-safety-researchers"
 source: "Don't Worry About the Vase"
 domain: "thezvi.substack.com"
 source_type: "newsletter"

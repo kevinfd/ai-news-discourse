@@ -2,6 +2,7 @@
 id: "bdb75e31ee5cccad"
 title: "Should i try moving from Qwen 3.8 27B Q6_K swift 1.5 to QFN Swift 1.5 IQ3_XXS GSQ RCO?"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x50d7y/should_i_try_moving_from_qwen_38_27b_q6_k_swift"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x50d7y/should_i_try_moving_from_qwen_38_27b_q6_k_swift"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

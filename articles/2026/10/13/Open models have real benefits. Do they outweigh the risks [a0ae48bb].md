@@ -2,6 +2,7 @@
 id: "a0ae48bb6d1bc575"
 title: "Open models have real benefits. Do they outweigh the risks?"
 url: "https://technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
+link: "https://technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
 source: "MIT Technology Review"
 domain: "technologyreview.com"
 source_type: "tech_press"

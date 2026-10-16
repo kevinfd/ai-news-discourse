@@ -2,6 +2,7 @@
 id: "74c2a1607ef40add"
 title: "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices"
 url: "https://theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning"
+link: "https://theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

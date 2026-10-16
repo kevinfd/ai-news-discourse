@@ -2,6 +2,7 @@
 id: "d8f516d6f374c5d4"
 title: "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift"
 url: "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits"
+link: "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

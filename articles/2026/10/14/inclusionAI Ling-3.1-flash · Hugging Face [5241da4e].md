@@ -2,6 +2,7 @@
 id: "5241da4e264a9022"
 title: "inclusionAI/Ling-3.1-flash · Hugging Face"
 url: "https://huggingface.co/inclusionAI/Ling-3.1-flash"
+link: "https://huggingface.co/inclusionAI/Ling-3.1-flash"
 source: "Hugging Face"
 domain: "huggingface.co"
 source_type: "community"

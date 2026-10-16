@@ -2,6 +2,7 @@
 id: "8af88804b203cd2c"
 title: "What would it take to terraform Mars? Erika DeBenedictis has ideas"
 url: "https://scientificamerican.com/article/what-would-it-take-to-terraform-mars-erika-debenedictis-has-ideas"
+link: "https://scientificamerican.com/article/what-would-it-take-to-terraform-mars-erika-debenedictis-has-ideas"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

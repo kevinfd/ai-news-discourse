@@ -2,6 +2,7 @@
 id: "23a1933e43512eda"
 title: "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia"
 url: "https://cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html"
+link: "https://cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "a27dd53ae76a9030"
 title: "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence"
 url: "https://apnews.com/article/kroger-layoffs-grocery-job-cuts-30f0a5d88377e9969ce8994644e14498"
+link: "https://apnews.com/article/kroger-layoffs-grocery-job-cuts-30f0a5d88377e9969ce8994644e14498"
 source: "Associated Press News"
 domain: "apnews.com"
 source_type: "mainstream_news"

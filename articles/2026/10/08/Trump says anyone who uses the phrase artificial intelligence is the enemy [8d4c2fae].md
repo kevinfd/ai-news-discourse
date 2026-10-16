@@ -2,6 +2,7 @@
 id: "8d4c2faea75d55d3"
 title: "Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\""
 url: "https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230"
+link: "https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230"
 source: "Breakingthenews"
 domain: "breakingthenews.net"
 source_type: "community"

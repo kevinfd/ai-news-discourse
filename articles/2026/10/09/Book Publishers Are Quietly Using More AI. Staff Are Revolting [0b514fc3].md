@@ -2,6 +2,7 @@
 id: "0b514fc332871c5b"
 title: "Book Publishers Are Quietly Using More AI. Staff Are Revolting"
 url: "https://wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting"
+link: "https://wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "59f68a9a204d4345"
 title: "Google poisoning search results for AI scrapers, rank trackers, new report claims"
 url: "https://mashable.com/tech/google-poisoning-search-results-for-ai-scrapers-rank-trackers-report"
+link: "https://mashable.com/tech/google-poisoning-search-results-for-ai-scrapers-rank-trackers-report"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

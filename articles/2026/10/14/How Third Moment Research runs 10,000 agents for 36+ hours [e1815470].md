@@ -2,6 +2,7 @@
 id: "e181547094b0a112"
 title: "How Third Moment Research runs 10,000 agents for 36+ hours"
 url: "https://openai.com/index/third-moment-research"
+link: "https://openai.com/index/third-moment-research"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

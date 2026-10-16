@@ -2,6 +2,7 @@
 id: "6258a20c4c2a8f80"
 title: "Anthropic Wants You to Be Kind to Claude"
 url: "https://thenation.com/article/society/ai-anthropic-claude"
+link: "https://thenation.com/article/society/ai-anthropic-claude"
 source: "The Nation"
 domain: "thenation.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "a2b7552b63ede7cb"
 title: "A.I. Music Fraudster Who Drew Millions in Royalties Is Sentenced to 18 Months"
 url: "https://nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html"
+link: "https://nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html"
 source: "The New York Times"
 domain: "nytimes.com"
 source_type: "mainstream_news"

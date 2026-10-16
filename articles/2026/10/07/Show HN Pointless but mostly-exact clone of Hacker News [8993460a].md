@@ -2,6 +2,7 @@
 id: "8993460a4930a4b4"
 title: "Show HN: Pointless but mostly-exact clone of Hacker News"
 url: "https://news.ycombinator.lol"
+link: "https://news.ycombinator.lol"
 source: "news.ycombinator.lol"
 domain: "news.ycombinator.lol"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "b6efe6baced66f3f"
 title: "How long will humans be needed for translation?"
 url: "https://bbc.co.uk/news/articles/c1wxdjx27ypo?at_campaign=rss&at_medium=RSS"
+link: "https://bbc.co.uk/news/articles/c1wxdjx27ypo?at_campaign=rss&at_medium=RSS"
 source: "BBC News"
 domain: "bbc.co.uk"
 source_type: "mainstream_news"

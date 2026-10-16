@@ -2,6 +2,7 @@
 id: "aa53810f0627bc96"
 title: "ByteDance forms seed AI safety team, hiring 10 researchers"
 url: "https://newsbytesapp.com/news/science/bytedance-forms-seed-ai-safety-team-hiring-10-researchers/tldr"
+link: "https://newsbytesapp.com/news/science/bytedance-forms-seed-ai-safety-team-hiring-10-researchers/tldr"
 source: "NewsBytes"
 domain: "newsbytesapp.com"
 source_type: "mainstream_news"

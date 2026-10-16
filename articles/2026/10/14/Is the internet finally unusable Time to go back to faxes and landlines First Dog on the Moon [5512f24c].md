@@ -2,6 +2,7 @@
 id: "5512f24c9dde8a2d"
 title: "Is the internet finally unusable? Time to go back to faxes and landlines | First Dog on the Moon"
 url: "https://theguardian.com/commentisfree/picture/2026/oct/14/is-the-internet-finally-unusable-time-to-go-back-to-faxes-and-landlines"
+link: "https://theguardian.com/commentisfree/picture/2026/oct/14/is-the-internet-finally-unusable-time-to-go-back-to-faxes-and-landlines"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

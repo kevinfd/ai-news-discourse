@@ -2,6 +2,7 @@
 id: "f8c87adaf001b027"
 title: "Award-winning microscopy image disqualified over AI use"
 url: "https://nature.com/articles/d41586-026-03240-7"
+link: "https://nature.com/articles/d41586-026-03240-7"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

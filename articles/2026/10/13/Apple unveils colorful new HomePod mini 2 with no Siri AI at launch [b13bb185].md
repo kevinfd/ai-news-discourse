@@ -2,6 +2,7 @@
 id: "b13bb185e0948b74"
 title: "Apple unveils colorful new HomePod mini 2 with no Siri AI at launch"
 url: "https://mashable.com/tech/apple-homepod-mini-2-smart-speaker-announced"
+link: "https://mashable.com/tech/apple-homepod-mini-2-smart-speaker-announced"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

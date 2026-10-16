@@ -2,6 +2,7 @@
 id: "2f0fff817c94169f"
 title: "FTC subpoenas OpenAI, Anthropic over potential consumer protection violations: Axios"
 url: "https://seekingalpha.com/news/4653265-ftc-subpoenas-openai-anthropic-over-potential-consumer-protection-violations-axios"
+link: "https://seekingalpha.com/news/4653265-ftc-subpoenas-openai-anthropic-over-potential-consumer-protection-violations-axios"
 source: "Seeking Alpha"
 domain: "seekingalpha.com"
 source_type: "mainstream_news"

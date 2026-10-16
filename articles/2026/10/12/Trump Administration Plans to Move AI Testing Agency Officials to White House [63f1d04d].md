@@ -2,6 +2,7 @@
 id: "63f1d04d3708c22b"
 title: "Trump Administration Plans to Move AI Testing Agency Officials to White House"
 url: "https://theinformation.com/articles/trump-administration-plans-move-ai-testing-agency-officials-white-house"
+link: "https://theinformation.com/articles/trump-administration-plans-move-ai-testing-agency-officials-white-house"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

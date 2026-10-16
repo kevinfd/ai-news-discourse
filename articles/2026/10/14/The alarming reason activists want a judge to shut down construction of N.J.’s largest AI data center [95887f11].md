@@ -2,6 +2,7 @@
 id: "95887f11c085605f"
 title: "The alarming reason activists want a judge to shut down construction of N.J.’s largest AI data center"
 url: "https://nj.com/business/2026/10/the-alarming-reason-activists-want-a-judge-to-shut-down-construction-of-njs-largest-ai-data-center.html"
+link: "https://nj.com/business/2026/10/the-alarming-reason-activists-want-a-judge-to-shut-down-construction-of-njs-largest-ai-data-center.html"
 source: "NJ.com"
 domain: "nj.com"
 source_type: "mainstream_news"

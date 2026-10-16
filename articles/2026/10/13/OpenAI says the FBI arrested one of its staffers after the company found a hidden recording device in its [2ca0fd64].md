@@ -2,6 +2,7 @@
 id: "2ca0fd6497dc8c99"
 title: "OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to identify who placed it (@openainewsroom)"
 url: "https://techmeme.com/261013/p40"
+link: "https://techmeme.com/261013/p40"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "f415c6e1ed169629"
 title: "Workday goes headless, opening its HR and finance data to outside AI agents"
 url: "https://thenewstack.io/workday-headless-mcp-agents"
+link: "https://thenewstack.io/workday-headless-mcp-agents"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

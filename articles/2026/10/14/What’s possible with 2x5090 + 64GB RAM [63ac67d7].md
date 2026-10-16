@@ -2,6 +2,7 @@
 id: "63ac67d713c89c14"
 title: "What’s possible with 2x5090 + 64GB RAM?"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5i6dt/whats_possible_with_2x5090_64gb_ram"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5i6dt/whats_possible_with_2x5090_64gb_ram"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

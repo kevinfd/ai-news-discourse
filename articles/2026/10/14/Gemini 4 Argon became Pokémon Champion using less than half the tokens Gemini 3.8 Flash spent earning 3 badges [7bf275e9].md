@@ -2,6 +2,7 @@
 id: "7bf275e9c4d65cd0"
 title: "Gemini 4 Argon became Pokémon Champion using less than half the tokens Gemini 3.8 Flash spent earning 3 badges"
 url: "https://x.com/TheCodeOfJoel/status/2110203222979641826"
+link: "https://x.com/TheCodeOfJoel/status/2110203222979641826"
 source: "X"
 domain: "x.com"
 source_type: "community"

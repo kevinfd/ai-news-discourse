@@ -2,6 +2,7 @@
 id: "3dd5a5840a928f73"
 title: "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice"
 url: "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice"
+link: "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice"
 source: "Openstation"
 domain: "openstation.blog"
 source_type: "community"

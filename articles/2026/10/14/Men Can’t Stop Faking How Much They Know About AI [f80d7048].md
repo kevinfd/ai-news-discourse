@@ -2,6 +2,7 @@
 id: "f80d7048c2cdb08f"
 title: "Men Can’t Stop Faking How Much They Know About AI"
 url: "https://wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai"
+link: "https://wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai"
 source: "WIRED"
 domain: "wired.com"
 source_type: "tech_press"

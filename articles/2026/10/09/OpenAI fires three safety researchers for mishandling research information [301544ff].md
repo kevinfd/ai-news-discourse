@@ -2,6 +2,7 @@
 id: "301544ff1a07499c"
 title: "OpenAI fires three safety researchers for \"mishandling research information\""
 url: "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect"
+link: "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "f81eda0e2caeaae4"
 title: "cuda, hip: GDN chunked kernel by am17an · Pull Request #29353 · ggml-org/llama.cpp"
 url: "https://github.com/ggml-org/llama.cpp/pull/29353"
+link: "https://github.com/ggml-org/llama.cpp/pull/29353"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "8f872270b5d9a3f4"
 title: "NVIDIA Announces New Investments in France’s Startups"
 url: "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing"
+link: "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing"
 source: "NVIDIA Blog"
 domain: "blogs.nvidia.com"
 source_type: "company_blog"

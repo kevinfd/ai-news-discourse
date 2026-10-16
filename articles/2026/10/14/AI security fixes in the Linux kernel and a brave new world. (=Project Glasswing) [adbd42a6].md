@@ -2,6 +2,7 @@
 id: "adbd42a6decfe502"
 title: "AI security fixes in the Linux kernel and a brave new world. (=Project Glasswing)"
 url: "https://reddit.com/r/singularity/comments/1x5nvcq/ai_security_fixes_in_the_linux_kernel_and_a_brave"
+link: "https://reddit.com/r/singularity/comments/1x5nvcq/ai_security_fixes_in_the_linux_kernel_and_a_brave"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "9f238b285b26ed15"
 title: "AI Demand Keeps T. Rowe Price CIO Optimistic on Trade"
 url: "https://bloomberg.com/news/videos/2026-10-15/ai-demand-keeps-t-rowe-price-cio-optimistic-on-trade-video"
+link: "https://bloomberg.com/news/videos/2026-10-15/ai-demand-keeps-t-rowe-price-cio-optimistic-on-trade-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

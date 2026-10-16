@@ -2,6 +2,7 @@
 id: "1db4ac4b9a3267b0"
 title: "If an AI helps discover a drug, who gets credit?"
 url: "https://reddit.com/r/artificial/comments/1x5futt/if_an_ai_helps_discover_a_drug_who_gets_credit"
+link: "https://reddit.com/r/artificial/comments/1x5futt/if_an_ai_helps_discover_a_drug_who_gets_credit"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

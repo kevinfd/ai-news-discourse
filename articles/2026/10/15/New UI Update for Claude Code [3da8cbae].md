@@ -2,6 +2,7 @@
 id: "3da8cbae383a034b"
 title: "New UI Update for Claude Code"
 url: "https://reddit.com/r/ClaudeAI/comments/1x6hg4z/new_ui_update_for_claude_code"
+link: "https://reddit.com/r/ClaudeAI/comments/1x6hg4z/new_ui_update_for_claude_code"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

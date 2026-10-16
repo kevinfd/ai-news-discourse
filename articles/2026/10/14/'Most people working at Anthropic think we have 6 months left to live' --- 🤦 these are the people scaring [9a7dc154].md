@@ -2,6 +2,7 @@
 id: "9a7dc1541acf4ff8"
 title: "'Most people working at Anthropic think we have 6 months left to live' --- 🤦 these are the people scaring politicians and the public, trying to get a legislative moat"
 url: "https://reddit.com/r/singularity/comments/1x653go/most_people_working_at_anthropic_think_we_have_6"
+link: "https://reddit.com/r/singularity/comments/1x653go/most_people_working_at_anthropic_think_we_have_6"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

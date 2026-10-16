@@ -2,6 +2,7 @@
 id: "7d4e278f0b748445"
 title: "Will the HomeView be Apple’s first smart home success?"
 url: "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success"
+link: "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

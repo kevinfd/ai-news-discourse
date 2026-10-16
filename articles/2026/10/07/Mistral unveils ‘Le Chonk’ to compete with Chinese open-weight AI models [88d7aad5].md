@@ -2,6 +2,7 @@
 id: "88d7aad5021164e0"
 title: "Mistral unveils ‘Le Chonk’ to compete with Chinese open-weight AI models"
 url: "https://thehindu.com/sci-tech/technology/mistral-unveils-le-chonk-to-compete-with-chinese-open-weight-ai-models/article71554171.ece"
+link: "https://thehindu.com/sci-tech/technology/mistral-unveils-le-chonk-to-compete-with-chinese-open-weight-ai-models/article71554171.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

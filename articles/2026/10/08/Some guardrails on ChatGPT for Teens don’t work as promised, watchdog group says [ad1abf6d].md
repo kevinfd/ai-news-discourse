@@ -2,6 +2,7 @@
 id: "ad1abf6d8b998f86"
 title: "Some guardrails on ChatGPT for Teens don’t work as promised, watchdog group says"
 url: "https://thehindu.com/sci-tech/technology/some-guardrails-on-chatgpt-for-teens-dont-work-as-promised-watchdog-group-says/article71558248.ece"
+link: "https://thehindu.com/sci-tech/technology/some-guardrails-on-chatgpt-for-teens-dont-work-as-promised-watchdog-group-says/article71558248.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

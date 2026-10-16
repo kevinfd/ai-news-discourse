@@ -2,6 +2,7 @@
 id: "d40a969f1d03a167"
 title: "When cancer is cured by AI, that's when normal people will realize"
 url: "https://reddit.com/r/singularity/comments/1x4fw3h/when_cancer_is_cured_by_ai_thats_when_normal"
+link: "https://reddit.com/r/singularity/comments/1x4fw3h/when_cancer_is_cured_by_ai_thats_when_normal"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

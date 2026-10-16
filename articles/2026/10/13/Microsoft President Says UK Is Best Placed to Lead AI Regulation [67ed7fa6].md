@@ -2,6 +2,7 @@
 id: "67ed7fa67b540f39"
 title: "Microsoft President Says UK Is Best Placed to Lead AI Regulation"
 url: "https://pymnts.com/cpi-posts/microsoft-president-says-uk-is-best-placed-to-lead-ai-regulation"
+link: "https://pymnts.com/cpi-posts/microsoft-president-says-uk-is-best-placed-to-lead-ai-regulation"
 source: "PYMNTS.com"
 domain: "pymnts.com"
 source_type: "mainstream_news"

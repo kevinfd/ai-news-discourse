@@ -2,6 +2,7 @@
 id: "0e154224bcf746c4"
 title: "PS5 Pro stock updates: Where to buy Sonys console for GTA 6 without overpaying"
 url: "https://mashable.com/tech/where-to-buy-ps5-pro-for-gta-6"
+link: "https://mashable.com/tech/where-to-buy-ps5-pro-for-gta-6"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

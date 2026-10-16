@@ -2,6 +2,7 @@
 id: "8eba6df90126f465"
 title: "Very impressed with LFM2.5-24-A2B in Pi Agent"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x68qma/very_impressed_with_lfm2524a2b_in_pi_agent"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x68qma/very_impressed_with_lfm2524a2b_in_pi_agent"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

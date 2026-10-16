@@ -2,6 +2,7 @@
 id: "4c7c1274ee06fcea"
 title: "How will life find an equilibrium?"
 url: "https://reddit.com/r/singularity/comments/1x4o5ch/how_will_life_find_an_equilibrium"
+link: "https://reddit.com/r/singularity/comments/1x4o5ch/how_will_life_find_an_equilibrium"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

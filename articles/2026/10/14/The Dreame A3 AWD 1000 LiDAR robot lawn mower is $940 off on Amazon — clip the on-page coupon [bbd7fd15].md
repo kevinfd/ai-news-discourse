@@ -2,6 +2,7 @@
 id: "bbd7fd15870e68f7"
 title: "The Dreame A3 AWD 1000 LiDAR robot lawn mower is $940 off on Amazon — clip the on-page coupon"
 url: "https://mashable.com/life/oct-14-dreame-a3-robot-lawn-mower"
+link: "https://mashable.com/life/oct-14-dreame-a3-robot-lawn-mower"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

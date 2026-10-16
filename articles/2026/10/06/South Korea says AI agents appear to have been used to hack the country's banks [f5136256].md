@@ -2,6 +2,7 @@
 id: "f5136256c57a767c"
 title: "South Korea says AI agents appear to have been used to hack the country's banks"
 url: "https://reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06"
+link: "https://reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06"
 source: "Reuters"
 domain: "reuters.com"
 source_type: "community"

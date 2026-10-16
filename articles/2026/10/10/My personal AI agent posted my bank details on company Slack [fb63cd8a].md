@@ -2,6 +2,7 @@
 id: "fb63cd8aa5546acf"
 title: "My personal AI agent posted my bank details on company Slack"
 url: "https://businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"
+link: "https://businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "community"

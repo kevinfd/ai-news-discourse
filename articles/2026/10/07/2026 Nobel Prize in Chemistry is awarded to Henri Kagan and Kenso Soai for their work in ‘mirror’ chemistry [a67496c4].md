@@ -2,6 +2,7 @@
 id: "a67496c419af2db3"
 title: "2026 Nobel Prize in Chemistry is awarded to Henri Kagan and Kenso Soai for their work in ‘mirror’ chemistry"
 url: "https://scientificamerican.com/article/2026-nobel-prize-in-chemistry-is-award-to-henri-kagan-and-kenso-soai-for-their-work-in-mirror-chemistry"
+link: "https://scientificamerican.com/article/2026-nobel-prize-in-chemistry-is-award-to-henri-kagan-and-kenso-soai-for-their-work-in-mirror-chemistry"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "85661ddc14943a1f"
 title: "Future-Proofing Data Center Cooling: Designing for the Unknown"
 url: "https://datacenterfrontier.com/sponsored/article/55408831/future-proofing-data-center-cooling-designing-for-the-unknown"
+link: "https://datacenterfrontier.com/sponsored/article/55408831/future-proofing-data-center-cooling-designing-for-the-unknown"
 source: "Data Center Frontier"
 domain: "datacenterfrontier.com"
 source_type: "mainstream_news"

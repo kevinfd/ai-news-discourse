@@ -2,6 +2,7 @@
 id: "3c7507e1852f0275"
 title: "Zelenskyy doesn’t mince words about Trump"
 url: "https://ft.com/content/a8b8965d-0e90-4226-89ad-14ba5e6ec10a?syn-25a6b1a6=1"
+link: "https://ft.com/content/a8b8965d-0e90-4226-89ad-14ba5e6ec10a?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

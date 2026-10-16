@@ -2,6 +2,7 @@
 id: "59a4220588b9998f"
 title: "AI data centers are coming for federal land. They’re roiling the Nevada governor’s race"
 url: "https://mercurynews.com/2026/10/13/ai-data-centers-nevada-governor-race"
+link: "https://mercurynews.com/2026/10/13/ai-data-centers-nevada-governor-race"
 source: "The Mercury News"
 domain: "mercurynews.com"
 source_type: "mainstream_news"

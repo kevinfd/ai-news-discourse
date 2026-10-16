@@ -2,6 +2,7 @@
 id: "139143c1b48807d9"
 title: "Is AI a tool?"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4u7c1/is_ai_a_tool"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4u7c1/is_ai_a_tool"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "c769e143fdff3099"
 title: "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’"
 url: "https://cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html"
+link: "https://cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

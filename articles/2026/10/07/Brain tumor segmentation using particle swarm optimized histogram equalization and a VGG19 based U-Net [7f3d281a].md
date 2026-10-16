@@ -2,6 +2,7 @@
 id: "7f3d281af3a3b7ff"
 title: "Brain tumor segmentation using particle swarm optimized histogram equalization and a VGG19 based U-Net"
 url: "https://nature.com/articles/s41598-026-72923-y"
+link: "https://nature.com/articles/s41598-026-72923-y"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

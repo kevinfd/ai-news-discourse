@@ -2,6 +2,7 @@
 id: "09a39f2629ebdd36"
 title: "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges"
 url: "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges"
+link: "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges"
 source: "Google Research"
 domain: "research.google"
 source_type: "research"

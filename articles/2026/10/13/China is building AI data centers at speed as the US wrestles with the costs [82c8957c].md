@@ -2,6 +2,7 @@
 id: "82c8957ca0fb410f"
 title: "China is building AI data centers at speed as the US wrestles with the costs"
 url: "https://mezha.net/eng/news/mezha-28304fbbe08e489bfe006d9c_china_is_building"
+link: "https://mezha.net/eng/news/mezha-28304fbbe08e489bfe006d9c_china_is_building"
 source: "Mezha"
 domain: "mezha.net"
 source_type: "community"

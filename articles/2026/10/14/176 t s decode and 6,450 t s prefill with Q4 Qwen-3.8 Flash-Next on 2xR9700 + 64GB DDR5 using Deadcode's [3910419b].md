@@ -2,6 +2,7 @@
 id: "3910419b9c323582"
 title: "176 t/s decode and 6,450 t/s prefill with Q4 Qwen-3.8 Flash-Next on 2xR9700 + 64GB DDR5 using Deadcode's Radiance engine"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x640u6/176_ts_decode_and_6450_ts_prefill_with_q4_qwen38"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x640u6/176_ts_decode_and_6450_ts_prefill_with_q4_qwen38"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "c4166676ea43b54b"
 title: "Meta expands its AI-powered \"Your Algorithm\" feature from Instagram to Facebook and Facebook Reels and says it is using LLMs more in its ranking systems (Stevie Bonifield/The Verge)"
 url: "https://techmeme.com/261013/p33"
+link: "https://techmeme.com/261013/p33"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

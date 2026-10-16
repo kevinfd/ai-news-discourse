@@ -2,6 +2,7 @@
 id: "12b4a20369f64305"
 title: "Jay Clayton, Trump’s new AI czar: Who leads the Super Intelligence Force?"
 url: "https://thehindu.com/sci-tech/technology/jay-clayton-trumps-new-ai-czar-who-leads-the-super-intelligence-force/article71546357.ece"
+link: "https://thehindu.com/sci-tech/technology/jay-clayton-trumps-new-ai-czar-who-leads-the-super-intelligence-force/article71546357.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "722ac7382cf5ac3b"
 title: "We have LLMs now. Why are the docs still wrong?"
 url: "https://amendary.com/blog/keeping-docs-in-sync-with-code"
+link: "https://amendary.com/blog/keeping-docs-in-sync-with-code"
 source: "Amendary"
 domain: "amendary.com"
 source_type: "community"

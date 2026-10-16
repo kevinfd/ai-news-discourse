@@ -2,6 +2,7 @@
 id: "8289d6ea4f84903b"
 title: "Qwen 3.8 flash running at 12vram+32 ram"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5uvjf/qwen_38_flash_running_at_12vram32_ram"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5uvjf/qwen_38_flash_running_at_12vram32_ram"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

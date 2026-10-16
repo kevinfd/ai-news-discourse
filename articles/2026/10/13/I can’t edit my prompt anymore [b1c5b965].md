@@ -2,6 +2,7 @@
 id: "b1c5b9651d1b3dc8"
 title: "I can’t edit my prompt anymore?"
 url: "https://reddit.com/r/ChatGPT/comments/1x4vkd6/i_cant_edit_my_prompt_anymore"
+link: "https://reddit.com/r/ChatGPT/comments/1x4vkd6/i_cant_edit_my_prompt_anymore"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

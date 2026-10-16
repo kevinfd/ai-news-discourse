@@ -2,6 +2,7 @@
 id: "baaa70f428db5edf"
 title: "Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar"
 url: "https://littleguys.hervalicio.us"
+link: "https://littleguys.hervalicio.us"
 source: "Littleguys"
 domain: "littleguys.hervalicio.us"
 source_type: "community"

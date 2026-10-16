@@ -2,6 +2,7 @@
 id: "8869352ca179a81d"
 title: "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock"
 url: "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock"
+link: "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock"
 source: "AWS Machine Learning Blog"
 domain: "aws.amazon.com"
 source_type: "company_blog"

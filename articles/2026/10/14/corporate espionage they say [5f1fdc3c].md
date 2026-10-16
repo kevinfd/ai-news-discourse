@@ -2,6 +2,7 @@
 id: "5f1fdc3cee33f2cc"
 title: "corporate espionage they say"
 url: "https://reddit.com/r/ChatGPT/comments/1x5lg6w/corporate_espionage_they_say"
+link: "https://reddit.com/r/ChatGPT/comments/1x5lg6w/corporate_espionage_they_say"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

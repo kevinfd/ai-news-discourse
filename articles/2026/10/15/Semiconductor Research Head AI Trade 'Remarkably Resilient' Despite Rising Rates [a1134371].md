@@ -2,6 +2,7 @@
 id: "a11343719bd83103"
 title: "Semiconductor Research Head: AI Trade 'Remarkably Resilient' Despite Rising Rates"
 url: "https://bloomberg.com/news/videos/2026-10-15/semiconductor-research-head-ai-trade-resilient-video"
+link: "https://bloomberg.com/news/videos/2026-10-15/semiconductor-research-head-ai-trade-resilient-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

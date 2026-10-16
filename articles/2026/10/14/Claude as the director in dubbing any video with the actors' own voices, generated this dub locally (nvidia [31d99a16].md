@@ -2,6 +2,7 @@
 id: "31d99a1650caf4b1"
 title: "Claude as the director in dubbing any video with the actors' own voices, generated this dub locally (nvidia gpu required)"
 url: "https://reddit.com/r/ClaudeAI/comments/1x66z85/claude_as_the_director_in_dubbing_any_video_with"
+link: "https://reddit.com/r/ClaudeAI/comments/1x66z85/claude_as_the_director_in_dubbing_any_video_with"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

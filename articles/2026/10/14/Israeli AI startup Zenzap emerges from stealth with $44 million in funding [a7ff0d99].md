@@ -2,6 +2,7 @@
 id: "a7ff0d99c35a6ed7"
 title: "Israeli AI startup Zenzap emerges from stealth with $44 million in funding"
 url: "https://ynetnews.com/tech-and-digital/article/s111r10njgx"
+link: "https://ynetnews.com/tech-and-digital/article/s111r10njgx"
 source: "ynetnews"
 domain: "ynetnews.com"
 source_type: "mainstream_news"

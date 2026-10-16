@@ -2,6 +2,7 @@
 id: "bb8f3c6c721591ab"
 title: "OpenAI claims to have solved hundreds of long-standing maths problems"
 url: "https://economist.com/science-and-technology/2026/10/07/openai-claims-to-have-solved-hundreds-of-long-standing-maths-problems"
+link: "https://economist.com/science-and-technology/2026/10/07/openai-claims-to-have-solved-hundreds-of-long-standing-maths-problems"
 source: "The Economist"
 domain: "economist.com"
 source_type: "mainstream_news"

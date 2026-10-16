@@ -2,6 +2,7 @@
 id: "722f1fc059248ca9"
 title: "Childhood and Education #21: Grades and Standards"
 url: "https://thezvi.substack.com/p/childhood-and-education-21-grades"
+link: "https://thezvi.substack.com/p/childhood-and-education-21-grades"
 source: "Don't Worry About the Vase"
 domain: "thezvi.substack.com"
 source_type: "newsletter"

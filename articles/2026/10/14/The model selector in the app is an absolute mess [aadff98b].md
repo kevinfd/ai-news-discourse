@@ -2,6 +2,7 @@
 id: "aadff98be2e32a5b"
 title: "The model selector in the app is an absolute mess"
 url: "https://reddit.com/r/ChatGPT/comments/1x64uws/the_model_selector_in_the_app_is_an_absolute_mess"
+link: "https://reddit.com/r/ChatGPT/comments/1x64uws/the_model_selector_in_the_app_is_an_absolute_mess"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

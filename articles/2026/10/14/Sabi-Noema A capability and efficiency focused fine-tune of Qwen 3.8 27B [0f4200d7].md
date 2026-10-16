@@ -2,6 +2,7 @@
 id: "0f4200d7c3e2aba6"
 title: "Sabi-Noema: A capability and efficiency focused fine-tune of Qwen 3.8 27B"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x62zrz/sabinoema_a_capability_and_efficiency_focused"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x62zrz/sabinoema_a_capability_and_efficiency_focused"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

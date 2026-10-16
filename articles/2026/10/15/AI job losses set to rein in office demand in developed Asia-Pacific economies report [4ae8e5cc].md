@@ -2,6 +2,7 @@
 id: "4ae8e5cc6f64a8ae"
 title: "AI job losses set to rein in office demand in developed Asia-Pacific economies: report"
 url: "https://scmp.com/business/article/3370934/ai-job-losses-set-rein-office-demand-developed-asia-pacific-economies-report"
+link: "https://scmp.com/business/article/3370934/ai-job-losses-set-rein-office-demand-developed-asia-pacific-economies-report"
 source: "South China Morning Post"
 domain: "scmp.com"
 source_type: "mainstream_news"

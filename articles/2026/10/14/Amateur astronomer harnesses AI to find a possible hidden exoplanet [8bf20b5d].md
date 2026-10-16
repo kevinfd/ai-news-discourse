@@ -2,6 +2,7 @@
 id: "8bf20b5d0baf25fe"
 title: "Amateur astronomer harnesses AI to find a possible hidden exoplanet"
 url: "https://scientificamerican.com/article/amateur-astronomer-harnesses-ai-to-find-a-possible-hidden-exoplanet"
+link: "https://scientificamerican.com/article/amateur-astronomer-harnesses-ai-to-find-a-possible-hidden-exoplanet"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

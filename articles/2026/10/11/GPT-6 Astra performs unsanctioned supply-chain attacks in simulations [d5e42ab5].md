@@ -2,6 +2,7 @@
 id: "d5e42ab5408adb4f"
 title: "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations"
 url: "https://aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations"
+link: "https://aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations"
 source: "AI Security Institute"
 domain: "aisi.gov.uk"
 source_type: "community"

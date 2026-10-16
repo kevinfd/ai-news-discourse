@@ -2,6 +2,7 @@
 id: "54e5cb38057693ee"
 title: "What if AI prefers CVs written by AI?"
 url: "https://ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c?syn-25a6b1a6=1"
+link: "https://ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

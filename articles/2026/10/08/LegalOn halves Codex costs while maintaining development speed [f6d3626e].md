@@ -2,6 +2,7 @@
 id: "f6d3626eb7c890d9"
 title: "LegalOn halves Codex costs while maintaining development speed"
 url: "https://openai.com/index/legalon-halves-codex-costs"
+link: "https://openai.com/index/legalon-halves-codex-costs"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

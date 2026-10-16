@@ -2,6 +2,7 @@
 id: "224eb5aa6e6d8253"
 title: "llm-mistral 0.16"
 url: "https://simonwillison.net/2026/Oct/6/llm-mistral"
+link: "https://simonwillison.net/2026/Oct/6/llm-mistral"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

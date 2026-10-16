@@ -2,6 +2,7 @@
 id: "e9c9579b69181934"
 title: "Claude Haiku 5.5"
 url: "https://platform.claude.com/docs/en/models/haiku-5-5/overview"
+link: "https://platform.claude.com/docs/en/models/haiku-5-5/overview"
 source: "Claude Platform Docs"
 domain: "platform.claude.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "48ef58e7a2d2209f"
 title: "Gemini 4 public release"
 url: "https://reddit.com/r/singularity/comments/1x4lgu2/gemini_4_public_release"
+link: "https://reddit.com/r/singularity/comments/1x4lgu2/gemini_4_public_release"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

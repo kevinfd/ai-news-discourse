@@ -2,6 +2,7 @@
 id: "a0e0fec2c2b5f568"
 title: "Amp puts AI agents to work beyond code with OpenAI models"
 url: "https://openai.com/index/amp-beyond-coding"
+link: "https://openai.com/index/amp-beyond-coding"
 source: "OpenAI"
 domain: "openai.com"
 source_type: "company_blog"

@@ -2,6 +2,7 @@
 id: "69686f07e2bb3d1e"
 title: "Windows update patches a whopping 1,400 security bugs –  including 2 zero days"
 url: "https://zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth"
+link: "https://zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

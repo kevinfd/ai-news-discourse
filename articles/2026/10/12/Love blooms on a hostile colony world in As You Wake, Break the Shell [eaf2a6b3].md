@@ -2,6 +2,7 @@
 id: "eaf2a6b3c7dd6567"
 title: "Love blooms on a hostile colony world in As You Wake, Break the Shell"
 url: "https://scientificamerican.com/article/love-blooms-on-a-hostile-colony-world-in-as-you-wake-break-the-shell"
+link: "https://scientificamerican.com/article/love-blooms-on-a-hostile-colony-world-in-as-you-wake-break-the-shell"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

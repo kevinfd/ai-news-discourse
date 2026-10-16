@@ -2,6 +2,7 @@
 id: "247e23899cea368f"
 title: "Character.ai Files for Bankruptcy"
 url: "https://theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
+link: "https://theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "community"

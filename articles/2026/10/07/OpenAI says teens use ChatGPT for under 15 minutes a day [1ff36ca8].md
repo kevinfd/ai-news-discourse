@@ -2,6 +2,7 @@
 id: "1ff36ca85bdd9b44"
 title: "OpenAI says teens use ChatGPT for under 15 minutes a day"
 url: "https://reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07"
+link: "https://reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07"
 source: "Reuters"
 domain: "reuters.com"
 source_type: "community"

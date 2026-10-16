@@ -2,6 +2,7 @@
 id: "4a0e1bbc4d4ebf27"
 title: "switching to claude"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4o951/switching_to_claude"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4o951/switching_to_claude"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

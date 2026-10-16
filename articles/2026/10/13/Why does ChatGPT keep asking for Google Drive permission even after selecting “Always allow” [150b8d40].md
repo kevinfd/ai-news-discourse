@@ -2,6 +2,7 @@
 id: "150b8d4077358f63"
 title: "Why does ChatGPT keep asking for Google Drive permission even after selecting “Always allow”?"
 url: "https://reddit.com/r/ChatGPT/comments/1x50zuf/why_does_chatgpt_keep_asking_for_google_drive"
+link: "https://reddit.com/r/ChatGPT/comments/1x50zuf/why_does_chatgpt_keep_asking_for_google_drive"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

@@ -2,6 +2,7 @@
 id: "360d66edcd0744ff"
 title: "Samsungs 65-inch Class S90H OLED 4K TV has hit its lowest-ever price at Amazon — save $400"
 url: "https://mashable.com/tech/oct-14-samsung-65-inch-class-s90h-oled-4k-tv-deal"
+link: "https://mashable.com/tech/oct-14-samsung-65-inch-class-s90h-oled-4k-tv-deal"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "f25cd3af613c6762"
 title: "AI companions and child safety"
 url: "https://thehindu.com/opinion/op-ed/ai-companions-and-child-safety/article71557018.ece"
+link: "https://thehindu.com/opinion/op-ed/ai-companions-and-child-safety/article71557018.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

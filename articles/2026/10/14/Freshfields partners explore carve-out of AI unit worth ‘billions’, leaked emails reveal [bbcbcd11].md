@@ -2,6 +2,7 @@
 id: "bbcbcd1165527a5d"
 title: "Freshfields partners explore carve-out of AI unit worth ‘billions’, leaked emails reveal"
 url: "https://ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb?syn-25a6b1a6=1"
+link: "https://ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

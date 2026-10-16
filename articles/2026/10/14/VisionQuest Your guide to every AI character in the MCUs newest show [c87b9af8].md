@@ -2,6 +2,7 @@
 id: "c87b9af8b629c5da"
 title: "VisionQuest: Your guide to every AI character in the MCUs newest show"
 url: "https://mashable.com/entertainment/visionquest-ai-character-guide-jarvis-friday-edith-u-dum-e-ultron"
+link: "https://mashable.com/entertainment/visionquest-ai-character-guide-jarvis-friday-edith-u-dum-e-ultron"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

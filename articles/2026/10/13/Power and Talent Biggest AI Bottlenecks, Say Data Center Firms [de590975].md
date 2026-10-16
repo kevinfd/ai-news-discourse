@@ -2,6 +2,7 @@
 id: "de590975815a8f8d"
 title: "Power and Talent Biggest AI Bottlenecks, Say Data Center Firms"
 url: "https://bloomberg.com/news/articles/2026-10-13/power-and-talent-biggest-ai-bottlenecks-say-data-center-firms"
+link: "https://bloomberg.com/news/articles/2026-10-13/power-and-talent-biggest-ai-bottlenecks-say-data-center-firms"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "02ae3f5fc0dc9f97"
 title: "Recording device hidden in toilet paper found in top-secret OpenAI meeting room"
 url: "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room"
+link: "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

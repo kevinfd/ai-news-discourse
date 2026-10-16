@@ -2,6 +2,7 @@
 id: "ea0a9f1024c4290f"
 title: "Meta AI creates campaign material for Flávio Bolsonaro and blocks Lula content"
 url: "https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml"
+link: "https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml"
 source: "Folha de S.Paulo"
 domain: "www1.folha.uol.com.br"
 source_type: "community"

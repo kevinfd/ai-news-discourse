@@ -2,6 +2,7 @@
 id: "02dc0e0888c6ab8e"
 title: "Does this mean the end of enshittification?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5ky1o/does_this_mean_the_end_of_enshittification"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5ky1o/does_this_mean_the_end_of_enshittification"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

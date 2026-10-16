@@ -2,6 +2,7 @@
 id: "e14901e8da63f8e8"
 title: "AI Companies have terrible customer service"
 url: "https://reddit.com/r/artificial/comments/1x4ij7r/ai_companies_have_terrible_customer_service"
+link: "https://reddit.com/r/artificial/comments/1x4ij7r/ai_companies_have_terrible_customer_service"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

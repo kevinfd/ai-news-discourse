@@ -2,6 +2,7 @@
 id: "9ab955f4a26fa6c2"
 title: "Retrofitted LLM can count the letter ‘i’s in ‘artificial intelligence’"
 url: "https://nature.com/articles/d41586-026-03059-2"
+link: "https://nature.com/articles/d41586-026-03059-2"
 source: "Nature"
 domain: "nature.com"
 source_type: "research"

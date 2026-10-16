@@ -2,6 +2,7 @@
 id: "8dfc3aacbe594fcb"
 title: "What Is The Stupidest Ai Image Prompt You Can Think Of?"
 url: "https://reddit.com/r/artificial/comments/1x68vkt/what_is_the_stupidest_ai_image_prompt_you_can"
+link: "https://reddit.com/r/artificial/comments/1x68vkt/what_is_the_stupidest_ai_image_prompt_you_can"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

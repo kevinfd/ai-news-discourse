@@ -2,6 +2,7 @@
 id: "471af1e6ad5b5591"
 title: "Meta says it is using AI to detect child sexual abuse content on Instagram and Facebook"
 url: "https://thehindu.com/sci-tech/technology/meta-says-it-is-using-ai-to-detect-child-sexual-abuse-content-on-instagram-and-facebook/article71558704.ece"
+link: "https://thehindu.com/sci-tech/technology/meta-says-it-is-using-ai-to-detect-child-sexual-abuse-content-on-instagram-and-facebook/article71558704.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

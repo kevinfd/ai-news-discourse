@@ -2,6 +2,7 @@
 id: "ac1c4b9416b570ea"
 title: "Nvidia Reportedly Ending the RTX 5090, Reserves GB202 for Workstation GPUs"
 url: "https://techpowerup.com/353578/nvidia-reportedly-ending-the-rtx-5090-reserves-gb202-silicon-for-workstation-gpus"
+link: "https://techpowerup.com/353578/nvidia-reportedly-ending-the-rtx-5090-reserves-gb202-silicon-for-workstation-gpus"
 source: "Techpowerup"
 domain: "techpowerup.com"
 source_type: "community"

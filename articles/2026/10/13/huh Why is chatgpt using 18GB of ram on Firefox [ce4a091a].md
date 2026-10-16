@@ -2,6 +2,7 @@
 id: "ce4a091a146fb571"
 title: "huh? Why is chatgpt using 18GB of ram on Firefox..."
 url: "https://reddit.com/r/ChatGPT/comments/1x52u6h/huh_why_is_chatgpt_using_18gb_of_ram_on_firefox"
+link: "https://reddit.com/r/ChatGPT/comments/1x52u6h/huh_why_is_chatgpt_using_18gb_of_ram_on_firefox"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

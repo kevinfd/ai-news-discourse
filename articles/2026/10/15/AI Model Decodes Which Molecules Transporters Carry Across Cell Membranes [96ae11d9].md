@@ -2,6 +2,7 @@
 id: "96ae11d99411d4aa"
 title: "AI Model Decodes Which Molecules Transporters Carry Across Cell Membranes"
 url: "https://bioengineer.org/ai-model-decodes-which-molecules-transporters-carry-across-cell-membranes"
+link: "https://bioengineer.org/ai-model-decodes-which-molecules-transporters-carry-across-cell-membranes"
 source: "BIOENGINEER"
 domain: "bioengineer.org"
 source_type: "mainstream_news"

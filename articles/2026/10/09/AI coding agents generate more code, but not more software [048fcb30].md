@@ -2,6 +2,7 @@
 id: "048fcb30e5f3e85f"
 title: "AI coding agents generate more code, but not more software"
 url: "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software"
+link: "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "b85537ee9db9668b"
 title: "I had rival Claude explain Google's new most powerful AI, 'Gemini 4 Argon'. It ranked 1st in 13 out of 19 categories, but it didn't win everything."
 url: "https://note.com/ojisan_ai_1953/n/nb1a01aa7fe4a?hl=en"
+link: "https://note.com/ojisan_ai_1953/n/nb1a01aa7fe4a?hl=en"
 source: "note"
 domain: "note.com"
 source_type: "mainstream_news"

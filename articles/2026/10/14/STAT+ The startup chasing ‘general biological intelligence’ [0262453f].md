@@ -2,6 +2,7 @@
 id: "0262453f6d2c25fa"
 title: "STAT+: The startup chasing ‘general biological intelligence’"
 url: "https://statnews.com/2026/10/14/the-startup-chasing-general-biological-intelligence-ai-prognosis"
+link: "https://statnews.com/2026/10/14/the-startup-chasing-general-biological-intelligence-ai-prognosis"
 source: "STAT News"
 domain: "statnews.com"
 source_type: "mainstream_news"

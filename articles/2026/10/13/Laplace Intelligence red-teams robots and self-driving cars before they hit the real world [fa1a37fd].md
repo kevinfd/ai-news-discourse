@@ -2,6 +2,7 @@
 id: "fa1a37fdc4165136"
 title: "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world"
 url: "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world"
+link: "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

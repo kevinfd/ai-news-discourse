@@ -2,6 +2,7 @@
 id: "eede9493eee98327"
 title: "AI & Jobs Statistics 2026: Who Is Gaining and Who Is Losing"
 url: "https://coincentral.com/ai-jobs-statistics"
+link: "https://coincentral.com/ai-jobs-statistics"
 source: "CoinCentral"
 domain: "coincentral.com"
 source_type: "mainstream_news"

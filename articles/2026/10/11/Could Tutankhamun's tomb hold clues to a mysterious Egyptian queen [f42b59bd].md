@@ -2,6 +2,7 @@
 id: "f42b59bd2a8c9a94"
 title: "Could Tutankhamun's tomb hold clues to a mysterious Egyptian queen?"
 url: "https://scientificamerican.com/article/could-tutankhamuns-tomb-hold-clues-to-a-mysterious-egyptian-queen"
+link: "https://scientificamerican.com/article/could-tutankhamuns-tomb-hold-clues-to-a-mysterious-egyptian-queen"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

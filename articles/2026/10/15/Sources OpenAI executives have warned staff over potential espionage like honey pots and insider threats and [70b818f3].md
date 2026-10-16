@@ -2,6 +2,7 @@
 id: "70b818f310b16e93"
 title: "Sources: OpenAI executives have warned staff over potential espionage like honey pots and insider threats and told them to adopt operational security measures (Wall Street Journal)"
 url: "https://techmeme.com/261015/p23"
+link: "https://techmeme.com/261015/p23"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

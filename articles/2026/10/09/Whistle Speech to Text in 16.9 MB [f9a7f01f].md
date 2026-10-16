@@ -2,6 +2,7 @@
 id: "f9a7f01f513e16ea"
 title: "Whistle: Speech to Text in 16.9 MB"
 url: "https://cactuscompute.com/blog/whistle"
+link: "https://cactuscompute.com/blog/whistle"
 source: "Lobsters"
 domain: "cactuscompute.com"
 source_type: "community"

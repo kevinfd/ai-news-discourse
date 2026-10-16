@@ -2,6 +2,7 @@
 id: "6f6241bfe59928b6"
 title: "PSA for 3090 FE owners: Running LLMs overheats your VRAM"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x4z19k/psa_for_3090_fe_owners_running_llms_overheats"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x4z19k/psa_for_3090_fe_owners_running_llms_overheats"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

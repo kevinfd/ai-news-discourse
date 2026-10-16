@@ -2,6 +2,7 @@
 id: "d65c2352ce23f72d"
 title: "Pixel art scene made with Opus 5.5"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5r6nw/pixel_art_scene_made_with_opus_55"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5r6nw/pixel_art_scene_made_with_opus_55"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

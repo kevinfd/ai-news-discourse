@@ -2,6 +2,7 @@
 id: "e529cb26ac9ccb01"
 title: "SpaceX Drops 4% on Agreement to Testify in New York City AI Safety Probe; Intuitive Machines Sinks 6%, Virgin Galactic Holdings Slips"
 url: "https://247wallst.com/investing/2026/10/13/spacex-drops-4-on-agreement-to-testify-in-new-york-city-ai-safety-probe-intuitive-machines-sinks-6-virgin-galactic-holdings-slips"
+link: "https://247wallst.com/investing/2026/10/13/spacex-drops-4-on-agreement-to-testify-in-new-york-city-ai-safety-probe-intuitive-machines-sinks-6-virgin-galactic-holdings-slips"
 source: "24/7 Wall St."
 domain: "247wallst.com"
 source_type: "mainstream_news"

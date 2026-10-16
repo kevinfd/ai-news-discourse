@@ -2,6 +2,7 @@
 id: "0fffbea3cb6bdca5"
 title: "Nandan Nilekani Sees AI Opportunity for Infosys"
 url: "https://bloomberg.com/news/videos/2026-10-13/nandan-nilekani-sees-ai-opportunity-for-infosys-video"
+link: "https://bloomberg.com/news/videos/2026-10-13/nandan-nilekani-sees-ai-opportunity-for-infosys-video"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

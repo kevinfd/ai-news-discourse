@@ -2,6 +2,7 @@
 id: "f69a499352537362"
 title: "Siemens Data Center Push Makes Skeleton Latest Baltic Unicorn"
 url: "https://bloomberg.com/news/articles/2026-10-14/siemens-data-center-push-makes-skeleton-latest-baltic-unicorn"
+link: "https://bloomberg.com/news/articles/2026-10-14/siemens-data-center-push-makes-skeleton-latest-baltic-unicorn"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

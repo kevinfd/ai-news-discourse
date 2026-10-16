@@ -2,6 +2,7 @@
 id: "e0910904a470ac4e"
 title: "Mathematicians invented a knitting stitch that stops mistakes from spreading"
 url: "https://scientificamerican.com/article/mathematicians-invented-a-knitting-stitch-that-stops-mistakes-from-spreading"
+link: "https://scientificamerican.com/article/mathematicians-invented-a-knitting-stitch-that-stops-mistakes-from-spreading"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

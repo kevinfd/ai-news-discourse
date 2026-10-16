@@ -2,6 +2,7 @@
 id: "d89764ec113d00b7"
 title: "Bankers are shoring up their defenses against rogue AI agents"
 url: "https://businessinsider.com/bankers-shoring-defences-against-rogue-ai-agents-2026-10"
+link: "https://businessinsider.com/bankers-shoring-defences-against-rogue-ai-agents-2026-10"
 source: "Business Insider"
 domain: "businessinsider.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "8f73dbb6d6fb7d85"
 title: "ByteDance is in advanced talks to buy custom AI chips from MediaTek"
 url: "https://qz.com/bytedance-mediatek-custom-ai-chips-data-centers-101526"
+link: "https://qz.com/bytedance-mediatek-custom-ai-chips-data-centers-101526"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

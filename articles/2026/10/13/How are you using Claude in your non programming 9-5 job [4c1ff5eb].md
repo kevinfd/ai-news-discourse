@@ -2,6 +2,7 @@
 id: "4c1ff5eb96036fe6"
 title: "How are you using Claude in your non programming 9-5 job?"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4wvc1/how_are_you_using_claude_in_your_non_programming"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4wvc1/how_are_you_using_claude_in_your_non_programming"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

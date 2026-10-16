@@ -2,6 +2,7 @@
 id: "b678ec8613c6fe75"
 title: "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer"
 url: "https://bbc.co.uk/news/articles/cm04054ykqqqo?at_campaign=rss&at_medium=RSS"
+link: "https://bbc.co.uk/news/articles/cm04054ykqqqo?at_campaign=rss&at_medium=RSS"
 source: "BBC News"
 domain: "bbc.co.uk"
 source_type: "mainstream_news"

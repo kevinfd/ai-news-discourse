@@ -2,6 +2,7 @@
 id: "38f8cbc7334120ae"
 title: "llm-openai-decisions 0.1a0"
 url: "https://simonwillison.net/2026/Oct/6/llm-openai-decisions"
+link: "https://simonwillison.net/2026/Oct/6/llm-openai-decisions"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

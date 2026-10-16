@@ -2,6 +2,7 @@
 id: "f2651340e50f172d"
 title: "Colossal has take another big step toward bringing back the dodo"
 url: "https://fastcompany.com/91623114/colossal-has-take-another-big-step-toward-bringing-back-the-dodo?partner=rss"
+link: "https://fastcompany.com/91623114/colossal-has-take-another-big-step-toward-bringing-back-the-dodo?partner=rss"
 source: "Fast Company"
 domain: "fastcompany.com"
 source_type: "tech_press"

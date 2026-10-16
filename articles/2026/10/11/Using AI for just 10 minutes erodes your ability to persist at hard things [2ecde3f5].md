@@ -2,6 +2,7 @@
 id: "2ecde3f57bd91ef1"
 title: "Using AI for just 10 minutes erodes your ability to persist at hard things"
 url: "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things"
+link: "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things"
 source: "vcresearch.berkeley.edu"
 domain: "vcresearch.berkeley.edu"
 source_type: "community"

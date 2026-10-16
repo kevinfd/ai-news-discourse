@@ -2,6 +2,7 @@
 id: "1f08c1838e22d5ee"
 title: "ChatGPT losing chats"
 url: "https://reddit.com/r/ChatGPT/comments/1x5opix/chatgpt_losing_chats"
+link: "https://reddit.com/r/ChatGPT/comments/1x5opix/chatgpt_losing_chats"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

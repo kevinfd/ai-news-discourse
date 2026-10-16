@@ -2,6 +2,7 @@
 id: "17b2ff9545b3e2b7"
 title: "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay"
 url: "https://cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html"
+link: "https://cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "mainstream_news"

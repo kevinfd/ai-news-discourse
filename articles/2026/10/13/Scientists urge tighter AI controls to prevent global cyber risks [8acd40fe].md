@@ -2,6 +2,7 @@
 id: "8acd40fec2fd6570"
 title: "Scientists urge tighter AI controls to prevent global cyber risks"
 url: "https://aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss"
+link: "https://aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss"
 source: "Al Jazeera"
 domain: "aljazeera.com"
 source_type: "mainstream_news"

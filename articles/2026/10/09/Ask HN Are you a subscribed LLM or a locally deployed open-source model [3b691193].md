@@ -2,6 +2,7 @@
 id: "3b69119397b80647"
 title: "Ask HN: Are you a subscribed LLM or a locally deployed open-source model?"
 url: "https://news.ycombinator.com/item?id=50016644"
+link: "https://news.ycombinator.com/item?id=50016644"
 source: "Hacker News"
 domain: "news.ycombinator.com"
 source_type: "community"

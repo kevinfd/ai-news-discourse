@@ -2,6 +2,7 @@
 id: "7557e9acccea49ec"
 title: "Nvidia-backed data centre firm Firmus scraps IPO as AI valuation concerns deepen"
 url: "https://bbc.com/news/articles/ck9dzpw4ll8po"
+link: "https://bbc.com/news/articles/ck9dzpw4ll8po"
 source: "BBC News"
 domain: "bbc.com"
 source_type: "community"

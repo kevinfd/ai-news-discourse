@@ -2,6 +2,7 @@
 id: "3a8fbe6d47ebda71"
 title: "Same twin prisoner's dilemma in eight languages: Opus 5.5 cooperates 72% in Italian, 21% in English, 5% in Japanese, and mispredicts itself both ways"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5yhm1/same_twin_prisoners_dilemma_in_eight_languages"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5yhm1/same_twin_prisoners_dilemma_in_eight_languages"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

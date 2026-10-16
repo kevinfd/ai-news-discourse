@@ -2,6 +2,7 @@
 id: "7530da4553d5ab3c"
 title: "Do we care about shitty vibe code if models keep getting exponentially better"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5qk3e/do_we_care_about_shitty_vibe_code_if_models_keep"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5qk3e/do_we_care_about_shitty_vibe_code_if_models_keep"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

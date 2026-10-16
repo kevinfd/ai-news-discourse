@@ -2,6 +2,7 @@
 id: "36c7f236badbda72"
 title: "“Take work away from frontier LLMs”: Subquadratic’s decision model claims 12x Jev’s context window"
 url: "https://thenewstack.io/subquadratic-snap-jev-decision-model"
+link: "https://thenewstack.io/subquadratic-snap-jev-decision-model"
 source: "The New Stack"
 domain: "thenewstack.io"
 source_type: "tech_press"

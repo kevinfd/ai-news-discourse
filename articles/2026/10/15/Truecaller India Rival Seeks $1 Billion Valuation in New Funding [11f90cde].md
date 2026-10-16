@@ -2,6 +2,7 @@
 id: "11f90cded480ea1a"
 title: "Truecaller India Rival Seeks $1 Billion Valuation in New Funding"
 url: "https://bloomberg.com/news/articles/2026-10-15/truecaller-india-rival-seeks-1-billion-valuation-in-new-funding"
+link: "https://bloomberg.com/news/articles/2026-10-15/truecaller-india-rival-seeks-1-billion-valuation-in-new-funding"
 source: "Bloomberg"
 domain: "bloomberg.com"
 source_type: "mainstream_news"

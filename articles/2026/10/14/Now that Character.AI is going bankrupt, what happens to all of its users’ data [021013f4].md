@@ -2,6 +2,7 @@
 id: "021013f45386e3a5"
 title: "Now that Character.AI is going bankrupt, what happens to all of its users’ data?"
 url: "https://theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
+link: "https://theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

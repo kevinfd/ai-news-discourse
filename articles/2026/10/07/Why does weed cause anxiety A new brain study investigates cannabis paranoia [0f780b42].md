@@ -2,6 +2,7 @@
 id: "0f780b42f1a55f4f"
 title: "Why does weed cause anxiety? A new brain study investigates cannabis paranoia"
 url: "https://scientificamerican.com/article/why-does-weed-cause-anxiety-a-new-brain-study-investigates-cannabis-paranoia"
+link: "https://scientificamerican.com/article/why-does-weed-cause-anxiety-a-new-brain-study-investigates-cannabis-paranoia"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

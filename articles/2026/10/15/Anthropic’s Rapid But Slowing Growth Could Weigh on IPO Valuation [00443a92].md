@@ -2,6 +2,7 @@
 id: "00443a923bfd23ea"
 title: "Anthropic’s Rapid But Slowing Growth Could Weigh on IPO Valuation"
 url: "https://theinformation.com/articles/anthropics-rapid-slowing-growth-weigh-ipo-valuation"
+link: "https://theinformation.com/articles/anthropics-rapid-slowing-growth-weigh-ipo-valuation"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

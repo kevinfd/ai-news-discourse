@@ -2,6 +2,7 @@
 id: "5c79d2780055f4ca"
 title: "Gemini thinking like gemini.."
 url: "https://reddit.com/r/singularity/comments/1x632mk/gemini_thinking_like_gemini"
+link: "https://reddit.com/r/singularity/comments/1x632mk/gemini_thinking_like_gemini"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

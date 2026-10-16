@@ -2,6 +2,7 @@
 id: "bd2518ae90cc7e15"
 title: "Prize-winning image which sparked backlash was AI-generated, Nikon rules"
 url: "https://bbc.com/news/articles/cr86z33pdy9vo"
+link: "https://bbc.com/news/articles/cr86z33pdy9vo"
 source: "BBC News"
 domain: "bbc.com"
 source_type: "community"

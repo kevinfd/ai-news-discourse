@@ -2,6 +2,7 @@
 id: "3da3e7bca83e6650"
 title: "Apple HomeView, The New Apple TV, The App Story"
 url: "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story"
+link: "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story"
 source: "Stratechery"
 domain: "stratechery.com"
 source_type: "newsletter"

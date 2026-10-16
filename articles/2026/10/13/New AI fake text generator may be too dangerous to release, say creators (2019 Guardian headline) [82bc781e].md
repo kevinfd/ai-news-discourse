@@ -2,6 +2,7 @@
 id: "82bc781ec592467a"
 title: "\"New AI fake text generator may be too dangerous to release, say creators\" (2019 Guardian headline)"
 url: "https://reddit.com/r/LocalLLaMA/comments/1x52lsb/new_ai_fake_text_generator_may_be_too_dangerous"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x52lsb/new_ai_fake_text_generator_may_be_too_dangerous"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

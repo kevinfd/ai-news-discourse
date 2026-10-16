@@ -2,6 +2,7 @@
 id: "64950daaf518492b"
 title: "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say"
 url: "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say"
+link: "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

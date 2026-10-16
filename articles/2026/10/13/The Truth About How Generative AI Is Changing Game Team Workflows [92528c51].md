@@ -2,6 +2,7 @@
 id: "92528c5132f2e653"
 title: "The Truth About How Generative AI Is Changing Game Team Workflows"
 url: "https://gigwise.com/the-truth-about-how-generative-ai-is-changing-game-team-workflows"
+link: "https://gigwise.com/the-truth-about-how-generative-ai-is-changing-game-team-workflows"
 source: "Gigwise"
 domain: "gigwise.com"
 source_type: "mainstream_news"

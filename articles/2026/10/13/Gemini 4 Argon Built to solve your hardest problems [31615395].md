@@ -2,6 +2,7 @@
 id: "316153953adff70c"
 title: "Gemini 4 Argon: Built to solve your hardest problems"
 url: "https://deepmind.google/blog/introducing-gemini-4-argon"
+link: "https://deepmind.google/blog/introducing-gemini-4-argon"
 source: "Google DeepMind"
 domain: "deepmind.google"
 source_type: "company_blog"

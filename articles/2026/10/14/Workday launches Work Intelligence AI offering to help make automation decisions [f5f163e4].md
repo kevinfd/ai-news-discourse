@@ -2,6 +2,7 @@
 id: "f5f163e44584637c"
 title: "Workday launches Work Intelligence AI offering to help make automation decisions"
 url: "https://thehindu.com/sci-tech/technology/workday-launches-work-intelligence-ai-offering-to-help-make-automation-decisions/article71582938.ece"
+link: "https://thehindu.com/sci-tech/technology/workday-launches-work-intelligence-ai-offering-to-help-make-automation-decisions/article71582938.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "296ed2c2b7b3e170"
 title: "A profile of Marc Andreessen, who sources say is close to White House COS Susie Wiles and has publicly described a fallout with Biden officials over AI policy (Austin Carr/Bloomberg)"
 url: "https://techmeme.com/261015/p22"
+link: "https://techmeme.com/261015/p22"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

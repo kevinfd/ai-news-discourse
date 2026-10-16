@@ -2,6 +2,7 @@
 id: "0c7f9ec644661184"
 title: "I don't have problems with AI, I have problems with the business around it."
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x4r5s2/i_dont_have_problems_with_ai_i_have_problems_with"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x4r5s2/i_dont_have_problems_with_ai_i_have_problems_with"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

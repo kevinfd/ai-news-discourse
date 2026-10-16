@@ -2,6 +2,7 @@
 id: "c9d5089067c398a6"
 title: "OpenAI Employee Arrested For Allegedly Installing Office Listening Device"
 url: "https://theinformation.com/briefings/openai-employee-arrested-allegedly-installing-office-listening-device"
+link: "https://theinformation.com/briefings/openai-employee-arrested-allegedly-installing-office-listening-device"
 source: "The Information"
 domain: "theinformation.com"
 source_type: "tech_press"

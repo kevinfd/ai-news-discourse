@@ -2,6 +2,7 @@
 id: "032cc2666c541517"
 title: "Will there be a black-friday this year? NVIDIA RTX 5060 Ti 16 GB Surges Up To 144% In Japan, Hitting $1,292 As RTX 5080 Climbs Past $2,400"
 url: "https://wccftech.com/nvidia-rtx-5060-ti-16-gb-surges-up-to-144-in-japan"
+link: "https://wccftech.com/nvidia-rtx-5060-ti-16-gb-surges-up-to-144-in-japan"
 source: "Wccftech"
 domain: "wccftech.com"
 source_type: "community"

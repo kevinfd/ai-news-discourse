@@ -2,6 +2,7 @@
 id: "6626e386d54752bd"
 title: "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute"
 url: "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge"
+link: "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge"
 source: "NVIDIA Blog"
 domain: "blogs.nvidia.com"
 source_type: "company_blog"

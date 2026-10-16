@@ -2,6 +2,7 @@
 id: "71afce8b579b48e2"
 title: "Show HN: Use your OpenAI subscription to create audiobooks"
 url: "https://pdftomp3.com/connect-ai"
+link: "https://pdftomp3.com/connect-ai"
 source: "PDF TO MP3"
 domain: "pdftomp3.com"
 source_type: "community"

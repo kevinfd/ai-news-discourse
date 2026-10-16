@@ -2,6 +2,7 @@
 id: "fd8246bc17acdf95"
 title: "At least 8 states sued OpenAI, alleging ChatGPT harmed children and deceived parents"
 url: "https://qz.com/states-sue-openai-chatgpt-child-safety-101526"
+link: "https://qz.com/states-sue-openai-chatgpt-child-safety-101526"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

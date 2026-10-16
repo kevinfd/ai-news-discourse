@@ -2,6 +2,7 @@
 id: "030174e62497dc8f"
 title: "Progression of Artificial Intelligence"
 url: "https://reddit.com/r/artificial/comments/1x4zmle/progression_of_artificial_intelligence"
+link: "https://reddit.com/r/artificial/comments/1x4zmle/progression_of_artificial_intelligence"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

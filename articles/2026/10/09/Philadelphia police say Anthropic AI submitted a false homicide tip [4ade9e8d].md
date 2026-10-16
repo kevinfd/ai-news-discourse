@@ -2,6 +2,7 @@
 id: "4ade9e8d3db5c774"
 title: "Philadelphia police say Anthropic AI submitted a \"false homicide tip\""
 url: "https://cbsnews.com/news/philadelphia-police-anthropic-ai-false-homicide-tip"
+link: "https://cbsnews.com/news/philadelphia-police-anthropic-ai-false-homicide-tip"
 source: "CBS News"
 domain: "cbsnews.com"
 source_type: "mainstream_news"

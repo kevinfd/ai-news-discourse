@@ -2,6 +2,7 @@
 id: "6e1a8eb7a018c172"
 title: "Model Collapse Isn't New, nor Is It Specific to AI"
 url: "https://rulr.dev/blog/model-collapse-isnt-new"
+link: "https://rulr.dev/blog/model-collapse-isnt-new"
 source: "rulr.dev"
 domain: "rulr.dev"
 source_type: "community"

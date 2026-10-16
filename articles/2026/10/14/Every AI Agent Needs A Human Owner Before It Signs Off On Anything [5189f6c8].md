@@ -2,6 +2,7 @@
 id: "5189f6c85699d763"
 title: "Every AI Agent Needs A Human Owner Before It Signs Off On Anything"
 url: "https://forbes.com/councils/forbestechcouncil/2026/10/14/every-ai-agent-needs-a-human-owner-before-it-signs-off-on-anything"
+link: "https://forbes.com/councils/forbestechcouncil/2026/10/14/every-ai-agent-needs-a-human-owner-before-it-signs-off-on-anything"
 source: "Forbes"
 domain: "forbes.com"
 source_type: "mainstream_news"

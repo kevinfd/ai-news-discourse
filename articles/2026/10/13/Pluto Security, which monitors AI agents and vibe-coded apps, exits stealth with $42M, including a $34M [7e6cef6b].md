@@ -2,6 +2,7 @@
 id: "7e6cef6b990c7c30"
 title: "Pluto Security, which monitors AI agents and vibe-coded apps, exits stealth with $42M, including a $34M Series A, and says it has hit $2M+ in ARR since April (Ram Iyer/TechCrunch)"
 url: "https://techmeme.com/261013/p35"
+link: "https://techmeme.com/261013/p35"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

@@ -2,6 +2,7 @@
 id: "d2fd91d073be271b"
 title: "How AI mega-rounds make life harder for VC firms"
 url: "https://ft.com/content/26db5bb2-9d81-4c62-aeac-c0dfef4c79e6?syn-25a6b1a6=1"
+link: "https://ft.com/content/26db5bb2-9d81-4c62-aeac-c0dfef4c79e6?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

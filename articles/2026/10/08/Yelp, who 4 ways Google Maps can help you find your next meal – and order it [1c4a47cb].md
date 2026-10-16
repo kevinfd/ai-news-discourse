@@ -2,6 +2,7 @@
 id: "1c4a47cba4b1745d"
 title: "Yelp, who? 4 ways Google Maps can help you find your next meal – and order it"
 url: "https://zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering"
+link: "https://zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

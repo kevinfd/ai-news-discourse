@@ -2,6 +2,7 @@
 id: "19ef2b55f63c8bf0"
 title: "Recent AI models struggled to match a human algorithmic innovation"
 url: "https://epoch.ai/publications/innovationeval"
+link: "https://epoch.ai/publications/innovationeval"
 source: "Epoch AI"
 domain: "epoch.ai"
 source_type: "community"

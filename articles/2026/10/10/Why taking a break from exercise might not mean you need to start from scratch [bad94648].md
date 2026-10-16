@@ -2,6 +2,7 @@
 id: "bad94648b751e563"
 title: "Why taking a break from exercise might not mean you need to start from scratch"
 url: "https://scientificamerican.com/article/why-taking-a-break-from-exercise-might-not-mean-you-need-to-start-from-scratch"
+link: "https://scientificamerican.com/article/why-taking-a-break-from-exercise-might-not-mean-you-need-to-start-from-scratch"
 source: "Scientific American"
 domain: "scientificamerican.com"
 source_type: "tech_press"

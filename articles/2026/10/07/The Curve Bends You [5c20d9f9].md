@@ -2,6 +2,7 @@
 id: "5c20d9f9ed1e495e"
 title: "The Curve Bends You"
 url: "https://thezvi.substack.com/p/the-curve-bends-you"
+link: "https://thezvi.substack.com/p/the-curve-bends-you"
 source: "Don't Worry About the Vase"
 domain: "thezvi.substack.com"
 source_type: "newsletter"

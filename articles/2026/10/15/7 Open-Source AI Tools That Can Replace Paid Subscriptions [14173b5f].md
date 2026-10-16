@@ -2,6 +2,7 @@
 id: "14173b5f4d609421"
 title: "7 Open-Source AI Tools That Can Replace Paid Subscriptions"
 url: "https://kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions"
+link: "https://kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions"
 source: "KDnuggets"
 domain: "kdnuggets.com"
 source_type: "newsletter"

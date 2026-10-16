@@ -2,6 +2,7 @@
 id: "f2b233a912ff77f1"
 title: "Open source torus generator with interesting workflow"
 url: "https://reddit.com/r/ClaudeAI/comments/1x4q1o2/open_source_torus_generator_with_interesting"
+link: "https://reddit.com/r/ClaudeAI/comments/1x4q1o2/open_source_torus_generator_with_interesting"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

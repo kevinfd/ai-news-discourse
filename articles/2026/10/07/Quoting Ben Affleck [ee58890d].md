@@ -2,6 +2,7 @@
 id: "ee58890d81f7a8ac"
 title: "Quoting Ben Affleck"
 url: "https://simonwillison.net/2026/Oct/7/ben-affleck"
+link: "https://simonwillison.net/2026/Oct/7/ben-affleck"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

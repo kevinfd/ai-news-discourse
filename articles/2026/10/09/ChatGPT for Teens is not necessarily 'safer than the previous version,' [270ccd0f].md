@@ -2,6 +2,7 @@
 id: "270ccd0fc5c019cd"
 title: "ChatGPT for Teens is not necessarily 'safer than the previous version,'"
 url: "https://cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html"
+link: "https://cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html"
 source: "CNBC"
 domain: "cnbc.com"
 source_type: "community"

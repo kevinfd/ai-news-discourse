@@ -2,6 +2,7 @@
 id: "9311aaf065b98478"
 title: "Trump says anyone who does not refer to AI as super intelligence is 'THE ENEMY'"
 url: "https://politico.com/news/2026/10/08/trump-ai-super-intelligence-renaming-01112404"
+link: "https://politico.com/news/2026/10/08/trump-ai-super-intelligence-renaming-01112404"
 source: "Politico"
 domain: "politico.com"
 source_type: "community"

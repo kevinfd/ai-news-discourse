@@ -2,6 +2,7 @@
 id: "ff72d7b29451936c"
 title: "Jensen Huang said Nvidia should work with Chinese AI companies on safety"
 url: "https://qz.com/jensen-huang-nvidia-china-ai-safety-dialogue-101526"
+link: "https://qz.com/jensen-huang-nvidia-china-ai-safety-dialogue-101526"
 source: "Quartz"
 domain: "qz.com"
 source_type: "mainstream_news"

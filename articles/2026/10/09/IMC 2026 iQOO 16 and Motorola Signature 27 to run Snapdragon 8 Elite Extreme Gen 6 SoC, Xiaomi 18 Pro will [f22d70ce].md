@@ -2,6 +2,7 @@
 id: "f22d70ce8f7dab5b"
 title: "IMC 2026: iQOO 16 and Motorola Signature 27 to run Snapdragon 8 Elite Extreme Gen 6 SoC, Xiaomi 18 Pro will use Snapdragon 8 Elite Gen 6 chip"
 url: "https://thehindu.com/sci-tech/technology/gadgets/imc-2026-iqoo-16-and-motorola-signature-27-to-run-snapdragon-8-elite-extreme-gen-6-soc-xiaomi-18-pro-will-use-snapdragon-8-elite-gen-6-chip/article71563357.ece"
+link: "https://thehindu.com/sci-tech/technology/gadgets/imc-2026-iqoo-16-and-motorola-signature-27-to-run-snapdragon-8-elite-extreme-gen-6-soc-xiaomi-18-pro-will-use-snapdragon-8-elite-gen-6-chip/article71563357.ece"
 source: "The Hindu"
 domain: "thehindu.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "5ae0fbe1f0a414d5"
 title: "Google rolls out Gemini 4 Argon globally via the Gemini API and to Google AI Pro subscribers in the Gemini app and AI Mode, and in Antigravity for Ultra users (Robert Hart/The Verge)"
 url: "https://techmeme.com/261013/p30"
+link: "https://techmeme.com/261013/p30"
 source: "Techmeme"
 domain: "techmeme.com"
 source_type: "tech_press"

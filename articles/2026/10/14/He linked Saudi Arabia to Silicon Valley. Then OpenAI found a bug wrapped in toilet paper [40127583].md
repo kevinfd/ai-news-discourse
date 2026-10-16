@@ -2,6 +2,7 @@
 id: "40127583683a2b1a"
 title: "He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper"
 url: "https://ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1"
+link: "https://ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

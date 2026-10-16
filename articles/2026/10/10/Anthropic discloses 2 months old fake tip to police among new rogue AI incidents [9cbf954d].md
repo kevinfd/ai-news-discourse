@@ -2,6 +2,7 @@
 id: "9cbf954d131dd71a"
 title: "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents"
 url: "https://reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09"
+link: "https://reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09"
 source: "Reuters"
 domain: "reuters.com"
 source_type: "community"

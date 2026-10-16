@@ -2,6 +2,7 @@
 id: "189b2235b7719798"
 title: "Google launches flagship AI model Gemini 4 Argon for developers, businesses"
 url: "https://miamiherald.com/news/business/article317604809.html"
+link: "https://miamiherald.com/news/business/article317604809.html"
 source: "Miami Herald"
 domain: "miamiherald.com"
 source_type: "mainstream_news"

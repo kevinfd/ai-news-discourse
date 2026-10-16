@@ -2,6 +2,7 @@
 id: "339da82e2ea922e3"
 title: "Anthropic warns small AI models could self-replicate through IoT devices"
 url: "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices"
+link: "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

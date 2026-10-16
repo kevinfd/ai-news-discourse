@@ -2,6 +2,7 @@
 id: "aa35f92aa816626a"
 title: "Apple announces Home Collection, new smart security products made with LG"
 url: "https://mashable.com/tech/apple-announces-home-collection-lg-smart-security-products"
+link: "https://mashable.com/tech/apple-announces-home-collection-lg-smart-security-products"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

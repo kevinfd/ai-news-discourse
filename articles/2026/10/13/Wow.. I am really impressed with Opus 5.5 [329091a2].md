@@ -2,6 +2,7 @@
 id: "329091a218f661b6"
 title: "Wow.. I am really impressed with Opus 5.5"
 url: "https://reddit.com/r/ClaudeAI/comments/1x58ooh/wow_i_am_really_impressed_with_opus_55"
+link: "https://reddit.com/r/ClaudeAI/comments/1x58ooh/wow_i_am_really_impressed_with_opus_55"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

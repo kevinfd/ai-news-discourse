@@ -2,6 +2,7 @@
 id: "22016dd971a85912"
 title: "Consistency is not a localized property"
 url: "https://n-the-loop.com/blog/consistency-is-not-a-localized-property"
+link: "https://n-the-loop.com/blog/consistency-is-not-a-localized-property"
 source: "Lobsters"
 domain: "n-the-loop.com"
 source_type: "community"

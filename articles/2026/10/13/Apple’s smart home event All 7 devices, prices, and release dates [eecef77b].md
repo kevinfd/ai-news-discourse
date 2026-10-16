@@ -2,6 +2,7 @@
 id: "eecef77bb55471cf"
 title: "Apple’s smart home event: All 7 devices, prices, and release dates"
 url: "https://zdnet.com/uncategorized/apple-smart-home-event-homeview-homepod-mini-new-apple-tv"
+link: "https://zdnet.com/uncategorized/apple-smart-home-event-homeview-homepod-mini-new-apple-tv"
 source: "ZDNet"
 domain: "zdnet.com"
 source_type: "tech_press"

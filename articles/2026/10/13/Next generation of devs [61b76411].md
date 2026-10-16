@@ -2,6 +2,7 @@
 id: "61b7641163652134"
 title: "Next generation of devs"
 url: "https://reddit.com/r/ClaudeAI/comments/1x54nup/next_generation_of_devs"
+link: "https://reddit.com/r/ClaudeAI/comments/1x54nup/next_generation_of_devs"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

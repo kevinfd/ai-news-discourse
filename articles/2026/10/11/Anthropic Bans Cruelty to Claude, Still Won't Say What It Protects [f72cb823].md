@@ -2,6 +2,7 @@
 id: "f72cb823d93cd3ce"
 title: "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects"
 url: "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6"
+link: "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6"
 source: "Rews"
 domain: "rews.cc"
 source_type: "community"

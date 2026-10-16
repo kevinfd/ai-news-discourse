@@ -2,6 +2,7 @@
 id: "230053f72cafea17"
 title: "web-edit 0.1a1"
 url: "https://simonwillison.net/2026/Oct/13/web-edit"
+link: "https://simonwillison.net/2026/Oct/13/web-edit"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

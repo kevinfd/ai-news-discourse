@@ -2,6 +2,7 @@
 id: "8dbde4faeee19791"
 title: "Tumbler Ridge shooter's ChatGPT use \"more disturbing\" than known: reporter"
 url: "https://cbc.ca/news/canada/british-columbia/mother-jones-chatgpt-safeguards-tumbler-ridge-bc-shooter-9.7358031"
+link: "https://cbc.ca/news/canada/british-columbia/mother-jones-chatgpt-safeguards-tumbler-ridge-bc-shooter-9.7358031"
 source: "CBC"
 domain: "cbc.ca"
 source_type: "community"

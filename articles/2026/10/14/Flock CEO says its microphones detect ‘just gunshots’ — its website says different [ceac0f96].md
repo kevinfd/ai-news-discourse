@@ -2,6 +2,7 @@
 id: "ceac0f96bc6e6bf4"
 title: "Flock CEO says its microphones detect ‘just gunshots’ — its website says different"
 url: "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different"
+link: "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different"
 source: "TechCrunch"
 domain: "techcrunch.com"
 source_type: "tech_press"

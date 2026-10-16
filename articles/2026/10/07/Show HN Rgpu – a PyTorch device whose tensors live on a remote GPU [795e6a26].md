@@ -2,6 +2,7 @@
 id: "795e6a260c28f8b2"
 title: "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU"
 url: "https://github.com/ymcrcat/rgpu"
+link: "https://github.com/ymcrcat/rgpu"
 source: "GitHub"
 domain: "github.com"
 source_type: "community"

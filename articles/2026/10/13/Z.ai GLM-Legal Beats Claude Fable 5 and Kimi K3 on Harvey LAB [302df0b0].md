@@ -2,6 +2,7 @@
 id: "302df0b0c08b99b5"
 title: "Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB"
 url: "https://marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model"
+link: "https://marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

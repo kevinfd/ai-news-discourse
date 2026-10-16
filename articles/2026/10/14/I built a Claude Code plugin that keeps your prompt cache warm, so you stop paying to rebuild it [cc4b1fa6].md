@@ -2,6 +2,7 @@
 id: "cc4b1fa6fa451160"
 title: "I built a Claude Code plugin that keeps your prompt cache warm, so you stop paying to rebuild it"
 url: "https://reddit.com/r/ClaudeAI/comments/1x5ttwo/i_built_a_claude_code_plugin_that_keeps_your"
+link: "https://reddit.com/r/ClaudeAI/comments/1x5ttwo/i_built_a_claude_code_plugin_that_keeps_your"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

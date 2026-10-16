@@ -2,6 +2,7 @@
 id: "149829565d5e936a"
 title: "T-Mobile is giving away the Apple iPhone for free — how to claim"
 url: "https://mashable.com/tech/free-apple-iphone-deal"
+link: "https://mashable.com/tech/free-apple-iphone-deal"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

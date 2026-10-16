@@ -2,6 +2,7 @@
 id: "0be9d692152332ac"
 title: "AI Safety Is Not a Corporate Plot"
 url: "https://astralcodexten.com/p/ai-safety-is-not-a-corporate-plot"
+link: "https://astralcodexten.com/p/ai-safety-is-not-a-corporate-plot"
 source: "Astralcodexten"
 domain: "astralcodexten.com"
 source_type: "community"

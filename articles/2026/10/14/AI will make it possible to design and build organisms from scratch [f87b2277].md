@@ -2,6 +2,7 @@
 id: "f87b227741b8599b"
 title: "AI will make it possible to design and build organisms from scratch"
 url: "https://economist.com/science-and-technology/2026/10/14/ai-will-make-it-possible-to-design-and-build-organisms-from-scratch"
+link: "https://economist.com/science-and-technology/2026/10/14/ai-will-make-it-possible-to-design-and-build-organisms-from-scratch"
 source: "The Economist"
 domain: "economist.com"
 source_type: "mainstream_news"

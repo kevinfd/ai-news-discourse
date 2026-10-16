@@ -2,6 +2,7 @@
 id: "3499587cdb993856"
 title: "AI ecosystem news aggregator"
 url: "https://reddit.com/r/ArtificialInteligence/comments/1x50je5/ai_ecosystem_news_aggregator"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1x50je5/ai_ecosystem_news_aggregator"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

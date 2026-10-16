@@ -2,6 +2,7 @@
 id: "858ce7e14d9130e5"
 title: "Quoting Geoffrey Huntley"
 url: "https://simonwillison.net/2026/Oct/13/geoffrey-huntley"
+link: "https://simonwillison.net/2026/Oct/13/geoffrey-huntley"
 source: "Simon Willison"
 domain: "simonwillison.net"
 source_type: "newsletter"

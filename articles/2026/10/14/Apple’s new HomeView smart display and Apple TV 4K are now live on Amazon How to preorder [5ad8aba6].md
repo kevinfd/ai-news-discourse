@@ -2,6 +2,7 @@
 id: "5ad8aba605ea3779"
 title: "Apple’s new HomeView smart display and Apple TV 4K are now live on Amazon: How to preorder"
 url: "https://mashable.com/tech/apple-homeview-apple-tv-4k-amazon-preorders"
+link: "https://mashable.com/tech/apple-homeview-apple-tv-4k-amazon-preorders"
 source: "Mashable"
 domain: "mashable.com"
 source_type: "tech_press"

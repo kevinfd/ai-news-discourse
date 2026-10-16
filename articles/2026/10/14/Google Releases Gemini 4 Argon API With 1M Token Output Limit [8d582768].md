@@ -2,6 +2,7 @@
 id: "8d5827682de7ed4c"
 title: "Google Releases Gemini 4 Argon API With 1M Token Output Limit"
 url: "https://marktechpost.com/2026/10/13/google-gemini-4-argon-api-release"
+link: "https://marktechpost.com/2026/10/13/google-gemini-4-argon-api-release"
 source: "MarkTechPost"
 domain: "marktechpost.com"
 source_type: "tech_press"

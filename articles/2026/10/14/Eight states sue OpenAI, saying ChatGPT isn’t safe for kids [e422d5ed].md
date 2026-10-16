@@ -2,6 +2,7 @@
 id: "e422d5ed36814fbc"
 title: "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids"
 url: "https://theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+link: "https://theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
 source: "The Verge"
 domain: "theverge.com"
 source_type: "tech_press"

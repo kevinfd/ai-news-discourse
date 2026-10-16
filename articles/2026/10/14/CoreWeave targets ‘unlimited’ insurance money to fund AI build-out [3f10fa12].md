@@ -2,6 +2,7 @@
 id: "3f10fa12ca2e9909"
 title: "CoreWeave targets ‘unlimited’ insurance money to fund AI build-out"
 url: "https://ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1"
+link: "https://ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "mainstream_news"

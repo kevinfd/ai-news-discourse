@@ -2,6 +2,7 @@
 id: "3916dd0cef6c5eaf"
 title: "Denver’s AI chatbot ‘Sunny’ may set after council rejects contract"
 url: "https://denverpost.com/2026/10/14/denver-council-ai-chatbot-sunny-contract"
+link: "https://denverpost.com/2026/10/14/denver-council-ai-chatbot-sunny-contract"
 source: "The Denver Post"
 domain: "denverpost.com"
 source_type: "mainstream_news"

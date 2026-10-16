@@ -2,6 +2,7 @@
 id: "7c2230b0039a3b16"
 title: "ICE Wants to Use AI to Monitor Detainee Calls and Movements"
 url: "https://washingtonsun.com/immigration/ice-ai-monitor-detainees"
+link: "https://washingtonsun.com/immigration/ice-ai-monitor-detainees"
 source: "The Washington Sun"
 domain: "washingtonsun.com"
 source_type: "community"

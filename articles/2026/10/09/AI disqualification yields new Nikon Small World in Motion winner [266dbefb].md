@@ -2,6 +2,7 @@
 id: "266dbefb97b258c9"
 title: "AI disqualification yields new Nikon Small World in Motion winner"
 url: "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use"
+link: "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use"
 source: "Ars Technica"
 domain: "arstechnica.com"
 source_type: "tech_press"

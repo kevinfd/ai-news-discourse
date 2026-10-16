@@ -2,6 +2,7 @@
 id: "b8aa1ac841df62a5"
 title: "Companies rushed in on AI. Now some are pulling back"
 url: "https://theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout"
+link: "https://theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout"
 source: "The Guardian"
 domain: "theguardian.com"
 source_type: "mainstream_news"

@@ -2,6 +2,7 @@
 id: "9488cc097a5439af"
 title: "Looks like OpenAI anticipated our cancellations."
 url: "https://reddit.com/r/ChatGPT/comments/1x6czci/looks_like_openai_anticipated_our_cancellations"
+link: "https://reddit.com/r/ChatGPT/comments/1x6czci/looks_like_openai_anticipated_our_cancellations"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

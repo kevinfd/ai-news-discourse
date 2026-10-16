@@ -2,6 +2,7 @@
 id: "26c738c12746b018"
 title: "I wanted to keep up with AI without reading a whole newspaper, so I built Nyoose"
 url: "https://reddit.com/r/artificial/comments/1x5qulx/i_wanted_to_keep_up_with_ai_without_reading_a"
+link: "https://reddit.com/r/artificial/comments/1x5qulx/i_wanted_to_keep_up_with_ai_without_reading_a"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

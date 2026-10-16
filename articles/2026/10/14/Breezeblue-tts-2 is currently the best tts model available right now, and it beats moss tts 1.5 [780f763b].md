@@ -2,6 +2,7 @@
 id: "780f763b32af0c6b"
 title: "Breezeblue-tts-2 is currently the best tts model available right now, and it beats moss tts 1.5."
 url: "https://reddit.com/r/LocalLLaMA/comments/1x5qr7b/breezebluetts2_is_currently_the_best_tts_model"
+link: "https://reddit.com/r/LocalLLaMA/comments/1x5qr7b/breezebluetts2_is_currently_the_best_tts_model"
 source: "Reddit"
 domain: "reddit.com"
 source_type: "community"

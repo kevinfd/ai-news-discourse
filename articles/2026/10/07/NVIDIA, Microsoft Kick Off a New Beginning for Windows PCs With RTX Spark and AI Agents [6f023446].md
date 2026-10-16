@@ -2,6 +2,7 @@
 id: "6f02344687c47731"
 title: "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents"
 url: "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event"
+link: "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event"
 source: "NVIDIA Blog"
 domain: "blogs.nvidia.com"
 source_type: "company_blog"

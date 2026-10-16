@@ -2,6 +2,7 @@
 id: "01cf3b49b5dae763"
 title: "Anthropic revenue jumps to $16.8B in third quarter"
 url: "https://ft.com/content/11632d03-358c-454b-af95-d06d4072932b"
+link: "https://ft.com/content/11632d03-358c-454b-af95-d06d4072932b"
 source: "Financial Times"
 domain: "ft.com"
 source_type: "community"
