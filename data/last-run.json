@@ -1,108 +1,111 @@
 {
-  "run_at": "2026-10-15T12:06:50Z",
-  "since": "2026-10-14T00:06:50Z",
+  "run_at": "2026-10-16T12:06:51Z",
+  "since": "2026-10-15T00:06:51Z",
   "stats": {
-    "candidates": 1025,
-    "already_known": 69,
-    "title_duplicate": 2,
-    "not_ai": 440,
-    "merged_duplicates": 10,
-    "new_unique": 504,
-    "written": 504,
-    "seconds": 406
+    "candidates": 1009,
+    "already_known": 70,
+    "not_ai": 453,
+    "merged_duplicates": 6,
+    "new_unique": 480,
+    "written": 480,
+    "seconds": 389
   },
   "by_content_source": {
-    "fulltext": 218,
-    "summary": 169,
-    "post": 117
+    "fulltext": 231,
+    "summary": 136,
+    "post": 113
   },
   "top_sources": [
     [
       "Reddit",
-      139
-    ],
-    [
-      "The Information",
-      13
-    ],
-    [
-      "Financial Times",
-      12
+      122
     ],
     [
       "Bloomberg",
-      12
+      19
     ],
     [
-      "TechCrunch",
-      11
+      "Financial Times",
+      15
+    ],
+    [
+      "Techmeme",
+      14
+    ],
+    [
+      "The New Stack",
+      14
+    ],
+    [
+      "Forbes",
+      13
     ],
     [
       "The Verge",
-      11
-    ],
-    [
-      "The Guardian",
-      11
-    ],
-    [
-      "Business Insider",
-      11
-    ],
-    [
-      "Quartz",
-      11
+      12
     ],
     [
       "Mashable",
       11
     ],
     [
+      "TechCrunch",
+      10
+    ],
+    [
       "CNBC",
       10
     ],
     [
-      "Scientific American",
-      10
-    ],
-    [
-      "Forbes",
+      "The Information",
       9
     ],
     [
+      "The Hindu",
+      9
+    ],
+    [
+      "Hugging Face",
+      9
+    ],
+    [
+      "Scientific American",
+      7
+    ],
+    [
       "Channel NewsAsia",
-      8
-    ],
-    [
-      "Techmeme",
       7
-    ],
-    [
-      "Engadget",
-      7
-    ],
-    [
-      "Fast Company",
-      7
-    ],
-    [
-      "Tom's Guide",
-      7
-    ],
-    [
-      "The New Stack",
-      7
-    ],
-    [
-      "CNET",
-      6
-    ],
-    [
-      "Axios",
-      6
     ],
     [
       "South China Morning Post",
+      7
+    ],
+    [
+      "404 Media",
+      6
+    ],
+    [
+      "Tom's Guide",
+      6
+    ],
+    [
+      "GitHub",
+      6
+    ],
+    [
+      "MarkTechPost",
+      5
+    ],
+    [
+      "Engadget",
+      5
+    ],
+    [
+      "Fast Company",
+      5
+    ],
+    [
+      "Business Insider",
       5
     ],
     [
@@ -110,13 +113,9 @@
       5
     ],
     [
-      "MarkTechPost",
-      4
-    ],
-    [
-      "Ars Technica",
+      "ZDNet",
       4
     ]
   ],
-  "total_articles": 1783
+  "total_articles": 2263
 }

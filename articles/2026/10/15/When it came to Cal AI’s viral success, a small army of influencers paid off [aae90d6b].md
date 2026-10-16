@@ -1,0 +1,42 @@
+---
+id: "aae90d6b2dab6fff"
+title: "When it came to Cal AI’s viral success, a small army of influencers paid off"
+url: "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off"
+link: "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off"
+source: "TechCrunch"
+domain: "techcrunch.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-15T23:44:56Z"
+published_date: "2026-10-15"
+collected_at: "2026-10-16T12:06:51Z"
+authors: ["Lucas Ropek"]
+language: "en"
+summary: "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
+tags: ["AI", "Startups", "Cal AI", "TechCrunch Disrupt", "Zach Yadegari"]
+orgs: []
+topics: ["business & funding", "products & launches", "jobs & society"]
+content_source: "fulltext"
+word_count: 464
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# When it came to Cal AI’s viral success, a small army of influencers paid off
+
+TechCrunch · Lucas Ropek · 2026-10-15
+
+Zach Yadegari has enjoyed an immense amount of success for someone who only recently graduated from high school. Founder of the AI-fueled calorie tracking app Cal AI, Yadegari is only 19 but his company has rocketed to viral fame over the past two years. At TechCrunch Disrupt on Thursday, Yadegari shared details of that surprising rise to prominence.
+Cal AI, which was founded in 2024, exploded onto the internet thanks largely to Yadegari’s strategy of deploying a small army of influencers to promote the brand. The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.
+Discussing his social strategy onstage, Yadegari noted that an early sign of success came when an influencer’s post about them led to approximately a thousand new users over the course of two days.
+“From there, we figured out, okay, this can actually work for us, and so we started recruiting influencers as fast as we could — paying as many people as possible to start posting for us,” he said. “What we saw was that it was a clear formula. It was pretty linear, but it was extremely fast. I guess linear in the sense that every post they did would get a certain number of viewers that would convert.”
+The Forbes 30 Under 30 alumnus told the audience that part of his company’s strategy was to negotiate rates with influencers, promising them certain payouts for a certain scale of reach. A lot of influencers are “broke college kids” who “just want cash,” Yadegari added. “You just ask them, okay, we’ll pay you this, but we need to get us at least this amount of use and keep posting until you get there.”
+Another important component of success was finding the right influencers whose reach can be quantified. “The biggest thing for us was finding influencers that had very tight communities,” the founder said.
+Yadegari, whose father was in the audience, also credited his family with giving him the freedom to go after his ambitions. Does he also credit higher education for his success? Not so much.
+“I think the only real reason to go to college is if you want to have a fun social time as a kid and be with other people,” he said, to audience laughter.
+Earlier this month, Yadegari also launched Persona, a new AI agent startup that has already raised $10 million.
+Yadegari said the “overarching mission” with Persona is to “make computing seamless with human life.” The company’s personal AI assistant will “live anyplace with internet connection,” he said, including “iMessage, app, email, phone call.” He added that part of what distinguishes the company’s plans for this AI assistant is to build a “hardware ecosystem around” the app.
