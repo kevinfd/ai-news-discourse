@@ -1,0 +1,33 @@
+---
+id: "376f7fa4f59a65b0"
+title: "That Y2K feeling: Why today's economy resembles 2000"
+url: "https://axios.com/2026/10/16/that-y2k-feeling-why-todays-economy-resembles-2000"
+link: "https://axios.com/2026/10/16/that-y2k-feeling-why-todays-economy-resembles-2000"
+source: "Axios"
+domain: "axios.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-10-16T15:50:18Z"
+published_date: "2026-10-16"
+collected_at: "2026-10-17T12:05:45Z"
+authors: ["Neil Irwin"]
+language: "en"
+summary: "It was an economy bursting at the seams: robust growth powered by a tech boom, low unemployment, elevated inflation and Fed rate hikes to try to cool things down. The big picture: That was the situation in the year 2000, and it reminds us a great deal of the conditions in 2026. The worrying part, however, is this: Then, as now, there were early warning signs that the technological boom powering…"
+tags: ["top"]
+orgs: ["US government"]
+topics: ["business & funding"]
+content_source: "summary"
+word_count: 671
+paywalled: false
+image: "https://images.axios.com/3erEIMkvvDTzJfojtZrTVzkpQT4=/0x0:1920x1080/1366x768/2026/10/16/1792164368692.jpg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# That Y2K feeling: Why today's economy resembles 2000
+
+Axios · Neil Irwin · 2026-10-16
+
+It was an economy bursting at the seams: robust growth powered by a tech boom, low unemployment, elevated inflation and Fed rate hikes to try to cool things down. The big picture: That was the situation in the year 2000, and it reminds us a great deal of the conditions in 2026. The worrying part, however, is this: Then, as now, there were early warning signs that the technological boom powering the good times may not last forever. And indeed, the cracks that appeared in the tech sector in 2000 would spill over into a broader bear market and mild recession in 2001. We're not predicting that this time. History only rhymes; it doesn't repeat. But it is a historical episode worth weighing when thinking about the range of possibilities for how things may go in 2027 and beyond — particularly this week, as the debt markets funding the AI build-out have wobbled. Flashback: While 2001 was a nasty year for the U.S. economy — a full-fledged tech bust exacerbated by the Sept. 11 terrorist attacks — the year before was pretty great by nearly every measure. The unemployment rate reached a multi-decade low of 3.8% in April 2000 and closed the year at a mere 3.9%. GDP rose 4.1% for the full year, powered by stunning rates of productivity growth. It coincided, however, with high inflation, driven particularly by surging energy costs. The Consumer Price Index was up 3.4% over the course of the year. Zoom in: Against that backdrop, the Alan Greenspan-led Fed felt compelled to try to cool things down, lest that inflation become more entrenched. The central bank increased rates three times that year, including a super-sized half-point in May. But here's where the parallels to today get even more interesting: Greenspan's justification for rate hikes could be lifted from today's Fedspeak about the AI boom — or would be if today's central bankers shared his penchant for circumlocution. What they're saying: The "profoundly beneficial forces driving the American economy to competitive excellence are also engendering a set of imbalances that, unless contained, threaten our continuing prosperity," Greenspan told Congress in February 2000. "The problem is that the pickup in productivity tends to create even greater increases in aggregate demand than in potential aggregate supply," he said. "This occurs principally because a rise in structural productivity growth has its counterpart in higher expectations for long-term corporate earnings." "This, in turn, not only spurs business investment but also increases stock prices and the market value of assets held by households, creating additional purchasing power for which no additional goods or services have yet been produced." Between the lines: He was talking about the productivity boom driven by the internet and related IT innovations of that era, but it is very much applicable to the AI boom today. Yes, AI-fueled productivity could create a boost to the economy's supply potential in the future, with corresponding noninflationary growth and higher incomes. But that's in the future. Right now, that potential is causing surging asset prices and rising demand for inputs to the build-out, pushing inflation higher. Reality check: The stock market peaked in March 2000. By 2001, an all-out tech rout was underway, as much of the investment in fiber-optic cable and other internet infrastructure was ahead of its time. That reversed the playing field for the Fed, as the wealth effects and an investment boom that appeared to be overheating the economy in 2000 instead dragged it down. The Fed enacted a surprise half-point rate cut on Jan. 3, 2001, and would ultimately cut rates 11 times (!) in 2001. Yes, but: Interestingly, while the tech bust hammered Americans' wealth, employment prospects and capital spending, the turn-of-the-century productivity gains continued throughout that recession and the ensuing jobless recovery. The bottom line: Even if the AI boom drives the kinds of long-term productivity surges its proponents anticipate, there is a risk of a bumpy path ahead — and policymakers would do well to study the parallels from 26 years ago.

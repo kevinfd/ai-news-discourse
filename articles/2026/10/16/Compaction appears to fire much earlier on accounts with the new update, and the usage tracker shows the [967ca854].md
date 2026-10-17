@@ -1,0 +1,33 @@
+---
+id: "967ca8544bef9905"
+title: "Compaction appears to fire much earlier on accounts with the new update, and the usage tracker shows the context window cut after tool use. Data + how to check yours"
+url: "https://reddit.com/r/ClaudeAI/comments/1x7if1u/compaction_appears_to_fire_much_earlier_on"
+link: "https://reddit.com/r/ClaudeAI/comments/1x7if1u/compaction_appears_to_fire_much_earlier_on"
+source: "Reddit"
+domain: "reddit.com"
+source_type: "community"
+collector: "reddit"
+date: "2026-10-16T14:56:19Z"
+published_date: "2026-10-16"
+collected_at: "2026-10-17T12:05:45Z"
+authors: ["Spiritual-Bathroom54"]
+language: "en"
+summary: "TL;DR: On my accounts with the new update (no Chat/Cowork switch), long chats appear to compact far earlier than before. The Claude Usage Tracker Chrome extension (unofficial) also shows the context window dropping, e.g. 1M to 500K, after a chat uses artifacts or code execution. I suspect this is connected to the Chat/Cowork merge, but support hasn’t confirmed that. I’ve split this into what I…"
+tags: ["r/ClaudeAI"]
+orgs: ["Anthropic"]
+topics: ["products & launches", "models & research"]
+content_source: "post"
+word_count: 892
+paywalled: false
+image: null
+discussion_url: "https://www.reddit.com/r/ClaudeAI/comments/1x7if1u/compaction_appears_to_fire_much_earlier_on/"
+score: null
+comments: null
+community: "r/ClaudeAI"
+---
+
+# Compaction appears to fire much earlier on accounts with the new update, and the usage tracker shows the context window cut after tool use. Data + how to check yours
+
+Reddit · Spiritual-Bathroom54 · 2026-10-16
+
+TL;DR: On my accounts with the new update (no Chat/Cowork switch), long chats appear to compact far earlier than before. The Claude Usage Tracker Chrome extension (unofficial) also shows the context window dropping, e.g. 1M to 500K, after a chat uses artifacts or code execution. I suspect this is connected to the Chat/Cowork merge, but support hasn’t confirmed that. I’ve split this into what I observed, what the tracker shows, and what I’m guessing. Details are in comments 1 to 3. Please check yours. Setup: Pro plus several Free accounts, mostly the mobile app. Very long fiction sessions (hundreds of turns) with two reference .txt files (~330 KB total) that Claude must follow verbatim. Before late September these ran for hundreds of turns without compaction. From memory, roughly 100 other long chats on many models did too, but I only have exports of some, so treat that part as unverified. My Pro account changed around Sep 28. Some Free accounts changed later, though I don’t have exact dates for them. Observed directly: Compaction ran 9 times on 6 days (Sep 28 to Oct 15). After several of them, Claude no longer had my files verbatim, and I had to make it re-read them. Two Free accounts, same model (Haiku 5.5), effort, prompt and ~1 MB file: only the new-update account compacted. This is one test. Old and new accounts differ in several visible ways: Chat/Cowork switch, inline .txt attachments, capped bash/Read output, tool-call colors. Full list in comment 1. My Pro usage page shows Cowork 90% and Chats 10%, though I use regular chats (screenshot attached in comments). I started the day right after my weekly reset, and one chat (264 turns, 2 compactions) took me to 36% of the weekly limit, much of it from rereading files. From the tracker (estimates, not Anthropic’s count): One Opus 5 chat compacted twice, at ~778k on the tracker (turn 126, then turn 264). That looks like a size threshold, not a turn count. A pre-update Opus 5 chat reached 581 turns and ~719k with no compaction. It grew far more slowly per turn: about 1.2k tokens per turn, against about 6k for the post-update chat reaching 778k. These are crude averages that include the reference files, so they show the size of the gap rather than an exact rate. Same model, so a tokenizer change doesn’t explain it. Max dropped after artifact or code use: Sonnet 5, Sonnet 5.5 and Haiku 5.5 went from 1M to 500K, and Sonnet 4.6 and Opus 4.6 went from 500K to 200K. Opus 5.5 didn’t change. Opus 5 and Haiku 4.5 didn’t change in my tests either, but they aren’t in the video, so anyone can check them. [video attached] Support: A human agent confirmed the chat/Cowork merge on Sep 16 for Pro and Max. He couldn’t say whether the attachment, output cap, compaction or usage changes are part of it, can’t check backend token counts, and has no answer on glitch vs design. My theory (unproven): the new update is part of the Chat/Cowork merge, and chats that use tools now run in a merged environment with a different window. The timing is loosely consistent: the merge was Sep 16, and my Pro account seems to have changed around Sep 28. Support hasn’t confirmed the link, and the tracker could be wrong. Please check yours: pick a model above, note Max in the tracker, send one prompt that creates an artifact or runs code, and note Max again. Tell me your plan, model, whether you have the Chat/Cowork switch (web) or web search toggle (mobile), whether your account is old or new, when it changed if you know, and any early compaction. If your Max doesn’t change, I want to know. How to find the comments: there are three comments below this post, labeled 1/3, 2/3 and 3/3. Comment 1 covers the differences between old and new accounts, comment 2 covers the numbers and caveats, and comment 3 covers support, what I got wrong, my theories, and how to test. If you don’t see them, Reddit may be sorting comments by “Best,” which can show them out of order or further down the page. Look for the labels, or open the sort menu and choose “Old” to see them in posting order. If the comments are collapsed, click to expand them. Here's the list of models and what their context window on Claude.ai is supposed to be: Claude Fable 5.1 1M tokens Claude Fable 5 500K tokens Claude Opus 5.5 1M tokens Claude Opus 5 1M tokens Claude Opus 4.8 500K tokens Claude Opus 4.7 500K tokens Claude Opus 4.6 500K tokens Claude Sonnet 5.5 1M tokens Claude Sonnet 5 1M tokens Claude Sonnet 4.6 500K tokens Claude Haiku 5.5 1M tokens Sourced from: https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans Claude Cowork Model Context window Claude Fable 5.1 1M tokens Claude Fable 5 1M tokens Claude Opus 5.5 1M tokens Claude Opus 5 1M tokens Claude Opus 4.8 1M tokens Claude Opus 4.7 1M tokens Claude Opus 4.6 200K tokens Claude Sonnet 5.5 1M tokens Claude Sonnet 5 1M tokens Note: Sonnet 5 automatically compacts the conversation at 500K tokens Claude Sonnet 4.6 200K tokens Claude Haiku 5.5 500K tokens Haiku 4.5 200K tokens (The Cowork and Chat usage screenshot is somewhere in the comments, I couldn't attach it to this post)

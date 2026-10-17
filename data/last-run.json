@@ -1,121 +1,122 @@
 {
-  "run_at": "2026-10-16T12:06:51Z",
-  "since": "2026-10-15T00:06:51Z",
+  "run_at": "2026-10-17T12:05:45Z",
+  "since": "2026-10-16T00:05:45Z",
   "stats": {
-    "candidates": 1009,
-    "already_known": 70,
-    "not_ai": 453,
-    "merged_duplicates": 6,
-    "new_unique": 480,
-    "written": 480,
-    "seconds": 389
+    "candidates": 877,
+    "title_duplicate": 2,
+    "already_known": 77,
+    "not_ai": 416,
+    "merged_duplicates": 7,
+    "new_unique": 375,
+    "written": 375,
+    "seconds": 391
   },
   "by_content_source": {
-    "fulltext": 231,
-    "summary": 136,
-    "post": 113
+    "fulltext": 156,
+    "summary": 99,
+    "post": 120
   },
   "top_sources": [
     [
       "Reddit",
-      122
-    ],
-    [
-      "Bloomberg",
-      19
+      135
     ],
     [
       "Financial Times",
-      15
-    ],
-    [
-      "Techmeme",
-      14
-    ],
-    [
-      "The New Stack",
-      14
-    ],
-    [
-      "Forbes",
-      13
-    ],
-    [
-      "The Verge",
-      12
-    ],
-    [
-      "Mashable",
       11
     ],
     [
-      "TechCrunch",
-      10
-    ],
-    [
-      "CNBC",
-      10
-    ],
-    [
-      "The Information",
-      9
-    ],
-    [
-      "The Hindu",
-      9
-    ],
-    [
-      "Hugging Face",
-      9
-    ],
-    [
-      "Scientific American",
-      7
-    ],
-    [
       "Channel NewsAsia",
-      7
+      11
     ],
     [
-      "South China Morning Post",
-      7
+      "Techmeme",
+      10
     ],
     [
-      "404 Media",
-      6
+      "TechCrunch",
+      9
     ],
     [
-      "Tom's Guide",
-      6
+      "Bloomberg",
+      9
     ],
     [
-      "GitHub",
-      6
-    ],
-    [
-      "MarkTechPost",
-      5
-    ],
-    [
-      "Engadget",
-      5
-    ],
-    [
-      "Fast Company",
-      5
-    ],
-    [
-      "Business Insider",
-      5
+      "Mashable",
+      8
     ],
     [
       "note",
+      7
+    ],
+    [
+      "Forbes",
+      6
+    ],
+    [
+      "Hugging Face",
+      6
+    ],
+    [
+      "The Guardian",
       5
+    ],
+    [
+      "PCMag",
+      5
+    ],
+    [
+      "Tom's Guide",
+      5
+    ],
+    [
+      "GitHub",
+      5
+    ],
+    [
+      "Ars Technica",
+      4
+    ],
+    [
+      "MarkTechPost",
+      4
     ],
     [
       "ZDNet",
       4
+    ],
+    [
+      "Fast Company",
+      4
+    ],
+    [
+      "Business Insider",
+      4
+    ],
+    [
+      "Towards Data Science",
+      4
+    ],
+    [
+      "South China Morning Post",
+      4
+    ],
+    [
+      "WIRED",
+      3
+    ],
+    [
+      "Scientific American",
+      3
+    ],
+    [
+      "The New Stack",
+      3
+    ],
+    [
+      "RuntimeWire",
+      3
     ]
   ],
-  "total_articles": 2263
+  "total_articles": 2638
 }

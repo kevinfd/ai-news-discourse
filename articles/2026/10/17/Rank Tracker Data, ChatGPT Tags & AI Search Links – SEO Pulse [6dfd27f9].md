@@ -1,0 +1,73 @@
+---
+id: "6dfd27f9c4d540ea"
+title: "Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse"
+url: "https://searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171"
+link: "https://searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171"
+source: "Search Engine Journal"
+domain: "searchenginejournal.com"
+source_type: "mainstream_news"
+collector: "bingnews"
+date: "2026-10-17T05:00:00Z"
+published_date: "2026-10-17"
+collected_at: "2026-10-17T12:05:45Z"
+authors: ["Matt G Southern"]
+language: "en"
+summary: "A rank tracker logged Google pages missing their usual sites, some ChatGPT links lost tracking tags, and Google and Bing changed AI search links and data."
+tags: []
+orgs: ["Google", "OpenAI", "Microsoft"]
+topics: ["search & media", "products & launches", "jobs & society"]
+content_source: "fulltext"
+word_count: 1221
+paywalled: false
+image: "http://www.bing.com/th?id=ONUT.QWvpOVSBNPbkuoJ4RVpubg&pid=News"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse
+
+Search Engine Journal · Matt G Southern · 2026-10-17
+
+Welcome to the Pulse: This week, we’re looking at how much you can rely on your rankings and ChatGPT referral numbers, how Google and Bing display links and citations in AI search, and what Google is hiring for in Discover.
+Here’s what matters for you and your work.
+Some Tracked Google Results Lost Most Of Their Usual Sites
+From Sept. 13 to Oct. 9, 8.0% of the Google results pages that rank-tracking company Nozzle could check against each keyword’s history were missing most of the keyword’s usual sites, which then came back on a later check, according to the company’s analysis. Nozzle collected those 17.8 million pages through automated searches.
+Key facts:
+That compares with 0.17% from Aug. 20 to Sept. 9. The share peaked at about a quarter of pages from Sept. 27 to 29 and has run at about 5% to 11% a day since Oct. 1. Nozzle describes these pages as “poisoned” and attributes the pattern to Google’s response to AI scraping. The report also doesn’t include a statement from Google. For keywords where a customer’s own site would typically rank, that site didn’t appear in the top 10 on 58.6% of affected pages, compared with 2.7% in the baseline.
+Why This Matters
+Before adding a one-day drop from late September or October to a client report, compare the keyword with the sites that usually ranked on page 1 before mid-September (the baseline Nozzle uses). If Search Console shows a similar drop in impressions and clicks for the same query and page, the decline is more likely to be real.
+Read our full coverage: Analysis: Google Is Poisoning Search Results For Rank Trackers
+ChatGPT Referral Drop Tied To Links Missing Their Tracking Tag
+ChatGPT-attributed sessions in Google Analytics 4 fell sharply this month. Analysts link the drop to inline links in ChatGPT’s answers that stopped carrying the utm_source=chatgpt.com tag after GPT-6 rolled out.
+Key facts:
+Graphite CEO Ethan Smith wrote on LinkedIn that there was an approximate 45% drop in ChatGPT sessions on sites tracked by Graphite with meaningful AI Assistant Channel traffic in GA4, and that the untagged visit data could appear under the “Direct” label. Adobe’s Cedric Huesler added that OpenAI confirmed a known bug to him on October 14, and that they had started deploying a fix for this issue on October 15. At around 9 a.m. PT on October 15, according to Huesler, tagged ChatGPT clicks returned to roughly 95-100% of the same hour from the previous week across thousands of websites that he has been tracking. In contrast, SEO consultant Glenn Gabe replied that he hadn’t seen the change yet; and although OpenAI’s release notes were updated on October 15, they did not reference the above-mentioned bug or solution.
+Why This Matters
+Huesler places the affected window between Oct. 8 and 15. He and Smith recommend noting it in your reports so no one mistakes the dip for lost traffic. Since most ChatGPT clicks still arrive without a referrer, Huesler suggests tracking them by their UTM tag.
+Read our full coverage: ChatGPT Traffic Drop Appears To Be A Tracking Problem
+Google Is Moving Inline Links Higher In More AI Responses
+Google is changing how links appear in AI Mode and AI Overviews, including updates that show inline links higher in responses more often.
+Key facts:
+Google also plans to test a section at the top of some responses that links to official pages for specific tasks. It’s starting to roll out its carousels for timely articles, which highlight a user’s Preferred Sources, to more locations and languages, though the post doesn’t name them. This week, Google also started testing creator and publisher names on AI Mode video results that link to Search profiles.
+Why This Matters
+In Search Console, each link in an AI Overview is given the same position as that of the overall AI overview. Therefore, moving an inline link higher doesn’t by itself change its reported position. Users who have designated you as a preferred source can see your site highlighted in more carousels as they expand. Your website has to be included in Search generative AI features in Search Console for you to even qualify as a preferred source, as documented on Google’s documentation website.
+Read our full coverage: Google Puts Inline Links Higher In More AI Search Responses
+Bing’s AI Performance Report Adds Topics And Opportunity Queries
+Microsoft added a beta feature called Topics Portfolio to the AI Performance report in Bing Webmaster Tools.
+Key facts:
+It groups the queries your site is cited for in AI answers into broader topics, with approximate figures for each topic’s total citations across all sites, the number of sites cited, and the number of queries. It also lists opportunity queries, where other sites appear and yours doesn’t, with citation volumes shown as ranges. The view only appears if Bing has enough data for your site.
+Why This Matters
+The opportunity query list from Bing is a way for content teams to identify potential gaps in coverage of topics on their sites. However, this can also contain competitor brand terms which may be irrelevant to your website. Microsoft says to treat Topics Portfolio’s metrics as directional rather than absolute, which makes them better for comparing different topics but less useful if you need to track an exact count.
+Read our full coverage: Bing Webmaster Tools Sorts AI Search Queries Into Topics
+Google Discover Job Listings Describe AI-Generated Content
+Open Google job listings describe teams that generate and recommend AI content for Discover.
+Key facts:
+A Staff ML Engineer listing says the Discover Feed Recommendation team “leads by recommending AI-generated content (AIGC) to fulfill user interests.” It also describes agentic flows that generate content for what the listing calls proactive surfaces, naming Discover and Notifications. A director-level design listing describes turning Discover into a “proactive, hyper-personalized concierge experience,” working with teams at YouTube, Shopping, Chrome, and Android.
+Why This Matters
+Neither Discover listing gives a timeline or says how much of the feed AI content would fill. Search Console’s generative AI report for Discover is where your data shows Discover’s AI features linking to your site, with impressions as the only metric its help page describes.
+Read our full coverage: Google Is Hiring To Generate AI Content For Discover and Google Discover To Undergo Dramatic Changes
+Theme Of The Week: A Cross-Check For Every Number
+Rank-tracker and ChatGPT referral numbers changed this week. The changes were based on how the numbers were gathered. Nozzle found that some of the Google pages it tracked had most of their usual sites missing. Some ChatGPT visits also lost the tracking tag that let analytics know where visitors came from. Each platform has limitations when it comes to reporting. An example is that an inline link moves up in an AI Overview but does not move from the overview’s single location in Search Console. And Bing provides its opportunity numbers as ranges. And finally Discover’s AI report only counts impressions (as per their help page), and Google has job openings to hire people who create AI content for the Discover feed. Therefore cross checking all numbers reported in a client’s report means using Search Console alongside the rank trackers and Direct alongside the ChatGPT lines.
+Read the top stories from this week:
+Featured Image: Cast Of Thousands/Shutterstock
