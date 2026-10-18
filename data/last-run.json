@@ -1,60 +1,35 @@
 {
-  "run_at": "2026-10-17T12:05:45Z",
-  "since": "2026-10-16T00:05:45Z",
+  "run_at": "2026-10-18T12:05:49Z",
+  "since": "2026-10-17T00:05:49Z",
   "stats": {
-    "candidates": 877,
-    "title_duplicate": 2,
-    "already_known": 77,
-    "not_ai": 416,
-    "merged_duplicates": 7,
-    "new_unique": 375,
-    "written": 375,
-    "seconds": 391
+    "candidates": 658,
+    "already_known": 59,
+    "not_ai": 317,
+    "merged_duplicates": 3,
+    "new_unique": 279,
+    "written": 279,
+    "seconds": 370
   },
   "by_content_source": {
-    "fulltext": 156,
-    "summary": 99,
-    "post": 120
+    "fulltext": 84,
+    "summary": 71,
+    "post": 124
   },
   "top_sources": [
     [
       "Reddit",
-      135
-    ],
-    [
-      "Financial Times",
-      11
-    ],
-    [
-      "Channel NewsAsia",
-      11
+      136
     ],
     [
       "Techmeme",
-      10
-    ],
-    [
-      "TechCrunch",
       9
-    ],
-    [
-      "Bloomberg",
-      9
-    ],
-    [
-      "Mashable",
-      8
     ],
     [
       "note",
-      7
+      9
     ],
     [
-      "Forbes",
-      6
-    ],
-    [
-      "Hugging Face",
+      "Financial Times",
       6
     ],
     [
@@ -62,31 +37,7 @@
       5
     ],
     [
-      "PCMag",
-      5
-    ],
-    [
-      "Tom's Guide",
-      5
-    ],
-    [
-      "GitHub",
-      5
-    ],
-    [
-      "Ars Technica",
-      4
-    ],
-    [
       "MarkTechPost",
-      4
-    ],
-    [
-      "ZDNet",
-      4
-    ],
-    [
-      "Fast Company",
       4
     ],
     [
@@ -94,19 +45,23 @@
       4
     ],
     [
-      "Towards Data Science",
+      "Forbes",
       4
     ],
     [
-      "South China Morning Post",
-      4
-    ],
-    [
-      "WIRED",
+      "TechCrunch",
       3
     ],
     [
-      "Scientific American",
+      "Mashable",
+      3
+    ],
+    [
+      "Bloomberg",
+      3
+    ],
+    [
+      "Tom's Guide",
       3
     ],
     [
@@ -114,9 +69,53 @@
       3
     ],
     [
-      "RuntimeWire",
+      "YouTube",
       3
+    ],
+    [
+      "Crypto Briefing",
+      3
+    ],
+    [
+      "The Verge",
+      2
+    ],
+    [
+      "WIRED",
+      2
+    ],
+    [
+      "Fast Company",
+      2
+    ],
+    [
+      "PCMag",
+      2
+    ],
+    [
+      "Towards Data Science",
+      2
+    ],
+    [
+      "Hugging Face",
+      2
+    ],
+    [
+      "GitHub",
+      2
+    ],
+    [
+      "The Epoch Times",
+      2
+    ],
+    [
+      "NewsBytes",
+      2
+    ],
+    [
+      "CTech",
+      2
     ]
   ],
-  "total_articles": 2638
+  "total_articles": 2917
 }

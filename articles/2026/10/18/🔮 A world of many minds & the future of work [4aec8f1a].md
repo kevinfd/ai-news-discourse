@@ -1,0 +1,35 @@
+---
+id: "4aec8f1a4e7f7864"
+title: "🔮 A world of many minds & the future of work"
+url: "https://exponentialview.co/p/ev-606"
+link: "https://exponentialview.co/p/ev-606"
+source: "Exponential View"
+domain: "exponentialview.co"
+source_type: "newsletter"
+collector: "rss"
+date: "2026-10-18T03:46:33Z"
+published_date: "2026-10-18"
+collected_at: "2026-10-18T12:05:49Z"
+authors: ["Azeem Azhar"]
+language: "en"
+summary: "Good morning from London. What a week! Read to the end to find out what Jensen Huang gave me on Wednesday. 😄 I was also on ’s podcast this week discussing the AI investment boom. Exploring what AI might mean is incredibly consequential for all of us, so it was good to have the chance to do that. Subscribe now FROM OUR AI ECONOMY DESK Anthropic, the agony and ecstasy Anthropic’s much-anticipated…"
+tags: []
+orgs: ["Anthropic", "Nvidia"]
+topics: ["jobs & society", "models & research", "business & funding"]
+content_source: "summary"
+word_count: 647
+paywalled: false
+image: "https://substackcdn.com/image/fetch/$s_!6sk6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F415f7b05-8db1-4c9c-8ac6-39d8fc544abc_1778x966.png"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# 🔮 A world of many minds & the future of work
+
+Exponential View · Azeem Azhar · 2026-10-18
+
+Good morning from London. What a week! Read to the end to find out what Jensen Huang gave me on Wednesday. 😄 I was also on ’s podcast this week discussing the AI investment boom. Exploring what AI might mean is incredibly consequential for all of us, so it was good to have the chance to do that. Subscribe now FROM OUR AI ECONOMY DESK Anthropic, the agony and ecstasy Anthropic’s much-anticipated private investor briefing predictably leaked within minutes. The numbers would be extraordinary at any time. But they rang out like the thud of an auditor’s ledger at the Christmas party. And the markets are feeling it: can this AI trade really pay off? As we write, Korea’s KOSPI is down 7.57% today and 16.2% this month. Tech stocks aligned with the AI trade will open sharply lower. Our full analysis: Gardens of intelligence ’s Swarm Intelligence essay is worth reading this week. It’s a thought experiment that looks fifty years into the future at a world brimming with specialized artificial minds. Kevin writes: Like a coral reef, an AI superorganism will be composed of thousands of species of minds. Some of these AI minds might be very narrow and dim, just a notch above being stupid, maybe as smart as an insect. Others might be math geniuses. Most sub-AIs will be engineered in the middle to do specific boring and niche tasks. I am sympathetic to those ideas. Two years ago, in my annual forecast , I discussed the possibilities of monocognitism vs syncognitism, and why I believed swarm intelligence was the most likely path. Below is an extract, as it builds well on Kevin’s ideas: In research and fiction, AI in society has often been presented as a singleton, a single all-powerful AI system. Once AGI has been achieved, that singular AI will outperform all other AIs and there will be one true AI. We could consider this a belief: monocognitism, 2 that there will be but one AI. I think monocognitism is unlikely for a variety of reasons. We are seeing a diversity of AI systems emerge, all of which have different capabilities and constraints. Physics also gets in the way: the speed of light. A singleton AI operating at a distance cannot control distant systems meticulously. Our spooky paperclip addict would still control its bots on the Moon but with a 1.3-second communication delay, one way. […] In polycognitism, there will be multiple AI systems with different mixtures of wuffling and klixing . These diverse systems would be capable, even if they aren’t as capable as the big AI boss. And it’s quite likely they might be stronger in one dimension than in another. The problem with these multiple systems is that they would have the same control issues as the monocognitive system. Distant systems will be, more or less, autonomous. Syncognitism suggests, instead, that AI will emerge as a type of collective intelligence, the interactions between many systems behaving intelligently in different ways to create a broad substrate that feels more intelligent as a whole. I see it as a measure of intelligence across a society, considering the systems within it, the interactions between them, and the behaviours and structures that emerge from that. A more “intelligent” society could identify more complex long-range goals and organise resources to achieve them. This synthesis would create a society of AI, a world which feels more, not less, automated; and in many cases less, not more, stupid. See also: In an early working paper, Yue Xu proposes a framework for measuring which work can be delegated economically , incorporating the cost of checking outputs and the losses from mistakes. How work changes in the AI-centric firm What does work look like in firms that have become truly AI native? We don’t have many examples to draw from, so any insight is valuable. 
+
+ Read more
