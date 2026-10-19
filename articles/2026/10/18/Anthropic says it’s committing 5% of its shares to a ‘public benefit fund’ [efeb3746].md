@@ -1,0 +1,37 @@
+---
+id: "efeb3746fdd37d80"
+title: "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’"
+url: "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund"
+link: "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund"
+source: "TechCrunch"
+domain: "techcrunch.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-18T20:37:40Z"
+published_date: "2026-10-18"
+collected_at: "2026-10-19T12:07:39Z"
+authors: ["Anthony Ha"]
+language: "en"
+summary: "Anthropic said that it will commit 5% of its shares to the fund."
+tags: ["AI", "Anthropic"]
+orgs: ["Anthropic"]
+topics: ["business & funding"]
+content_source: "fulltext"
+word_count: 187
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’
+
+TechCrunch · Anthony Ha · 2026-10-18
+
+Anthropic announced today that it’s creating a “public benefit fund” that will give the company “increased flexibility and scale” to support projects for societal good.
+Anthropic said that it will commit 5% of its shares to the fund — structured as a wholly-owned entity within the company — with the option to contribute an additional 2% for every 50% increase in Anthropic’s value. And it offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”
+There’s also the impact that AI might have on the job market, which Anthropic has already committed $200 million to study. But the company said, “Given the pace of AI progress, bolder approaches may be needed. The Fund will have the versatility to pursue them.”
+Anthropic’s announcement comes as the AI industry faces increasingly negative public sentiment, which CEO Dario Amodei has described as “fundamentally a crisis of trust.”
+If you’re wondering who will actually decide which public benefits are worth funding, Anthropic said it will share more information about structure and governance in the coming months.

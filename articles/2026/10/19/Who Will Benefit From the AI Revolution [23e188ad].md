@@ -1,0 +1,52 @@
+---
+id: "23e188adaa4f4658"
+title: "Who Will Benefit From the AI Revolution?"
+url: "https://time.com/article/2026/10/19/who-will-benefit-from-the-ai-revolution-"
+link: "https://time.com/article/2026/10/19/who-will-benefit-from-the-ai-revolution-"
+source: "TIME"
+domain: "time.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-10-19T10:30:03Z"
+published_date: "2026-10-19"
+collected_at: "2026-10-19T12:07:39Z"
+authors: ["David Miliband"]
+language: "en"
+summary: "—Sergey Balakhnichev—Getty Images The debate about how to control AI and limit its potential for damage is healthy and necessary. It is also unavoidable and urgent .  But this is not the only vital debate. There are also vital questions about how the upsides of AI are shared fairly. Business as usual has left the world's poorest people behind, so far. And for those caught up in conflict—in…"
+tags: ["Ideas"]
+orgs: []
+topics: ["business & funding", "health & science"]
+content_source: "fulltext"
+word_count: 1111
+paywalled: false
+image: "https://static.time.com/v3/assets/bltea6093859af6183b/bltc7de0262b3ee1940/6ad584cb9518d46669caaf40/AI-revolution-benefit-globe.jpg?branch=production"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Who Will Benefit From the AI Revolution?
+
+TIME · David Miliband · 2026-10-19
+
+The debate about how to control AI and limit its potential for damage is healthy and necessary. It is also unavoidable and urgent.
+But this is not the only vital debate. There are also vital questions about how the upsides of AI are shared fairly. Business as usual has left the world's poorest people behind, so far. And for those caught up in conflict—in places like Sudan, Ukraine, Gaza, and Afghanistan—AI can help meet urgent needs.
+It is clear to me that the world has more resources to do good than at any time in human history, but too often, we don't distribute them where they are most needed. Now, AI stands to create even more resources in the form of free time, insights, and funds. And they need to be spent in the right places.
+The AI revolution is going to mint a new generation of billionaires and millionaires—and with them, a new generation of philanthropists; a term stemming from the Ancient Greek philanthropia, meaning “love of humanity”. It’s a reminder that the act of giving begins with some of the most fundamentally human impulses: care, love, empathy, and selflessness.
+Maybe this explains why Effective Altruism—the idea that generosity should be subjected to evidence and calculation—seemed counterintuitive. But I never understood why. After all, who wants ineffective altruism? We should all be asking where our money can do the most good.
+Organizations working at the sharpest end of the world’s toughest problems—like the one I lead—need philanthropy to be the smart money: hard-headed as well as big-hearted, focused on outcomes not visibility, concerned to add value not just kudos. Results, not just responsibility, should be the watchword.
+Fortunately, there’s been an evidence revolution over the last 20 years. We know a whole lot more about what actually works. This makes giving much easier. Distance no longer needs to be the enemy of confidence.
+In fact, there is every reason to think globally, not just locally, about where to make a difference. As the world has become more and more connected, governments have retreated from global problems. For instance, official development assistance funds from Organisation for Economic Cooperation and Development (OECD) countries dropped by a historic 23.1% in 2025. Now, we need new philanthropy to provide some balance in a world that is clearly out of balance.
+Around 94% of American philanthropy is spent in the U.S. But the rest of the world is not just where the needs are greatest—from acute childhood malnutrition to violence against women—but where the gains from philanthropy can be greatest.
+The 20 countries at greatest risk of a worsening humanitarian crisis, ranked by the International Rescue Committee (IRC) annually in our Emergency Watchlist, represent just 12% of the global population, but 90% of those in humanitarian need. In these places, led by regions like Sudan, Gaza, and South Sudan, children are three times more likely to die before their fifth birthday and 10 times more likely to grow up in extreme poverty than children born elsewhere. The people living here have done the least to contribute to climate change, but face the combined pressures of climate change and conflict—and receive the least support to adapt.
+If philanthropy and its “love of humanity” belong anywhere, it is these areas. And just in time, humanitarians have developed increasingly sophisticated tools to transform what we know about how to help people survive through and recover from crisis. Real-time data, randomized controlled trials, cost-effectiveness and cost-efficiency analysis, plus predictive analytics, have transformed the evidence base and the basis for action.
+The IRC alone has conducted over 50 impact evaluations since 2020 as well as 500 cost analyses, allowing us to measure not simply whether an intervention works, but how much it costs and how much further each additional dollar can go. So we don't need to be daunted by the big numbers highlighting the 43 million children who are acutely malnourished, the 20 million kids without full immunization, over 300 million people hungry, and hundreds of thousands of women dying in childbirth in fragile states alone. These are problems that we actually know how to solve at manageable, in fact low, cost.
+For example, we have learned how to deliver vaccine shots—40 million of them—at just $2 a shot in places like Somalia, South Sudan, and Yemen, negotiating with armed groups along the way to get access to populations otherwise cut off from healthcare. This offers lifelong benefit, not just a short-term palliative.
+We’ve shown how local health workers can more simply diagnose and treat acute malnutrition directly in communities where crisis-affected children live. This approach offers a 92% recovery rate, and earlier interventions can catch malnutrition before it becomes severe. The result is that we are 20% more cost-effective, allowing us to help more kids for the same amount of money.
+There are more examples. We've demonstrated that violence against women and violence against kids can be reduced by over 70% when they are tackled together. We have also proven the benefits of giving aid in advance of climate disasters, not just in reaction to them: in Afghanistan, our clients were three times less likely to fall further into poverty.
+Of course, the contexts stricken by war and state failure are challenging. But that makes the philanthropic imperative towards the people who live there all the more urgent.
+The same technology that is delivering fortunes in Silicon Valley can also deliver help to the least fortunate. IRC’s global digital helpdesk, Signpost, has reached 20 million people forced to flee crisis in 12 languages with timely, life-saving information. Leading tech companies helped us develop it. In Somalia, IRC teams employed anticipatory action ahead of last year’s devastating drought, a disaster that typically drives cholera outbreaks. Again, it took partnership of financial support, technical know-how, and NGO savvy.
+In all these areas, the traditional aid system is falling short. Too often, climate and humanitarian systems work in separate silos. Despite the evidence, less than 1% of aid is invested in anticipatory action. Every government donor has its own bureaucracy, with different reporting systems, compliance requirements, and measurement metrics.
+This is the syndrome that philanthropy can help break. By focusing on what works, measuring what counts, and investing in innovation. The risk does not lie in action; it lies in inertia.
+We know more than ever about what works in humanitarian crises, and we have new tools capable of extending those gains. The opportunity for this generation of philanthropists is not simply to give more. It is to take what we have learned and apply it where the stakes are highest. The real test isn't how much they give. It’s where.

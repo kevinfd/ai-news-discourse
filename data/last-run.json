@@ -1,67 +1,71 @@
 {
-  "run_at": "2026-10-18T12:05:49Z",
-  "since": "2026-10-17T00:05:49Z",
+  "run_at": "2026-10-19T12:07:39Z",
+  "since": "2026-10-18T00:07:39Z",
   "stats": {
-    "candidates": 658,
-    "already_known": 59,
-    "not_ai": 317,
-    "merged_duplicates": 3,
-    "new_unique": 279,
-    "written": 279,
-    "seconds": 370
+    "candidates": 696,
+    "already_known": 39,
+    "not_ai": 329,
+    "merged_duplicates": 5,
+    "new_unique": 323,
+    "written": 323,
+    "seconds": 350
   },
   "by_content_source": {
-    "fulltext": 84,
-    "summary": 71,
-    "post": 124
+    "summary": 97,
+    "fulltext": 111,
+    "post": 115
   },
   "top_sources": [
     [
       "Reddit",
-      136
+      128
+    ],
+    [
+      "Bloomberg",
+      13
+    ],
+    [
+      "Forbes",
+      12
+    ],
+    [
+      "note",
+      10
     ],
     [
       "Techmeme",
       9
     ],
     [
-      "note",
+      "Business Insider",
       9
     ],
     [
-      "Financial Times",
+      "The Guardian",
+      7
+    ],
+    [
+      "Quartz",
       6
     ],
     [
-      "The Guardian",
-      5
+      "Financial Times",
+      4
+    ],
+    [
+      "The Information",
+      4
     ],
     [
       "MarkTechPost",
-      4
-    ],
-    [
-      "Business Insider",
-      4
-    ],
-    [
-      "Forbes",
-      4
-    ],
-    [
-      "TechCrunch",
       3
     ],
     [
-      "Mashable",
+      "Channel NewsAsia",
       3
     ],
     [
-      "Bloomberg",
-      3
-    ],
-    [
-      "Tom's Guide",
+      "PCMag",
       3
     ],
     [
@@ -69,19 +73,35 @@
       3
     ],
     [
-      "YouTube",
+      "BBC News",
       3
     ],
     [
-      "Crypto Briefing",
+      "CNBC",
       3
+    ],
+    [
+      "GitHub",
+      3
+    ],
+    [
+      "MACCUS - Agence SEO, Influence & Marketing Organique",
+      3
+    ],
+    [
+      "TechCrunch",
+      2
     ],
     [
       "The Verge",
       2
     ],
     [
-      "WIRED",
+      "Axios",
+      2
+    ],
+    [
+      "Engadget",
       2
     ],
     [
@@ -89,33 +109,13 @@
       2
     ],
     [
-      "PCMag",
+      "Mashable",
       2
     ],
     [
       "Towards Data Science",
       2
-    ],
-    [
-      "Hugging Face",
-      2
-    ],
-    [
-      "GitHub",
-      2
-    ],
-    [
-      "The Epoch Times",
-      2
-    ],
-    [
-      "NewsBytes",
-      2
-    ],
-    [
-      "CTech",
-      2
     ]
   ],
-  "total_articles": 2917
+  "total_articles": 3240
 }

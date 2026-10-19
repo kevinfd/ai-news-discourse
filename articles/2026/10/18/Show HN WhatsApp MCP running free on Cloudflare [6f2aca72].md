@@ -1,0 +1,133 @@
+---
+id: "6f2aca72a3fc4402"
+title: "Show HN: WhatsApp MCP running free on Cloudflare"
+url: "https://github.com/finereli/whatsapp-mcp"
+link: "https://github.com/finereli/whatsapp-mcp"
+source: "GitHub"
+domain: "github.com"
+source_type: "community"
+collector: "hackernews"
+date: "2026-10-18T21:36:10Z"
+published_date: "2026-10-18"
+collected_at: "2026-10-19T12:07:39Z"
+authors: ["zoozla"]
+language: "en"
+summary: "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts,…"
+tags: []
+orgs: ["Anthropic", "Google"]
+topics: ["agents & coding", "jobs & society", "search & media"]
+content_source: "fulltext"
+word_count: 2440
+paywalled: false
+image: null
+discussion_url: "https://news.ycombinator.com/item?id=50145715"
+score: 115
+comments: 66
+community: "Hacker News"
+---
+
+# Show HN: WhatsApp MCP running free on Cloudflare
+
+GitHub · zoozla · 2026-10-18
+
+Let your AI agent read your WhatsApp messages.
+This is a small server that runs in your own Cloudflare account. You link your phone to it once, the way you'd link WhatsApp Web, and from then on any MCP client (Claude Code, Claude Desktop, anything that speaks MCP) can search and read your chats. It can read and search your messages, and remember names you give it for phone numbers. It can't send anything.
+Ask your agent things like:
+- "What did Dana say about the flights?"
+- "Find every message where someone mentioned the lease, across all my chats."
+- "Summarize what I missed in the family group this week."
+Your phone stays the source of truth. The server is a linked device that your agent talks to.
+It doesn't stay connected to WhatsApp. When your agent asks for something, and once a day, it connects, collects whatever WhatsApp queued for it since last time, writes that to its own database, and hangs up. Your phone keeps working normally and keeps getting notifications.
+Your messages live in a SQLite database inside a Durable Object in your Cloudflare account. Nothing goes anywhere else.
+You need a Cloudflare account on the Workers Paid plan (see the note below), Node 20 or later, and your phone.
+git clone https://github.com/finereli/whatsapp-mcp
+cd whatsapp-mcp
+npm install
+# 1. A place for the sign-in tokens. Paste the id it prints into wrangler.jsonc.
+npx wrangler kv namespace create OAUTH_KV
+# 2. A password for the page that links your phone. 12+ characters.
+npx wrangler secret put OWNER_PASSWORD
+# 3. Deploy.
+npm run deploy
+Wrangler prints your URL, something like https://whatsapp-mcp.your-name.workers.dev. Open it. The front page has the two remaining steps:
+- Link WhatsApp. Scan the QR code with WhatsApp (Settings, Linked Devices, Link a Device). If you're on the phone itself and can't scan a screen, use the phone number option instead. The first link imports your history. The page shows progress, and you can close it.
+- Connect your agent. In Claude Code: claude mcp add --transport http whatsapp https://your-url/mcp Then type /mcp and sign in with the password. Other clients: point them at the same /mcp URL.
+If you want your own domain, see the comments at the bottom of wrangler.jsonc.
+Importing a large history decodes a lot of data in one go, and the default CPU limit on Workers is too small for it. wrangler.jsonc raises it, and raising it needs the paid plan, which is a few dollars a month. I haven't tried the free plan. If you're on it, remove the limits block and expect the first import to be fragile.
+This isn't official. WhatsApp has no API for reading your own personal messages. This uses the same protocol WhatsApp Web uses, through an open source library (Baileys). That's against WhatsApp's terms. For a linked device that only reads, the practical risk is low, but it isn't zero. Use it on your own account, and don't use it to send messages.
+You get what WhatsApp sends. The first link imports whatever history WhatsApp decides to hand a new device. It may not be everything. It only does this once per link. To import again, relink (your stored messages are kept, and a re-import fills in anything missing).
+Some chats show up as phone numbers. WhatsApp doesn't give a linked device every contact name, and most of these are one-off messages from people you never saved. For the ones that matter, your agent can fix it: it lists the unnamed chats, looks the numbers up in your contacts with whatever contacts tool it already has (a Google Contacts or Gmail connector, for example), and saves the names. The server never connects to a contacts service itself. See "Naming chats" below.
+Media isn't downloaded. Photos, voice notes and documents appear as labels like [image] or [voice note 12s], with the caption if there was one. Nothing is transcribed.
+It's for one person. One deployment is one WhatsApp account and one owner. That's deliberate: each deployment holds a full message history and a live login to the account, so everyone should run their own.
+Relinking. If your phone says the device was removed, or you want to start over, ask your agent to run relink, or open /setup and choose "Unlink and scan again". You scan a new QR code. Stored messages are kept.
+Every read tool first tops up from WhatsApp if the stored copy is more than ten minutes old.
+WhatsApp only gives this server the names it knows. The rest show up as phone numbers. Rather than have the server log in to a contacts service (which means a cloud project, consent screens and, for Google, an app review), it hands the job to your agent, which usually already has a way to reach your contacts.
+Say "find names for my unnamed chats". The agent calls unnamed_chats, matches the numbers against your contacts, and saves what it finds with set_contact_names. It won't find everyone: most unnamed chats are a single message from a stranger.
+Agents get nudged toward this on their own. The server's instructions mention it, and so does every "no chat found" and "no matches" result, because that's the moment an agent is stuck on a name. link_status also says how many chats are unnamed.
+Everything below is for whoever is changing the code, including an AI agent working on a fork. The top of this file is for the person who owns the deployment.
+MCP client ──OAuth──> Worker (src/index.ts)
+                        ├─ /mcp ───────────> mcp.ts: tools, one fresh McpServer per request
+                        ├─ /, /setup, /authorize, /login/*, /pair/*   (landing, sign-in, pairing UI)
+                        └─ cron 04:00 UTC ──> pull()
+                                   │ RPC
+                                   v
+              WhatsAppStore (Durable Object, one instance named "owner")
+                ├─ SQLite: auth keys, messages, chats, contacts, FTS5 index
+                └─ Baileys socket, opened only during a session (pairing or pull)
+                                   │ WebSocket
+                                   v
+                              WhatsApp servers
+One Durable Object holds everything. Its SQLite is both the Baileys auth store and the message store. The Worker is stateless apart from a KV namespace the OAuth provider uses for tokens and a short-lived "pending sign-in" record.
+All WhatsApp traffic happens inside runSession() in whatsapp-do.ts. There are two kinds:
+- Pairing (startPairing). No credentials yet. Baileys emits QR strings, kept in memory and rendered to SVG by pairStatus(). After a scan WhatsApp closes the socket with code 515 (restart required), and the session reconnects with the new credentials. History arrives as messaging-history.set chunks with a progress percentage. The session ends when WhatsApp reports 100 percent and the stream has been quiet for a few seconds.
+- Pull (pull). Reconnects with stored credentials. WhatsApp delivers whatever it queued while we were away, then signals receivedPendingNotifications. The session ends after a few quiet seconds.
+Callers share one session: a second pull() while one is running gets the same promise.
+A pairing session outlives the HTTP request that started it. startPairing sets a Durable Object alarm, and alarm() awaits the session promise. An in-flight alarm handler is what keeps the object alive. The pairing page only watches; closing it doesn't stop the import.
+Idle detection counts only data events (messaging-history.set, messages.upsert), not connection chatter. Counting everything keeps a session open forever, because presence and contact updates never stop.
+All in the Durable Object's SQLite (store.ts, initSchema).
+- messages(chat, id, ts, from_me, sender, push_name, type, body), primary key (chat, id). Media is a label in body. Edits update body; deletes set it to [deleted].
+- messages_fts, an FTS5 index over body, kept in sync by triggers.
+- chats(jid, name, is_group), contacts(jid, name, notify) and custom_names(jid, name). Display names resolve by WhatsApp's chat name, then WhatsApp's contact name, then a saved name, then the person's own push name, then the number. custom_names is what set_contact_names writes.
+- alias(lid, pn). WhatsApp is moving to anonymous @lid identifiers. This maps them to phone-number JIDs, and addAlias folds existing rows into the phone-number form so one person is one chat.
+- auth(k, v), Baileys credentials and signal keys, JSON with Buffers encoded by Baileys' BufferJSON.
+- meta(k, v), currently just last_pull.
+Ingest is idempotent. Re-importing history upserts: it fills in a missing sender or push_name and never duplicates. That is what makes relinking safe.
+These all cost real time to find. Read them before touching the Baileys parts.
+- Baileys needs three shims to run on workerd.
+  - ws: the package needs Node sockets. ws-shim.ts wraps the Workers WebSocket, opened with fetch() and an Upgrade header because that's the only way to set the Origin header WhatsApp checks.
+  - whatsapp-rust-bridge: it ships its wasm as base64 and compiles it at runtime, which workerd forbids. vendor-bridge.mjs writes the wasm to a file and patches the loader to import it as a CompiledWasm module. The vendor/ folder is generated, not committed.
+  - Timers: Node timers have .unref() and workerd's don't. polyfills.ts adds it. It must be the first import in both the Worker and the Durable Object module.
+- lru-cache autopurge breaks the first import. Baileys creates caches with ttlAutopurge: true, which starts one setTimeout per entry. workerd allows 10,000 pending timers per object, and the first history sync blows through that with QuotaExceededError. lru-shim.ts turns autopurge off. Expired entries are still dropped lazily on access.
+- QR pairing never sets creds.registered. That flag belongs to the mobile registration flow. "Is this linked" is creds.me?.id.
+- History comes once per link. If a first import fails halfway, that history is gone until you relink. Don't ship a change to ingest code without testing it against a real first link.
+- Group senders arrive in two places. Live messages have key.participant. History messages put it on msg.participant. Read both.
+- Pin Baileys exactly. It's a prerelease and its API moves between release candidates.
+- Deploys don't evict a busy Durable Object. An object with an active session keeps running old code until the session ends. Renaming the class with a migration didn't evict it either. If you've shipped a fix and the object still misbehaves, stop sending it requests and wait three to five minutes. Every probe, including /debug, resets its idle timer, so polling a stale object keeps it stale. Baileys also leaks interval timers when a socket closes; finish() in whatsapp-do.ts clears them so the object can go idle at all.
+- Logging out takes two steps. logout() first connects and calls Baileys' logout(), so the device disappears from the phone's list, then clears local credentials. If the first step fails it says so in the debug events, and the user has to remove the device by hand.
+- WhatsApp stores a placeholder where a name should be. Chats it has no contact for are named after the number, sometimes masked (+972∙∙∙∙∙∙∙20), in the chat name and the contact name. numberLike in store.ts treats those as no name, and ingest refuses to store them. Before that fix a placeholder outranked a real saved name.
+- Don't call markOnlineOnConnect. It's set to false on purpose. Marking the linked device online makes the phone stop showing notifications.
+Keep a deployment's own values (domain, KV id, email) in wrangler.local.jsonc, which is gitignored, and deploy with npm run deploy:local. wrangler.jsonc is the template other people start from.
+- Add a tool. Register it in mcp.ts and put the SQL in store.ts. Read tools should call fresh() first. Keep tools read-only unless you mean otherwise. If a failure leaves an agent stuck, say in the tool result what to try next, the way NAME_HINT does for missing names.
+- Change who can sign in. auth.ts picks a mode (authMode) and the routes in index.ts follow it. To add another identity provider, add a mode there and a callback route. The rest of the code only sees an opaque bearer token.
+- Make it multi-user. Today the Durable Object is addressed by the fixed name owner (wa() in index.ts, handleMcp in mcp.ts), and userId is the constant 'owner' in the OAuth props. To go multi-user, derive both from the signed-in identity and key the object on it. Think about whether you want to hold other people's message history first.
+- Other ways to fill in names. Anything that can produce { jid, name } rows can call store.setCustomNames. A CSV upload, a CardDAV pull or a scheduled job would all work. The agent route exists so the server needs no credentials for any of them.
+- Sending messages. Not built, on purpose. Think hard before adding it.
+With PIN set, these return JSON and need the header x-pin: <PIN>:
+- /debug: session phase, linked or not, counts, and the last events from the session (connection changes, history chunk sizes, errors).
+- /debug/pull: run a pull now.
+- /debug/chats?q=, /debug/messages?chat=, /debug/search?q=, /debug/types: read the store without going through MCP.
+- /debug/unnamed: the chats unnamed_chats would return.
+- /debug/sql?q=: one read-only SELECT against the store, for finding out why a name or a count looks wrong.
+- /debug/logout: the same as relink.
+Local development: npm run dev with a .dev.vars containing OWNER_PASSWORD=... (12+ characters). It runs a local Durable Object with its own empty storage, so you can exercise the sign-in flow and see a real QR code, but linking a phone from local dev makes a second linked device.
+To test the pairing UI states without a phone, serve the page with a mocked /pair/status. Everything the page needs is that one JSON shape: paired, running, progress, qrSvg, messages, chats.
+- npm run typecheck, then npm test. The test runs the real store code against Node's built-in SQLite (Node 22.13 or later), including the migration from older versions. That SQLite has no FTS5, so search itself isn't covered.
+- Deploy, then GET /debug with the PIN. It should come back with phase: "idle" and paired: true.
+- GET /debug/pull. A quiet account should return reason: "idle" in about ten seconds.
+- Call list_chats, then get_messages on a Hebrew or emoji-heavy chat, then search_messages. Then unnamed_chats, and set_contact_names on one number, and confirm the chat shows the name.
+- If you touched ingest, relink and confirm the stored message count doesn't grow (re-import is idempotent) and that group messages show real sender names.
+- Chats with no name in WhatsApp and none saved show as phone numbers. Nothing refreshes names by itself: they only get saved when an agent (or you) does it.
+- If the daily pull finds the session logged out, nothing tells you. link_status shows it the next time your agent asks.
+- Edits and deletes are applied when they arrive as protocol messages. That path hasn't been tested against real ones.
+- It's only been exercised against one real account.
+MIT
