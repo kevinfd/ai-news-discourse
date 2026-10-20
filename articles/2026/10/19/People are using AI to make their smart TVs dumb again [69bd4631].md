@@ -1,0 +1,51 @@
+---
+id: "69bd463197ee8fc6"
+title: "People are using AI to make their smart TVs dumb again"
+url: "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again"
+link: "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again"
+source: "TechCrunch"
+domain: "techcrunch.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-19T16:13:22Z"
+published_date: "2026-10-19"
+collected_at: "2026-10-20T12:06:23Z"
+authors: ["Sarah Perez"]
+language: "en"
+summary: "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
+tags: ["AI", "Media & Entertainment", "hacks", "smart tv", "television"]
+orgs: ["Anthropic", "Google", "Apple"]
+topics: ["agents & coding", "products & launches"]
+content_source: "fulltext"
+word_count: 771
+paywalled: false
+image: null
+discussion_url: "https://news.ycombinator.com/item?id=50159765"
+score: 30
+comments: 1
+community: "Hacker News"
+---
+
+# People are using AI to make their smart TVs dumb again
+
+TechCrunch · Sarah Perez · 2026-10-19
+
+The latest use case for AI? Dumbing down your smart TV to get rid of the bloat. A number of developers and vibe coders have recently been sharing solutions for “vibe-coding” your TV to get rid of sponsored ads, speed up the app launcher, redesign the home screen, disable tracking features, and more.
+One such solution, called “dumbtv,” describes its mission on its GitHub page thus: “Your TV should do what you paid for: your apps, your HDMI inputs, and nothing else. No ads from the TV itself, no watch tracking, no update you did not ask for.”
+Another, “cleanyourtv,” promises to strip the bloatware from any Android TV or Google TV over Wi-Fi, to replace the launcher with one that resembles Apple TV.
+While hacking consumer electronics devices to gain more control over their systems is hardly a new idea, the latest advances in AI technology have made such efforts much more accessible to anyone. With smart TVs in particular, the hacks come at a time when people have grown frustrated with being forced to watch ads and put up with their devices surveilling their viewing habits.
+Modern smart TVs ship with a technology called automatic content recognition (ACR), which identifies what’s playing on the screen using screenshots, audio clips, or other forms of digital fingerprinting.
+If these “dumb TV” hacks become more popular among everyday consumers, they have the potential to disrupt the smart TV ad industry, which profits from selling viewing data to advertisers or using it to display personalized ads on their own interfaces.
+As the creator of cleanyourtv, Gathin T., puts it, the idea to clean up the smart TV interface started one afternoon when he got tired of seeing the ads on his parents’ TV set.
+“I had Claude Code clean it up over Wi-Fi and build a simple home screen with just their apps on it. I put the prompt on GitHub, tweeted the before and after, and a few thousand people did the same to their own TVs over the next two days. Xiaomi, TCL, Sony, Fire TV, LG, a projector or two,” the developer wrote on a website for donations, linked from the project’s homepage.
+The solution doesn’t require gaining root access to the TV, nor does it make it impossible to return to the factory default state, if desired.
+Meanwhile, the dumbtv solution has been tested end-to-end on a Fire TV Edition television set and Android/Google TV platforms on TVs from Sony, TCL, Philips, Hisense, Xiaomi, and Shield. To use this hack, the developer, Muzzammil Yasin Sabuwala, suggests pointing your preferred AI agent at the dumbtv repository on GitHub.
+Sabuwala said he was motivated to work on dumbtv because he was tired of the ads and not being able to delve directly into the content he wanted to watch. His solution was coded using a combination of Deepseek V4.1 Flash, Claude Opus 5.5, and Claude Sonnet 5.5, he told TechCrunch, and he plans to maintain the GitHub, adding support for more models over time.
+Fair warning: All these solutions are works in progress, and various users are now testing them across different TV platforms and suggesting updates and fixes.
+However, individuals don’t need to borrow someone else’s work from GitHub to get the job done.
+In one newly viral X post, Ryan Doyle explains that he simply sent Claude Code the listing for his TV and asked “Can you hack this?” The agent then talked him through the process, allowing him to remove the ads and bloatware from the TV set, speed up the lagging user interface, and customize his screensaver, he claims.
+Doyle then goes on to demonstrate in a video how fast and responsive the new interface is after the AI made the requested changes.
+Seeing posts about people “vibe-coding their TVs,” inspired one X user, Mihir Gupta, to try it himself.
+“One afternoon with Claude Code: 25 bloat apps disabled, the 192 MB stock launcher replaced with a custom 83 MB one, plus rotating wallpapers,” he wrote.
+The end result of these hacks may be mixed, however. Some people have found that Claude wouldn’t respond to their simple suggestions to “hack my TV,” necessitating more complex prompts. Others warned that AI agents could make mistakes, possibly disabling important packages or breaking things in the process. One person even said they bricked their Android TV using Claude, and another got stuck halfway through hacking their Fire TV.
+For those wary of using AI to fully hack their TVs, there are existing solutions for customizing Android-based smart TVs, such as home screen replacement apps ATV Launcher, Projectivy Launcher, and FLauncher.

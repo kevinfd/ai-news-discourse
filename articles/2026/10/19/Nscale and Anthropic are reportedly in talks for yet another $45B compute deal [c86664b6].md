@@ -1,0 +1,37 @@
+---
+id: "c86664b601af4728"
+title: "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal"
+url: "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal"
+link: "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal"
+source: "TechCrunch"
+domain: "techcrunch.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-19T23:39:38Z"
+published_date: "2026-10-19"
+collected_at: "2026-10-20T12:06:23Z"
+authors: ["Lucas Ropek"]
+language: "en"
+summary: "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
+tags: ["AI", "Anthropic", "In Brief", "nscale"]
+orgs: ["Anthropic"]
+topics: ["business & funding", "chips & infrastructure"]
+content_source: "fulltext"
+word_count: 209
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Nscale and Anthropic are reportedly in talks for yet another $45B compute deal
+
+TechCrunch · Lucas Ropek · 2026-10-19
+
+A little over a month ago, Anthropic and AI infrastructure provider Nscale announced a $45 billion compute deal. Now the duo may be about to do it again.
+Bloomberg reports that the two companies are said to be on the verge of announcing yet another $45 billion compute deal, citing people familiar with the matter. Those sources cautioned that talks are still underway and that the details could change.
+If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year. TechCrunch reached out to Nscale and Anthropic for more information and will update this story if we hear back.
+The massive amount of money being sunk into AI compute deals has spooked a certain segment of investors, who worry that companies are spending too much money for too little profit. Still, Anthropic has pressed on with such partnerships, driven by the belief that it will all pay off in the end.
+Both Anthropic and Nscale are also currently pursuing IPOs. Anthropic is still expected to go public this year. Nscale is also seeking to go public, although Bloomberg reported on Monday that the company is experiencing investor pushback over its proposed valuation of $30 billion.

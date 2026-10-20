@@ -1,121 +1,122 @@
 {
-  "run_at": "2026-10-19T12:07:39Z",
-  "since": "2026-10-18T00:07:39Z",
+  "run_at": "2026-10-20T12:06:23Z",
+  "since": "2026-10-19T00:06:23Z",
   "stats": {
-    "candidates": 696,
-    "already_known": 39,
-    "not_ai": 329,
-    "merged_duplicates": 5,
-    "new_unique": 323,
-    "written": 323,
-    "seconds": 350
+    "candidates": 946,
+    "title_duplicate": 5,
+    "already_known": 47,
+    "not_ai": 427,
+    "merged_duplicates": 14,
+    "new_unique": 453,
+    "written": 453,
+    "seconds": 406
   },
   "by_content_source": {
-    "summary": 97,
-    "fulltext": 111,
-    "post": 115
+    "fulltext": 211,
+    "summary": 132,
+    "post": 110
   },
   "top_sources": [
     [
       "Reddit",
-      128
+      119
     ],
     [
-      "Bloomberg",
+      "Scientific American",
+      22
+    ],
+    [
+      "Mashable",
+      16
+    ],
+    [
+      "TechCrunch",
       13
     ],
     [
       "Forbes",
-      12
+      11
     ],
     [
-      "note",
+      "Financial Times",
       10
     ],
     [
-      "Techmeme",
+      "The Information",
       9
     ],
     [
-      "Business Insider",
-      9
+      "Techmeme",
+      8
+    ],
+    [
+      "CNBC",
+      8
     ],
     [
       "The Guardian",
       7
     ],
     [
+      "Fast Company",
+      7
+    ],
+    [
       "Quartz",
+      7
+    ],
+    [
+      "Bloomberg",
+      7
+    ],
+    [
+      "AWS Machine Learning Blog",
+      7
+    ],
+    [
+      "Business Insider",
       6
     ],
     [
-      "Financial Times",
-      4
-    ],
-    [
-      "The Information",
-      4
+      "Channel NewsAsia",
+      6
     ],
     [
       "MarkTechPost",
-      3
-    ],
-    [
-      "Channel NewsAsia",
-      3
-    ],
-    [
-      "PCMag",
-      3
-    ],
-    [
-      "The New Stack",
-      3
-    ],
-    [
-      "BBC News",
-      3
-    ],
-    [
-      "CNBC",
-      3
-    ],
-    [
-      "GitHub",
-      3
-    ],
-    [
-      "MACCUS - Agence SEO, Influence & Marketing Organique",
-      3
-    ],
-    [
-      "TechCrunch",
-      2
-    ],
-    [
-      "The Verge",
-      2
+      5
     ],
     [
       "Axios",
-      2
+      5
     ],
     [
-      "Engadget",
-      2
+      "GitHub",
+      5
     ],
     [
-      "Fast Company",
-      2
+      "note",
+      5
     ],
     [
-      "Mashable",
-      2
+      "The Verge",
+      4
+    ],
+    [
+      "MIT Technology Review",
+      4
     ],
     [
       "Towards Data Science",
-      2
+      4
+    ],
+    [
+      "The New Stack",
+      4
+    ],
+    [
+      "24/7 Wall St.",
+      4
     ]
   ],
-  "total_articles": 3240
+  "total_articles": 3693
 }

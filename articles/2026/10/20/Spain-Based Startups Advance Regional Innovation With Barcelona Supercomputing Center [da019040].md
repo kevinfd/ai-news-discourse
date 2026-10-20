@@ -1,0 +1,43 @@
+---
+id: "da019040563955b2"
+title: "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center"
+url: "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center"
+link: "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center"
+source: "NVIDIA Blog"
+domain: "blogs.nvidia.com"
+source_type: "company_blog"
+collector: "rss"
+date: "2026-10-20T05:00:00Z"
+published_date: "2026-10-20"
+collected_at: "2026-10-20T12:06:23Z"
+authors: ["Tobias Halloran"]
+language: "en"
+summary: "The Barcelona Supercomputing Center (BSC) ’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries.  \n Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some of the BSC AI…"
+tags: ["AI", "Supercomputing", "Agentic AI", "AI Factory", "AI for Good", "Artificial Intelligence", "Climate", "Customer Stories", "Events", "Healthcare and Life Sciences", "High-Performance Computing", "Inception"]
+orgs: ["Nvidia"]
+topics: ["chips & infrastructure", "models & research", "health & science", "agents & coding"]
+content_source: "fulltext"
+word_count: 440
+paywalled: false
+image: "https://blogs.nvidia.com/wp-content/uploads/2026/10/spain-startups-bsc-1920x1080-1.jpg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center
+
+NVIDIA Blog · Tobias Halloran · 2026-10-20
+
+The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries.
+Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some of the BSC AI Factory services are available through the NVIDIA Inception portal.
+NVIDIA Inception complements the BSC AI Factory Accelerator Programme by providing members with training through NVIDIA Deep Learning Institute open courses, business mentoring, venture capital connections and other resources.
+An upcoming extension of MareNostrum 5 — BSC’s public infrastructure serving scientific and technological innovation, powered by NVIDIA accelerated computing — will deliver supercomputing access through the BSC AI Factory and other AI Factories across Europe. BSC AI Factory is among Europe’s first AI factories and the first in Spain, and has delivered more than 800 services to private and public-sector clients since its April 2025 launch.
+Three Inception members were recently named the BSC AI Factory Accelerator Programme’s AI Champions at the pilot initiative’s demo day:
+Qatium’s water-network platform — already used by more than 250 utilities in 16 countries — is now in early production with its Neural Water Intelligence technology, powered by proprietary AI models trained on MareNostrum 5. Built on NVIDIA accelerated computing, the NVIDIA cuGraph library, the NVIDIA PhysicsNeMo framework and NVIDIA Nemotron open models, the technology helps water utilities make better operational decisions every day.
+OneCareAI, a research spin-off from BSC, used NVIDIA NIM microservices to develop technology designed to identify signs of hidden atrial fibrillation — an irregular heart rhythm — in seemingly normal ECGs, helping clinicians identify patients who may be at risk of stroke before one occurs.
+Avatia built a voice-first, multi-agent system that provides pharmaceutical companies with agentic coworkers that support sales representatives and give doctors transparent, curated information about medicines, ultimately helping the right treatment reach the right patient sooner. The system taps into NVIDIA NIM microservices, the NVIDIA Nemotron 3 open model family and the open source NVIDIA NeMo Curator library.
+Other BSC AI Factory startups — Agrikola AI, Elna Health, Lokutor, Montevive AI, Oppy, Pack2Earth and Up2Smart — span precision agriculture, medical imaging and knowledge access, speech services, enterprise security, sales intelligence and sustainable packaging.
+The cohort reflects the breadth of what advanced intelligence can now unlock: preventing strokes, detecting breast cancer subtypes before biopsy, putting medical knowledge at doctors’ fingertips faster, replacing petroleum-based plastic with biobased compostable materials, protecting crops with robots instead of chemicals and more.
+Learn more about NVIDIA Inception and the BSC AI Factory Accelerator Programme.

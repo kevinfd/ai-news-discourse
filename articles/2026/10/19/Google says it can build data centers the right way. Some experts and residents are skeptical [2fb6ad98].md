@@ -1,0 +1,62 @@
+---
+id: "2fb6ad98c54012de"
+title: "Google says it can build data centers the right way. Some experts and residents are skeptical"
+url: "https://cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html"
+link: "https://cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html"
+source: "CNBC"
+domain: "cnbc.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-10-19T21:05:20Z"
+published_date: "2026-10-19"
+collected_at: "2026-10-20T12:06:23Z"
+authors: ["Jeffrey Kopp", "MacKenzie Sigalos"]
+language: "en"
+summary: "Google says its Minnesota AI data center will add clean energy to the grid and protect ratepayers. Experts question whether grid upgrades are needed."
+tags: []
+orgs: ["Google"]
+topics: ["chips & infrastructure", "business & funding", "models & research", "policy & regulation"]
+content_source: "fulltext"
+word_count: 1037
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Google says it can build data centers the right way. Some experts and residents are skeptical
+
+CNBC · Jeffrey Kopp, MacKenzie Sigalos · 2026-10-19
+
+If there's one thing most Americans can agree on, it's that they don't want a data center in their backyard.
+A Gallup survey conducted in March found that 71% of Americans opposed the construction of a data center in their local area. Chief among their concerns: energy usage. Half of Americans surveyed by Pew Research Center in July and August said data centers would be mostly bad for the environment and for household energy costs.
+Now Google is betting that a massive AI data center can help finance a cleaner, more reliable power grid. Its proposed deal with Xcel Energy would add more wind, solar and battery capacity than the data center is expected to use.
+Under the agreement, Google would help pay for the added capacity and continue paying, even if it doesn't use all of the power.
+Google's bet that AI can finance a cleaner grid
+Pine Island, Minnesota, is a small town of about 4,000 residents an hour southeast of Minneapolis. Google hopes that its new 780-megawatt data center plan will build goodwill with the Pine Island community and keep the company on track to meet its goal of operating on carbon-free energy, 24 hours a day, seven days a week by 2030.
+Google — whose cloud business powers its own Gemini AI and brought in nearly $25 billion in second-quarter revenue, an 82% increase from a year earlier — says it has found a model for doing this the right way. The company plans to finance the addition of 1,400 megawatts of wind, 200 megawatts of solar and 300 megawatts of battery storage to Xcel's grid.
+Those additions amount to more than the capacity of the data center itself, which Google said is because wind and solar do not generate energy at all times. Xcel Energy said the new power will serve all customers in the local area, not just Google. Xcel also said the upgrades will help advance the local grid's carbon-free energy supply.
+The proposed agreement between Google and Xcel includes minimum demand charges and exit fees, which Google says will keep the company on the hook for the infrastructure being built on its behalf, even if the AI boom cools. Google will pay for at least 75% of its contracted capacity, even if it uses less, and would owe up to eight years' worth of those minimum demand charges if it terminates the agreement early.
+"Nobody wants to have a big buildout and then have nowhere for that power to go and nobody to pay for that power," said Amanda Rome, executive vice president and chief customer officer at Xcel Energy. "That's where these protections come in."
+The agreement between Google and Xcel Energy is pending approval by the Minnesota Public Utilities Commission.
+Data centers are driving a historic power buildout
+New data centers will account for "most" of the projected increase in electricity demand over the next decade, according to the North American Electric Reliability Corporation, a nonprofit regulator.
+The Department of Energy under President Joe Biden reported that more than 70% of U.S. transmission lines and power transformers were at least 25 years old and found that the cheapest ways of meeting future demand would require the nation's transmission system to more than double in size by 2050.
+But hyperscalers argue that they can finance badly needed grid upgrades while also making the grid cleaner and more reliable.
+"The timing of this industrial revolution couldn't be more perfect," said Amanda Peterson Corio, Google's global head of energy and power. "It's right at the time when we needed capital to fix aging infrastructure in the United States."
+Could data centers use the grid as is?
+Jigar Shah, a partner at Multiplier, a consulting firm that helps clean energy startups go public, said data center operators could be constructing smaller facilities in places where the grid already has unused capacity. That would minimize the need to build — and pay for — new generation or transmission equipment.
+"If you fit the load growth that the data centers want into the existing grid, everybody's rates go down by a lot," said Shah.
+That's because the existing grid has enormous fixed costs from the infrastructure already in place: power plants, transmission lines, substations. If one new customer comes onto the grid and pays a large slice of that, everyone else's bills go down.
+"And so the question really is, why are people not doing these 25-megawatt data centers? Why are they doing 1,000-megawatt data centers? And it turns out people are just lazy," Shah said. "They're like, well, it's easier for me to contract one data center that's one gigawatt in size than figuring out how to do something on the order of 40 data centers that are 25 megawatts each."
+Industry watchdogs also warn of another reason that utilities often prefer to build new infrastructure, rather than make more use out of their existing grid.
+"When [utilities] build something new, they fund part of that investment with dollars from their investors on Wall Street, and they enjoy incredibly high, exorbitant returns on those investments, typically around 10%," said David Pomerantz, executive director at the Energy and Policy Institute, a utility watchdog agency.
+Building a data center that fits neatly into an existing grid provides little opportunity for a utility to make new money.
+What if a hyperscaler offers to pay for those grid investments?
+"One way to leverage data centers to lower people's bills is for data centers to provide that capital at much cheaper rates than the utility," said Pomerantz. "But that's a big problem for the utility. And this fight is actually already emerging."
+Still, Shah said, the Google/Xcel project in Minnesota is a good example of a data center project acting as a catalyst for newer, greener technology.
+"Google came in and said, well, here's a new way of doing things, using new technologies. How about we do it that way? And then that helps ratepayers. And the utility was like, yeah, that makes a lot of sense."
+Watch the video above for the full story, including an interview with Google's global head of energy and power. 
+— CNBC's Jeniece Pettitt and Lora Kolodny contributed to this report.
