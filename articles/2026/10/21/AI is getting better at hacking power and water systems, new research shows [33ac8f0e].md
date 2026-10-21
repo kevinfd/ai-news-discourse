@@ -1,0 +1,33 @@
+---
+id: "33ac8f0e17a95d11"
+title: "AI is getting better at hacking power and water systems, new research shows"
+url: "https://axios.com/2026/10/21/ai-hacking-cybersecurity-water-power-grid"
+link: "https://axios.com/2026/10/21/ai-hacking-cybersecurity-water-power-grid"
+source: "Axios"
+domain: "axios.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-10-21T12:00:07Z"
+published_date: "2026-10-21"
+collected_at: "2026-10-21T12:06:46Z"
+authors: ["Sam Sabin"]
+language: "en"
+summary: "The world's most advanced AI models are suddenly capable of blueprinting cyberttacks on critical services like power grids and water systems with alarming success rates, according to new research . Why it matters: Critical infrastructure operators are running out of time. Top-tier frontier models are dangerously adept at mapping out attacks, new research from cybersecurity company Frenos shows,…"
+tags: ["top"]
+orgs: ["US government"]
+topics: ["models & research"]
+content_source: "summary"
+word_count: 490
+paywalled: false
+image: "https://images.axios.com/kuh-hHjJpUeHL2unqSpkSmwCW9E=/1366x768/smart/2021/02/26/155053-1614354653200.jpg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# AI is getting better at hacking power and water systems, new research shows
+
+Axios · Sam Sabin · 2026-10-21
+
+The world's most advanced AI models are suddenly capable of blueprinting cyberttacks on critical services like power grids and water systems with alarming success rates, according to new research . Why it matters: Critical infrastructure operators are running out of time. Top-tier frontier models are dangerously adept at mapping out attacks, new research from cybersecurity company Frenos shows, and it's only a matter of time before freely available AI models make such hacks easier to execute. "It's a clock that is moving faster than we've ever seen," Steve Swick, former top security executive at American Electric Power, told reporters during a briefing. Driving the news: Researchers at Frenos tested 10 AI models on their ability to plan attacks against industrial systems, such as the software that monitors water treatment processes. Three out of 10 models tested successfully constructed attack plans in roughly 90% of attempts. Performance varied widely: Three models the researchers considered to be at the frontier of capabilities succeeded in just 17.9% to 31.9% of attempts. The strongest foreign open-weight model succeeded 36.2% of the time, while the strongest U.S. open-weight model succeeded just 5.2%. Frenos did not disclose the names of the models tested. Zoom in : The research included nearly 17,000 tests, including 2,520 attempts to construct complete attack plans. The models received information about potential targets and tasked with piecing together the steps needed to achieve specific objectives. The big picture: Critical services like water systems and manufacturing plants have long been targets for nation-state adversaries and cybercriminals. Many operators face staffing and budget constraints. Testing and upgrading their systems can also risk disruptions to essential services that they can't afford. Unlike traditional corporate networks, industrial systems can be sensitive to unexpected traffic and commands. Even an unsuccessful attack attempt could disrupt essential operations. Threat level: Once attackers gain access to an industrial network, AI could help them quietly map out systems and identify weaknesses without the same time constraints facing human hackers, Frenos co-founder and CTO Harry Thomas said. "AI doesn't have the problem with patience," Thomas said. "It doesn't need to eat. It doesn't need to sleep, and it doesn't need to use the restroom." Paul Shaver, head of operational technology at cybersecurity firm Armadin, added that AI agents can already conduct reconnaissance and analyze large volumes of data without necessarily triggering security alerts. The intrigue : Thomas said the researchers used a relatively simple setup to guide the models through their tasks. More sophisticated tools that provide additional context and feedback could improve their performance. "A more capable harness could have given these AI models more of an edge," he said. What to watch : Several initiatives — including from the White House , frontier AI companies , and cybersecurity organizations — have cropped up in recent weeks to help lower the costs and provide resources for critical infrastructure organizations. Go deeper : Frightening AI advances speed race to secure critical infrastructure

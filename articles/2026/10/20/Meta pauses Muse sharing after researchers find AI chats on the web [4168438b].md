@@ -1,0 +1,38 @@
+---
+id: "4168438b63a2e8e2"
+title: "Meta pauses Muse sharing after researchers find AI chats on the web"
+url: "https://theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+link: "https://theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+source: "The Verge"
+domain: "theverge.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-20T18:07:34Z"
+published_date: "2026-10-20"
+collected_at: "2026-10-21T12:06:46Z"
+authors: ["Emma Roth"]
+language: "en"
+summary: "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica . In a report published this week , researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. \n \"People have the ability to share specific Muse artifacts, which…"
+tags: ["AI", "Meta", "News", "Security", "Tech"]
+orgs: ["Meta", "OpenAI", "Anthropic", "xAI", "Google"]
+topics: ["business & funding"]
+content_source: "fulltext"
+word_count: 309
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Meta pauses Muse sharing after researchers find AI chats on the web
+
+The Verge · Emma Roth · 2026-10-20
+
+Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records.
+Meta pauses Muse sharing after researchers find AI chats on the web
+A security firm discovered Muse chats containing a marketing company’s revenue, a workplace’s calendar, a loan application, and more.
+“People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link,” Muse spokesperson Tracy Clayton says in an emailed statement to The Verge. “However, we’ve paused this functionality while we review this report and consider changes to how these links can be discovered.”
+The feature in question allows you to share your Muse conversation with someone else through a link. But, as pointed out by Claroc, the way Meta designed these links made them easy to find. “Muse builds each share’s web address from the share’s title, a short phrase describing the conversation, then a random ID,” Claroc says. “The hostname usually gave away what a page held before we opened it, and since the link carries that same title and ID, a hostname pulled from DNS rebuilds the link.”
+By searching public DNS records, which serve as a directory for web traffic, Claroc was able to view hundreds of Muse conversations, including some containing a marketing company’s revenue review, a small business owner’s loan application, a workplace’s full-year staff calendar, and notes for a job candidate’s call with an AI lab. This isn’t the first time AI sharing features made chats more public than intended, as conversations with OpenAI’s ChatGPT, Anthropic’s Claude, and xAI’s Grok have wound up on Google Search.

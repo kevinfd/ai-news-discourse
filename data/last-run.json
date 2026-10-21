@@ -1,80 +1,87 @@
 {
-  "run_at": "2026-10-20T12:06:23Z",
-  "since": "2026-10-19T00:06:23Z",
+  "run_at": "2026-10-21T12:06:46Z",
+  "since": "2026-10-20T00:06:46Z",
   "stats": {
-    "candidates": 946,
-    "title_duplicate": 5,
-    "already_known": 47,
-    "not_ai": 427,
-    "merged_duplicates": 14,
-    "new_unique": 453,
-    "written": 453,
-    "seconds": 406
+    "candidates": 1067,
+    "already_known": 82,
+    "not_ai": 470,
+    "merged_duplicates": 15,
+    "new_unique": 500,
+    "written": 500,
+    "seconds": 392
   },
   "by_content_source": {
-    "fulltext": 211,
-    "summary": 132,
-    "post": 110
+    "fulltext": 223,
+    "summary": 144,
+    "post": 133
   },
   "top_sources": [
     [
       "Reddit",
-      119
-    ],
-    [
-      "Scientific American",
-      22
-    ],
-    [
-      "Mashable",
-      16
-    ],
-    [
-      "TechCrunch",
-      13
+      147
     ],
     [
       "Forbes",
-      11
+      15
     ],
     [
-      "Financial Times",
-      10
-    ],
-    [
-      "The Information",
-      9
-    ],
-    [
-      "Techmeme",
-      8
-    ],
-    [
-      "CNBC",
-      8
-    ],
-    [
-      "The Guardian",
-      7
-    ],
-    [
-      "Fast Company",
-      7
-    ],
-    [
-      "Quartz",
-      7
+      "TechCrunch",
+      14
     ],
     [
       "Bloomberg",
-      7
+      12
     ],
     [
       "AWS Machine Learning Blog",
-      7
+      12
+    ],
+    [
+      "Techmeme",
+      11
+    ],
+    [
+      "Axios",
+      11
+    ],
+    [
+      "The Information",
+      10
+    ],
+    [
+      "The New Stack",
+      10
+    ],
+    [
+      "NVIDIA Blog",
+      10
+    ],
+    [
+      "The Guardian",
+      9
     ],
     [
       "Business Insider",
+      9
+    ],
+    [
+      "GitHub",
+      9
+    ],
+    [
+      "Scientific American",
+      8
+    ],
+    [
+      "Fast Company",
+      8
+    ],
+    [
+      "Hugging Face",
+      8
+    ],
+    [
+      "Financial Times",
       6
     ],
     [
@@ -82,41 +89,33 @@
       6
     ],
     [
-      "MarkTechPost",
-      5
+      "Tom's Guide",
+      6
     ],
     [
-      "Axios",
-      5
+      "South China Morning Post",
+      6
     ],
     [
-      "GitHub",
-      5
-    ],
-    [
-      "note",
+      "Ars Technica",
       5
     ],
     [
       "The Verge",
-      4
+      5
     ],
     [
-      "MIT Technology Review",
-      4
+      "Engadget",
+      5
     ],
     [
-      "Towards Data Science",
-      4
+      "Mashable",
+      5
     ],
     [
-      "The New Stack",
-      4
-    ],
-    [
-      "24/7 Wall St.",
-      4
+      "CNBC",
+      5
     ]
   ],
-  "total_articles": 3693
+  "total_articles": 4193
 }

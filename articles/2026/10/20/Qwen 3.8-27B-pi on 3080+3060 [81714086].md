@@ -1,0 +1,33 @@
+---
+id: "817140869e7cbdef"
+title: "Qwen 3.8-27B-pi on 3080+3060"
+url: "https://reddit.com/r/LocalLLaMA/comments/1xaxbp3/qwen_3827bpi_on_30803060"
+link: "https://reddit.com/r/LocalLLaMA/comments/1xaxbp3/qwen_3827bpi_on_30803060"
+source: "Reddit"
+domain: "reddit.com"
+source_type: "community"
+collector: "reddit"
+date: "2026-10-20T16:47:41Z"
+published_date: "2026-10-20"
+collected_at: "2026-10-21T12:06:46Z"
+authors: ["ryszard_lipton"]
+language: "en"
+summary: "Hey, for some time now I play with various setup for local LLM hosting on my old gaming rig, starting from Qwen-2.5-7B on Ollama to llama.cpp and buying second-hand 3060 to get more VRAM. Right now what I have is: 3080 10gb vram 3060 12gb vram 32gb DDR5 4800 As you can see, I am running a budget option and I do not plan any expensive expansions, rather small incremental steps. I've been…"
+tags: ["r/LocalLLaMA"]
+orgs: ["Alibaba", "Nvidia"]
+topics: ["chips & infrastructure", "models & research", "agents & coding"]
+content_source: "post"
+word_count: 501
+paywalled: false
+image: null
+discussion_url: "https://www.reddit.com/r/LocalLLaMA/comments/1xaxbp3/qwen_3827bpi_on_30803060/"
+score: null
+comments: null
+community: "r/LocalLLaMA"
+---
+
+# Qwen 3.8-27B-pi on 3080+3060
+
+Reddit · ryszard_lipton · 2026-10-20
+
+Hey, for some time now I play with various setup for local LLM hosting on my old gaming rig, starting from Qwen-2.5-7B on Ollama to llama.cpp and buying second-hand 3060 to get more VRAM. Right now what I have is: 3080 10gb vram 3060 12gb vram 32gb DDR5 4800 As you can see, I am running a budget option and I do not plan any expensive expansions, rather small incremental steps. I've been considering getting +32gb ram for Strata, but this will have to wait until next year. I run it for agentic coding (currently Kotlin + Android) with Pi harness, using some auto-loop developed with Opus consisting of specify -> plan -> implement steps, each of them in new session with review and revise in-between steps. My best setup so far (30-40 tok/s generation, avg mtp acceptance ~0.75, pushing n-max above 3 causes OOM issues). I have slightly undervolted GPUs due to limited airflow and 750W PSU: llama-server \ --model /Qwen3.8-27B-pi-Q4_K_M.gguf \ --model-draft mtp-Qwen3.8-27B-pi-Q4_0.gguf \ --spec-type draft-mtp --spec-draft-n-max 3 \ --cache-ram 12288 \ --spec-draft-ngl 99 --spec-draft-device CUDA1 \ --split-mode layer --tensor-split 107,93 -ngl 999 \ -fa on -ub 256 --cache-type-k q8_0 --cache-type-v q4_0 \ --ctx-size 75776 -np 1 \ --temp 1.0 --top-k 20 --min-p 0.0 \ --port 8080 Tue Oct 20 18:45:48 2026 +-----------------------------------------------------------------------------------------+ | NVIDIA-SMI 595.91.07 Driver Version: 595.91.07 CUDA Version: 13.2 | +-----------------------------------------+------------------------+----------------------+ | GPU Name Persistence-M | Bus-Id Disp.A | Volatile Uncorr. ECC | | Fan Temp Perf Pwr:Usage/Cap | Memory-Usage | GPU-Util Compute M. | | | | MIG M. | |=========================================+========================+======================| | 0 NVIDIA GeForce RTX 3080 Off | 00000000:01:00.0 Off | N/A | | 67% 55C P2 106W / 280W | 9793MiB / 10240MiB | 0% Default | | | | N/A | +-----------------------------------------+------------------------+----------------------+ | 1 NVIDIA GeForce RTX 3060 Off | 00000000:06:00.0 Off | N/A | | 62% 56C P2 35W / 120W | 10875MiB / 12288MiB | 0% Default | | | | N/A | +-----------------------------------------+------------------------+----------------------+ +-----------------------------------------------------------------------------------------+ | Processes: | | GPU GI CI PID Type Process name GPU Memory | | ID ID Usage | |=========================================================================================| | 0 N/A N/A 7673 G /usr/lib/xorg/Xorg 4MiB | | 0 N/A N/A 184676 C llama-server 9770MiB | | 1 N/A N/A 7673 G /usr/lib/xorg/Xorg 4MiB | | 1 N/A N/A 184676 C llama-server 10852MiB | +-----------------------------------------------------------------------------------------+ Where should I go for further improvements (if any are possible)? Did any of you guys run similar build to mine and could recommend any alternatives to my setup? I am generally happy with the quality and speed (started at 10 tokens per second with Qwen 3.8), but perhaps there is more. I've tried dflash2 but it seemed to run slower than MTP for some reason: llama-server \ --model Qwen3.8-27B-pi-Q4_K_M.gguf \ --model-draft dflash2/Qwen3.8-27B-DFlash2-Q4_K_M.gguf \ --spec-type draft-dflash \ --spec-draft-n-max 3 \ --cache-ram 12288 \ --spec-draft-ngl 99 --spec-draft-device CUDA1 \ --split-mode layer --tensor-split 107,93 -ngl 999 \ -fa on -ub 256 --cache-type-k q8_0 --cache-type-v q4_0 \ --ctx-size 75776 -np 1 \ --temp 1.0 --top-k 20 --min-p 0.0 \ --port 8080'

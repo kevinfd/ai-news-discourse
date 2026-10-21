@@ -1,0 +1,46 @@
+---
+id: "963603ee78001111"
+title: "How America's AI Trust Issues Could Impact the Midterms"
+url: "https://time.com/article/2026/10/21/how-america-s-ai-trust-issues-could-impact-the-midterms"
+link: "https://time.com/article/2026/10/21/how-america-s-ai-trust-issues-could-impact-the-midterms"
+source: "TIME"
+domain: "time.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-10-21T10:00:03Z"
+published_date: "2026-10-21"
+collected_at: "2026-10-21T12:06:46Z"
+authors: ["Will Johnson"]
+language: "en"
+summary: "—Douglas Rissing—Getty Images From social media to sports betting, Americans have become remarkably willing to adopt new technologies without necessarily believing they're good for us or our health, our society, or our planet. Artificial intelligence may be the clearest example yet. Just 39% of Americans say AI has a positive impact on society, compared with 44% who believe its impact is…"
+tags: ["Ideas"]
+orgs: []
+topics: ["jobs & society", "chips & infrastructure", "search & media", "health & science"]
+content_source: "fulltext"
+word_count: 651
+paywalled: false
+image: "https://static.time.com/v3/assets/bltea6093859af6183b/blt5a5090d6e4da44e2/6ad82aec779675a76efccf8f/America-AI-Trust.jpg?branch=production"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# How America's AI Trust Issues Could Impact the Midterms
+
+TIME · Will Johnson · 2026-10-21
+
+From social media to sports betting, Americans have become remarkably willing to adopt new technologies without necessarily believing they're good for us or our health, our society, or our planet. Artificial intelligence may be the clearest example yet.
+Just 39% of Americans say AI has a positive impact on society, compared with 44% who believe its impact is negative, according to a national survey conducted this month by my company, Outward Intelligence. Only 15% say they're excited about AI's growth.
+But here’s the disconnect: While 58% of Americans don't trust the leaders of AI companies to make decisions in society's best interests, 41% say they use AI chatbots every day. Among Americans who believe AI harms society, roughly half use AI chatbots at least weekly.
+In some ways, this shouldn't surprise us. People can appreciate the convenience of social media while questioning its effects on children. They can participate in the boom in sports betting while worrying about its consequences, from addiction to financial hardship. They can shop online while worrying about the decline of local businesses. And they can rely on smartphones while believing those devices have undermined attention and human connection.
+But AI tests the limits of the U.S. consumer’s appetite for holding two contradictory ideas in their minds at once. And the implications are political as much as economic: What happens when Americans embrace a technology but don't trust the institutions responsible for creating it as well as overseeing and pacing its development?
+In our survey, about two-thirds of Americans said a candidate's position on AI could influence their vote in the upcoming Midterm elections, although most acknowledged that other issues matter more. Roughly one in six said it could actually determine their vote.
+Neither party appears to have established much credibility with independent voters on the issue. Nearly two-thirds of independents say they don’t trust either party to handle AI responsibly, or that they trust both equally, or that they’re unsure.
+Data centers are where the broader debate over AI becomes much more concrete, and where opposition becomes more unified. More than half of respondents say they would oppose construction of a large data center near where they live. Nearly four in ten would strongly oppose it.
+Their concerns are practical. Electricity costs rank first, followed by water usage and environmental impact. America's ability to compete internationally, which has become a central argument for expanding AI infrastructure, ranks much lower.
+To a tech company, building a data center may represent an investment in America's economic future. To someone living nearby, it may mean worrying about electricity bills, local resources, and whether the community has much say in the decision. The result is a growing chasm between how the people building AI think about its benefits and how ordinary Americans think about its costs.
+The associated political costs are significant, too. When asked about candidates who strongly support building more data centers, 42% of voters say that position would make them less likely to vote for a candidate, vs. 27% who say it would make them more likely. Among independents, the gap is even wider: 49% to 19%.
+So while AI may not be a top issue for all voters in November, their attitudes toward AI expose a tension in the politics of technological progress. Promising innovation and economic growth doesn't answer questions about electricity bills and corporate accountability, and expressing concern about the technology doesn't explain how to capture its potential benefits.
+AI companies now ask for an enormous amount of public faith. They're developing systems that could reshape employment, education, and the economy, while making major infrastructure investments that will affect communities across the country. Americans, meanwhile, are weighing who benefits, who bears the costs—and who is accountable when things go wrong.
+Americans have already shown they're willing to use AI. The harder challenge, for Silicon Valley and Washington alike, is earning, and deserving, their trust.
