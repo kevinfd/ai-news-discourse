@@ -1,121 +1,122 @@
 {
-  "run_at": "2026-10-21T12:06:46Z",
-  "since": "2026-10-20T00:06:46Z",
+  "run_at": "2026-10-22T12:07:09Z",
+  "since": "2026-10-21T00:07:09Z",
   "stats": {
-    "candidates": 1067,
-    "already_known": 82,
-    "not_ai": 470,
-    "merged_duplicates": 15,
-    "new_unique": 500,
-    "written": 500,
-    "seconds": 392
+    "candidates": 1058,
+    "already_known": 76,
+    "not_ai": 468,
+    "merged_duplicates": 24,
+    "title_duplicate": 2,
+    "new_unique": 488,
+    "written": 488,
+    "seconds": 412
   },
   "by_content_source": {
-    "fulltext": 223,
-    "summary": 144,
-    "post": 133
+    "summary": 136,
+    "fulltext": 226,
+    "post": 126
   },
   "top_sources": [
     [
       "Reddit",
-      147
-    ],
-    [
-      "Forbes",
-      15
-    ],
-    [
-      "TechCrunch",
-      14
-    ],
-    [
-      "Bloomberg",
-      12
-    ],
-    [
-      "AWS Machine Learning Blog",
-      12
-    ],
-    [
-      "Techmeme",
-      11
-    ],
-    [
-      "Axios",
-      11
+      131
     ],
     [
       "The Information",
-      10
+      13
     ],
     [
-      "The New Stack",
-      10
-    ],
-    [
-      "NVIDIA Blog",
-      10
-    ],
-    [
-      "The Guardian",
-      9
+      "Forbes",
+      12
     ],
     [
       "Business Insider",
-      9
+      11
     ],
     [
-      "GitHub",
-      9
-    ],
-    [
-      "Scientific American",
-      8
-    ],
-    [
-      "Fast Company",
-      8
-    ],
-    [
-      "Hugging Face",
-      8
+      "Bloomberg",
+      11
     ],
     [
       "Financial Times",
-      6
+      9
+    ],
+    [
+      "Techmeme",
+      9
     ],
     [
       "Channel NewsAsia",
-      6
-    ],
-    [
-      "Tom's Guide",
-      6
-    ],
-    [
-      "South China Morning Post",
-      6
-    ],
-    [
-      "Ars Technica",
-      5
-    ],
-    [
-      "The Verge",
-      5
-    ],
-    [
-      "Engadget",
-      5
-    ],
-    [
-      "Mashable",
-      5
+      9
     ],
     [
       "CNBC",
+      9
+    ],
+    [
+      "TechCrunch",
+      8
+    ],
+    [
+      "WIRED",
+      8
+    ],
+    [
+      "The Guardian",
+      8
+    ],
+    [
+      "The Verge",
+      7
+    ],
+    [
+      "OpenAI",
+      7
+    ],
+    [
+      "Mashable",
+      7
+    ],
+    [
+      "Vector Wire",
+      7
+    ],
+    [
+      "ZDNet",
+      6
+    ],
+    [
+      "MarkTechPost",
+      6
+    ],
+    [
+      "Scientific American",
+      6
+    ],
+    [
+      "BBC News",
+      6
+    ],
+    [
+      "Hugging Face",
+      6
+    ],
+    [
+      "NVIDIA Blog",
+      6
+    ],
+    [
+      "GitHub",
+      6
+    ],
+    [
+      "Fast Company",
+      5
+    ],
+    [
+      "The New York Times",
       5
     ]
   ],
-  "total_articles": 4193
+  "total_articles": 4681
 }

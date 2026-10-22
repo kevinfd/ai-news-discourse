@@ -1,0 +1,37 @@
+---
+id: "3dba8c3e0d1137b8"
+title: "Conversational Gemini navigation comes to Apple CarPlay"
+url: "https://theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps"
+link: "https://theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps"
+source: "The Verge"
+domain: "theverge.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-21T15:00:00Z"
+published_date: "2026-10-21"
+collected_at: "2026-10-22T12:07:09Z"
+authors: ["Jess Weatherbed"]
+language: "en"
+summary: "After introducing its Gemini AI assistant to Android Auto last year , Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). \n It's taken almost 12 months for Google to bring this to CarPlay users, but now they…"
+tags: ["AI", "Apple", "Google", "Tech", "Transportation"]
+orgs: ["Google", "Apple"]
+topics: ["products & launches", "search & media"]
+content_source: "fulltext"
+word_count: 228
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Conversational Gemini navigation comes to Apple CarPlay
+
+The Verge · Jess Weatherbed · 2026-10-21
+
+After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with “rollout happening globally too,” according to Google (we’ve asked for specific regional availability details).
+Conversational Gemini navigation comes to Apple CarPlay
+CarPlay users in the US can now use Gemini to chat with Google Maps.
+It’s taken almost 12 months for Google to bring this to CarPlay users, but now they can talk to the voice assistant in Google Maps to get some hands-free help while driving. That includes asking it multi-step questions, such as recommendations on places to visit and then prompting it to direct you there while avoiding toll roads. Users can activate the feature by tapping the Gemini icon in Google Maps on their Car’s infotainment display.
+Google describes this CarPlay support update as a conversational way to report traffic disruptions and find information about stops and places on-the-go. There’s no mention of any of the Personal Intelligence features that were announced yesterday for Gemini in Android Auto and cars with Google built-in, however, which enable the voice assistant to access user information from Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. We’ve asked Google if CarPlay users will also receive the personalization update and will update if we hear back.
