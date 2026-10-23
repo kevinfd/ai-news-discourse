@@ -1,0 +1,48 @@
+---
+id: "88e73b340e5cf3c4"
+title: "This design software reimagines everyday objects as self-aware devices"
+url: "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022"
+link: "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022"
+source: "MIT News"
+domain: "news.mit.edu"
+source_type: "research"
+collector: "rss"
+date: "2026-10-22T20:45:00Z"
+published_date: "2026-10-22"
+collected_at: "2026-10-23T12:06:21Z"
+authors: ["Alex Shipps | MIT CSAIL"]
+language: "en"
+summary: "As a child, you likely saw a few Disney movies depicting inanimate objects, such as clocks, cups, and toys, as interactive companions to humans — an act of pure magic, seemingly. But scientists at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) are now doing something similar: transforming stationary items into self-aware tools that perceive and respond to human motion to…"
+tags: ["Research", "Software", "Artificial intelligence", "Design", "3-D printing", "Machine learning", "Computer science and technology", "Product design", "Manufacturing", "Electrical engineering and computer science (EECS)", "Computer Science and Artificial Intelligence Laboratory (CSAIL)", "School of Engineering"]
+orgs: ["China"]
+topics: ["health & science", "robotics & autonomy", "models & research", "jobs & society"]
+content_source: "fulltext"
+word_count: 1134
+paywalled: false
+image: "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-csail-X-hinges-cover.gif?itok=IsidN-fT"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# This design software reimagines everyday objects as self-aware devices
+
+MIT News · Alex Shipps | MIT CSAIL · 2026-10-22
+
+As a child, you likely saw a few Disney movies depicting inanimate objects, such as clocks, cups, and toys, as interactive companions to humans — an act of pure magic, seemingly. But scientists at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) are now doing something similar: transforming stationary items into self-aware tools that perceive and respond to human motion to complete a task.
+Engineers have 3D-printed these dynamic items with built-in sensing, using conductive materials for sensors and traces (sort of like wires) inside. The issue: both components were typically fabricated using the same material, so they’d emit similar signals. It’s sort of like hearing two radio stations at the same time, a mixup that’s hard to interpret. This confuses, say, a glove that relays instructions to a robotic hand about how to handle a specific object. The device couldn’t filter out the noise or verify the angle of a user’s motions, leading a humanoid student to make errors.
+Researchers at CSAIL and Tianjin University (TJU) in China may have found a way to 3D print more precise interactive items. With their “X-Hinges” software, users can customize a design, and the tool will automatically embed two different materials: a filament for the sensors designed to send the strongest signal possible, and another for the wire-like elements that don’t interfere. Interactions won’t get lost in translation, meaning users can fabricate objects that respond in real-time, such as small robots, household decor, object-detection systems, and toys.
+With X-Hinges, users can put together an item by selecting and connecting different shapes, then choosing how certain parts move. The item won’t be limited to moving in just one way like previous approaches; instead, users can select up to three “axes:” compressing, up and down, or to the sides. Building a robotic hand, for example, you’d likely want its fingertips to move vertically and laterally. The new tool would then embed sensors where the object bends (in this case, its joints) to capture motion data from both angles. That way, the device can understand and respond to your interactions more dynamically once it’s 3D-printed.
+“It’s kind of like adding a conscious element to everyday objects,” says Jiaji Li, MIT electrical engineering and computer science (EECS) postdoc and CSAIL researcher, who is a senior author on a paper introducing the work. “What you get is objects that better understand how they’re being used and have more ways to respond. In the same way an AI agent is programmed to make certain decisions based on our instructions, these creations have built-in sensing to adaptively react to human touch.”
+Jiaji Li and lead author Xiang Chang, a TJU PhD student and visiting researcher at CSAIL, used X-Hinges to create many clever devices. For example, they made a glove that can teach a robot how to grasp blocks. It adjusts to the size of a user’s hands, then records how the joints in their fingers bend via sensors before rapidly relaying that information to a humanoid hand to mimic it. The glove could be useful in factories or homes, where a robot often needs to learn new interactions quickly.
+The researchers also produced a small, origami-style lamp using X-Hinges. It senses when a human pinches it closed and adjusts its brightness accordingly. When you turn on this adaptive, portable light source (sort of like a reading light), it looks like a piece of folded-up paper that sprouts into a lamp.
+X-Hinges can even assemble devices that identify which objects have been placed on it. You could put a banana on top, for instance, and it’ll recognize the fruit almost immediately based on the tactile data it’s recorded using its sensors. This advanced physical awareness could be integrated into detection systems in places such as airports and grocery stores.
+Behind each of the scientists’ creations is an easy-to-use interface that helps you design interactive objects from scratch. Users can choose how each part of their design looks and moves, just as the researchers did when making a video game controller that resembles a cartoon shark.
+X-Hinges gives you four shapes to choose from: a custom option, cylinder, rectangle, and thin outline. To recreate the unique look of a shark’s tail, the researchers designed their own shape. They then chose how the toy bent, opting for its tail to move up and down, sort of like a joystick. Finally, the program embedded the sensors, and the scientists 3D-printed their device.
+The researchers say that X-Hinges’ diverse motions are a novel feature compared to past attempts to 3D-print responsive everyday objects. “Most methods only allow for one axis of motion, often due to signal interference. X-Hinges enables your 3D-printed item to move from three angles,” says Chang. “Ultimately, you get a design with the intended movement you want. It also records motion data in each of those areas at the same time, making the device responsive to different kinds of interactions.”
+The tool could help realize the untapped potential of the seemingly mundane. Objects we use every day for a specific purpose, like a water bottle for drinking or a lamp for lighting, could become interactive gadgets. Much like how a chatbot uses a sort of digital intelligence to answer your prompts, an object could leverage a kind of physical intelligence to execute a physical task when users interact with it.
+For now, though, X-Hinges faces a calibration bottleneck. Each time an item is 3D-printed, its layout of electrical elements varies slightly, so two devices that appear identical from the outside may not make the same sensor readings. This is crucial if you’re building a deformable fitness glove, for instance, for two separate users. To fix this, Chang and Li built a computer vision system that can recalibrate outputs to align, ensuring data is accurate across two of the same items, although they hope to develop a built-in signal recalibration mechanism in the future.
+That ambition traces back to the throughline in Jiaji Li’s own research: letting actuation and sensing “grow” directly inside a 3D-printed object, instead of adding them on afterward. He previously built printed tendon-driven mechanisms that gave objects the ability to move; X-Hinges is how he’s now building on the ability to sense. The next step, he says, is combining the two in a single print — it’s actuation and sensing born together in the same fabrication process, opening the door to new physical platforms for embodied intelligence and AI agents.
+Chang and Li wrote the paper with MIT associate professor of EECS and CSAIL principal investigator Stefanie Mueller and recent TJU graduate Haiyang Yan. Their work was supported, in part, by a postdoctoral research fellowship from Zhejiang University and the MIT-GIST Program.
+The researchers will present their work at the ACM Symposium on User Interface Software and Technology in early November.
