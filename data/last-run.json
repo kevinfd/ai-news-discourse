@@ -1,68 +1,32 @@
 {
-  "run_at": "2026-10-23T12:06:21Z",
-  "since": "2026-10-22T00:06:21Z",
+  "run_at": "2026-10-24T12:05:48Z",
+  "since": "2026-10-23T00:05:48Z",
   "stats": {
-    "candidates": 974,
-    "already_known": 76,
-    "not_ai": 440,
-    "merged_duplicates": 9,
+    "candidates": 845,
+    "already_known": 50,
+    "not_ai": 425,
+    "merged_duplicates": 7,
     "title_duplicate": 1,
-    "new_unique": 448,
-    "written": 448,
-    "seconds": 386
+    "new_unique": 362,
+    "written": 362,
+    "seconds": 389
   },
   "by_content_source": {
-    "fulltext": 206,
-    "summary": 142,
-    "post": 100
+    "fulltext": 149,
+    "summary": 89,
+    "post": 124
   },
   "top_sources": [
     [
       "Reddit",
-      116
-    ],
-    [
-      "Forbes",
-      16
-    ],
-    [
-      "TechCrunch",
-      13
-    ],
-    [
-      "The Verge",
-      12
-    ],
-    [
-      "The New Stack",
-      12
+      134
     ],
     [
       "Mashable",
-      11
-    ],
-    [
-      "Bloomberg",
       10
     ],
     [
-      "Vector Wire",
-      10
-    ],
-    [
-      "Scientific American",
-      9
-    ],
-    [
-      "Financial Times",
-      9
-    ],
-    [
-      "The Information",
-      9
-    ],
-    [
-      "Techmeme",
+      "Forbes",
       9
     ],
     [
@@ -70,31 +34,23 @@
       8
     ],
     [
-      "Business Insider",
+      "Techmeme",
       8
     ],
     [
-      "CNBC",
-      8
-    ],
-    [
-      "AWS Machine Learning Blog",
-      8
-    ],
-    [
-      "MarkTechPost",
+      "Bloomberg",
       7
     ],
     [
-      "Channel NewsAsia",
-      7
-    ],
-    [
-      "CNET",
+      "Scientific American",
       6
     ],
     [
-      "Fast Company",
+      "Business Insider",
+      6
+    ],
+    [
+      "Channel NewsAsia",
       6
     ],
     [
@@ -102,21 +58,65 @@
       6
     ],
     [
-      "South China Morning Post",
+      "Vector Wire",
       6
     ],
     [
-      "Crypto Briefing",
+      "The Verge",
       5
     ],
     [
-      "Engadget",
+      "Fast Company",
+      5
+    ],
+    [
+      "CNBC",
+      5
+    ],
+    [
+      "MarkTechPost",
       4
     ],
     [
-      "404 Media",
+      "Financial Times",
       4
+    ],
+    [
+      "Quartz",
+      4
+    ],
+    [
+      "Towards Data Science",
+      4
+    ],
+    [
+      "The New Stack",
+      4
+    ],
+    [
+      "Hugging Face",
+      4
+    ],
+    [
+      "AWS Machine Learning Blog",
+      4
+    ],
+    [
+      "note",
+      4
+    ],
+    [
+      "TechCrunch",
+      3
+    ],
+    [
+      "TIME",
+      3
+    ],
+    [
+      "STAT News",
+      3
     ]
   ],
-  "total_articles": 5129
+  "total_articles": 5491
 }
