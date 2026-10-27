@@ -1,0 +1,155 @@
+---
+id: "6ba6e00b852022e5"
+title: "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – as it happened"
+url: "https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
+link: "https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
+source: "The Guardian"
+domain: "theguardian.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-10-26T15:33:24Z"
+published_date: "2026-10-26"
+collected_at: "2026-10-27T12:07:04Z"
+authors: ["Graeme Wearden"]
+language: "en"
+summary: "Meta says share sale will support its “continued investment in AI infrastructure and personal superintelligence”, as Elon Musk warns some AI cloud computing firms face ‘guppy-level death’ UK government borrowing costs are dropping this morning, a welcome sign ahead of Wednesday’s budget. The yield (or interest rate) on 10 and 30-year UK gilts have both dropped by around three basis points (0.03…"
+tags: ["Business", "Economics", "Stock markets", "FTSE", "Elon Musk", "AI (artificial intelligence)"]
+orgs: ["Meta", "Anthropic", "Tesla", "UK", "Nvidia", "AMD"]
+topics: ["business & funding", "safety & ethics", "chips & infrastructure", "policy & regulation"]
+content_source: "fulltext"
+word_count: 3147
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – as it happened
+
+The Guardian · Graeme Wearden · 2026-10-26
+
+Boom! Meta has just announced plans to raise up to $95bn to help pay for its massive AI ambitions.
+The company behind Facebook, Instagram and WhatsApp is kicking off a new fundraising drive to fund “its core business and emerging AI opportunities”.
+The fundraising comes in two parts.
+First, Meta plans to raise $35bn through new “underwritten public offerings” – a sale of company stock.
+This offering has some big name backers – Nvidia, AMD and Broadcom have all shown interest in taking part, Meta says. These ‘cornerstone investors’ could buy up to $5bn of the stock on offer.
+Second, Meta also plans to launch a $60bn “at-the-market offering” – in which it will sell new common stock to investors at the going market rate in future.
+The Silicon Valley giant says these plans will support “Meta’s continued investment in AI infrastructure and personal superintelligence”.
+It also says it is “investing with financial discipline,” saying:
+AI is creating significant opportunities for Meta across its core business and new products and services. Meta’s AI investments are already generating tangible returns through increased engagement, improved advertising performance and increased monetization. Meta is also pursuing new opportunities across personal superintelligence, consumer and business agents, enterprise products, and AI glasses.
+The ‘at the market offering’ involves selling Meta’s new Class C Stock, which it announced last week it is creating. These Class C shares don’t have voting rights, so can be sold without diluting founder Mark Zuckerberg’s control of the company.
+Internal forecasts last week showed that Meta needs to raise “hundreds of billions of dollars” over several years to fund its AI plans.
+Anthropic has fired the starting gun on the AI pioneer’s bid to join the stock market, with a warning about the risks that its technology poses.
+Anthropic made its long-awaited filing for a public offering today – it hopes to begin trading on the Nasdaq Global Select Market under the symbol ANT.
+The IPO document showed that Anthropic made a loss of $80bn in the first half the year (mainly due to changes in the value of bonds which can convert into its stock), on revenues of over $16bn.
+The company also warned of the risks from AI, including the danger that AI is used for cybercrime or to design biological weapons, misused by authoritarian states, or that humans could lose control of it.
+The IPO filing came on a busy day for the tech sector, with Meta announcing plans to raise up to $95bn through new stock sales.
+The money would be used to fund its AI ambitions:
+Elon Musk grabbed the early spotlight, warning that some AI cloud computing companies were being locked out of the debt markets.
+Musk said:
+“As of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers.”
+There was also drama on the Brazilian stock market, where shares plunged after president Lula won a fourth term in power.
+Elsewhere in the markets, European gas prices have jumped to levels not seen since 2022 as fears continue to grow around the continent’s supply this winter and the conflict in the Middle East.
+Anthropic is attempting to float on the stock market just five years after it was created.
+In today’s IPO filing, the company warns that its “limited operating history” makes it hard to evaluate its future prospects (especially as AI is “an evolving and nascent industry”). “This increases the risk that we will not be successful,” it says.
+Anthropic then lists a series of “risks and challenges”
+develop and release new models and products on a timely and cost-effective basis;
+accurately forecast our revenue, operating expenses, and compute requirements in an environment characterized by rapid technological change and usage patterns that may scale in nonlinear or exponential ways;
+secure access to sufficient compute to meet the needs of all our workloads and manage the risks related to securing compute;
+effectively manage our growth, including our cash flows and capital needs;
+accurately predict customer demands, expectations, or requirements;
+maintain and enhance our brand and reputation;
+attract, retain, utilize, and motivate our highly skilled personnel;
+build and maintain our strategic partnerships;
+anticipate and respond to macroeconomic changes and changes in the industry and markets in which we operate;
+anticipate and respond to evolving regulatory requirements and political dynamics;
+maintain our safety-focused approach while meeting market demands;
+successfully monetize our models, platform, and applications; and
+Looking back at the Anthropic IPO document…. and the AI firm has included a clear warning about the dangers of its technology.
+“Our AI models may themselves cause harm by producing undesirable outputs or behaving in unintended, misaligned, or autonomous ways, including by taking unintended or harmful actions that no user or third party directed,” Anthropic explains.
+These risks may increase as Anthropic’s models become more capable, it says, and as they are deployed in high-risk or sensitive contexts – from scientific research to government.
+This could lead to legal action, Anthropic states:
+We may be exposed to liability, litigation, and regulatory action arising from harms associated with our AI models, and our contractual protections and insurance may be insufficient, any of which could adversely affect our business, financial condition, and results of operations.
+Report: Cost of living pressures driven up by high oil price
+Phillip Inman
+Pressure on John Healey to provide more support at the budget to the most vulnerable in society is only going to become more intense with the price of a barrel of Brent crude still above $110.
+A new report from a longstanding study of the impact of cost of living pressures on low income families, shows that parents struggle to pay the costs of transporting disabled children to school and health appointments.
+Those in employment are also affected getting to and from work in a car when petrol is above £1.75 a litre in many places and diesel often above £2 a litre. It can mean that work doesn’t pay, says the report by RuthPatrick, a professor in social and public policy at the UniversityofGlasgow.
+Patrick runs the changing realities project that follows 100 low income families.
+Rosie L, who lives in a couple household in rural Scotland, said:
+“... it’s getting to a point where I don’t know how we are going to keep managing to run our car, we live rurally. Absolutely have to have a car and public transport is not accessible or reliable where we are ... Not having access to a car would affect every single aspect of our lives. Particularly, as my children are disabled.”
+The latest report involves in-depth interviews with 70 participants of which 67 shared strategies taken to reduce costs over the previous month.
+It found:
+“Nearly three-quarters (73%) had shopped in the reduced-items aisle, while 62% had changed the food they buy and 63% had left the heating off even when cold. More than two-thirds (68%) had gone without buying something they needed for their children, such as new shoes or a winter coat. Just over half (51%) had visited a food bank or used other forms of charitable food provision, while 40% had borrowed money from family and friends. Almost half of parents (49%) had also said no to their children’s requests for educational or after-school activities.”
+Patrick said the help provided by governments and local authorities, so far, did not match the scale of the problem.
+“The Budget provides an opportunity to make good on Andy Burnham’s pledge that his will be a ‘cost of living government’. Taking sustainable and long-term steps to secure the adequacy of social security would be a vital step here, and there is particular scope in restoring the real value of Child Benefit, traditionally a vital source of support with the additional costs that come with children.”
+Brazilian stock market plunges 17% after Lula's win
+Stocks are plunging on the Brazilian stock market, as investors react to leftist president Luiz Inácio Lula da Silva’s victory over his far-right opponent Flávio Bolsonaro in last weekend’s presidential election.
+The Ibovespa share index, of leading companies listed in Brazil, has tumbled by 17% in a chaotic start that saw trading briefly halted.
+Lale Akoner, global market strategist for etoro, explains:
+“Lula’s re-election could keep Brazilian stocks and the currency under pressure in the near term, but the sharp sell-off may also create opportunities for investors. Markets had largely expected a Bolsonaro victory, so part of the reaction reflects investors rapidly reversing their positions rather than a sudden deterioration in Brazil’s economy.”
+Investors had expected a Bolsonaro victory, and some are concerned that Lula is less likely to try to rein in Brazil’s borrowing.
+Viktor Szabó, investment director for emerging market debt at AberdeenInvestments, says:
+Luiz Inácio Lula da Silva has completed one of the most remarkable comebacks in Brazil’s democratic history. Three weeks after finishing second in the first round, he won Sunday’s run-off with 51.8% of valid votes against 48.2% for Flávio Bolsonaro. He is the first candidate since the return of democracy to win the presidency after trailing in the first round, and the first Brazilian to be elected president four times. His new term begins in January.
+Markets will take a very different view. Brazilian markets had not opened when this article was written, but a strong negative reaction is expected. Investors had leaned heavily towards a change of government: the Ibovespa rose more than 8% in early trading after the first round and long-term interest rates fell sharply on hopes of a shift in fiscal policy. Much of that move now looks set to reverse, and the burden of proof sits squarely with the re-elected president.
+Here’s our liveblog with the latest news from Brazil:
+Although Anthropic wants to sell some of its shares to the public, its founders aren’t planning on losing control.
+The company has devised a “Founder Voting Structure” which will give its seven co-founders majority voting control over the company, under a plan outlined last month.
+Anthropic explains:
+We believe that our seven co-founders, Dario Amodei, Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Christopher Olah, as a group, are distinctly equipped to be stewards of our mission.
+Immediately prior to the completion of this offering, we will issue a single share of Class F common stock, a special class of our common stock, to a limited liability company of which our seven co-founders will initially be the sole members (the “Founder LLC”).
+Our Class F common stock will be entitled to an aggregate number of votes that equals 50.1% of the total voting power of our outstanding shares of capital stock with respect to matters submitted to stockholders generally, including the election of our directors other than the Class T directors.
+Anthropic’s IPO filing thrown a light on the company’s financial performance – where revenues and losses have both been growing at a remarkable rate.
+The document filed with the SEC today shows that Antropic pulled in revenues of $16.2bn in the first half of this year, up from just $1.16bn a year earlier.
+But losses surged to over $80bn in January-June this year, up from $12.9bn a year before.
+That jump in losses was mainly due to a rise in the fair value of convertible notes, which can be converted into stock.
+Anthropic warns:
+We have a history of net losses and may not generate sufficient revenue to achieve or sustain profitability in the future.
+Newsflash: AI firm Anthropic has taken an important step towards floating on the New York Stock Exchange.
+In the last few minutes, Anthropic filed publicly for an initial public offering, in which it declares that “AI is one of the most consequential technologies in human history”.
+If managed well, Anthropic says, it could rapidly speed up scientific discovery, “greatly increase economic growth rates”, help cure major disease and solve other serious problems.
+But alongside the potential of AI, Anthropic – which operates the Claude chatbot – also points to the risks – warning that AI can be used “for ill as well as good”.
+The word risks appears more than 200 times in the IPO filing – and those risks include the danger that AI is used for cybercrime or to design biological weapons, misused by authoritarian states, or that humans could lose control of it, Anthropic says.
+It’s not immediately cleat what value Anthropic is aiming for – the section showing how many shares it will sell, and at what price, is blank….
+Chinese online shopping giant Temu has agreed to take action to reduce the prospect of illegal goods being sold on its platform to comply with EU legislation.
+It has now been given four months by the EU to prove it can remedy the breaches of the Digital Services Act.
+Following a €200m fine in May, the website will launch a six month risk assessment of products along with an evaluation of the effectiveness of measures put in place to stop illegal products being sold on its platform.
+The Chinese platform was warned it would face a series of rolling fines if it it did not do this.
+Among the items the EU found on its website were baby dummies posing a choke hazard, clothing and jewellery with carcinogenic chemicals and electrical chargers failing basic safety tests.
+Newsflash: We have another multi-billion dollar deal in the AI world.
+SpaceX has reported that it has agreed to lease data centre hardware, including AI chips, from an entity managed by asset management firm ApolloGlobalManagement.
+The equipment will be leased for around five years, and used in data centres selected by SpaceX – which expects to pay roughly $40bn to Apollo under the deal.
+The lease schedules are expected to commence during the first half of 2027 upon delivery of the GPUs, SpaceX says in an SEC filing.
+Reminder:Elon Musk posted last night that SpaceX had “closed $40B of debt for GPUs”…
+On a wetter Monday morning than London’s mayor may have dreamed of, pedestrians walked freely through the temporary bollards onto a green welcome banner rolled along the tarmac, declaring Oxford Street traffic-free.
+SadiqKhan said it was a “momentous day”, with almost a kilometre of the capital’s most famous shopping street now pedestrianised, banishing the buses, bikes, taxis, e-scooters and pedicabs along with the private car.
+After decades of discussion, the closure to traffic has come into effect in time for the busy Christmas shopping period, although the bigger transformation of the street, a £150m project including trees, seating and level “plazas” for events, will start taking shape from spring 2027.
+Speaking on Monday morning in the John Lewis department store, Khan said he was proud to be “finally unlocking a new era”, noting that the first action plans to pedestrianise the street started in 1971 “when I was literally in nappies”.
+The mayor, whose first jobs were in retail in stores in the street, said:
+“This is a momentous day for Oxford Street and the capital. We want high quality shops that will atrract people here but also culture, hospitality, leisure, and people going to and from the office having a good experience and I’m confident we’ll get that.”
+He added:
+“We’ve seen over the last couple of decades this street in decline… Pedestrianising the street with great public transport links, more greenery, more seating, will link to a better experience all round.”
+The permanent plans will depend on feedback in the first phase and testing, and Khan said London “would be closely monitoring these changes to make sure they are working for everyone”.
+He added: “I want this to be a proof of concept – that investing in people rather than traffic leads to better footfall and spend.”
+About half of the 1.2 mile street is now vehicle-free, roughly from Oxford Circus station to close to Marble Arch.
+Many of London’s double-decker buses have traditionally run the length of the street and will now be diverted into neighbouring roads.
+Claire Mann, chief operating officer at TransportforLondon, said there would still be “plenty of capacity for passengers” and it should not affect reliability. She said:
+“People have said for some time it’s an unpleasanat environment to walk along, narrow and busy – the main movement through Oxford Street is pedestrians so this is us enabling people to make that journey in a nicer way. We’ll be monitoring to see if it does have an impact on ridership – but Bond Street and the Elizabeth Line does give you a way to arrive in style.”
+Boom! Meta has just announced plans to raise up to $95bn to help pay for its massive AI ambitions.
+The company behind Facebook, Instagram and WhatsApp is kicking off a new fundraising drive to fund “its core business and emerging AI opportunities”.
+The fundraising comes in two parts.
+First, Meta plans to raise $35bn through new “underwritten public offerings” – a sale of company stock.
+This offering has some big name backers – Nvidia, AMD and Broadcom have all shown interest in taking part, Meta says. These ‘cornerstone investors’ could buy up to $5bn of the stock on offer.
+Second, Meta also plans to launch a $60bn “at-the-market offering” – in which it will sell new common stock to investors at the going market rate in future.
+The Silicon Valley giant says these plans will support “Meta’s continued investment in AI infrastructure and personal superintelligence”.
+It also says it is “investing with financial discipline,” saying:
+AI is creating significant opportunities for Meta across its core business and new products and services. Meta’s AI investments are already generating tangible returns through increased engagement, improved advertising performance and increased monetization. Meta is also pursuing new opportunities across personal superintelligence, consumer and business agents, enterprise products, and AI glasses.
+The ‘at the market offering’ involves selling Meta’s new Class C Stock, which it announced last week it is creating. These Class C shares don’t have voting rights, so can be sold without diluting founder Mark Zuckerberg’s control of the company.
+Internal forecasts last week showed that Meta needs to raise “hundreds of billions of dollars” over several years to fund its AI plans.
+The downturn in UK retail sales has eased this month, new data shows.
+The CBI reports that UK retail sales volumes contracted in the year to October at the slowest rate since April 2025.
+A net balance of -10% retailers reported that sales dropped over the last year, better than the -55% recorded in September.
+Martin Sartorius, lead economist at the CBI, says:
+“The ongoing retail sales downturn eased in October, with volumes falling at their slowest annual pace in over a year. Wholesalers and motor traders also saw some signs of activity steadying over the same period. That said, the outlook remains fragile as businesses face headwinds from cautious household spending and higher fuel costs.

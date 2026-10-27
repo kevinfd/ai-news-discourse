@@ -1,122 +1,122 @@
 {
-  "run_at": "2026-10-24T12:05:48Z",
-  "since": "2026-10-23T00:05:48Z",
+  "run_at": "2026-10-27T12:07:04Z",
+  "since": "2026-10-26T00:07:04Z",
   "stats": {
-    "candidates": 845,
-    "already_known": 50,
-    "not_ai": 425,
-    "merged_duplicates": 7,
+    "candidates": 962,
+    "not_ai": 417,
     "title_duplicate": 1,
-    "new_unique": 362,
-    "written": 362,
-    "seconds": 389
+    "already_known": 3,
+    "merged_duplicates": 19,
+    "new_unique": 522,
+    "written": 522,
+    "seconds": 390
   },
   "by_content_source": {
-    "fulltext": 149,
-    "summary": 89,
-    "post": 124
+    "fulltext": 228,
+    "summary": 173,
+    "post": 121
   },
   "top_sources": [
     [
       "Reddit",
-      134
+      142
+    ],
+    [
+      "The Guardian",
+      16
+    ],
+    [
+      "Financial Times",
+      16
+    ],
+    [
+      "Bloomberg",
+      16
+    ],
+    [
+      "The Information",
+      13
     ],
     [
       "Mashable",
+      13
+    ],
+    [
+      "CNBC",
+      11
+    ],
+    [
+      "Business Insider",
       10
+    ],
+    [
+      "The New Stack",
+      10
+    ],
+    [
+      "South China Morning Post",
+      10
+    ],
+    [
+      "The Verge",
+      9
+    ],
+    [
+      "Techmeme",
+      9
     ],
     [
       "Forbes",
       9
     ],
     [
-      "The Guardian",
+      "Channel NewsAsia",
       8
     ],
     [
-      "Techmeme",
-      8
-    ],
-    [
-      "Bloomberg",
+      "OpenAI",
       7
+    ],
+    [
+      "WIRED",
+      7
+    ],
+    [
+      "The New York Times",
+      7
+    ],
+    [
+      "The Hindu",
+      7
+    ],
+    [
+      "TechCrunch",
+      6
     ],
     [
       "Scientific American",
       6
     ],
     [
-      "Business Insider",
+      "Axios",
       6
     ],
     [
-      "Channel NewsAsia",
+      "note",
       6
     ],
     [
-      "Tom's Guide",
-      6
+      "MarkTechPost",
+      5
     ],
     [
-      "Vector Wire",
-      6
-    ],
-    [
-      "The Verge",
+      "CNET",
       5
     ],
     [
       "Fast Company",
       5
-    ],
-    [
-      "CNBC",
-      5
-    ],
-    [
-      "MarkTechPost",
-      4
-    ],
-    [
-      "Financial Times",
-      4
-    ],
-    [
-      "Quartz",
-      4
-    ],
-    [
-      "Towards Data Science",
-      4
-    ],
-    [
-      "The New Stack",
-      4
-    ],
-    [
-      "Hugging Face",
-      4
-    ],
-    [
-      "AWS Machine Learning Blog",
-      4
-    ],
-    [
-      "note",
-      4
-    ],
-    [
-      "TechCrunch",
-      3
-    ],
-    [
-      "TIME",
-      3
-    ],
-    [
-      "STAT News",
-      3
     ]
   ],
-  "total_articles": 5491
+  "total_articles": 6013
 }

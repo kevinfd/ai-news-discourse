@@ -1,0 +1,48 @@
+---
+id: "02c774ec5299e23a"
+title: "Nvidia backs Indian startup helping companies run AI models with fewer GPUs"
+url: "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus"
+link: "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus"
+source: "TechCrunch"
+domain: "techcrunch.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-27T11:00:00Z"
+published_date: "2026-10-27"
+collected_at: "2026-10-27T12:07:04Z"
+authors: ["Jagmeet Singh"]
+language: "en"
+summary: "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue."
+tags: ["Startups", "AI", "Accel", "nvidia", "Exclusive"]
+orgs: ["Nvidia", "Google", "Microsoft", "Amazon", "Oracle"]
+topics: ["business & funding", "chips & infrastructure"]
+content_source: "fulltext"
+word_count: 836
+paywalled: false
+image: "http://www.bing.com/th?id=ONUT.iXhrkofmL0hN5oL9-CGloQ&pid=News"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Nvidia backs Indian startup helping companies run AI models with fewer GPUs
+
+TechCrunch · Jagmeet Singh · 2026-10-27
+
+As the AI boom strains computing capacity, Nvidia has backed Indian startup Simplismart in a $14 million funding round, betting on software that helps companies run AI models more efficiently and, in some cases, with fewer GPUs.
+Nvidia participated in the all-primary Series B round alongside Accel, Shastra VC, and Micromax, with Dallas Venture Capital leading the investment. The deal values the four-year-old startup at about $100 million, including the new funding.
+Companies are nowadays spending heavily on GPUs to power AI applications, but running those models reliably and economically at scale remains a challenge. Different workloads demand distinct trade-offs between speed, cost, and performance. Deploying and operating AI models to meet business requirements often also requires complex adjustments. Simplismart says its software automates much of that work, tailoring how models run on existing computing infrastructure instead of requiring customers to manage those configurations themselves.
+“Nobody actually needs the fastest or the cheapest inference,” Amritanshu Jain (pictured above, left), co-founder and CEO of Simplismart, said in an interview. He added that companies instead need to run AI models at speeds and costs that make sense for their specific applications.
+Simplismart’s software sits between AI models and the computing infrastructure they run on and adjusts how models are deployed and managed to meet customers’ requirements. It says it can optimize factors such as how quickly a model responds, how many requests it handles, and how much computing power it consumes, helping companies get more out of their existing GPU stack.
+The Bengaluru-based startup offers companies a way to deploy and run AI models through its own platform or within their existing cloud and on-premises infrastructure. It also provides tools to fine-tune models, automatically scale computing resources as demand changes, and monitor performance. Additionally, Simplismart allows cloud providers build and operate their own AI inference services on GPU infrastructure using its software.
+Simplismart says it helped AI video-generation platform InVideo cut its GPU serving costs by 56% using its software. The startup also works with AI video companies HeyGen and Higgsfield, as well as enterprise AI startup Ema, among others. Moreover, Indian cloud provider Yotta uses Simplismart’s technology to power the serverless AI inference service within its Shakti Studio platform.
+Simplismart’s annualized revenue run rate has grown 14-fold over the past six months to an eight-figure sum, Jain told TechCrunch. The figure is based on recent customer usage rather than contracted recurring revenue and excludes revenue passed through to infrastructure providers, the company said. He did not disclose the exact figure.
+More than half of Simplismart’s revenue comes from the U.S., despite the startup having more customers in India, Jain said.
+Alongside its investment, Nvidia has been working with Simplismart on technical integrations, including around its Dynamo inference software, Jain told TechCrunch. The collaboration involves Simplismart’s engineers and Nvidia’s solutions architects, while Nvidia has also helped introduce the startup to potential customers and partners, Jain stated.
+Interestingly, the investment presents an apparent paradox as Nvidia, the dominant supplier of AI chips, is backing software that can help companies run some workloads with fewer GPUs. Jain, however, argued that making AI inference more efficient could ultimately benefit Nvidia by making its hardware more attractive to customers and encouraging wider adoption of AI applications.
+Simplismart is serving customers in an increasingly crowded market for AI inference software, competing with offerings from Nvidia itself, as well as major cloud providers and hyperscalers including Amazon Web Services, Google Cloud, and Microsoft Azure. A growing number of startups are also developing tools to make AI models faster and cheaper to run as there is growing demand in this segment, driven by rising demand for AI applications and the need to make better use of expensive GPU resources.
+“Where we tend to win is where people have to be more stringent on their SLAs [service-level agreements] and TCO [total cost of ownership],” Jain said, referring to demanding performance requirements and tight cost constraints. Unlike rivals that offer preset options for faster or cheaper inference, Simplismart aims to find a balance tailored to each customer’s needs, he said.
+Founded in 2022 by former Oracle engineer Jain and former Google engineer Devansh Ghatak (pictured above, right), Simplismart grew out of the pair’s experience building and deploying machine-learning systems. The two met while studying at BITS Pilani, and the startup now employs 58 people, Jain said.
+Simplismart plans to use the new funding to expand its presence in the U.S., grow its team, and invest further in developing its inference software. Jain told TechCrunch that the U.S. remains a key market for the startup as it looks to build on its existing customer base there.
+The funding announcement follows a report by Indian English daily The Economic Times that Simplismart was in talks to raise $40 million to $50 million at a valuation of $300 million to $400 million. Asked about the report, Jain declined to comment, saying the startup was not actively fundraising. He added that the Series B was closed and would not be extended.
