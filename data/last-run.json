@@ -1,60 +1,51 @@
 {
-  "run_at": "2026-10-27T12:07:04Z",
-  "since": "2026-10-26T00:07:04Z",
+  "run_at": "2026-10-28T12:05:24Z",
+  "since": "2026-10-27T00:05:24Z",
   "stats": {
-    "candidates": 962,
+    "candidates": 946,
+    "already_known": 64,
     "not_ai": 417,
-    "title_duplicate": 1,
-    "already_known": 3,
     "merged_duplicates": 19,
-    "new_unique": 522,
-    "written": 522,
-    "seconds": 390
+    "new_unique": 446,
+    "written": 446,
+    "seconds": 415
   },
   "by_content_source": {
-    "fulltext": 228,
-    "summary": 173,
-    "post": 121
+    "summary": 128,
+    "fulltext": 208,
+    "post": 110
   },
   "top_sources": [
     [
       "Reddit",
-      142
-    ],
-    [
-      "The Guardian",
-      16
-    ],
-    [
-      "Financial Times",
-      16
-    ],
-    [
-      "Bloomberg",
-      16
-    ],
-    [
-      "The Information",
-      13
+      120
     ],
     [
       "Mashable",
+      16
+    ],
+    [
+      "Forbes",
+      15
+    ],
+    [
+      "Bloomberg",
       13
     ],
     [
-      "CNBC",
-      11
+      "TechCrunch",
+      12
     ],
     [
-      "Business Insider",
+      "The Information",
+      12
+    ],
+    [
+      "Scientific American",
       10
     ],
     [
-      "The New Stack",
-      10
-    ],
-    [
-      "South China Morning Post",
+      "Fast Company",
       10
     ],
     [
@@ -62,61 +53,69 @@
       9
     ],
     [
+      "Financial Times",
+      9
+    ],
+    [
       "Techmeme",
       9
     ],
     [
-      "Forbes",
-      9
-    ],
-    [
-      "Channel NewsAsia",
+      "ZDNet",
       8
     ],
     [
-      "OpenAI",
+      "The Guardian",
+      8
+    ],
+    [
+      "Business Insider",
+      8
+    ],
+    [
+      "Tom's Guide",
+      8
+    ],
+    [
+      "CNBC",
       7
+    ],
+    [
+      "The New Stack",
+      6
     ],
     [
       "WIRED",
-      7
-    ],
-    [
-      "The New York Times",
-      7
-    ],
-    [
-      "The Hindu",
-      7
-    ],
-    [
-      "TechCrunch",
-      6
-    ],
-    [
-      "Scientific American",
-      6
-    ],
-    [
-      "Axios",
-      6
-    ],
-    [
-      "note",
-      6
+      5
     ],
     [
       "MarkTechPost",
       5
     ],
     [
-      "CNET",
-      5
+      "Ars Technica",
+      4
     ],
     [
-      "Fast Company",
-      5
+      "Quartz",
+      4
+    ],
+    [
+      "Channel NewsAsia",
+      4
+    ],
+    [
+      "Towards Data Science",
+      4
+    ],
+    [
+      "The Hindu",
+      4
+    ],
+    [
+      "AWS Machine Learning Blog",
+      4
     ]
   ],
-  "total_articles": 6013
+  "total_articles": 6459
 }

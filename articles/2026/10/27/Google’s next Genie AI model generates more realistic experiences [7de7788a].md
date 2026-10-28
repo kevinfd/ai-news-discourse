@@ -1,0 +1,38 @@
+---
+id: "7de7788a86fe88ec"
+title: "Google’s next Genie AI model generates more realistic experiences"
+url: "https://theverge.com/tech/1019076/google-genie-4-ai-model"
+link: "https://theverge.com/tech/1019076/google-genie-4-ai-model"
+source: "The Verge"
+domain: "theverge.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-27T16:00:00Z"
+published_date: "2026-10-27"
+collected_at: "2026-10-28T12:05:24Z"
+authors: ["Jay Peters"]
+language: "en"
+summary: "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help with its simulations. It also can create experiences that are about…"
+tags: ["AI", "Google", "News", "Tech"]
+orgs: ["Google"]
+topics: ["models & research", "products & launches"]
+content_source: "fulltext"
+word_count: 240
+paywalled: false
+image: "http://www.bing.com/th?id=ONUT.vKPNGGoqsyhnswQlTclKJQ&pid=News"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Google’s next Genie AI model generates more realistic experiences
+
+The Verge · Jay Peters · 2026-10-27
+
+Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help with its simulations. It also can create experiences that are about two minutes long, up from one minute for the previous Genie 3 model.
+Google’s next Genie AI model generates more realistic experiences
+The Genie 4 world model offers more realism and can create audio to accompany its interactive worlds.
+Google is pitching Genie 4 as a tool that could be helpful for things like pre-visualization for filmmakers, prototyping game ideas, and making training scenarios for robots. But the company warns that, as simulations run longer, details and object permanence can shift over time.
+I haven’t been able to try Genie 4 for myself — it’s launching first as a “research preview” to “trusted testers” — so I can’t tell you how it compares to the Genie 3-powered Project Genie, which I used to generate bad Nintendo knockoffs. But here are some examples from Google demonstrating what’s possible with the new model.
+Genie 4 will be “coming soon” to Google AI Ultra subscribers, Google says, and the company has opened a waitlist where you can apply to be able to try it in Project Genie.

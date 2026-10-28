@@ -1,0 +1,33 @@
+---
+id: "90cccacd5bdf7e96"
+title: "Google is Having a TPU Moment"
+url: "https://theinformation.com/articles/google-tpu-moment"
+link: "https://theinformation.com/articles/google-tpu-moment"
+source: "The Information"
+domain: "theinformation.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-28T00:15:58Z"
+published_date: "2026-10-28"
+collected_at: "2026-10-28T12:05:24Z"
+authors: ["Nick Wingfield"]
+language: "en"
+summary: "Get ready to hear Google brag about TPUs on Wednesday. When Alphabet, Google’s parent company, reports third-quarter earnings tomorrow, the company’s in-house AI chips, tensor processing units, are sure to be on the lips of Google executives and Wall Street analysts. That’s because we got a bunch of new  signs this week of the swelling customer demand for TPUs.  Earlier today, Google said that…"
+tags: []
+orgs: ["Google", "Nvidia", "Anthropic", "Meta", "OpenAI", "Oracle"]
+topics: ["chips & infrastructure", "business & funding"]
+content_source: "summary"
+word_count: 907
+paywalled: true
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Google is Having a TPU Moment
+
+The Information · Nick Wingfield · 2026-10-28
+
+Get ready to hear Google brag about TPUs on Wednesday. When Alphabet, Google’s parent company, reports third-quarter earnings tomorrow, the company’s in-house AI chips, tensor processing units, are sure to be on the lips of Google executives and Wall Street analysts. That’s because we got a bunch of new  signs this week of the swelling customer demand for TPUs.  Earlier today, Google said that Oracle will become the first major cloud provider outside Google itself to begin offering TPUs to customers through its own data centers. And a short while ago, Ryan Barwick published a scoop for us that says OpenAI—a major customer for Nvidia’s AI chips—plans to buy Google’s TPUs.  But perhaps the juiciest details on TPU demand came on Monday courtesy of Anthropic’s IPO prospectus. In that filing, Anthropic chronicled the enormity of the financial commitment it has made to the Google chips, including a plan to spend $114.5 billion with Google Cloud (it didn’t specify how much of that will be for TPU-based compute). Anthropic also estimated it could spend an additional $125 billion to $150 billion on TPUs with Google and other providers. And the AI company will pony up $161.2 billion for TPU compute with Broadcom, which co-designs TPUs with Google. TPUs, you’ll recall, began as chips that Google used only internally starting over a decade ago. The company began allowing outside customers to use them via Google Cloud in 2018. More recently, Google has begun striking agreements with companies like Fluidstack and now Oracle to run TPUs in their own data centers. Google only began recognizing revenue from the sale of TPUs to outside data centers last quarter, though Chief Financial Officer Anat Ashkenazi said on an earnings call then that only a small portion of the revenues from its TPU agreements were reflected during that period. The “vast majority of revenues” from those agreements will kick in next year, Ashkenazi said. Analysts are predicting something of a windfall for Google when that happens. In a report earlier this month, TD Cowen’s John Blackledge estimated that TPUs will generate $9.4 billion in sales during the second half of this year, about 13% of the roughly $70 billion in revenue he was forecasting for Google Cloud during that period. By 2028, Blackledge thinks TPUs could be a $138 billion business, accounting for 34% of Google Cloud’s estimated revenue that year. While big, that figure would still be a fraction of the $692 billion in revenue that analysts, on average, are expecting Nvidia, the dominant provider of AI chips, to report in its fiscal year ending January 2028.    Still, Google’s TPU growth has not gone unnoticed at Nvidia. Today, we got further evidence of Nvidia’s efforts to keep marquee companies in its tent. The chipmaker announced an expansion of its partnership with Meta, which said it would increase its deployment of Nvidia chips. As part of the agreement, Nvidia will invest $3 billion into the nearly $100 billion in stock offerings that Meta announced this week. We reported earlier this year that Meta struck a deal to rent TPUs from Google. Nvidia isn’t going to let Google invade its turf without a fight. In Other News Meta increased the size of its planned stock sales to $97.5 billion from $95 billion. The offerings will help the company raise money for its AI investments. Anthropic said it has begun working with Bristol Myers Squibb, BigHat Biosciences and other pharmaceutical companies to use AI in drug discovery. Anthropic also said it acquired a small company, Mithril Medicine, working on treatments for rare forms of muscular dystrophy. Anduril and Qualcomm said they’re working together to build rugged laptops in the U.S. aimed at government, defense, first responders and other customers. The companies are calling the line of computers BlueChip.   Today on The Information’s TITV Check out today's episode of TITV , in which Akash Pasricha unpacks the SpaceX and Broadcom-Anthropic debt craze with Dakin Campbell and Gil Luria. Recommended Newsletter Start your day with Applied AI , the newsletter from The Information that uncovers how leading businesses are leveraging AI to automate tasks across the board. Subscribe now for free to get it delivered straight to your inbox twice a week. New From Our Reporters Exclusive OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips By Ryan Barwick Exclusive Can AI Help Ray Kurzweil Cheat Death? By Amy Dockser Marcus Pro Report The 50 Most Influential People in Tech Run Companies Worth a Year of U.S. GDP By Eric Bellomo Upcoming Events Monday, November 9 — Intimate Dinner with The Information and EY Consulting in San Francisco Trust is quickly becoming the defining question of the AI era. Over dinner, Jessica Lessin, Founder & Editor-in-Chief of The Information, and Whitt Butler, EY Americas Vice Chair – Consulting, will talk candidly about how leaders can build that trust and keep it. Request an invite. More details Tuesday, November 10 — The Long Road to an IPO Join The Information and NYSE for a cocktail reception and conversation on what it really takes to go public, hosted by The Information’s Dakin Campbell. The panel will explore the trust, relationships and preparation companies need to build with advisers, investors and exchange executives, along with the many complexities founders and executives must navigate along the way. Sponsored by NYSE. Apply to attend. More details What We’re Reading She Trusted ChatGPT With Her Medication Decisions. It Cost Her Everything.
