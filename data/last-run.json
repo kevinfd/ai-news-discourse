@@ -1,103 +1,88 @@
 {
-  "run_at": "2026-10-28T12:05:24Z",
-  "since": "2026-10-27T00:05:24Z",
+  "run_at": "2026-10-29T12:05:29Z",
+  "since": "2026-10-28T00:05:29Z",
   "stats": {
-    "candidates": 946,
-    "already_known": 64,
-    "not_ai": 417,
-    "merged_duplicates": 19,
-    "new_unique": 446,
-    "written": 446,
-    "seconds": 415
+    "candidates": 911,
+    "already_known": 61,
+    "not_ai": 458,
+    "title_duplicate": 3,
+    "merged_duplicates": 11,
+    "new_unique": 378,
+    "written": 378,
+    "seconds": 400
   },
   "by_content_source": {
-    "summary": 128,
-    "fulltext": 208,
-    "post": 110
+    "fulltext": 170,
+    "summary": 139,
+    "post": 69
   },
   "top_sources": [
     [
       "Reddit",
-      120
-    ],
-    [
-      "Mashable",
-      16
-    ],
-    [
-      "Forbes",
-      15
+      83
     ],
     [
       "Bloomberg",
-      13
+      15
     ],
     [
       "TechCrunch",
+      14
+    ],
+    [
+      "Mashable",
       12
+    ],
+    [
+      "Forbes",
+      11
+    ],
+    [
+      "Business Insider",
+      11
+    ],
+    [
+      "ZDNet",
+      10
     ],
     [
       "The Information",
-      12
-    ],
-    [
-      "Scientific American",
       10
-    ],
-    [
-      "Fast Company",
-      10
-    ],
-    [
-      "The Verge",
-      9
     ],
     [
       "Financial Times",
       9
     ],
     [
-      "Techmeme",
+      "CNBC",
       9
     ],
     [
-      "ZDNet",
-      8
-    ],
-    [
-      "The Guardian",
-      8
-    ],
-    [
-      "Business Insider",
-      8
-    ],
-    [
-      "Tom's Guide",
-      8
-    ],
-    [
-      "CNBC",
-      7
-    ],
-    [
       "The New Stack",
-      6
+      8
     ],
     [
-      "WIRED",
-      5
+      "The Verge",
+      8
     ],
     [
       "MarkTechPost",
+      6
+    ],
+    [
+      "Scientific American",
+      6
+    ],
+    [
+      "Techmeme",
       5
     ],
     [
-      "Ars Technica",
-      4
+      "South China Morning Post",
+      5
     ],
     [
-      "Quartz",
+      "Fast Company",
       4
     ],
     [
@@ -105,17 +90,33 @@
       4
     ],
     [
+      "PCMag",
+      4
+    ],
+    [
       "Towards Data Science",
       4
     ],
     [
-      "The Hindu",
+      "note",
       4
     ],
     [
-      "AWS Machine Learning Blog",
-      4
+      "The Guardian",
+      3
+    ],
+    [
+      "Engadget",
+      3
+    ],
+    [
+      "404 Media",
+      3
+    ],
+    [
+      "The Hill",
+      3
     ]
   ],
-  "total_articles": 6459
+  "total_articles": 6837
 }

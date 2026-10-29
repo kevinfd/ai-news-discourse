@@ -1,0 +1,61 @@
+---
+id: "47d2587ed91806bc"
+title: "Social media is full of weird video game mashups. Where are they all coming from?"
+url: "https://theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from"
+link: "https://theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from"
+source: "The Guardian"
+domain: "theguardian.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-10-28T15:00:05Z"
+published_date: "2026-10-28"
+collected_at: "2026-10-29T12:05:29Z"
+authors: ["Keza MacDonald"]
+language: "en"
+summary: "AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry • Don’t get Pushing Buttons delivered to your inbox? Sign up here If your social media algorithms have clocked that you’re into video games, something strange will have happened in the past few weeks. Your feed, like mine, will have been full…"
+tags: ["Games", "Culture", "AI (artificial intelligence)", "Piracy"]
+orgs: ["Anthropic", "Meta", "Microsoft", "ByteDance"]
+topics: ["search & media", "agents & coding", "policy & regulation", "jobs & society"]
+content_source: "fulltext"
+word_count: 1358
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Social media is full of weird video game mashups. Where are they all coming from?
+
+The Guardian · Keza MacDonald · 2026-10-28
+
+If your social media algorithms have clocked that you’re into video games, something strange will have happened in the past few weeks. Your feed, like mine, will have been full of clips of streamers playing bizarre mashups of popular video games. Skyrim in Minecraft. Halo, except the main character is Mario. Skate 2 in Call of Duty maps. A flood of professional-looking fan-coded game mods that are mildly interesting to look at for 30 seconds, but ultimately inconsequential. Would I download a mod that lets me play Wii Bowling inside a zombie shooter? No, but I am very interested in where they came from.
+Of course, the answer – or at least, most of the answer – is AI. After a week of researching this (thanks especially to Replay Mode on YouTube for this informative video, which set me down this track) I now understand that these mashup mods are not just AI-generated videos, but AI-assisted coding. Basically, as of a few weeks ago, Anthropic’s Claude has become extremely good at decompiling video game code. Games are written by humans in readable code and then compiled into binary 1s and 0s that the PC or console running it can read; decompiling is the reversal of that process, revealing a game’s source code, which humans can then edit and mess around with for fun. This used to be an extremely laborious process. But now it is not, because humans aren’t doing much of it any more.
+Claude is now able to spit out a game’s source code from its compiled version overnight. Tell it to combine two games and it will help with that, too. There is not zero human involvement: from what I understand, the best of these mashups have needed significant human tweaking. But this has completely transformed video game modding because you now need drastically less time and computing knowledge to be able to pull off massive projects. It now takes an evening rather than months of work.
+As a person with zero coding knowledge, I was curious about how easy this was to do. I asked Claude how I’d go about making my own mashup, I picked one relatively obscure game and one extremely popular one, just to be annoying. Claude gave me comprehensive instructions and background on some modding and emulation tools, which was super interesting but ultimately of no use to me, because I had no idea what I was doing. So I just asked it if it could build me this in a browser.
+Four minutes later, it spat out a rubbish but playable game, with further instructions on how I could get the visual assets from the source games so that Claude could incorporate them for me and host it as a local file to avoid copyright issues. In half an hour, I had made something that’s still rubbish, but good enough for a 15-second TikTok. Except I haven’t made anything at all – the machine has done it for me. I still have no idea what I’m doing.
+This probably doesn’t seem that different from people using AI to create fake images of Jesus shaking hands with Trump to post on Facebook – and it isn’t, really. But people who DO know what they’re doing have gone much further with this AI-assisted source-code bonanza. I have seen relatively recent games such as Zelda: Tears of the Kingdom running in web browsers. Github is full of open-source code for Steam-like game launchers that draw from all the emulated codebases available, essentially giving you a vast library of retro games for free. Most consequentially, PlayStation 5 emulation has made an enormous jump: you can now run almost any PS5 game on a PC. For free.
+Much of this is obviously extremely illegal. Regarding the PlayStation 5 situation, I have seen a lot of angry videos describing this as a justified response to Sony’s abandonment of physical games: if you can’t buy a game anyway, how can you steal it? Nintendo Switch and Switch 2 emulation has also become astonishingly easy, thanks to AI-assisted launchers and mod hubs with beautifully clean interfaces. Speaking as a former prodigious teenage pirate (I wasn’t always so technically illiterate), you used to have to accumulate some secret knowledge to avail yourself of this stuff. That is no longer the case.
+There are enormous consequences here for any video game publisher that would rather not have all of their game’s code freely available online for people to do what they want with. And that, presumably, is all video game publishers. AI is a technology built on the theft of creative work, as all writers and artists know – but up until now, it has not affected corporations to the same extent. Now that it does, will AI companies finally be forced to pump the brakes?
+What to play
+My house has been completely overtaken by Nintendo Switch Sports Resort, which brings motion-controlled sports from skateboarding to thumb-wrestling to your living room, alongside more normal options such as tennis, golf and bowling. This is obviously a game in the Wii Sports lineage, and it fully embraces that landmark game’s accessible, fun-first philosophy, while also building on it to keep your interest going, from competitive leagues and online play to peaceful plane and jetski tours around the titular resort. My kids are obsessed with it. And because they’re up and moving, I felt perfectly fine about letting them play it for four straight hours while we were trapped in the house by Storm Boelo over the weekend.
+Available on: Nintendo Switch
+  
+Estimated playtime: 
+ anywhere from 20 minutes to 20 years
+What to read
+- If you’re looking for something to play for a cosy Halloween night in, Keith Stuart has investigated the best new indie horror games for spooky season.
+- Microsoft has just offered voluntary redundancy to 60,000 people, including many working at Xbox game studios. As VGC points out, that is a quarter of its entire staff. (The 1984-esque wording stood out to me – MS is calling this a “voluntary exit offer”.)
+- The storied developer behind Mass Effect, Dragon Age and Knights of the Old Republic, BioWare, has been shuttered by EA. I could have written thousands of words on this – these were some of the defining games of the 00s and early 2010s, a hugely significant gaming period, and BioWare’s more recent history absolutely stinks of mismanagement – but I’ll leave it at this: it’s devastating.
+What to click
+- Lara Croft is 30! We look at the video game icon’s biggest blunders
+- EA has closed BioWare – and Mass Effect fans like me are bereft
+- Call of Duty: Modern Warfare 4 – a thrilling airport novel of a game | ★★★★☆
+- Nintendo Switch Sports Resort – Wii Sports lives on in this effortlessly appealing collection of games | ★★★★☆
+Question Block
+Reader Chris asks:
+“I’m currently on a Field Trip in Iceland guiding a group of school students. It made me think while looking at the stunning volcanic scenery: what games are the most geographically accurate?”
+The boring answer to this is, of course, Microsoft Flight Simulator, which is 100% geographically accurate because it draws on satellite images of the entire Earth. I also played a strange experimental game last year called Prologue: Go Wayback!, which a team in Amsterdam made – it procedurally generates accurate northern European wilderness for you to survive in, based on an impressively complex algorithm.
+Plenty of games have created architecturally accurate cities – all of the Assassin’s Creeds, Tom Clancy’s The Division, Yakuza/Like a Dragon and of course Grand Theft Auto – but fewer have made geographically accurate places that don’t have a volcanic lava-land in troublingly close proximity to a jungle. Forza Horizon’s versions of Mexico, Japan and the UK feel accurate, but aren’t. Apparently Kingdom Come: Deliverance is based on a geographically accurate recreation of 15th-century Bohemia, which doesn’t surprise me at all given that game’s devotion to historical believability.
+If you have a question for Question Block – or anything else to say about the newsletter – email us at pushingbuttons@theguardian.com.

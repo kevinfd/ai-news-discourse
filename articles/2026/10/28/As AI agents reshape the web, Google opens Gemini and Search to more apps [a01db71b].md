@@ -1,0 +1,46 @@
+---
+id: "a01db71b034ce352"
+title: "As AI agents reshape the web, Google opens Gemini and Search to more apps"
+url: "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps"
+link: "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps"
+source: "TechCrunch"
+domain: "techcrunch.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-28T17:00:00Z"
+published_date: "2026-10-28"
+collected_at: "2026-10-29T12:05:29Z"
+authors: ["Sarah Perez"]
+language: "en"
+summary: "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
+tags: ["AI", "Apps", "gemini", "Google", "Google Search"]
+orgs: ["Google", "OpenAI", "Meta"]
+topics: ["search & media", "agents & coding", "products & launches"]
+content_source: "fulltext"
+word_count: 469
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# As AI agents reshape the web, Google opens Gemini and Search to more apps
+
+TechCrunch · Sarah Perez · 2026-10-28
+
+Google is making it easier for businesses to connect their apps to its AI experiences across Search and Gemini with the debut of its Connected Apps Platform.
+Introduced in Gemini and Google Search earlier this year, connected apps let users securely link and interact with popular third-party services, then use them to take specific actions. For instance, you could connect to Canva to design a flyer, or to YouTube Music to build a playlist.
+We’ve seen varying takes on the idea by other consumer-facing AI services like ChatGPT and Meta’s Muse. The premise is that such integrations could ultimately shift consumer behavior away from launching and using individual apps to instead using their favorite services through their preferred AI provider.
+However, to successfully capture and retain consumers’ attention, there have to actually be a wide range of connected apps to explore.
+Google’s idea is to open its doors to any business or developer that wants to reach users through Search or Gemini by allowing them to submit their own connected apps and monitor their performance.
+The platform preview is currently available in beta to developers in the U.S., and will allow developers to build and submit apps that can be used across Google’s products.
+To get started, developers would integrate with a cloud-hosted MCP (Model Context Protocol) server or Android MCP using the AppFunctions APIs, then use the Google Connected Console to register, test, and submit their app, Google explains.
+Essentially, this process lets devs connect their app to Google’s services so it can be used with the search giant’s AI features. Developers can also choose whether they want their app to be available via Search, the Gemini app, or both.
+After the app is live, developers can track traffic, latency, and error rates, and maintain control over their brand identity, such as their verified logos and authenticated accounts.
+Similar to how SEO allowed companies and websites to show search engine rankings, this could well be one of the initial steps for businesses that want their services to be more visible to users on the agentic web.
+Google already has over 50 Connected Apps available in Gemini, including from partners like Adobe, Experian, Localiza, Peloton, and others, in addition to its own expansive set of services, from Workplace and Photos to YouTube Music and Google Home.
+These apps will now come to Google Search over the next few weeks. Search today has fewer integrations, featuring apps like Instacart, Canva, YouTube Music, Yahoo Fantasy Football, and others.
+Google said meditation app Calm is another new partner on this effort, and that its app will soon launch on both Gemini and Search.
+The new Connected Apps platform is in public preview for U.S. developers who sign up for the waitlist. Google did not share when it would become more broadly available.
