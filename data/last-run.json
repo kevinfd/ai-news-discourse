@@ -1,96 +1,112 @@
 {
-  "run_at": "2026-10-29T12:05:29Z",
-  "since": "2026-10-28T00:05:29Z",
+  "run_at": "2026-10-30T12:05:25Z",
+  "since": "2026-10-29T00:05:25Z",
   "stats": {
-    "candidates": 911,
-    "already_known": 61,
-    "not_ai": 458,
+    "candidates": 934,
+    "already_known": 57,
+    "not_ai": 425,
     "title_duplicate": 3,
-    "merged_duplicates": 11,
-    "new_unique": 378,
-    "written": 378,
-    "seconds": 400
+    "merged_duplicates": 7,
+    "new_unique": 442,
+    "written": 442,
+    "seconds": 444
   },
   "by_content_source": {
-    "fulltext": 170,
-    "summary": 139,
-    "post": 69
+    "fulltext": 183,
+    "summary": 155,
+    "post": 104
   },
   "top_sources": [
     [
       "Reddit",
-      83
-    ],
-    [
-      "Bloomberg",
-      15
-    ],
-    [
-      "TechCrunch",
-      14
-    ],
-    [
-      "Mashable",
-      12
-    ],
-    [
-      "Forbes",
-      11
-    ],
-    [
-      "Business Insider",
-      11
-    ],
-    [
-      "ZDNet",
-      10
-    ],
-    [
-      "The Information",
-      10
+      112
     ],
     [
       "Financial Times",
-      9
+      20
+    ],
+    [
+      "The Information",
+      14
+    ],
+    [
+      "TechCrunch",
+      13
+    ],
+    [
+      "Forbes",
+      13
+    ],
+    [
+      "Techmeme",
+      11
+    ],
+    [
+      "Bloomberg",
+      11
     ],
     [
       "CNBC",
       9
     ],
     [
-      "The New Stack",
+      "Engadget",
+      8
+    ],
+    [
+      "Business Insider",
+      8
+    ],
+    [
+      "Channel NewsAsia",
       8
     ],
     [
       "The Verge",
-      8
+      7
+    ],
+    [
+      "The Hill",
+      6
+    ],
+    [
+      "AWS Machine Learning Blog",
+      6
+    ],
+    [
+      "The Guardian",
+      5
+    ],
+    [
+      "The New Stack",
+      5
+    ],
+    [
+      "The Hindu",
+      5
+    ],
+    [
+      "GitHub",
+      5
     ],
     [
       "MarkTechPost",
-      6
+      4
+    ],
+    [
+      "ZDNet",
+      4
     ],
     [
       "Scientific American",
-      6
+      4
     ],
     [
-      "Techmeme",
-      5
-    ],
-    [
-      "South China Morning Post",
-      5
+      "Axios",
+      4
     ],
     [
       "Fast Company",
-      4
-    ],
-    [
-      "Channel NewsAsia",
-      4
-    ],
-    [
-      "PCMag",
       4
     ],
     [
@@ -98,25 +114,9 @@
       4
     ],
     [
-      "note",
+      "The New York Times",
       4
-    ],
-    [
-      "The Guardian",
-      3
-    ],
-    [
-      "Engadget",
-      3
-    ],
-    [
-      "404 Media",
-      3
-    ],
-    [
-      "The Hill",
-      3
     ]
   ],
-  "total_articles": 6837
+  "total_articles": 7279
 }

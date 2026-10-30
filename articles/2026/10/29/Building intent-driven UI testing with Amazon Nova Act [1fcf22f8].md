@@ -1,0 +1,104 @@
+---
+id: "1fcf22f867e2d9da"
+title: "Building intent-driven UI testing with Amazon Nova Act"
+url: "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act"
+link: "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act"
+source: "AWS Machine Learning Blog"
+domain: "aws.amazon.com"
+source_type: "company_blog"
+collector: "rss"
+date: "2026-10-29T18:20:27Z"
+published_date: "2026-10-29"
+collected_at: "2026-10-30T12:05:25Z"
+authors: ["Sakthi Chellapparimanam"]
+language: "en"
+summary: "To scale intent-driven UI testing across its product teams, Epsilon , a data, technology, and marketing-services company and part of Publicis Groupe , turned to Amazon Nova Act . With hundreds of millions of consumer profiles and thousands of brand relationships, Epsilon needed UI testing that could keep pace with rapid application changes. The solution could not create maintenance overhead for…"
+tags: ["Amazon Nova", "Customer Solutions"]
+orgs: ["Amazon"]
+topics: ["agents & coding", "models & research"]
+content_source: "fulltext"
+word_count: 1965
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Building intent-driven UI testing with Amazon Nova Act
+
+AWS Machine Learning Blog · Sakthi Chellapparimanam · 2026-10-29
+
+Artificial Intelligence
+Building intent-driven UI testing with Amazon Nova Act
+To scale intent-driven UI testing across its product teams, Epsilon, a data, technology, and marketing-services company and part of Publicis Groupe, turned to Amazon Nova Act. With hundreds of millions of consumer profiles and thousands of brand relationships, Epsilon needed UI testing that could keep pace with rapid application changes. The solution could not create maintenance overhead for every product team.
+Within Epsilon, the Agentic Platform team (50 engineers) builds shared infrastructure so other product teams can build, deploy, govern, and run AI agents safely. With this shared platform, teams get a skills-based agent builder. They also get federated identity and pre-flight authorization, Model Context Protocol (MCP) integration, and cross-account provisioning. When a product team wants to adopt AI tooling, they get capabilities without additional configuration and without re-solving identity, security, browser infrastructure, or model integration on their own.
+One of those managed capabilities is UI testing. With Amazon Nova Act and Amazon Bedrock AgentCore Browser (a capability of Amazon Bedrock AgentCore), Epsilon’s platform team could deliver resilient, intent-driven testing as a service to teams on the platform.
+In this post, we walk through Epsilon’s architecture for delivering UI testing as a managed platform service, show the core Nova Act and Amazon Bedrock AgentCore Browser Tool integration code, highlight a concrete 18-step test workflow, and share best practices and measured results.
+The challenge: Enhancing coverage, not replacing what works
+Epsilon’s existing UI testing practice was not broken. The team maintained a Playwright-based regression suite that validated functionality across their web applications, and it worked well. Playwright remains their regression backbone today.
+The opportunity Epsilon identified was additive, not corrective:
+- Scripted Playwright tests are effective for deterministic regression checks. However, they are tightly coupled to selectors and page structure. Cosmetic UI changes can break them even when the underlying functionality is sound.
+- Multiple product teams needed full testing coverage against their own applications. Standing up browser infrastructure, managing dependencies, and integrating with identity systems per team created duplicative effort.
+- The platform team wanted UI testing to be a managed capability that fit their existing agent model, not a custom CLI that every onboarded team had to operate.
+The goal: layer intent-based testing on top of the existing Playwright regression suite. Deliver it as a multi-tenant platform service so that each Epsilon product team could consume through the same API surface they used for every other agent capability.
+Why Epsilon chose Amazon Nova Act and the Amazon Bedrock AgentCore Browser Tool
+Epsilon evaluated options against two requirements: natural-language test authoring (to complement selector-based Playwright tests) and managed browser infrastructure (to fit their multi-tenant platform model). With Amazon Nova Act combined with Amazon Bedrock AgentCore Browser Tool, Epsilon could address both.
+- Natural-language steps. Test steps are plain-English instructions executed by Nova Act. They are resilient to cosmetic UI changes and readable by non-engineers. A step like “Confirm the rewards balance is visible” ages far better than a brittle CSS selector.
+- AWS managed, ephemeral browser sessions. With Amazon Bedrock AgentCore Browser Tool, teams get isolated browser instances with no binaries to ship and no display server to maintain. Amazon Bedrock AgentCore Browser Tool also offers live view for human observation or takeover (useful for CAPTCHAs or multi-factor authentication), session recording to Amazon Simple Storage Service (Amazon S3), and AWS CloudTrail audit, all without additional configuration.
+- AWS Identity and Access Management (AWS IAM)-based authentication. With Nova Act, you can authenticate through the standard AWS credential chain (the task role). This fits Epsilon’s existing security model without distributing separate API keys.
+- Cross-account friendly. With Nova Act and Amazon Bedrock AgentCore Browser Tool, you can slot into your existing AWS Security Token Service (AWS STS) AssumeRole provisioning. Each onboarded team can run tests inside their own AWS account under a scoped role. This maintains isolation and auditability.
+Epsilon chose Amazon Bedrock AgentCore Browser Tool specifically because it eliminates the operational burden of managing browser binaries, display servers, and session lifecycle. The Agentic Platform team had no interest in owning that infrastructure.
+The solution: Architecture and implementation
+Epsilon’s solution has three main components: a platform API for creating workflows, a background task runner for executing them, and the Nova Act and Amazon Bedrock AgentCore Browser Tool integration that drives the browser.
+Platform architecture
+Epsilon’s UI testing capability follows a clear pipeline:
+- A user creates a workflow through the platform API, specifying a target_url and a list of natural-language steps.
+- On create, the platform registers a Nova Act workflow definition on AWS.
+- On execute, a background task runner (Celery, a Python framework for asynchronous job processing) opens an Amazon Bedrock AgentCore Browser Tool browser session. It runs each step through Nova Act over a Chrome DevTools Protocol (CDP) WebSocket (the standard interface for programmatically controlling Chromium browsers), including conditional logic (for example, “if a tour box appears, skip it”).
+- The system captures a screenshot per step, tracks pass/fail per step, computes an overall pass rate, and stores everything (results JSON, screenshots in Amazon S3, session ID).
+- A completion hook fires so the result is recorded back into the platform.
+Figure 1 shows the layered architecture of Epsilon’s UI Testing Service. User requests flow from the Agent Cloud Frontend through an API Gateway with authentication and permission checks. The API layer (Django REST) exposes endpoints for workflows, executions, automation suites, and stats. The business logic layer includes a Workflow Manager, Execution Orchestrator, and Suite Coordinator. Test jobs are queued in Amazon Simple Queue Service (Amazon SQS) and picked up by the Runner Service running on Amazon Elastic Container Service (Amazon ECS), which contains the Nova Act engine and a headless Chromium browser. Results, screenshots, trajectories, and HTML reports are stored in Amazon S3.
+The capability is exposed as a standard agent (ui-test-agent) with two skills:
+- ui-test-recorder: Explore a scenario interactively and record natural-language steps.
+- ui-test-executor: Run recorded steps and return structured results.
+Onboarded teams consume UI testing the same way they consume any other platform agent. No additional infrastructure to manage. The onboarding process is straightforward. The platform team provisions a cross-account IAM role for the new team, registers their target application URLs, and grants access to the ui-test-agent through the existing platform API. From that point, teams create workflows, trigger executions, and retrieve results through the same interface they already use for other platform capabilities.
+The core integration
+The Nova Act + Amazon Bedrock AgentCore Browser Tool integration is concise:
+This pattern (open a managed browser session, connect through the CDP WebSocket, and drive actions with natural language) is the foundation. Epsilon wraps it with their platform’s multi-tenant orchestration, result capture, and observability layers.
+Example: Automating the ‘Create an agent’ flow
+To illustrate intent-based testing, here is a representative workflow from Epsilon’s platform. It exercises login, form entry, conditional handling, scrolling, and verification. The following steps highlight the differentiating patterns of Nova Act:
+Steps 4 and 7 demonstrate conditional logic: “if an element appears, handle it” and “if a target isn’t visible, scroll until it is.” These patterns would require explicit branching in a traditional framework. Nova Act handles them naturally through language understanding.
+Runtime isolation
+Epsilon runs UI tests in a dedicated runner service (a FastAPI sidecar) that pins nova-act 3.x with Workflow and IAM authentication support, plus the Amazon Bedrock AgentCore Browser Tool client. This keeps dependencies separate from the main backend so they don’t collide with the Strands agent stack. The worker falls back to in-process execution if the runner is disabled, providing resilience during deployments.
+Best practices
+Based on their experience building UI testing as a platform capability, the Epsilon team recommends:
+1. Write steps as intent, not mechanics
+Intent-based steps survive UI redesigns. Product managers and quality assurance (QA) leads who might not write code can review them directly.
+2. Isolate the Nova Act runtime
+Pin Nova Act and Amazon Bedrock AgentCore Browser Tool dependencies in a dedicated service or container. Epsilon learned that the signing endpoint for Nova Act targets us-east-1 regardless of the browser session’s region. Running it in a separate service with its own dependency lockfile prevents hard-to-debug conflicts.
+3. Reuse recorded trajectories to cut cost
+Epsilon uses trajectory retries in draft state, saves the successful trajectory, and replays it in active state. Repeat runs skip redundant large language model (LLM) “thinking,” reducing both latency and cost for regression-style repeated executions.
+4. Design for multi-tenancy from day one
+Use cross-account AssumeRole with scoped IAM policies. Each tenant’s tests run under their own role in their own account. This provides isolation, auditability, and failure scope containment without custom infrastructure per team.
+5. Lean on managed observability
+With Amazon Bedrock AgentCore Browser Tool, teams get live view, session recording, and AWS CloudTrail integration. Epsilon uses these built-in capabilities instead of building custom observability, reducing maintenance and giving compliance teams familiar audit surfaces.
+6. Account for Amazon Bedrock AgentCore Browser Tool viewport behavior
+When prompting Nova Act steps, account for the browser viewport defaults of Amazon Bedrock AgentCore Browser Tool. Steps that reference scrolling (for example, “scroll down until the Goal Statement textbox is visible”) verify that Nova Act handles content in the lower portion of the page correctly.
+Results and impact
+Epsilon’s UI testing capability is operational across multiple teams, with the multi-tenant architecture proven in production.
+Here are the measured outcomes:
+- 4-6x faster test authoring (based on Epsilon’s internal benchmarks). A representative 18-step workflow took 5–10 minutes to author with Nova Act, compared to 30–90 minutes for the equivalent Playwright script (80–150 lines of code). Each interactive step in the Playwright script requires inspecting the DOM, choosing a stable selector, and coding explicit waits, assertions, and branching for conditional cases. Nova Act replaces that per-step overhead with 18 natural-language instructions and zero selector or DOM inspection, with conditional logic (such as the tour-box and scroll-until-visible steps) expressed in plain English.
+- 100 percent pass rate on trajectory replay (based on Epsilon’s internal benchmarks). After a workflow passes the initial explore phase (typically 4–5 prompt iterations), Epsilon saves the successful trajectory and replays it deterministically. Saved trajectories achieve a 100 percent pass rate across repeated runs.
+- Lower barrier to test authoring. Steps read like plain English. Team members beyond core test engineers can read, review, and propose tests, broadening ownership of quality.
+- Built-in audit trail. AWS CloudTrail integration and Amazon Bedrock AgentCore Browser Tool session recording made debugging and compliance conversations easier. This was a benefit the team did not initially set out to achieve.
+- Zero per-team infrastructure overhead. Onboarded teams get UI testing through the same API surface as every other platform agent. No browser binaries, no Selenium grid, no display servers to manage.
+- Pass/fail visibility per step. Screenshot capture at each step provides granular debugging context, reducing mean time to diagnose failures.
+        “Nova Act let us turn UI testing from a brittle, selector-chasing chore into a managed platform capability. Our tests now describe intent in plain English, run on AWS managed browsers, and every product team we onboard gets reliable testing without additional configuration.”
+— Epsilon Agentic Platform Team
+Learn more
+Epsilon’s Agentic Platform team demonstrated how to deliver resilient, intent-driven UI testing as a managed service using Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. You can apply the same pattern to your own multi-tenant platform to eliminate browser infrastructure overhead and make test authoring accessible to non-engineers.
+If you want to build similar intent-driven UI testing capabilities with Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool, here are resources to get started:
+To learn more about how your organization can use intent-based browser automation for testing, visit the Amazon Nova Act product page.
+Epsilon is a Publicis Groupe company. Learn more at epsilon.com.
