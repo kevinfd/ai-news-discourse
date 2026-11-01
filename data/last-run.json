@@ -1,77 +1,53 @@
 {
-  "run_at": "2026-10-30T12:05:25Z",
-  "since": "2026-10-29T00:05:25Z",
+  "run_at": "2026-11-01T13:04:00Z",
+  "since": "2026-10-31T01:04:00Z",
   "stats": {
-    "candidates": 934,
-    "already_known": 57,
-    "not_ai": 425,
-    "title_duplicate": 3,
+    "candidates": 640,
+    "not_ai": 331,
+    "already_known": 4,
     "merged_duplicates": 7,
-    "new_unique": 442,
-    "written": 442,
-    "seconds": 444
+    "title_duplicate": 1,
+    "new_unique": 297,
+    "written": 297,
+    "seconds": 385
   },
   "by_content_source": {
-    "fulltext": 183,
-    "summary": 155,
-    "post": 104
+    "fulltext": 100,
+    "summary": 69,
+    "post": 128
   },
   "top_sources": [
     [
       "Reddit",
-      112
+      138
     ],
     [
-      "Financial Times",
-      20
-    ],
-    [
-      "The Information",
-      14
-    ],
-    [
-      "TechCrunch",
-      13
-    ],
-    [
-      "Forbes",
-      13
-    ],
-    [
-      "Techmeme",
-      11
-    ],
-    [
-      "Bloomberg",
-      11
-    ],
-    [
-      "CNBC",
+      "Mashable",
       9
     ],
     [
-      "Engadget",
-      8
+      "Techmeme",
+      9
     ],
     [
       "Business Insider",
-      8
+      9
     ],
     [
-      "Channel NewsAsia",
-      8
-    ],
-    [
-      "The Verge",
-      7
-    ],
-    [
-      "The Hill",
+      "Forbes",
       6
     ],
     [
-      "AWS Machine Learning Blog",
+      "South China Morning Post",
       6
+    ],
+    [
+      "TechCrunch",
+      5
+    ],
+    [
+      "Scientific American",
+      5
     ],
     [
       "The Guardian",
@@ -82,11 +58,7 @@
       5
     ],
     [
-      "The Hindu",
-      5
-    ],
-    [
-      "GitHub",
+      "CNBC",
       5
     ],
     [
@@ -94,15 +66,7 @@
       4
     ],
     [
-      "ZDNet",
-      4
-    ],
-    [
-      "Scientific American",
-      4
-    ],
-    [
-      "Axios",
+      "WIRED",
       4
     ],
     [
@@ -110,13 +74,49 @@
       4
     ],
     [
+      "Tom's Guide",
+      4
+    ],
+    [
       "Towards Data Science",
       4
     ],
     [
-      "The New York Times",
+      "The Hindu",
       4
+    ],
+    [
+      "Engadget",
+      3
+    ],
+    [
+      "Financial Times",
+      2
+    ],
+    [
+      "Axios",
+      2
+    ],
+    [
+      "PCMag",
+      2
+    ],
+    [
+      "Bloomberg",
+      2
+    ],
+    [
+      "Simon Willison",
+      2
+    ],
+    [
+      "Tom's Hardware",
+      2
+    ],
+    [
+      "GitHub",
+      2
     ]
   ],
-  "total_articles": 7279
+  "total_articles": 7576
 }

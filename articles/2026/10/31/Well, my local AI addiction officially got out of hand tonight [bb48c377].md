@@ -1,0 +1,33 @@
+---
+id: "bb48c37773559711"
+title: "Well, my local AI addiction officially got out of hand tonight."
+url: "https://reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of"
+link: "https://reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of"
+source: "Reddit"
+domain: "reddit.com"
+source_type: "community"
+collector: "reddit"
+date: "2026-10-31T21:21:02Z"
+published_date: "2026-10-31"
+collected_at: "2026-11-01T13:04:00Z"
+authors: ["AnouarRifi"]
+language: "en"
+summary: "Met a guy off Facebook Marketplace and scored 2x RTX 3090 Founders Editions for €1,700. The problem? I already had one 3090 FE. I am now sitting in my room looking at three 3090 FEs (72 GB GDDR6X VRAM) , and my current case barely fits one card, and that was only after I literally took pliers and bent the inner metal bracket to shove it in. My motherboard is just a standard B760. I clearly can't…"
+tags: ["r/LocalLLaMA"]
+orgs: ["Meta"]
+topics: []
+content_source: "post"
+word_count: 145
+paywalled: false
+image: null
+discussion_url: "https://www.reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of/"
+score: null
+comments: null
+community: "r/LocalLLaMA"
+---
+
+# Well, my local AI addiction officially got out of hand tonight.
+
+Reddit · AnouarRifi · 2026-10-31
+
+Met a guy off Facebook Marketplace and scored 2x RTX 3090 Founders Editions for €1,700. The problem? I already had one 3090 FE. I am now sitting in my room looking at three 3090 FEs (72 GB GDDR6X VRAM) , and my current case barely fits one card, and that was only after I literally took pliers and bent the inner metal bracket to shove it in. My motherboard is just a standard B760. I clearly can't put three 3-slot cards in this PC. What is the cheapest, most sensible way forward to run all three (or two) for LLMs? Open-air mining frame + PCIe 4.0 risers + dual PSU? Get a giant full-tower case? Just sell the 3rd card for €1,100, keep 48 GB VRAM, and fund a proper dual-GPU build? Any chassis/frame or PSU recommendations for handling ~1,100W+ of 3090s would be appreciated.

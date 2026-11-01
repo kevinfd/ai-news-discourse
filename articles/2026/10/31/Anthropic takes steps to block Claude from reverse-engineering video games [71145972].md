@@ -1,0 +1,40 @@
+---
+id: "71145972f162b48a"
+title: "Anthropic takes steps to block Claude from reverse-engineering video games"
+url: "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering"
+link: "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering"
+source: "Mashable"
+domain: "mashable.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-31T14:28:41Z"
+published_date: "2026-10-31"
+collected_at: "2026-11-01T13:04:00Z"
+authors: ["firesteelrain"]
+language: "en"
+summary: "According to reporting from Tom's Hardware , Anthropic's Claude AI has quietly started restricting the kinds of work it will do, including modding, decompiling, or reverse-engineering video game code. And though there has as yet been no official announcement about why , the reason is still pretty obvious.   The video game community has been in the news a lot lately, first because of the GTA6…"
+tags: []
+orgs: ["Anthropic", "Microsoft"]
+topics: ["policy & regulation", "safety & ethics", "jobs & society", "search & media"]
+content_source: "fulltext"
+word_count: 407
+paywalled: false
+image: null
+discussion_url: "https://news.ycombinator.com/item?id=50320255"
+score: 157
+comments: 100
+community: "Hacker News"
+---
+
+# Anthropic takes steps to block Claude from reverse-engineering video games
+
+Mashable · firesteelrain · 2026-10-31
+
+Anthropic takes steps to block Claude from reverse-engineering video games
+According to reporting from Tom's Hardware, Anthropic's Claude AI has quietly started restricting the kinds of work it will do, including modding, decompiling, or reverse-engineering video game code. And though there has as yet been no official announcement about why, the reason is still pretty obvious.
+The video game community has been in the news a lot lately, first because of the GTA6 leaks that went mega-viral and spurred Take-Two Interactive into getting subpoenas against both Microsoft and Discord in the hopes of finding the responsible parties, and next because the hacking and modding community discovered how much easier AI makes their job.
+First, game decompilers went into overdrive, playing around with the source code of multiple different video games to, for example, put Nintendo's Mario inside the dark gothic world of Elden Ring, or import Spider-Man into the Batman: Arkham City game, seamlessly blending the mechanics of one character into the world of another. Next came the ports: World of Warcraft, Call of Duty, and Grand Theft Auto: Vice City made playable in a browser, without the original developers or copyright owners having any say in the matter.
+You May Also Like
+These initial modifications and ports were already giving gaming companies nightmares, teasing a future without system gatekeeping, but things really got out of hand with the PlayStation 5 jailbreak, which resulted in everything from backward compatibility with older-gen PlayStation games to cross-platform play, with users figuring out how to run Xbox-exclusive titles like Halo 2 and acclaimed Nintendo titles like Zelda: Breath of the Wild on a jailbroken PS5.
+Given the potential number of lawsuits these jailbreaks could cause, and the astronomically high nature of the monetary damages, it's no surprise that AI companies are scrambling to shut down or severely restrict these pathways, but it's also deeply ironic. As Tom's Hardware reporter Bruno Ferreira notes, this sudden concern for copyright "highlights the irony of frontier AI companies that copied the world's information and art for their training sets and are now concerned with copyright infringement."
+There's also the ugly truth that, if one company makes a gesture toward respecting copyright law or basic ethics, the bad actors can find another LLM that won't (or hasn't yet) taken the same precautions, creating a kind of AI arms race driven by perverse incentives: the least ethical AI might be poised to become the most popular.

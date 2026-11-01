@@ -1,0 +1,33 @@
+---
+id: "ccc0d356f61a603b"
+title: "Are bespoke inference engines overhyped? My Strata experience on 2× R9700"
+url: "https://reddit.com/r/LocalLLaMA/comments/1xl0oqz/are_bespoke_inference_engines_overhyped_my_strata"
+link: "https://reddit.com/r/LocalLLaMA/comments/1xl0oqz/are_bespoke_inference_engines_overhyped_my_strata"
+source: "Reddit"
+domain: "reddit.com"
+source_type: "community"
+collector: "reddit"
+date: "2026-11-01T11:24:34Z"
+published_date: "2026-11-01"
+collected_at: "2026-11-01T13:04:00Z"
+authors: ["Don_Reuter"]
+language: "en"
+summary: "My intention was to find a setup at least equal to qwen 3.8 27b Q8 MTP but with a larger context. Ideally 1M. I was already running Next Flash in Q2 with llama. Good for conversational use but not for coding. Q4 would run but too slow. I did read many reports here on the good performance of strata with qwen next flash. I figured both are around for long enough to be stable so I gave it a shot.…"
+tags: ["r/LocalLLaMA"]
+orgs: []
+topics: ["models & research", "agents & coding"]
+content_source: "post"
+word_count: 249
+paywalled: false
+image: null
+discussion_url: "https://www.reddit.com/r/LocalLLaMA/comments/1xl0oqz/are_bespoke_inference_engines_overhyped_my_strata/"
+score: null
+comments: null
+community: "r/LocalLLaMA"
+---
+
+# Are bespoke inference engines overhyped? My Strata experience on 2× R9700
+
+Reddit · Don_Reuter · 2026-11-01
+
+My intention was to find a setup at least equal to qwen 3.8 27b Q8 MTP but with a larger context. Ideally 1M. I was already running Next Flash in Q2 with llama. Good for conversational use but not for coding. Q4 would run but too slow. I did read many reports here on the good performance of strata with qwen next flash. I figured both are around for long enough to be stable so I gave it a shot. The results however are very disappointing. All I was able to achieve was moving to Q3. Brining the question, are most of the posts on alternative engines just hype or edge cases? Certainly looks like that to me. Some details on my try: Two cards plus experts offloaded to RAM: hangs on every long tasks, whatever settings I tried. Stable only when every expert fits in VRAM. On 64 GB that means a 3-bit quant. Faster on paper: ~60 t/s against llama.cpp. But on HumanEval+ the 3-bit Flash-Next scored 93.9% against 95.1% for Qwen3.8-27B Q8 on plain llama.cpp, and it needed nearly twice the tokens to get there. No, advantage. So for my use, no real-world gain over a mature stack. Instead of one stable engine, you get a single-model engine, its forks, special quants and a pile of environment-variable workarounds. Is that just Strata being young, or is it systematic? Has anyone actually gotten a lasting real-world benefit from one of these model-specific engines over llama.cpp or vLLM?

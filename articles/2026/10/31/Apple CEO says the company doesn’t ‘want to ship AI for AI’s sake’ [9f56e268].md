@@ -1,0 +1,36 @@
+---
+id: "9f56e268b05ea691"
+title: "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’"
+url: "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake"
+link: "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake"
+source: "TechCrunch"
+domain: "techcrunch.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-10-31T21:41:00Z"
+published_date: "2026-10-31"
+collected_at: "2026-11-01T13:04:00Z"
+authors: ["Anthony Ha"]
+language: "en"
+summary: "Apple's new CEO defended the company's current position in the AI landscape."
+tags: ["AI", "Apple", "John Ternus"]
+orgs: ["Apple"]
+topics: ["products & launches"]
+content_source: "fulltext"
+word_count: 196
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’
+
+TechCrunch · Anthony Ha · 2026-10-31
+
+During a recent interview with Wired’s Steven Levy, Apple CEO John Ternus defended the company’s current position in the AI landscape.
+Over the past couple years, Apple has often been described as behind on AI, especially as it delayed the release of a more powerful version of Siri, which finally launched this summer. But while Ternus — a longtime Apple executive who officially became CEO at the beginning of September — acknowledged that “everyone has an opinion,” he insisted, “I really like where we’re at.”
+Ternus added that Apple is “absolutely going to leverage AI” in its new products, but he said, “We don’t want to ship AI for AI’s sake. When we’re doing it right, people won’t have to think about whether it was AI that made this happen or more traditional software. What matters is, did we build something that they really love?”
+And when Levy pressed him on whether AI might affect Apple and its ecosystem more dramatically, with agents potentially making things like apps unnecessary, Ternus replied,”That could make life really easy, I suppose, but the creation of products is a deeply human and personal thing, something that we love to do.”
