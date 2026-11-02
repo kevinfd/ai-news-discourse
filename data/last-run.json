@@ -1,80 +1,60 @@
 {
-  "run_at": "2026-11-01T13:04:00Z",
-  "since": "2026-10-31T01:04:00Z",
+  "run_at": "2026-11-02T13:05:12Z",
+  "since": "2026-11-01T01:05:12Z",
   "stats": {
-    "candidates": 640,
-    "not_ai": 331,
-    "already_known": 4,
-    "merged_duplicates": 7,
+    "candidates": 634,
+    "already_known": 27,
+    "not_ai": 316,
+    "merged_duplicates": 6,
     "title_duplicate": 1,
-    "new_unique": 297,
-    "written": 297,
-    "seconds": 385
+    "new_unique": 284,
+    "written": 284,
+    "seconds": 380
   },
   "by_content_source": {
-    "fulltext": 100,
-    "summary": 69,
-    "post": 128
+    "summary": 91,
+    "fulltext": 109,
+    "post": 84
   },
   "top_sources": [
     [
       "Reddit",
-      138
+      89
     ],
     [
-      "Mashable",
-      9
+      "Bloomberg",
+      12
     ],
     [
-      "Techmeme",
-      9
+      "Forbes",
+      10
     ],
     [
       "Business Insider",
       9
     ],
     [
-      "Forbes",
-      6
-    ],
-    [
-      "South China Morning Post",
-      6
-    ],
-    [
-      "TechCrunch",
-      5
-    ],
-    [
-      "Scientific American",
-      5
-    ],
-    [
       "The Guardian",
+      8
+    ],
+    [
+      "Techmeme",
+      7
+    ],
+    [
+      "note",
+      7
+    ],
+    [
+      "Channel NewsAsia",
+      6
+    ],
+    [
+      "The Information",
       5
     ],
     [
-      "The New Stack",
-      5
-    ],
-    [
-      "CNBC",
-      5
-    ],
-    [
-      "MarkTechPost",
-      4
-    ],
-    [
-      "WIRED",
-      4
-    ],
-    [
-      "Fast Company",
-      4
-    ],
-    [
-      "Tom's Guide",
+      "Financial Times",
       4
     ],
     [
@@ -82,19 +62,51 @@
       4
     ],
     [
-      "The Hindu",
+      "CNBC",
       4
+    ],
+    [
+      "Hacker News",
+      4
+    ],
+    [
+      "Crypto Briefing",
+      4
+    ],
+    [
+      "TechCrunch",
+      3
+    ],
+    [
+      "Axios",
+      3
     ],
     [
       "Engadget",
       3
     ],
     [
-      "Financial Times",
+      "Fast Company",
+      3
+    ],
+    [
+      "Mashable",
+      3
+    ],
+    [
+      "South China Morning Post",
+      3
+    ],
+    [
+      "NewsBytes",
+      3
+    ],
+    [
+      "MarkTechPost",
       2
     ],
     [
-      "Axios",
+      "WIRED",
       2
     ],
     [
@@ -102,21 +114,9 @@
       2
     ],
     [
-      "Bloomberg",
-      2
-    ],
-    [
-      "Simon Willison",
-      2
-    ],
-    [
-      "Tom's Hardware",
-      2
-    ],
-    [
-      "GitHub",
+      "The New Stack",
       2
     ]
   ],
-  "total_articles": 7576
+  "total_articles": 7860
 }
