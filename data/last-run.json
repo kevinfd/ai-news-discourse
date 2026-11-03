@@ -1,28 +1,35 @@
 {
-  "run_at": "2026-11-02T13:05:12Z",
-  "since": "2026-11-01T01:05:12Z",
+  "run_at": "2026-11-03T13:04:23Z",
+  "since": "2026-11-02T01:04:23Z",
   "stats": {
-    "candidates": 634,
-    "already_known": 27,
-    "not_ai": 316,
-    "merged_duplicates": 6,
-    "title_duplicate": 1,
-    "new_unique": 284,
-    "written": 284,
-    "seconds": 380
+    "candidates": 860,
+    "already_known": 48,
+    "not_ai": 417,
+    "merged_duplicates": 12,
+    "new_unique": 383,
+    "written": 383,
+    "seconds": 401
   },
   "by_content_source": {
-    "summary": 91,
-    "fulltext": 109,
-    "post": 84
+    "fulltext": 174,
+    "summary": 119,
+    "post": 90
   },
   "top_sources": [
     [
       "Reddit",
-      89
+      97
     ],
     [
       "Bloomberg",
+      16
+    ],
+    [
+      "TechCrunch",
+      13
+    ],
+    [
+      "The Information",
       12
     ],
     [
@@ -30,93 +37,85 @@
       10
     ],
     [
+      "Mashable",
+      10
+    ],
+    [
+      "Techmeme",
+      9
+    ],
+    [
       "Business Insider",
       9
     ],
     [
-      "The Guardian",
+      "ZDNet",
       8
     ],
     [
-      "Techmeme",
-      7
-    ],
-    [
-      "note",
-      7
-    ],
-    [
       "Channel NewsAsia",
-      6
-    ],
-    [
-      "The Information",
-      5
+      8
     ],
     [
       "Financial Times",
+      7
+    ],
+    [
+      "CNBC",
+      6
+    ],
+    [
+      "OpenAI",
+      6
+    ],
+    [
+      "The Guardian",
+      6
+    ],
+    [
+      "The Hindu",
+      6
+    ],
+    [
+      "The New Stack",
+      5
+    ],
+    [
+      "Scientific American",
+      5
+    ],
+    [
+      "Fast Company",
+      5
+    ],
+    [
+      "The New York Times",
+      5
+    ],
+    [
+      "MIT Technology Review",
+      4
+    ],
+    [
+      "MarkTechPost",
+      4
+    ],
+    [
+      "Engadget",
+      4
+    ],
+    [
+      "CNET",
+      4
+    ],
+    [
+      "Tom's Guide",
       4
     ],
     [
       "Towards Data Science",
       4
-    ],
-    [
-      "CNBC",
-      4
-    ],
-    [
-      "Hacker News",
-      4
-    ],
-    [
-      "Crypto Briefing",
-      4
-    ],
-    [
-      "TechCrunch",
-      3
-    ],
-    [
-      "Axios",
-      3
-    ],
-    [
-      "Engadget",
-      3
-    ],
-    [
-      "Fast Company",
-      3
-    ],
-    [
-      "Mashable",
-      3
-    ],
-    [
-      "South China Morning Post",
-      3
-    ],
-    [
-      "NewsBytes",
-      3
-    ],
-    [
-      "MarkTechPost",
-      2
-    ],
-    [
-      "WIRED",
-      2
-    ],
-    [
-      "PCMag",
-      2
-    ],
-    [
-      "The New Stack",
-      2
     ]
   ],
-  "total_articles": 7860
+  "total_articles": 8243
 }
