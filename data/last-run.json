@@ -1,59 +1,71 @@
 {
-  "run_at": "2026-11-03T13:04:23Z",
-  "since": "2026-11-02T01:04:23Z",
+  "run_at": "2026-11-04T13:04:06Z",
+  "since": "2026-11-03T01:04:06Z",
   "stats": {
-    "candidates": 860,
-    "already_known": 48,
-    "not_ai": 417,
-    "merged_duplicates": 12,
-    "new_unique": 383,
-    "written": 383,
-    "seconds": 401
+    "candidates": 948,
+    "already_known": 53,
+    "not_ai": 442,
+    "merged_duplicates": 13,
+    "new_unique": 440,
+    "written": 440,
+    "seconds": 413
   },
   "by_content_source": {
-    "fulltext": 174,
     "summary": 119,
-    "post": 90
+    "fulltext": 204,
+    "post": 117
   },
   "top_sources": [
     [
       "Reddit",
-      97
-    ],
-    [
-      "Bloomberg",
-      16
-    ],
-    [
-      "TechCrunch",
-      13
-    ],
-    [
-      "The Information",
-      12
+      124
     ],
     [
       "Forbes",
-      10
+      18
+    ],
+    [
+      "The Information",
+      15
+    ],
+    [
+      "TechCrunch",
+      12
     ],
     [
       "Mashable",
+      12
+    ],
+    [
+      "The Verge",
+      11
+    ],
+    [
+      "CNBC",
       10
+    ],
+    [
+      "ZDNet",
+      10
+    ],
+    [
+      "The Guardian",
+      9
     ],
     [
       "Techmeme",
       9
     ],
     [
-      "Business Insider",
+      "Bloomberg",
       9
     ],
     [
-      "ZDNet",
+      "Channel NewsAsia",
       8
     ],
     [
-      "Channel NewsAsia",
+      "Tom's Guide",
       8
     ],
     [
@@ -61,55 +73,43 @@
       7
     ],
     [
-      "CNBC",
+      "CNET",
+      7
+    ],
+    [
+      "Axios",
       6
     ],
     [
-      "OpenAI",
+      "Business Insider",
       6
     ],
     [
-      "The Guardian",
+      "AWS Machine Learning Blog",
       6
     ],
     [
-      "The Hindu",
+      "note",
       6
-    ],
-    [
-      "The New Stack",
-      5
     ],
     [
       "Scientific American",
       5
     ],
     [
-      "Fast Company",
+      "Engadget",
       5
     ],
     [
-      "The New York Times",
+      "The Hindu",
       5
-    ],
-    [
-      "MIT Technology Review",
-      4
     ],
     [
       "MarkTechPost",
       4
     ],
     [
-      "Engadget",
-      4
-    ],
-    [
-      "CNET",
-      4
-    ],
-    [
-      "Tom's Guide",
+      "PCMag",
       4
     ],
     [
@@ -117,5 +117,5 @@
       4
     ]
   ],
-  "total_articles": 8243
+  "total_articles": 8683
 }

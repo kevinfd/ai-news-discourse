@@ -1,0 +1,39 @@
+---
+id: "41298b9a76b6a710"
+title: "Netflix will show you themed recommendations through a new ‘AI Discover’ tab"
+url: "https://theverge.com/streaming/1025029/netflix-ai-discover-recommendations"
+link: "https://theverge.com/streaming/1025029/netflix-ai-discover-recommendations"
+source: "The Verge"
+domain: "theverge.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-03T18:00:00Z"
+published_date: "2026-11-03"
+collected_at: "2026-11-04T13:04:06Z"
+authors: ["Jay Peters"]
+language: "en"
+summary: "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. \n The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show you recommendations that match it. If you don't like a…"
+tags: ["AI", "Entertainment", "Netflix", "News", "Streaming"]
+orgs: []
+topics: ["products & launches"]
+content_source: "fulltext"
+word_count: 184
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Netflix will show you themed recommendations through a new ‘AI Discover’ tab
+
+The Verge · Jay Peters · 2026-11-03
+
+Netflix’s TV app is getting a new “AI Discover” tab where the company will show experimental, AI-powered featuresto help you find new shows and movies to watch.
+Netflix will show you themed recommendations through a new ‘AI Discover’ tab
+Netflix’s first ‘AI Discover’ feature suggests content based around different themes.
+The first of these experiments surfaces content based around themes, like “Something Light,” “Family Movie Night,” or “Quick Watches.” When you pick a theme, Netflix will show you recommendations that match it. If you don’t like a recommendation, you can tell that to Netflix, and the app will remember it.
+The company says that AI Discover is powered by “a new intelligence layer we’ve been building that responds to what members tell us in real time and keeps learning.”
+AI Discover, which will show up as a “Discover” tab along your top menu, is gradually starting to roll out in the US to “members who use Netflix in English on supported TVs.”
+The announcement follows Netflix recently laying off around 1,000 employees as growth has slowed and users are reportedly watching the service less.

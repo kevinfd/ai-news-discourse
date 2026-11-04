@@ -1,0 +1,51 @@
+---
+id: "41d2d7e64b74bd86"
+title: "When Thinking Slow Becomes Instant"
+url: "https://forbes.com/councils/forbestechcouncil/2026/11/04/when-thinking-slow-becomes-instant"
+link: "https://forbes.com/councils/forbestechcouncil/2026/11/04/when-thinking-slow-becomes-instant"
+source: "Forbes"
+domain: "forbes.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-04T11:30:00Z"
+published_date: "2026-11-04"
+collected_at: "2026-11-04T13:04:06Z"
+authors: ["Fabio Moioli, Forbes Councils Member"]
+language: "en"
+summary: "AI gives us so much analytical surface area that the existence of analysis can begin to feel like proof that thinking has occurred."
+tags: ["Innovation", "/innovation", "technology", "standard"]
+orgs: []
+topics: ["safety & ethics", "models & research"]
+content_source: "fulltext"
+word_count: 1032
+paywalled: false
+image: "https://imageio.forbes.com/specials-images/imageserve/6a7ce6caf01c2ae38ff660a2/0x0.jpg?width=960"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# When Thinking Slow Becomes Instant
+
+Forbes · Fabio Moioli, Forbes Councils Member · 2026-11-04
+
+Fabio Moioli, Executive Search & Leadership Advisory at Spencer Stuart. Passionate about artificial and human intelligences.
+In an earlier article, I went back to Adam Grant’s Think Again and asked whether AI could become part of a challenge network. In this new article, I want to move one step earlier. Before we can change our minds, we first have to form them.
+That brought me back to Daniel Kahneman’s Thinking, Fast and Slow. The book made me question what happens to human judgment when thinking is no longer something that happens only inside the human mind.
+Kahneman’s book gave us some powerful vocabulary to work with when it comes to thinking modes. System 1 is quick, associative and intuitive; System 2 is slower, requires more effort and is capable of checking what intuition proposes. But Kahneman’s argument was never that System 2 is simply rational and System 1 irrational. Intuition can embody genuine expertise, while deliberate reasoning can become a lawyer hired to defend a conclusion reached earlier.
+What matters is whether confidence is justified, whether the evidence is sufficient and whether the environment gives intuition a chance to learn. AI complicates all three. It is not a “System 3.” It is an external cognitive actor that can reinforce System 1, assist System 2, frame the problem for both and increasingly do so before we have formed independent judgment.
+Consider the concept of anchoring. A CEO might believe an acquisition feels right and ask AI to develop a strategic case. Seconds later, the intuition has synergies, market logic, risks and mitigations. Nothing has necessarily gone wrong, but a hunch has acquired the appearance of analysis.
+But AI has not created the anchor; it has professionalized it. Reverse the sequence and another problem appears. Ask AI before forming a view, and its first interpretation may become the anchor around which subsequent human thought revolves. We used to ask, “What is influencing my judgment?” But now we ask, “Who is anchoring whom?”
+The concept of availability changes in a similar way. What comes easily to mind may increasingly be what comes easily to screen. Ask AI for the principal risks, and those risks become the agenda; what it fails to surface may never enter the discussion. I think of this as synthetic availability.
+The concept of framing also moves upstream, into the prompt itself. “How should we implement this restructuring?” and “Under what circumstances should we abandon it?” may produce excellent answers to very different problems. AI can reason brilliantly inside the territory we give it without ever telling us that we chose the wrong territory. The prompt is therefore not merely an instruction. It is already an act of judgment.
+Kahneman’s “What You See Is All There Is” concept may be even more consequential in this context. Generative AI is an extraordinary machine for producing coherence. Give it fragments, and it connects them; give it incomplete evidence, and it can still produce a satisfying narrative.
+The danger is not simply hallucination. Obvious errors can be challenged. The harder problem is a very good answer constructed from an incomplete representation of reality. The better AI becomes at connecting the dots, the easier it may become to forget that some important dots were never there. Coherence can then create what I would call borrowed confidence: Our conviction increases because the explanation became more fluent, not because the evidence became stronger.
+This is also where attribute substitution becomes harder to notice. “Is this a good strategy?” quietly becomes “Can AI produce a convincing strategic case for this strategy?” “Will this person succeed as CEO here?” becomes “Can we produce a sophisticated assessment of this person?”
+Neither of these is the question. AI gives us so much analytical surface area that the existence of analysis can begin to feel like proof that thinking has occurred. Yet, the same technology can do the opposite. AI can industrialize confirmation bias, but it can also industrialize challenge. The difference often lies not in the model, but in the cognitive posture with which we use it.
+The concept of prospect theory changes, too. AI can generate vivid futures: 10 ways a strategy could fail, 10 geopolitical scenarios or 10 paths to disruption. This can improve risk management, but vividness is not probability. A richly narrated possibility feels more real. I think of this as possibility inflation: When hypothetical futures become effortless to generate, we may overweight the ones that are easiest to imagine. Leaders may therefore need fewer scenarios and better calibration.
+Even dissent can become deceptive. Ask AI to challenge your strategy, and it will oblige, but if it inherited your framing, assumptions and language, the disagreement may remain inside your intellectual world. That is challenge theater: the experience of being challenged without sufficient independence of thought. Ask several models, and agreement can create a consensus mirage if they all received the same facts and the same framing. More broadly, organizations may reduce human noise while increasing common errors: Everyone becomes more consistent because everyone is consulting the same cognitive infrastructure. This does not necessarily lead to increased accuracy.
+The deeper implication is that bias may increasingly live in the loop, rather than in any single participant. Intuition shapes the prompt, the prompt defines the frame, AI produces a coherent answer, the answer changes what feels available and plausible, and confidence shapes the next prompt. After several iterations, an initial impression has acquired the weight of analysis without any individual step looking unreasonable.
+This is why the next discipline may not be prompt engineering, but cognitive sequencing: deciding who thinks first, who frames the problem, when AI is allowed to recommend and which judgments should remain independent.
+Kahneman spent much of his career teaching us that ease, coherence and confidence are not the same thing as truth. AI is poised to make ease, coherence and confidence abundant. That may be one of its greatest gifts and one of its most dangerous illusions. The challenge, then, is not merely to keep humans in the loop. It will be to keep doubt in the loop.
+Forbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?
