@@ -1,0 +1,74 @@
+---
+id: "25e9d4d842243961"
+title: "Why are people attacking food delivery robots?"
+url: "https://foxnews.com/tech/why-people-attacking-food-delivery-robots"
+link: "https://foxnews.com/tech/why-people-attacking-food-delivery-robots"
+source: "Fox News"
+domain: "foxnews.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-05T11:54:03Z"
+published_date: "2026-11-05"
+collected_at: "2026-11-05T13:04:25Z"
+authors: ["Kurt Knutsson", "CyberGuy Report"]
+language: "en"
+summary: "There's something pretty strange happening on American sidewalks. People are picking fights with food delivery robots. Yes, those little four-wheeled machines that roll around carrying somebody's meal are getting kicked and knocked over. Some people are even filming themselves doing it. Now, I can understand being curious about a robot delivering your dinner. After all, watching a small machine…"
+tags: ["1621b600-3af3-5002-9838-3cc9fa00bb9e", "fnc", "Fox News", "fox-news/tech/technologies/robots", "fox-news/health/orthopedics/technology", "fox-news/tech/topics/big-tech-backlash", "fox-news/tech/artificial-intelligence", "fox-news/business", "fox-news/tech", "article"]
+orgs: []
+topics: ["robotics & autonomy", "jobs & society", "agents & coding"]
+content_source: "fulltext"
+word_count: 2125
+paywalled: false
+image: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/autonomous-food-delivery-robot-downtown-los-angeles.jpg?ve=1&tl=1"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Why are people attacking food delivery robots?
+
+Fox News · Kurt Knutsson, CyberGuy Report · 2026-11-05
+
+There's something pretty strange happening on American sidewalks. People are picking fights with food delivery robots. Yes, those little four-wheeled machines that roll around carrying somebody's meal are getting kicked and knocked over. Some people are even filming themselves doing it.
+Now, I can understand being curious about a robot delivering your dinner. After all, watching a small machine navigate city streets with a bag of burgers inside is pretty impressive. But apparently, some people have had enough of these rolling delivery machines. And when you look at what's happening, you start to see just how frustrated some Americans have become with artificial intelligence showing up in their neighborhoods.
+Missed CyberGuy LIVE? Watch the replay and discover 5 ways to travel smarter and save money.
+Our free CyberGuy LIVE class, 5 Ways to Travel Smarter and Save Money, has ended, but you can still watch the full replay. Kurt "CyberGuy" Knutsson walks you through five practical ways to protect your phone and personal information, avoid common travel scams, find better deals, save money on bookings and use technology to make your travels easier and less stressful. No technical experience is needed.
+Watch the free replay + downloadable checklist now at CyberGuyLive.com.
+DOORDASH GETS FAA APPROVAL FOR ITS OWN DELIVERY DRONES
+Food delivery robots are getting beaten up
+In Philadelphia, an Uber Eats delivery robot found itself on the receiving end of two kicks in late March 2026. The second kick reportedly knocked it over near a parking garage. The people involved eventually put it back on its wheels, but the encounter became another example of people taking out their frustrations on delivery technology. And Philadelphia is hardly alone. Similar attacks have surfaced in Los Angeles and other cities. Videos circulating online show robots being tipped over or deliberately kicked. Some encounters have attracted enormous attention, turning attacks on delivery robots into viral entertainment.
+Think about that for a second. These machines generally move at walking speed. Some even have friendly-looking digital eyes that make them look like little cartoon characters. Yet somehow, they've become targets for people who seem determined to teach them a lesson. Here's what I find particularly strange. A robot can't argue with someone who attacks it. It certainly can't defend itself the way a person might. So what is it about these little machines that makes some people so angry?
+Why are some people angry at delivery robots?
+I suspect some of this anger has very little to do with the robots themselves. For many people, artificial intelligence represents a pretty unsettling change, especially when it comes to their jobs. We've already seen AI take on tasks that people once handled. Now we're watching robots roll down sidewalks doing work that someone used to get paid for. And unlike software running quietly in the background, these machines are right there in front of us.
+Consider someone who earns money delivering meals for Uber Eats. Every order completed by a robot could potentially mean one less opportunity for a human delivery worker. Companies say automation can make deliveries more efficient. But what happens to the people who rely on that income as these fleets get bigger?
+That concern recently led to a confrontation in Philadelphia. On Oct. 14, police arrested 78-year-old retired University of Pennsylvania professor Carolyn Marvin after she deliberately blocked an Uber Eats delivery robot. Marvin said she was protesting companies replacing human delivery workers with machines. We covered her arrest, and one detail really caught my attention. Pennsylvania law requires delivery robots to yield to pedestrians in pedestrian areas. Marvin's arrest followed her refusal to comply with police instructions, and her case raises questions about how people can legally protest these machines.
+I can understand why someone would be frustrated watching technology potentially replace jobs. That doesn't give anyone a free pass to damage property, of course. Still, companies should recognize that they're introducing these machines into neighborhoods where people may already feel anxious about automation.
+MAJORITY OF YOUNG ADULTS SAY THEY ARE 'MORE CONCERNED THAN EXCITED' ABOUT AI: PEW RESEARCH
+Sometimes the delivery robots create their own problems
+Of course, not every complaint about delivery robots comes from someone worried about losing a job. Sometimes the robots themselves cause a headache. Remember the robot traffic jam in Chicago? In September 2026, video showed at least a dozen Coco delivery robots clustered together on a sidewalk near Lincoln Park. Instead of delivering food, they appeared to be stuck trying to get around one another. Coco told CyberGuy that a deployment error caused several robots to reroute at the same time. The company said it fixed the problem within minutes and added safeguards to prevent it from happening again. Now, I have to admit, watching a bunch of robots get tangled up in their own traffic jam is pretty funny. But consider someone using a wheelchair who needs to get through that sidewalk. Suddenly, the situation becomes a lot more serious.
+And there have been other problems. In May 2026, a delivery robot reportedly entered a crosswalk against a traffic signal and was struck by a truck. Even more surprising, the damaged robot kept moving afterward. I give these companies credit for developing machines that can navigate busy streets. But if a robot can't reliably handle a crosswalk or stay out of someone's way, it's reasonable to question whether it's ready for crowded city sidewalks.
+Are delivery robots becoming a target for people's anger at AI?
+Here's another part of this story that I find fascinating. For most of us, artificial intelligence lives inside a computer or smartphone. You might use it to answer a question or help write an email. But there's usually nothing physical standing in front of you. A delivery robot changes that. Suddenly, AI is rolling past your apartment building. It's waiting at the same crosswalk you use every morning. And if you're already frustrated about artificial intelligence taking over more parts of daily life, that little machine becomes an easy target.
+Social media can make things worse. Someone records an outrageous encounter with a robot, posts it online and suddenly thousands of people are watching. That attention may encourage others to do something similar. But here's an important reality check. These viral videos can make it seem like robots are getting attacked everywhere. The available numbers suggest otherwise.
+In April 2026, Serve Robotics CEO Ali Kashani told Semafor that mistreatment occurred on fewer than 1% of approximately 100,000 trips. That's the company's experience, so it doesn't tell us what's happening across the entire industry. Still, it's worth keeping in perspective. Most of these little machines appear to be making their deliveries without anybody trying to knock them over.
+Delivery robots are becoming big business
+Whatever people think about these robots, the companies behind them are moving ahead. Serve Robotics reported that it had deployed 2,000 robots by the end of 2025. The company works with delivery platforms including Uber Eats and DoorDash. Other companies, including Coco and Avride, are also pursuing expansion.
+If you haven't encountered one yet, here's how they generally work. The robots use cameras and sensors to navigate sidewalks while avoiding obstacles. Customers track their delivery through an app and unlock the robot's compartment when their food arrives. We've previously explained how Uber Eats delivery robots work, and I can certainly see the appeal. A small robot handling a short delivery could mean one less car making a trip through a crowded neighborhood. And if your lunch arrives quickly, you're probably not going to complain about who, or what, brought it.
+Of course, there's a big difference between getting a robot to deliver lunch and making money doing it. Serve reported approximately $2.7 million in revenue for 2025 while recording substantial losses. That tells you companies are spending a lot to get these robots on the streets, with no guarantee they'll turn a profit anytime soon. The potential savings are certainly appealing. Robots can handle short deliveries without paying a human courier for each trip. However, the machines still need maintenance, and people have to step in when something goes wrong. So while the technology looks promising, the big question is whether delivering food by robot will eventually pay off.
+Cities are setting new rules for delivery robots
+As more delivery robots roll into neighborhoods, city officials are starting to ask some tough questions. Where should these machines be allowed to operate, and who gets to decide? In September 2026, Glendale, California, approved a one-year pilot program allowing up to two delivery robot operators. The city also adopted an ordinance requiring companies to have operating agreements before deploying these machines on public streets and sidewalks. Los Angeles is taking a closer look, too. In November 2025, the City Council approved a motion calling for a review of existing delivery robot regulations. Officials want to better understand how these machines affect pedestrian access and whether current rules do enough to protect people using sidewalks.
+Then there's the privacy question. Most delivery robots use cameras to see where they're going. But what happens to the information they collect as they travel through neighborhoods? And how much of that information do companies keep? Those are questions I'd want answered. On the positive side, some companies are finding ways to use this technology to help pedestrians. Coco Robotics partnered with BlindSquare, an accessibility app, to share information about sidewalk obstacles. The goal is to help people with visual impairments navigate their surroundings more safely. I like that idea. If these robots can help people get around more safely, that's a real benefit. But before companies start talking about making sidewalks better for everyone, they need to make sure their own robots aren't getting in the way.
+What should you do if a delivery robot gets in your way?
+As more delivery robots appear in cities, there's a good chance you'll eventually encounter one. Most of the time, you'll probably just walk past it and continue on your way. But what if one stops right in front of you or blocks a sidewalk? My advice is to give it a little space and avoid trying to move it yourself. If the robot creates a genuine accessibility or safety problem, look for the company's name on the machine. You can usually report the issue directly to the operator.
+Some cities also let people report sidewalk obstructions through their local 311 services. If you can safely take a photo, document where the robot is and when the problem happened. That information may help the company identify the machine and investigate. And please, resist the temptation to give it a kick. Deliberately damaging someone else's property can lead to criminal charges, even when that property happens to have wheels and digital eyes. Reporting the problem is a much better way to get someone's attention.
+Kurt's key takeaways
+I have to give these delivery robots some credit. It's pretty impressive that a little machine can make its way through a busy city and show up with your dinner. I can absolutely see the appeal, especially if it means faster deliveries and fewer cars on crowded streets. But I also get why some people aren't thrilled about sharing their sidewalks with robots. Nobody wants to see jobs disappear, and I certainly wouldn't be happy if a robot blocked my way while I was walking down the street. These are legitimate concerns that companies need to take seriously.
+What bothers me is that we're seeing more of these robots before we've really figured out how they should operate around people. Who's responsible when one causes an accident? What happens when it blocks a wheelchair ramp? I think companies should have clear answers before sending thousands more onto our sidewalks. And while I understand the frustration with AI taking over more jobs, kicking a robot that's trying to deliver somebody's pizza seems like a pretty ridiculous way to protest. I'm all for technology that makes life easier. But the people living in these neighborhoods should have a say in how it's used. After all, they're the ones who have to share the sidewalk.
+Are Americans taking their anger toward AI too far by attacking food delivery robots? Let us know by writing to us at CyberGuy.com.
+Sign up for my FREE CyberGuy Newsletter
+- Get my best tech tips, urgent security alerts and exclusive deals delivered straight to your inbox.
+- For simple, real-world ways to spot scams early and stay protected, visit CyberGuy.com – trusted by millions who watch CyberGuy on TV daily.
+- Plus, you'll get instant access to my Ultimate Scam Survival Guide free when you join.
+CLICK HERE TO DOWNLOAD THE FOX NEWS APP
+Copyright 2026 CyberGuy.com. All rights reserved.

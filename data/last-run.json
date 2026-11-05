@@ -1,103 +1,96 @@
 {
-  "run_at": "2026-11-04T13:04:06Z",
-  "since": "2026-11-03T01:04:06Z",
+  "run_at": "2026-11-05T13:04:25Z",
+  "since": "2026-11-04T01:04:25Z",
   "stats": {
-    "candidates": 948,
-    "already_known": 53,
-    "not_ai": 442,
-    "merged_duplicates": 13,
-    "new_unique": 440,
-    "written": 440,
-    "seconds": 413
+    "candidates": 944,
+    "already_known": 61,
+    "not_ai": 487,
+    "merged_duplicates": 9,
+    "title_duplicate": 1,
+    "new_unique": 386,
+    "written": 386,
+    "seconds": 369
   },
   "by_content_source": {
-    "summary": 119,
-    "fulltext": 204,
-    "post": 117
+    "fulltext": 184,
+    "summary": 127,
+    "post": 75
   },
   "top_sources": [
     [
       "Reddit",
-      124
-    ],
-    [
-      "Forbes",
-      18
-    ],
-    [
-      "The Information",
-      15
+      87
     ],
     [
       "TechCrunch",
-      12
+      14
     ],
     [
       "Mashable",
-      12
+      14
+    ],
+    [
+      "The Information",
+      13
     ],
     [
       "The Verge",
       11
     ],
     [
-      "CNBC",
+      "Scientific American",
       10
     ],
     [
-      "ZDNet",
+      "Forbes",
       10
+    ],
+    [
+      "WIRED",
+      9
     ],
     [
       "The Guardian",
-      9
-    ],
-    [
-      "Techmeme",
-      9
-    ],
-    [
-      "Bloomberg",
-      9
-    ],
-    [
-      "Channel NewsAsia",
       8
-    ],
-    [
-      "Tom's Guide",
-      8
-    ],
-    [
-      "Financial Times",
-      7
-    ],
-    [
-      "CNET",
-      7
-    ],
-    [
-      "Axios",
-      6
     ],
     [
       "Business Insider",
+      8
+    ],
+    [
+      "Bloomberg",
+      8
+    ],
+    [
+      "Techmeme",
+      7
+    ],
+    [
+      "ZDNet",
       6
     ],
     [
-      "AWS Machine Learning Blog",
+      "Tom's Guide",
       6
     ],
     [
-      "note",
+      "CNBC",
       6
     ],
     [
-      "Scientific American",
+      "OpenAI",
       5
     ],
     [
-      "Engadget",
+      "MarkTechPost",
+      5
+    ],
+    [
+      "Financial Times",
+      5
+    ],
+    [
+      "Channel NewsAsia",
       5
     ],
     [
@@ -105,17 +98,25 @@
       5
     ],
     [
-      "MarkTechPost",
+      "AWS Machine Learning Blog",
+      5
+    ],
+    [
+      "Crypto Briefing",
+      5
+    ],
+    [
+      "Engadget",
       4
     ],
     [
-      "PCMag",
+      "Fast Company",
       4
     ],
     [
-      "Towards Data Science",
+      "The New Stack",
       4
     ]
   ],
-  "total_articles": 8683
+  "total_articles": 9069
 }
