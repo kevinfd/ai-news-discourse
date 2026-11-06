@@ -1,0 +1,48 @@
+---
+id: "7eab5dddcfa7727d"
+title: "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents"
+url: "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents"
+link: "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents"
+source: "NVIDIA Blog"
+domain: "blogs.nvidia.com"
+source_type: "company_blog"
+collector: "rss"
+date: "2026-11-05T20:00:41Z"
+published_date: "2026-11-05"
+collected_at: "2026-11-06T13:04:08Z"
+authors: ["Hannah Coutand"]
+language: "en"
+summary: "AI agents do more than generate answers. They search for information, query databases, write and test code and take action.  \n Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task.  \n As businesses put more agents to work, AI factories need CPUs that can execute those steps quickly and support many agents at once, all within the limits…"
+tags: ["AI Infrastructure", "Hardware", "Networking", "Software", "Agentic AI", "NVIDIA Vera"]
+orgs: ["Nvidia", "Perplexity", "Intel"]
+topics: ["agents & coding", "chips & infrastructure", "models & research", "search & media"]
+content_source: "fulltext"
+word_count: 388
+paywalled: false
+image: "https://blogs.nvidia.com/wp-content/uploads/2026/11/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1.png"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents
+
+NVIDIA Blog · Hannah Coutand · 2026-11-05
+
+AI agents do more than generate answers. They search for information, query databases, write and test code and take action.
+Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task.
+As businesses put more agents to work, AI factories need CPUs that can execute those steps quickly and support many agents at once, all within the limits of available power.
+What this means: AI infrastructure providers need to support more agents without making each one wait longer to get work done. And critically, AI factories are power limited. This means operators need to choose infrastructure that maximizes the work done for every watt.
+Why it matters: NVIDIA Vera delivers both fast agent performance and high capacity per watt within a single CPU. That gives providers one CPU for a range of agent workloads, rather than having to mix and match fast and dense x86 parts to balance speed and capacity.
+The data that proves it: In a 100-megawatt data center comparison, NVIDIA found that a single Vera CPU performs better than the fastest x86 CPU and the most energy-efficient x86 CPU.
+- Vera delivers industry-leading agent speed while enabling 1.6x more agents per watt versus the fastest x86 CPU.
+- Vera delivers 2x faster agent speed with leading energy efficiency compared with the most energy-efficient x86 CPU.
+Partners are already putting Vera to work. Early adopters see the same exceptional performance in production-style tests:
+- Perplexity: Ran agentic coding tasks 1.5x faster with Vera than on traditional CPUs. Perplexity plans to deploy Vera in an upcoming production system.
+- DeepInfra: Delivered up to 2.2x speed of the best x86 processor on agentic orchestration for its production agent workload, achieving the fastest of the four architectures tested.
+- ClickHouse: Its standard binary, with no Vera-specific tuning, scaled near-linearly across 176 cores and topped the ClickBench hardware leaderboard.
+- DuckLabs: Achieved about 1.5x the median TPC-H SF1000 performance of an Intel Xeon 6 baseline.
+- Daytona: Brought 1,000 agent sandboxes online in 10.8 seconds, and achieved 12.7 completed jobs per second at 2,000 concurrent sandboxes, using Vera versus 88.4 seconds with x86.
+- Modal: Achieved up to 2x sandbox throughput per core versus comparable x86 hardware, with gains that grow under heavy load.
+Learn more about the NVIDIA Vera CPU.

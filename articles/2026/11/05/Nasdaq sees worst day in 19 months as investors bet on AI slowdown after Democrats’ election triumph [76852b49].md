@@ -1,0 +1,50 @@
+---
+id: "76852b4943a8e44c"
+title: "Nasdaq sees worst day in 19 months as investors bet on AI slowdown after Democrats’ election triumph"
+url: "https://theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
+link: "https://theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
+source: "The Guardian"
+domain: "theguardian.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-05T21:23:18Z"
+published_date: "2026-11-05"
+collected_at: "2026-11-06T13:04:08Z"
+authors: ["Graeme Wearden in London and Lauren Aratani in New York"]
+language: "en"
+summary: "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across bourses The Nasdaq share index had its worst day in 19 months after slumping 5.5% on Thursday amid growing signs that the artificial intelligence industry will face tougher regulation because of the midterm election results. As Wall Street sustained widespread losses, the Nasdaq composite tumbled into…"
+tags: ["Nasdaq", "US news", "US markets", "Dow Jones", "Datacenters – US", "US midterm elections 2026", "Business", "Stock markets", "World news", "AI (artificial intelligence)"]
+orgs: ["UK", "Nvidia", "US government"]
+topics: ["business & funding", "chips & infrastructure", "policy & regulation"]
+content_source: "fulltext"
+word_count: 613
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Nasdaq sees worst day in 19 months as investors bet on AI slowdown after Democrats’ election triumph
+
+The Guardian · Graeme Wearden in London and Lauren Aratani in New York · 2026-11-05
+
+The Nasdaq share index had its worst day in 19 months after slumping 5.5% on Thursday amid growing signs that the artificial intelligence industry will face tougher regulation because of the midterm election results.
+As Wall Street sustained widespread losses, the Nasdaq composite tumbled into “correction territory” – more than 10% below its recent record high – with more than $2tn shaved off its value by the end of trading Thursday. The tech-heavy index had its biggest one-day fall since Donald Trump announced his “liberation day” tariffs on US trading partners in April 2025.
+Worries over massive AI spending gripped the New York stock market and rippled out to other bourses worldwide as investors anticipated tougher scrutiny of datacentre expansion plans.
+Chip stocks led the slump, with memory maker SanDisk tumbling by 22% and hard drive maker Western Digital falling by 17%. Wall Street’s “fear index”, the VIX, jumped by 61% to its highest levels since the early weeks of the Iran war, in a sign of rising market volatility.
+The heavy falls continued in Asia on Friday, with Japan’s Nikkei 225 index sinking 6% and South Korea’s Kospi index tumbling more than 8% in early trading.
+Analysts pointed to expectations that Democratic governors will clamp down on the rollout of new datacentres after the party won a series of gubernatorial races this week. US voters also rejected datacentres in a series of local ballots across the country.
+Neil Wilson, investor strategist at Saxo UK, said a “complete capitulation-level event” was playing out in tech stocks on Thursday.
+“The fear is a total momentum unwind as Democrats pace the frontier and kibosh datacentre buildout … this looks totally overdone but the nature of ‘sell everything’ in this market means we need to look for some stability first,” Wilson said.
+The Dow Jones industrial average (DJIA) of 30 large US companies was down more than 1,800 points by the end of the day, a fall of 3.4%, to 51,868 points. The S&P 500 was down 4.3%.
+Nvidia, the chipmaker at the heart of the AI boom, was the top faller on the DJIA – down 9.2%, followed by Goldman Sachs, which fell 3.7%.
+An early stock market rally in Europe had fizzled out by late trading, with Britain’s FTSE 100 closing down 46 points or 0.4% at 10782.66.
+The sell-off is a sharp reverse of Wednesday’s rally, when Wall Street stocks had their biggest daily gain in months as investors anticipated that the Democratic party’s success in the US midterm elections could restrain the White House.
+That rally prompted Donald Trump to once again boast about the record-breaking highs the stock markets had reached during his second term. The president wrote on Truth Social: “Stock Market just hit another Record High – 91 Days in just a short period of time – Less than two years. Your 401(k)s are through the roof. Record Setting All! President DONALD J. TRUMP.”
+Tech analyst Dan Ives has warned that the results of the midterms are a clear sign that the pace of datacentre buildout will start to slow down.
+“There is no way to sugarcoat that Democrats taking control, especially over the Senate, will create some major hurdles for AI and tech legislation in the Beltway over the next two years,” Ives said.
+“The market’s moving from the promise of AI to the price of AI,” said Ted Parkhill, founder and CEO of Incline Investment Management.
+“There’s no question that AI is going to be transformative for the world in the long run. But that doesn’t mean every AI-related stock is currently priced appropriately. There’s going to be a lot of turmoil.”
+Reuters contributed to this article

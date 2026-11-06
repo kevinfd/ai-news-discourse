@@ -1,52 +1,64 @@
 {
-  "run_at": "2026-11-05T13:04:25Z",
-  "since": "2026-11-04T01:04:25Z",
+  "run_at": "2026-11-06T13:04:08Z",
+  "since": "2026-11-05T01:04:08Z",
   "stats": {
-    "candidates": 944,
-    "already_known": 61,
-    "not_ai": 487,
-    "merged_duplicates": 9,
+    "candidates": 994,
+    "already_known": 62,
+    "not_ai": 426,
+    "merged_duplicates": 13,
     "title_duplicate": 1,
-    "new_unique": 386,
-    "written": 386,
-    "seconds": 369
+    "new_unique": 492,
+    "written": 492,
+    "seconds": 406
   },
   "by_content_source": {
-    "fulltext": 184,
-    "summary": 127,
-    "post": 75
+    "fulltext": 209,
+    "summary": 148,
+    "post": 135
   },
   "top_sources": [
     [
       "Reddit",
-      87
+      144
+    ],
+    [
+      "Financial Times",
+      15
+    ],
+    [
+      "Bloomberg",
+      14
     ],
     [
       "TechCrunch",
-      14
-    ],
-    [
-      "Mashable",
-      14
-    ],
-    [
-      "The Information",
       13
     ],
     [
-      "The Verge",
+      "Mashable",
+      13
+    ],
+    [
+      "The New Stack",
       11
     ],
     [
-      "Scientific American",
+      "The Verge",
       10
+    ],
+    [
+      "Business Insider",
+      10
+    ],
+    [
+      "The Information",
+      9
+    ],
+    [
+      "Techmeme",
+      9
     ],
     [
       "Forbes",
-      10
-    ],
-    [
-      "WIRED",
       9
     ],
     [
@@ -54,39 +66,43 @@
       8
     ],
     [
-      "Business Insider",
-      8
-    ],
-    [
-      "Bloomberg",
-      8
-    ],
-    [
-      "Techmeme",
+      "CNBC",
       7
     ],
     [
+      "note",
+      7
+    ],
+    [
+      "Scientific American",
+      6
+    ],
+    [
+      "Axios",
+      6
+    ],
+    [
+      "The New York Times",
+      6
+    ],
+    [
+      "The Hindu",
+      6
+    ],
+    [
+      "GitHub",
+      6
+    ],
+    [
       "ZDNet",
-      6
-    ],
-    [
-      "Tom's Guide",
-      6
-    ],
-    [
-      "CNBC",
-      6
-    ],
-    [
-      "OpenAI",
       5
     ],
     [
-      "MarkTechPost",
+      "404 Media",
       5
     ],
     [
-      "Financial Times",
+      "Fast Company",
       5
     ],
     [
@@ -94,29 +110,13 @@
       5
     ],
     [
-      "The Hindu",
-      5
-    ],
-    [
-      "AWS Machine Learning Blog",
-      5
-    ],
-    [
-      "Crypto Briefing",
-      5
+      "OpenAI",
+      4
     ],
     [
       "Engadget",
       4
-    ],
-    [
-      "Fast Company",
-      4
-    ],
-    [
-      "The New Stack",
-      4
     ]
   ],
-  "total_articles": 9069
+  "total_articles": 9561
 }
