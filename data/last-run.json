@@ -1,92 +1,80 @@
 {
-  "run_at": "2026-11-06T13:04:08Z",
-  "since": "2026-11-05T01:04:08Z",
+  "run_at": "2026-11-07T13:03:25Z",
+  "since": "2026-11-06T01:03:25Z",
   "stats": {
-    "candidates": 994,
-    "already_known": 62,
-    "not_ai": 426,
-    "merged_duplicates": 13,
+    "candidates": 898,
+    "already_known": 75,
+    "not_ai": 418,
+    "merged_duplicates": 7,
     "title_duplicate": 1,
-    "new_unique": 492,
-    "written": 492,
-    "seconds": 406
+    "new_unique": 397,
+    "written": 397,
+    "seconds": 451
   },
   "by_content_source": {
-    "fulltext": 209,
-    "summary": 148,
-    "post": 135
+    "fulltext": 175,
+    "summary": 100,
+    "post": 122
   },
   "top_sources": [
     [
       "Reddit",
-      144
+      134
     ],
     [
-      "Financial Times",
-      15
+      "The Guardian",
+      14
     ],
     [
       "Bloomberg",
       14
     ],
     [
-      "TechCrunch",
-      13
-    ],
-    [
       "Mashable",
-      13
-    ],
-    [
-      "The New Stack",
       11
     ],
     [
+      "Channel NewsAsia",
+      10
+    ],
+    [
       "The Verge",
-      10
-    ],
-    [
-      "Business Insider",
-      10
-    ],
-    [
-      "The Information",
       9
+    ],
+    [
+      "Financial Times",
+      9
+    ],
+    [
+      "Hugging Face",
+      9
+    ],
+    [
+      "TechCrunch",
+      8
     ],
     [
       "Techmeme",
-      9
+      8
     ],
     [
       "Forbes",
-      9
-    ],
-    [
-      "The Guardian",
       8
     ],
     [
       "CNBC",
-      7
+      8
+    ],
+    [
+      "AWS Machine Learning Blog",
+      8
     ],
     [
       "note",
       7
     ],
     [
-      "Scientific American",
-      6
-    ],
-    [
-      "Axios",
-      6
-    ],
-    [
-      "The New York Times",
-      6
-    ],
-    [
-      "The Hindu",
+      "The Information",
       6
     ],
     [
@@ -94,29 +82,41 @@
       6
     ],
     [
+      "Scientific American",
+      5
+    ],
+    [
+      "Business Insider",
+      5
+    ],
+    [
       "ZDNet",
-      5
-    ],
-    [
-      "404 Media",
-      5
-    ],
-    [
-      "Fast Company",
-      5
-    ],
-    [
-      "Channel NewsAsia",
-      5
-    ],
-    [
-      "OpenAI",
       4
     ],
     [
-      "Engadget",
+      "PCMag",
       4
+    ],
+    [
+      "The New Stack",
+      4
+    ],
+    [
+      "Towards Data Science",
+      4
+    ],
+    [
+      "Tom's Guide",
+      4
+    ],
+    [
+      "WIRED",
+      3
+    ],
+    [
+      "CNET",
+      3
     ]
   ],
-  "total_articles": 9561
+  "total_articles": 9958
 }
