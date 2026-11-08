@@ -1,122 +1,121 @@
 {
-  "run_at": "2026-11-07T13:03:25Z",
-  "since": "2026-11-06T01:03:25Z",
+  "run_at": "2026-11-08T13:03:58Z",
+  "since": "2026-11-07T01:03:58Z",
   "stats": {
-    "candidates": 898,
-    "already_known": 75,
-    "not_ai": 418,
-    "merged_duplicates": 7,
-    "title_duplicate": 1,
-    "new_unique": 397,
-    "written": 397,
-    "seconds": 451
+    "candidates": 604,
+    "already_known": 38,
+    "not_ai": 327,
+    "merged_duplicates": 5,
+    "new_unique": 234,
+    "written": 234,
+    "seconds": 331
   },
   "by_content_source": {
-    "fulltext": 175,
-    "summary": 100,
-    "post": 122
+    "summary": 67,
+    "fulltext": 72,
+    "post": 95
   },
   "top_sources": [
     [
       "Reddit",
-      134
-    ],
-    [
-      "The Guardian",
-      14
-    ],
-    [
-      "Bloomberg",
-      14
-    ],
-    [
-      "Mashable",
-      11
-    ],
-    [
-      "Channel NewsAsia",
-      10
-    ],
-    [
-      "The Verge",
-      9
-    ],
-    [
-      "Financial Times",
-      9
-    ],
-    [
-      "Hugging Face",
-      9
-    ],
-    [
-      "TechCrunch",
-      8
+      106
     ],
     [
       "Techmeme",
       8
     ],
     [
-      "Forbes",
-      8
-    ],
-    [
-      "CNBC",
-      8
-    ],
-    [
-      "AWS Machine Learning Blog",
-      8
+      "The Guardian",
+      7
     ],
     [
       "note",
       7
     ],
     [
-      "The Information",
-      6
-    ],
-    [
       "GitHub",
       6
     ],
     [
-      "Scientific American",
+      "MarkTechPost",
       5
+    ],
+    [
+      "Bloomberg",
+      5
+    ],
+    [
+      "CNBC",
+      5
+    ],
+    [
+      "Financial Times",
+      4
     ],
     [
       "Business Insider",
-      5
-    ],
-    [
-      "ZDNet",
       4
     ],
     [
-      "PCMag",
-      4
+      "The Verge",
+      3
     ],
     [
-      "The New Stack",
-      4
+      "Scientific American",
+      3
     ],
     [
-      "Towards Data Science",
-      4
+      "Forbes",
+      3
     ],
     [
       "Tom's Guide",
-      4
+      3
+    ],
+    [
+      "South China Morning Post",
+      3
+    ],
+    [
+      "TechCrunch",
+      2
     ],
     [
       "WIRED",
-      3
+      2
     ],
     [
-      "CNET",
-      3
+      "The Information",
+      2
+    ],
+    [
+      "Engadget",
+      2
+    ],
+    [
+      "Fast Company",
+      2
+    ],
+    [
+      "Fox News",
+      2
+    ],
+    [
+      "Mashable",
+      2
+    ],
+    [
+      "PCMag",
+      2
+    ],
+    [
+      "The New Stack",
+      2
+    ],
+    [
+      "Towards Data Science",
+      2
     ]
   ],
-  "total_articles": 9958
+  "total_articles": 10192
 }

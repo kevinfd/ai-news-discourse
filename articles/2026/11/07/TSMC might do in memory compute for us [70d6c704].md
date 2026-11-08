@@ -1,0 +1,33 @@
+---
+id: "70d6c704a9e4c0d6"
+title: "TSMC might do in memory compute for us"
+url: "https://reddit.com/r/LocalLLaMA/comments/1xq65rl/tsmc_might_do_in_memory_compute_for_us"
+link: "https://reddit.com/r/LocalLLaMA/comments/1xq65rl/tsmc_might_do_in_memory_compute_for_us"
+source: "Reddit"
+domain: "reddit.com"
+source_type: "community"
+collector: "reddit"
+date: "2026-11-07T13:17:49Z"
+published_date: "2026-11-07"
+collected_at: "2026-11-08T13:03:58Z"
+authors: ["Terminator857"]
+language: "en"
+summary: "At the 2025 VLSI Symposium, TSMC presented a memory technology based on oxide semiconductors, using a cell made of one transistor and one capacitor (1T1C). The goal was to integrate this memory into advanced logic chips and give processors a cache with low power and low latency. The key feature of the design is that the memory array is built directly into the back end of line (BEOL) interconnect…"
+tags: ["r/LocalLLaMA"]
+orgs: ["TSMC", "Samsung", "Nvidia"]
+topics: ["chips & infrastructure"]
+content_source: "post"
+word_count: 324
+paywalled: false
+image: null
+discussion_url: "https://www.reddit.com/r/LocalLLaMA/comments/1xq65rl/tsmc_might_do_in_memory_compute_for_us/"
+score: null
+comments: null
+community: "r/LocalLLaMA"
+---
+
+# TSMC might do in memory compute for us
+
+Reddit · Terminator857 · 2026-11-07
+
+At the 2025 VLSI Symposium, TSMC presented a memory technology based on oxide semiconductors, using a cell made of one transistor and one capacitor (1T1C). The goal was to integrate this memory into advanced logic chips and give processors a cache with low power and low latency. The key feature of the design is that the memory array is built directly into the back end of line (BEOL) interconnect layers of the logic chip. Conventional DRAM is manufactured as a separate chip. To build the memory array in the interconnect layers of an advanced logic chip, TSMC used select transistors with an oxide semiconductor channel and capacitors fabricated with a low temperature process. According to TSMC, the test chip, which integrates memory and logic on a single die, operated at 0.75V. Data retention exceeded 128ms, random read/write cycle time was under 8ns, and endurance was above 10¹⁴ cycles. TSMC positioned the technology as a processor cache that offers higher density than SRAM while keeping power consumption and latency low. https://x.com/jukan05/status/2119026338522869863 https://x.com/wallstengine/status/2118707623835136039 . TSMC WEIGHS MAKING 3D DRAM AT NVIDIA'S REQUEST. Has begun drawing up plans to manufacture advanced 3D DRAM chips as AI-driven memory shortages push chip designers to seek additional supply, per The Information. Unlike conventional DRAM, 3D DRAM stacks memory cells vertically to increase density. The move could put TSMC in direct competition with Samsung, SK Hynix and Micron. No production timeline has been set. TSMC is considering building new fabs or converting an existing facility, but says its focus remains on its core logic foundry business. https://x.com/theinformation/status/2118744349684986078 . Quote: TSMC is exploring production of 3D DRAM, a next-generation memory chip that would put it in competition with Samsung, SK Hynix and Micron. https://x.com/theinformation/status/2119052292267630791 . TSMC's memory push is led by Hsu Kuo-chin, a vice president who oversees advanced packaging and previously ran Micron's Taiwan operations. Update: https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability According to article TSMC says it will not be going into the DRAM business.
