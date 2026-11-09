@@ -1,71 +1,112 @@
 {
-  "run_at": "2026-11-08T13:03:58Z",
-  "since": "2026-11-07T01:03:58Z",
+  "run_at": "2026-11-09T13:04:29Z",
+  "since": "2026-11-08T01:04:29Z",
   "stats": {
-    "candidates": 604,
-    "already_known": 38,
-    "not_ai": 327,
-    "merged_duplicates": 5,
-    "new_unique": 234,
-    "written": 234,
-    "seconds": 331
+    "candidates": 703,
+    "already_known": 33,
+    "not_ai": 319,
+    "merged_duplicates": 7,
+    "title_duplicate": 2,
+    "new_unique": 342,
+    "written": 342,
+    "seconds": 346
   },
   "by_content_source": {
-    "summary": 67,
-    "fulltext": 72,
-    "post": 95
+    "summary": 128,
+    "fulltext": 125,
+    "post": 89
   },
   "top_sources": [
     [
       "Reddit",
-      106
-    ],
-    [
-      "Techmeme",
-      8
-    ],
-    [
-      "The Guardian",
-      7
-    ],
-    [
-      "note",
-      7
-    ],
-    [
-      "GitHub",
-      6
-    ],
-    [
-      "MarkTechPost",
-      5
+      97
     ],
     [
       "Bloomberg",
-      5
-    ],
-    [
-      "CNBC",
-      5
-    ],
-    [
-      "Financial Times",
-      4
+      19
     ],
     [
       "Business Insider",
-      4
+      11
     ],
     [
-      "The Verge",
-      3
+      "Financial Times",
+      9
     ],
     [
-      "Scientific American",
-      3
+      "Techmeme",
+      9
+    ],
+    [
+      "Channel NewsAsia",
+      9
+    ],
+    [
+      "CNBC",
+      9
     ],
     [
       "Forbes",
+      8
+    ],
+    [
+      "The New York Times",
+      6
+    ],
+    [
+      "Axios",
+      6
+    ],
+    [
+      "Euronews",
+      5
+    ],
+    [
+      "Mashable",
+      5
+    ],
+    [
+      "South China Morning Post",
+      5
+    ],
+    [
+      "NVIDIA Blog",
+      5
+    ],
+    [
+      "Nature",
+      5
+    ],
+    [
+      "note",
+      5
+    ],
+    [
+      "The Verge",
+      4
+    ],
+    [
+      "The Information",
+      4
+    ],
+    [
+      "The Guardian",
+      4
+    ],
+    [
+      "PCMag",
+      4
+    ],
+    [
+      "The Hindu",
+      4
+    ],
+    [
+      "Engadget",
+      3
+    ],
+    [
+      "Quartz",
       3
     ],
     [
@@ -73,49 +114,9 @@
       3
     ],
     [
-      "South China Morning Post",
+      "Simon Willison",
       3
-    ],
-    [
-      "TechCrunch",
-      2
-    ],
-    [
-      "WIRED",
-      2
-    ],
-    [
-      "The Information",
-      2
-    ],
-    [
-      "Engadget",
-      2
-    ],
-    [
-      "Fast Company",
-      2
-    ],
-    [
-      "Fox News",
-      2
-    ],
-    [
-      "Mashable",
-      2
-    ],
-    [
-      "PCMag",
-      2
-    ],
-    [
-      "The New Stack",
-      2
-    ],
-    [
-      "Towards Data Science",
-      2
     ]
   ],
-  "total_articles": 10192
+  "total_articles": 10534
 }

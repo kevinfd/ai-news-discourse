@@ -1,0 +1,58 @@
+---
+id: "1a601d8027f88e48"
+title: "Meta announces global roll out of its age estimation system"
+url: "https://mashable.com/tech/meta-rolling-out-age-verification-globally"
+link: "https://mashable.com/tech/meta-rolling-out-age-verification-globally"
+source: "Mashable"
+domain: "mashable.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-09T12:00:02Z"
+published_date: "2026-11-09"
+collected_at: "2026-11-09T13:04:29Z"
+authors: ["Rebecca Ruiz", "Chase DiBenedetto"]
+language: "en"
+summary: "Meta announced Monday that it will roll out its age-estimation technology globally. The move puts millions more teens around the world into Teen Accounts settings on Instagram, the company said in a blog post .  In April 2025, Meta began using AI technology to detect teens on Instagram, even if they'd used an adult age upon opening an account. Once identified, teens are proactively put into…"
+tags: []
+orgs: ["Meta", "ByteDance"]
+topics: ["search & media", "products & launches", "jobs & society", "business & funding"]
+content_source: "fulltext"
+word_count: 665
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Meta announces global roll out of its age estimation system
+
+Mashable · Rebecca Ruiz, Chase DiBenedetto · 2026-11-09
+
+Meta announces global roll out of its age estimation system
+Meta announced Monday that it will roll out its age-estimation technology globally. The move puts millions more teens around the world into Teen Accounts settings on Instagram, the company said in a blog post.
+In April 2025, Meta began using AI technology to detect teens on Instagram, even if they'd used an adult age upon opening an account. Once identified, teens are proactively put into Meta's safest settings, which are designed to limit inappropriate content.
+This month, parents in the U.S. will begin seeing a video in their Instagram feed explaining how teens are placed in age-appropriate protections.
+You May Also Like
+"We’ll continue to do our part to proactively ensure teens are in age-appropriate experiences on our apps," the blog post said.
+Still, Meta has spent the year under fire for its ability to protect young users.
+In March, the company lost a case brought by the state of New Mexico, which alleged that Meta's design features helped pedophiles sexually exploit children on Meta platforms. A jury found Meta liable for misleading consumers about endangering children and the safety of its platforms. Meta, which said it would fight the decision, was ordered to pay nearly $950 billion in related penalties. 
+        
+            The best tech deal this week
+                            
+                    
+                                    
+                    Products available for purchase through affiliate links. If you buy something through links on our site, Mashable may earn an affiliate commission.
+                
+                        
+In August, Meta made a $12 billion settlement with dozens of state attorneys general in a trial over whether the social media company had designed addictive platforms.
+As part of the settlement, Meta agreed to implement new platform design features and recommit to industry-standard child safety measures, including daily time limits, screen time options like night mode, and stronger age assurance measures. The company also called on competitors TikTok, Snapchat, and YouTube to agree to the settlement terms, at which time Meta would pay another $5 billion. On Monday, Meta again asked TikTok and YouTube to adopt the same practices.
+"We’ve set a strong standard for age assurance, but unless other companies follow suit, teens remain inconsistently protected online, defeating the purpose of these laws," wrote Meta.
+Meta's proposed fixes were met with general approval from online child safety groups, despite continued criticism of the company's Teen Accounts.
+Months prior to the settlement, Meta expanded Teen Accounts to all Meta platform users globally. At the time, the tech giant explained it was exploring additional ways to reinforce age-appropriate content moderation and repetitive, personalized algorithms.
+Meanwhile, governments around the world have begun cracking down on social media access for teens, including Australia's complete social media ban for users under 16. Other countries — as well as some U.S. states — have passed laws reinforcing age-gaited platforms and requiring social media platforms enact age assurance measures. Last week, Meta sued the California attorney general in order to block a new law designed to reduce youth social media addiction.
+Meta said that its services "collectively enable billions of people around the world to share ideas, offer support, [and] discuss important topics." The company argued that the law, set to get into effect in January, would "make it unlawful for Meta to disseminate speech to minors altogether."
+Topics Instagram Social Good Meta
+Rebecca Ruiz is a Senior Reporter at Mashable. She frequently covers mental health, digital culture, and technology. Her areas of expertise include suicide prevention, screen use and mental health, parenting, youth well-being, and meditation and mindfulness. Rebecca's experience prior to Mashable includes working as a staff writer, reporter, and editor at NBC News Digital and as a staff writer at Forbes. Rebecca has a B.A. from Sarah Lawrence College and a masters degree from U.C. Berkeley's Graduate School of Journalism.
+Chase joined Mashable's Social Good team in 2020, covering online stories about digital activism, climate justice, accessibility, and media representation. Her work also captures how these conversations manifest in politics, popular culture, and fandom. Sometimes she's very funny.

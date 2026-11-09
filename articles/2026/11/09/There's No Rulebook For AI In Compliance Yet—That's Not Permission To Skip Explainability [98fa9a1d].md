@@ -1,0 +1,67 @@
+---
+id: "98fa9a1dec10ec9d"
+title: "There's No Rulebook For AI In Compliance Yet—That's Not Permission To Skip Explainability"
+url: "https://forbes.com/councils/forbestechcouncil/2026/11/09/theres-no-rulebook-for-ai-in-compliance-yet-thats-not-permission-to-skip-explainability"
+link: "https://forbes.com/councils/forbestechcouncil/2026/11/09/theres-no-rulebook-for-ai-in-compliance-yet-thats-not-permission-to-skip-explainability"
+source: "Forbes"
+domain: "forbes.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-09T12:30:00Z"
+published_date: "2026-11-09"
+collected_at: "2026-11-09T13:04:29Z"
+authors: ["Madhu Nadig, Forbes Councils Member"]
+language: "en"
+summary: "Banks can govern generative and agentic AI with practical risk controls, auditability, human oversight and vendor accountability. Here's how."
+tags: ["Innovation", "/innovation", "technology", "standard"]
+orgs: ["US government"]
+topics: ["agents & coding", "models & research", "policy & regulation", "safety & ethics"]
+content_source: "fulltext"
+word_count: 1026
+paywalled: false
+image: "https://imageio.forbes.com/specials-images/imageserve/6aeceffae736dc9902b86dcd/0x0.jpg?width=960"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# There's No Rulebook For AI In Compliance Yet—That's Not Permission To Skip Explainability
+
+Forbes · Madhu Nadig, Forbes Councils Member · 2026-11-09
+
+Madhu Nadig is co-founder & CTO of Flagright - building the AML compliance infrastructure for Financial Institutions.
+The Federal Reserve, the Office of the Comptroller of the Currency, and the Federal Deposit Insurance Corporation replaced 15-year-old model risk guidance with SR 26-2. The guidance is expected to be most relevant to banking organizations with more than $30 billion in assets, and is not itself a prescriptive AI rule. Yet, one footnote has wider implications for banks experimenting with AI: Generative and agentic AI models are outside the guidance’s scope because they are novel and changing rapidly.
+That carveout could be misread as permission to wait for regulators to finish writing the rules. It is not.
+The same footnote directs banks to use their existing risk-management and governance practices to determine appropriate controls. Federal Reserve Vice Chair for Supervision Michelle Bowman later said that banks are already relying on existing frameworks and that other governance practices are expected to support generative and agentic AI adoption. Earlier in the year, the U.S. Treasury released a Financial Services AI Risk Management Framework, adapting the NIST framework to the operational, regulatory and consumer-protection realities of financial services.
+While the industry does not have a complete AI-specific supervisory playbook, it does have a clear direction, namely that accountability cannot be deferred until the guidance catches up.
+Explainability Is The Floor, Not The Control System
+Explainability is often treated as the answer to AI risk. It is necessary, especially when an AI system influences an alert, investigation or regulatory filing, but it is not sufficient.
+A generative model can produce a fluent explanation that sounds convincing without proving that the explanation faithfully represents how the output was produced. In a financial crime workflow, a well-written rationale is not evidence that the conclusion is accurate, complete or consistent with policy.
+The more useful standard is whether an AI-assisted decision is auditable, reconstructable and contestable.
+Build Controls Around The Entire AI Workflow
+Those capabilities require more than a model description, but instead require controls around the entire workflow.
+1. Govern The Use Case, Not The AI Label
+Risk does not come from the words “generative AI” or “agentic AI” but from what the system can access, recommend and do.
+A tool summarizing a public policy document should not face the same controls as an agent reviewing transaction data or drafting a suspicious activity report. Institutions should classify each use case by materiality, data sensitivity, customer impact, regulatory impact and degree of autonomy.
+One practical distinction is between assistive systems that retrieve or summarize information, advisory systems that recommend an action and agentic systems that can execute steps or call other systems. As authority and consequence increase, so should testing, approval requirements and monitoring.
+2. Make Every Material Output Traceable
+For consequential workflows, institutions need an evidence trail that covers the system, not only its final answer. Subject to appropriate security and retention controls, that record should include the model and version used, system instructions, relevant input data, retrieved sources, permissions, human review and final action.
+This matters because AI systems are not static. Without versioned records, an institution may be unable to explain why two apparently similar cases produced different outcomes.
+Traceability also changes the quality of human review. An analyst cannot meaningfully challenge an output if the evidence behind it is hidden or if the system presents a conclusion without showing its sources.
+3. Bound Autonomy Before Expanding It
+“Human in the loop” is not a control if the human merely clicks approve. Reviewers need the information, authority and time to challenge the system.
+High-consequence actions should have explicit approval gates. Agentic systems should operate with defined tool permissions, transaction and rate limits, escalation paths and an immediate way to suspend execution. Institutions should also decide which actions the system may never take without human authorization.
+4. Test The Workflow, Not Only The Model
+Model benchmarks rarely reflect the conditions of a live compliance operation. Validation should measure the performance of the full workflow, including data retrieval, policy interpretation, analyst interaction and downstream actions.
+The relevant question is not simply whether the model performs well, but whether the combined system remains reliable for its intended purpose and whether failures are detected before they become decisions.
+5. Treat Vendors As Part Of The Control Environment
+Using a third-party AI product does not transfer accountability to the vendor. Banks need enough visibility to understand how the product behaves in their use case and how changes could affect that behavior.
+Due diligence and contracts should address model and feature-change notifications, data use and retention, subprocessors, security controls, evaluation methods, audit evidence, incident notification, service continuity and rollback options. Institutions should also test vendor claims against their own data and risk profile rather than treating a general benchmark as validation.
+This does not require vendors to disclose every line of proprietary code, but it does require them to provide enough evidence for a regulated customer to govern the outcome.
+Governance Should Make Deployment Faster
+The wrong response to regulatory uncertainty is to freeze useful AI projects. The other wrong response is to deploy them through scattered pilots with no common controls, and both approaches create delay.
+A reusable governance layer makes adoption faster. When every new use case enters the same process for ownership, risk classification, evidence capture, permissions, testing, human oversight and incident response, teams spend less time reinventing controls and more time evaluating whether the use case creates value.
+The regulators’ carveout is not an accountability gap. It is a warning against forcing rapidly evolving systems into a checklist designed for a different class of technology. Future guidance may change the details, but the durable questions are already visible: Who owns the system? What decision can it influence? What evidence does it use? What can it do? How is it tested? Who can stop it? Can the institution reconstruct what happened?
+Financial institutions that can answer those questions will be better prepared for whatever guidance arrives next, and they will be better prepared to deploy AI responsibly now.
+Forbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?

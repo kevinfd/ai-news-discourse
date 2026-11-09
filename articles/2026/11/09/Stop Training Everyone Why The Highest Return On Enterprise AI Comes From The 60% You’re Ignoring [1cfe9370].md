@@ -1,0 +1,57 @@
+---
+id: "1cfe93709248a022"
+title: "Stop Training Everyone: Why The Highest Return On Enterprise AI Comes From The 60% You’re Ignoring"
+url: "https://forbes.com/councils/forbestechcouncil/2026/11/09/stop-training-everyone-why-the-highest-return-on-enterprise-ai-comes-from-the-60-youre-ignoring"
+link: "https://forbes.com/councils/forbestechcouncil/2026/11/09/stop-training-everyone-why-the-highest-return-on-enterprise-ai-comes-from-the-60-youre-ignoring"
+source: "Forbes"
+domain: "forbes.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-09T11:45:00Z"
+published_date: "2026-11-09"
+collected_at: "2026-11-09T13:04:29Z"
+authors: ["David Mainiero, Forbes Councils Member"]
+language: "en"
+summary: "​The more important metric is graduation rate: How many casual users from last quarter became meaningfully more capable this quarter?"
+tags: ["Innovation", "/innovation", "technology", "standard"]
+orgs: []
+topics: ["agents & coding", "models & research", "search & media"]
+content_source: "fulltext"
+word_count: 807
+paywalled: false
+image: "https://imageio.forbes.com/specials-images/imageserve/6a3bd7d6b52cb211d2e4383a/0x0.jpg?width=960"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Stop Training Everyone: Why The Highest Return On Enterprise AI Comes From The 60% You’re Ignoring
+
+Forbes · David Mainiero, Forbes Councils Member · 2026-11-09
+
+David Mainiero, Chief AI Officer at AI Digital, leads AI Digital Labs to embed practical, workflow-ready AI into media and marketing.
+At AI Digital, more than 600 people have access to advanced AI platforms, including knowledge-work agents, coding tools and agentic workflows. We’ve invested millions in training, upskilling and internal-tool development. Employees can also request API budgets to build with models beyond our core enterprise subscriptions.
+If any organization should have uniform adoption, it’s ours. It doesn’t.
+About 18% of our organization are power users. One engineer can ship applications that once required a four-person team. A strategist can test more campaign variations in a week than an entire team previously produced in a month. Conservatively, our roughly 110 power users generate the productive equivalent of more than 300 additional employees.
+The temptation is to make everyone a power user. But training alone won’t do that. Power users tend to self-select. The organization’s role is to remove obstacles: provide compute and autonomy, establish sensible guardrails and recruit people with that disposition.
+At the other end are near-zero users, roughly 20% of the organization. Tools are available, and training has been offered, yet usage remains minimal. Some roles have fewer high-value AI use cases; others lack a compelling application or have been given tools that assume too much technical fluency. Beyond a certain point, more training costs more than redesigning the workflow around the user.
+Then, there’s the middle: 62% of the organization. They use AI to summarize, draft and answer basic questions, but haven’t used agentic workflows or seen how a well-designed AI system can take on complex work.
+This group contains the richest untapped leverage. There are nearly four times as many of them as power users. Move the middle from marginal use to even a modest productivity multiplier, and an organization can create more aggregate capacity than its entire power-user cohort generates.
+The distribution will vary by company. But 20/60/20 is a useful directional rule of thumb, and the highest marginal return on structured AI investment is often in the middle.
+It’s A Product Problem
+The first phase of enterprise AI was about teaching people to use AI. The next is about designing systems that don’t require every employee to become an expert.
+Each step should require less AI sophistication from the end user while enabling more sophisticated work. People in the middle aren’t incapable of advanced AI-enabled work; too often, they’ve simply been given an interface that asks too much of them.
+Build shared skills: reusable prompt architectures and workflows within an enterprise AI environment. A media planner shouldn’t need to master prompt engineering. They need a tool that accepts familiar inputs and produces a deliverable they can assess and refine.
+The AI generates the first complete output. The human supplies judgment, context, exceptions and accountability. The last-mile capabilities—evaluating output, redirecting it and applying domain expertise to finish the work—can then be taught in hours, not months. That’s where much of the training budget belongs.
+Graduation Is The Metric
+Most enterprise AI dashboards emphasize activity: activation rates, monthly active users and prompts per user. Those measures can rise without business transformation.
+The more important metric is graduation rate: How many casual users from last quarter became meaningfully more capable this quarter?
+A useful barometer is when middle-tier users begin requesting API budgets, when noncoders start building or when someone who was summarizing emails three months earlier begins assembling tools. That’s a graduation event—and it tells you that their work has changed.
+We track who’s moving beyond casual use and design enablement programs to accelerate it. For example, our AI Experience Center in Miami, scheduled to open in October, is designed for the middle group. It makes the future of media and advertising relevant to their work. The goal isn’t simply education. It’s epiphany. When people see what’s possible in a relevant context, belief follows—and belief drives behavior change.
+The Manager Bottleneck
+Many AI strategies overlook managers. You can give employees access to capable models, but if deliverables, approval processes and staffing models remain unchanged, and nobody identifies tasks that can be delegated to agents, employees will use AI as a faster spellchecker.
+The middle rarely graduates on inspiration alone. Managers must redesign the work. The true unit of AI transformation isn’t the individual employee—it’s the workflow.
+The model is straightforward: Power users discover capabilities, the organization turns what they learn into shared skills and tools, the middle adopts them with minimal friction and some become power users who discover the next wave. The bottom group receives baseline access and clear expectations without consuming disproportionate transformation resources.
+Stop trying to turn every employee into an AI expert. Build an organization in which they don’t need to be one.
+Forbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?
