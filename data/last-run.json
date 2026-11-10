@@ -1,56 +1,99 @@
 {
-  "run_at": "2026-11-09T13:04:29Z",
-  "since": "2026-11-08T01:04:29Z",
+  "run_at": "2026-11-10T13:04:10Z",
+  "since": "2026-11-09T01:04:10Z",
   "stats": {
-    "candidates": 703,
-    "already_known": 33,
-    "not_ai": 319,
-    "merged_duplicates": 7,
-    "title_duplicate": 2,
-    "new_unique": 342,
-    "written": 342,
-    "seconds": 346
+    "candidates": 980,
+    "already_known": 79,
+    "not_ai": 405,
+    "merged_duplicates": 11,
+    "new_unique": 485,
+    "written": 485,
+    "seconds": 412
   },
   "by_content_source": {
-    "summary": 128,
-    "fulltext": 125,
-    "post": 89
+    "fulltext": 240,
+    "summary": 171,
+    "post": 74
   },
   "top_sources": [
     [
       "Reddit",
-      97
-    ],
-    [
-      "Bloomberg",
-      19
-    ],
-    [
-      "Business Insider",
-      11
-    ],
-    [
-      "Financial Times",
-      9
-    ],
-    [
-      "Techmeme",
-      9
-    ],
-    [
-      "Channel NewsAsia",
-      9
-    ],
-    [
-      "CNBC",
-      9
+      90
     ],
     [
       "Forbes",
-      8
+      18
     ],
     [
-      "The New York Times",
+      "Bloomberg",
+      16
+    ],
+    [
+      "The Guardian",
+      15
+    ],
+    [
+      "The Information",
+      15
+    ],
+    [
+      "TechCrunch",
+      14
+    ],
+    [
+      "Techmeme",
+      13
+    ],
+    [
+      "CNBC",
+      12
+    ],
+    [
+      "The Verge",
+      10
+    ],
+    [
+      "Mashable",
+      10
+    ],
+    [
+      "The Hindu",
+      10
+    ],
+    [
+      "Business Insider",
+      9
+    ],
+    [
+      "Quartz",
+      9
+    ],
+    [
+      "WIRED",
+      7
+    ],
+    [
+      "ZDNet",
+      7
+    ],
+    [
+      "Channel NewsAsia",
+      7
+    ],
+    [
+      "BBC News",
+      7
+    ],
+    [
+      "South China Morning Post",
+      7
+    ],
+    [
+      "AWS Machine Learning Blog",
+      7
+    ],
+    [
+      "Financial Times",
       6
     ],
     [
@@ -59,64 +102,20 @@
     ],
     [
       "Euronews",
-      5
-    ],
-    [
-      "Mashable",
-      5
-    ],
-    [
-      "South China Morning Post",
-      5
-    ],
-    [
-      "NVIDIA Blog",
-      5
-    ],
-    [
-      "Nature",
-      5
-    ],
-    [
-      "note",
-      5
-    ],
-    [
-      "The Verge",
-      4
-    ],
-    [
-      "The Information",
-      4
-    ],
-    [
-      "The Guardian",
-      4
-    ],
-    [
-      "PCMag",
-      4
-    ],
-    [
-      "The Hindu",
-      4
-    ],
-    [
-      "Engadget",
-      3
-    ],
-    [
-      "Quartz",
-      3
+      6
     ],
     [
       "Tom's Guide",
-      3
+      6
     ],
     [
-      "Simon Willison",
-      3
+      "The New Stack",
+      6
+    ],
+    [
+      "OpenAI",
+      6
     ]
   ],
-  "total_articles": 10534
+  "total_articles": 11019
 }

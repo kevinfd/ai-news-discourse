@@ -1,0 +1,33 @@
+---
+id: "5ac55ed73ac4731f"
+title: "I dislike AI doomers and boosters, but boosters are undeniably dumber"
+url: "https://reddit.com/r/ArtificialInteligence/comments/1xryofk/i_dislike_ai_doomers_and_boosters_but_boosters"
+link: "https://reddit.com/r/ArtificialInteligence/comments/1xryofk/i_dislike_ai_doomers_and_boosters_but_boosters"
+source: "Reddit"
+domain: "reddit.com"
+source_type: "community"
+collector: "reddit"
+date: "2026-11-09T17:58:18Z"
+published_date: "2026-11-09"
+collected_at: "2026-11-10T13:04:10Z"
+authors: ["Impressive_Map_8080"]
+language: "en"
+summary: "I suppose I dislike doomers a little less than boosters and I think both are a dumb person, but I think boosters are genuinely brain dead. DOOMERS: Are dumb because they think some AI terminator situation is about to happen. Sure, the hacking stuff is shitty but not apocalyptic. The problem with hacking is that it is way easier for AI to hack than it is for AI to engineer. Hacking is just a…"
+tags: ["r/ArtificialInteligence"]
+orgs: []
+topics: ["jobs & society"]
+content_source: "post"
+word_count: 919
+paywalled: false
+image: null
+discussion_url: "https://www.reddit.com/r/ArtificialInteligence/comments/1xryofk/i_dislike_ai_doomers_and_boosters_but_boosters/"
+score: null
+comments: null
+community: "r/ArtificialInteligence"
+---
+
+# I dislike AI doomers and boosters, but boosters are undeniably dumber
+
+Reddit · Impressive_Map_8080 · 2026-11-09
+
+I suppose I dislike doomers a little less than boosters and I think both are a dumb person, but I think boosters are genuinely brain dead. DOOMERS: Are dumb because they think some AI terminator situation is about to happen. Sure, the hacking stuff is shitty but not apocalyptic. The problem with hacking is that it is way easier for AI to hack than it is for AI to engineer. Hacking is just a bunch of trial and error and then processing the info that comes back to you, AI is great at that but will struggle to continuously make good engineering decisions especially with more meaningfully scalable and intense software. The idea that AI could meaningfully be used to create terminator robots is such a ridiculously far off future to me that it is irrelevant and I think much of the doom is perpetuated by AI companies to convince the market of how powerful and advanced they are when in reality the only companies doing well right now are the ones selling AI (mag-7 and frontier labs, although they have no realistic path to profitability) and the rest of the S&P-493 have seen no meaningful change to their profit, revenue, or growth. BOOSTERS: Have mostly stupid opinions. Yes, the technology is “useful” and even “powerful”, but all technology is essentially neutral and policy will determine the effects of a technology on a society. With that in mind, I see very little ways that AI will actually benefit humanity. Sure, I don’t have to manually write code anymore, but I still need a lot of expertise to be able to meaningfully create software. Yes, you made a CRUD that wraps the LinkedIn Developer API and you have 50 monthly subscribers that pay you for it (an actual “AI business” I’ve seen someone talk about online, and if you don’t realize how stupid that idea is then you probably shouldn’t respond to my post). What these people don’t seem to realize is the sea change that AI could represent in terms of our society. It could very easily be the biggest single shift in history from a system of meritocracy to a system of plutocracy, and from democracy to oligarchy. Unfortunately, AI represents incredibly poor incentives in terms of child development, education, critical thinking, and equality and opportunity. What do you think happens to education and critical thinking when kids don’t study or do work anymore? Do you think that level of educated humans will be able to meaningfully use AI to innovate and build the future? AI is trained on past knowledge and what will it truly innovate when we know for a fact that humans have done all innovation so far? I don’t know if we’ll actually be able to innovate with something that spits out code that is slightly above statistical average or information that is slightly above statistical average. Yes, most people are not that innovative but at least they are contributors to the economy and if we don’t educate ourselves how will we find the truly 0.0001% of humans that have revolutionized society? If intelligence and knowledge does become completely centralized to a few large corporate entities, why do you think that is a good society? If all innovation, knowledge, and power did come from AI (which I don’t necessarily believe, but certainly some portion of it will) explain to me how that isn’t plutocracy by definition. Plutocracy is the shift of power and control to those who are wealthy. Arguable the West already functioned quite a bit as a plutocracy (Ivy league schools are just a bunch of rich kids, same with many positions in tech and finance, same with many other positions of power and influence) but these are the things that we already look at with some disgust in our society, why would we want more of that? Why do you think AI is going to empower you when it is easily seen to be creating even higher barriers to opportunity, social mobility, wealth, and equality. All of knowledge, intelligence, and opportunity is now behind a pay wall controlled by a few people who will steal your idea if it is good enough. And there is no meaningful way for you to differentiate yourself from the millions of other people creating these slop CRUD apps that are everywhere now. I guess you’re just excited that you feel like you’re not a complete idiot anymore and can build an html website??? If you were actually smart or had the ability to exploit opportunity then you would have become an engineer before AI made it easy to build a basic app. Before AI, putting in hard work made a differentiation between you and the rest of the population. It still does to some extent these days, but it is definitely diminished and I can’t believe that boosters don’t see how terrible some of these trade offs are for society. Rich people are creating an impenetrable wall of wealth in our society and AI is becoming perhaps their greatest vehicle for this creation. None of you will be able to meaningfully innovate, create business, or differentiate yourselves in the future when in order to do so you’ll need millions of dollars to use the paid-for intelligence in the first place. Yes, you needed money to build before, but you also needed people. People with expertise and education and dedication who you could bring up the socio-economic ladder with you. You’re all just very dumb honestly
