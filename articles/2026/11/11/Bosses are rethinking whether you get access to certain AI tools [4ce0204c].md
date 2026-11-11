@@ -1,0 +1,33 @@
+---
+id: "4ce0204ce67e5963"
+title: "Bosses are rethinking whether you get access to certain AI tools"
+url: "https://businessinsider.com/cisco-goldman-jpmorgan-reconsidering-ai-access-work-2026-11"
+link: "https://businessinsider.com/cisco-goldman-jpmorgan-reconsidering-ai-access-work-2026-11"
+source: "Business Insider"
+domain: "businessinsider.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-11T10:54:01Z"
+published_date: "2026-11-11"
+collected_at: "2026-11-11T13:03:59Z"
+authors: ["Sarah E. Needleman,Tim Paradis", "Sarah E. Needleman,Tim Paradis (sneedleman@businessinsider.com)"]
+language: "en"
+summary: "Companies still want workers to use AI, though some are reconsidering which tools are best suited for which jobs. Maskot/Getty Images Employers, including Goldman Sachs, Cisco, and JPMorgan, are putting new guardrails on AI use. The aim isn't necessarily to cut spending, but to make sure they're getting the most out of the tech. The increased oversight comes after some firms highlighted workers'…"
+tags: ["Careers", "goldman-sachs", "jp-morgan", "cisco", "ai", "artificial-intelligence", "changing-workplace-big-bet"]
+orgs: ["Anthropic", "Nvidia"]
+topics: ["jobs & society", "business & funding", "safety & ethics"]
+content_source: "summary"
+word_count: 823
+paywalled: true
+image: "https://i.insider.com/6af397e3a96052a81c349bb7?format=jpeg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Bosses are rethinking whether you get access to certain AI tools
+
+Business Insider · Sarah E. Needleman,Tim Paradis, Sarah E. Needleman,Tim Paradis (sneedleman@businessinsider.com) · 2026-11-11
+
+Companies still want workers to use AI, though some are reconsidering which tools are best suited for which jobs. Maskot/Getty Images Employers, including Goldman Sachs, Cisco, and JPMorgan, are putting new guardrails on AI use. The aim isn't necessarily to cut spending, but to make sure they're getting the most out of the tech. The increased oversight comes after some firms highlighted workers' voracious AI token consumption. Your favorite AI tool at work might soon come with a budget, a gatekeeper, or both. After years of urging staff to embrace the technology, companies including Goldman Sachs, Cisco, and JPMorgan are taking a more targeted approach to deploying it. From setting budgets and tracking usage to restricting access to certain employees or tools, the different strategies come as companies pour ever-larger sums into AI and seek to reduce security risks. Many employers are realizing that AI use is "really picking up" and they need to set guardrails, said Lari Hämäläinen, a senior partner in McKinsey & Company's technology, media, and telecommunications practice. At Goldman Sachs, CEO and chairman David Solomon said this month that while the bank is rapidly expanding the range of AI tools it provides to its 45,000 employees, it doesn't make sense for all of them to have access to the most advanced models every day. "We need frontier models for certain things, particularly cyber," he told Bloomberg TV. However, "there are a lot of things where we don't need the frontier" to help employees be more productive. Other companies are limiting AI spending after first using looser policies to drive adoption. Cisco's chief product officer, Jeetu Patel, compared the company's early approach to learning to ride a bicycle: Coding teams got months of unlimited tokens to become fluent with AI before worrying about efficiency, he said last month on the CXOTalk podcast . As usage has grown, Patel said managers across his 32,000-person team would receive token budgets. In September, JPMorgan imposed a monthly $2,000 cap on some engineers' use of Anthropic's Claude Code, Business Insider previously reported. A spokesperson said the bank was tying costs to productivity , quality, risk reduction, and business impact. More tokens, more money The move toward tighter oversight of AI in the workplace comes months after some employers boasted how many tokens their workforces were gobbling up. Visa said it doubled its monthly token use from 1 trillion in February to nearly 2 trillion in March and that it was giving prizes to its AI power users. In March, Nvidia CEO Jensen Huang said the company was trying to spend as much as $2 billion annually on tokens for its engineers — and that he would be "deeply alarmed" if a $500,000 engineer used less than $250,000 worth. Employers also rolled out dashboards to make workers' AI use more visible — and, in some cases, to encourage broader adoption. For example, Disney's dashboard showed its biggest AI users were making hundreds of requests per day on average and using tens of millions of tokens, Business Insider reported in April. Similarly, KPMG US said in May it hoped a dashboard for its advisory business would encourage more "frequent and sophisticated" use among the unit's roughly 10,000 workers. It has since discontinued monitoring AI usage through the dashboard now that staffers are using AI in their everyday work, a spokesperson told Business Insider. Making every token count Now, rising AI spending is prompting companies to shift their focus from expanding usage to maximizing their investment. A new study from Menlo Ventures found that enterprise AI deployment spending reached $177 billion by September, up from $33 billion in all of 2025. Meanwhile, only 13% of about 2,000 tech executives polled by Gartner from May through July said their organizations had gained significant value from AI. Companies' AI bills may be ballooning in part because workers have little incentive to curb their use, said Alex Sobol, cofounder of the Millennium Alliance, an invite-only community for C-suite executives. Without limits, "they're going to use it in every possible way they can," he said. Broad AI access can also create security risks if used improperly — another reason companies might be getting more judicious. A 2025 KPMG survey of more than 1,000 US workers found that 44% were using AI at work without authorization or in inappropriate ways, while 46% had uploaded sensitive company information or intellectual property to public AI platforms. Rippling, a workforce-management software startup, set monthly caps in August on AI tools after projecting token spending could reach 40% of its R&D head count budget. The company said those limits and more efficient model routing lowered that projection to between 10% and 15% while token use remained near its previous peak. "The point isn't to cut AI costs," Matt MacInnis, Rippling's chief product officer, said in a statement to Business Insider. "We're actually fine with cost growth, provided it's productive." Read the original article on Business Insider

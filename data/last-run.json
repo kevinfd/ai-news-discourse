@@ -1,63 +1,60 @@
 {
-  "run_at": "2026-11-10T13:04:10Z",
-  "since": "2026-11-09T01:04:10Z",
+  "run_at": "2026-11-11T13:03:59Z",
+  "since": "2026-11-10T01:03:59Z",
   "stats": {
-    "candidates": 980,
-    "already_known": 79,
-    "not_ai": 405,
-    "merged_duplicates": 11,
-    "new_unique": 485,
-    "written": 485,
-    "seconds": 412
+    "candidates": 1068,
+    "already_known": 105,
+    "not_ai": 437,
+    "merged_duplicates": 15,
+    "title_duplicate": 4,
+    "new_unique": 507,
+    "written": 507,
+    "seconds": 382
   },
   "by_content_source": {
-    "fulltext": 240,
-    "summary": 171,
-    "post": 74
+    "fulltext": 214,
+    "summary": 172,
+    "post": 121
   },
   "top_sources": [
     [
       "Reddit",
-      90
-    ],
-    [
-      "Forbes",
-      18
+      142
     ],
     [
       "Bloomberg",
+      17
+    ],
+    [
+      "TechCrunch",
       16
     ],
     [
-      "The Guardian",
+      "Financial Times",
       15
     ],
     [
       "The Information",
-      15
-    ],
-    [
-      "TechCrunch",
-      14
-    ],
-    [
-      "Techmeme",
       13
+    ],
+    [
+      "The Verge",
+      12
     ],
     [
       "CNBC",
       12
     ],
     [
-      "The Verge",
-      10
+      "ZDNet",
+      11
+    ],
+    [
+      "Techmeme",
+      11
     ],
     [
       "Mashable",
-      10
-    ],
-    [
-      "The Hindu",
       10
     ],
     [
@@ -65,57 +62,61 @@
       9
     ],
     [
+      "Forbes",
+      8
+    ],
+    [
+      "Hugging Face",
+      8
+    ],
+    [
+      "Scientific American",
+      7
+    ],
+    [
+      "The Guardian",
+      7
+    ],
+    [
       "Quartz",
-      9
-    ],
-    [
-      "WIRED",
       7
     ],
     [
-      "ZDNet",
-      7
+      "Engadget",
+      6
     ],
     [
-      "Channel NewsAsia",
-      7
+      "CNET",
+      6
     ],
     [
-      "BBC News",
-      7
+      "Fast Company",
+      6
+    ],
+    [
+      "The Hill",
+      6
+    ],
+    [
+      "Politico",
+      6
     ],
     [
       "South China Morning Post",
-      7
+      6
     ],
     [
       "AWS Machine Learning Blog",
-      7
-    ],
-    [
-      "Financial Times",
-      6
-    ],
-    [
-      "Axios",
-      6
-    ],
-    [
-      "Euronews",
-      6
-    ],
-    [
-      "Tom's Guide",
-      6
-    ],
-    [
-      "The New Stack",
       6
     ],
     [
       "OpenAI",
-      6
+      5
+    ],
+    [
+      "MarkTechPost",
+      5
     ]
   ],
-  "total_articles": 11019
+  "total_articles": 11526
 }

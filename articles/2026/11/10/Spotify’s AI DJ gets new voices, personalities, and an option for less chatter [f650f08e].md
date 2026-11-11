@@ -1,0 +1,41 @@
+---
+id: "f650f08e36be0976"
+title: "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter"
+url: "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter"
+link: "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter"
+source: "TechCrunch"
+domain: "techcrunch.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-10T14:00:00Z"
+published_date: "2026-11-10"
+collected_at: "2026-11-11T13:03:59Z"
+authors: ["Sarah Perez"]
+language: "en"
+summary: "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
+tags: ["AI", "Apps", "Media & Entertainment", "ai dj", "Spotify", "Spotify's AI DJ", "streaming music"]
+orgs: ["OpenAI", "Anthropic", "UK"]
+topics: ["products & launches", "agents & coding", "search & media"]
+content_source: "fulltext"
+word_count: 519
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Spotify’s AI DJ gets new voices, personalities, and an option for less chatter
+
+TechCrunch · Sarah Perez · 2026-11-10
+
+Spotify’s AI DJ, one of the company’s earlier efforts in embracing AI technology to connect people with their favorite music, is getting an upgrade. On Tuesday, the streamer announced that users will now be able to customize their DJ more like they can an AI assistant, by choosing between different voices and personalities. Those who like the feature, but not all the chatter, can also now opt for an experience with less commentary in between sets.
+Since first launching the AI DJ in 2023, Spotify has leveraged AI to improve all areas of its app. Most recently, that has included updates that allow users to chat with a conversational AI agent about music, fine-tune their recommendations with prompts, create playlists with AI, and work with third-party agents like ChatGPT and Claude. However, the DJ remains one of Spotify’s most popular AI features, as it’s used by over 94 million Spotify Premium listeners.
+Now, it’s revisiting one of its first major AI features, taking a cue from the personalization options other AI assistants routinely offer.
+With the update, Spotify Premium subscribers will be able to choose from an expanded set of AI DJ voices in both English and Spanish. The voices include seven English options with British, American, Irish, Australian, and Indian accents, and two new Spanish options.
+The different voices will have their own unique personalities as well. For instance, users can pick between three American voices, one of which is laid-back and warm (Casey), another that’s direct and has an edge (Tess), and a third that has a Southern accent and a youthful energy (Lane). In addition to the other various regional accents, there are also two new Spanish voices, one that’s more down-to-earth (Nico) and one that’s more witty and friendly (Fabi).
+The voices will not replace the AI DJ’s original voice, “X,” which was based on that of a Spotify employee’s real voice recordings. However, DJ Fabi and Nico will now be the only Spanish voices available, replacing the earlier “Livi.”
+The other change allows users to toggle off the commentary between songs, reducing the DJ’s interruptions. While typically, the AI DJ introduces different selections of music, explaining what it picked and why, users can now limit it to brief acknowledgements when they first start the DJ feature and when they turn it off. Spotify says this would allow people to use the DJ at times they may have turned to a playlist instead, like when hosting a party where they want music in the background, but not the chatter.
+To access the DJ, users can search for the term “DJ” in the search bar of the Spotify app on their device, then tap the three-dot menu to pick their voice and commentary settings. To change genres, artists, or recommendations while the DJ is driving things, you simply tap the DJ button again.
+Spotify says the new voices begin rolling out today, November 10, to Premium users in the markets where DJ is already supported. Currently, that includes over 95 global markets, where the DJ is supported in English, Spanish, French, German, Italian, and Brazilian Portuguese.
