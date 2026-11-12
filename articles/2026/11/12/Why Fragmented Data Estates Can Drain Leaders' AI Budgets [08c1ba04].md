@@ -1,0 +1,56 @@
+---
+id: "08c1ba041239ecb8"
+title: "Why Fragmented Data Estates Can Drain Leaders' AI Budgets"
+url: "https://forbes.com/councils/forbestechcouncil/2026/11/12/why-fragmented-data-estates-can-drain-leaders-ai-budgets"
+link: "https://forbes.com/councils/forbestechcouncil/2026/11/12/why-fragmented-data-estates-can-drain-leaders-ai-budgets"
+source: "Forbes"
+domain: "forbes.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-12T12:45:00Z"
+published_date: "2026-11-12"
+collected_at: "2026-11-12T13:04:19Z"
+authors: ["Louis Landry, Forbes Councils Member"]
+language: "en"
+summary: "Organizations need to make sure their data carries enough meaning for agents to reliably utilize it."
+tags: ["Innovation", "/innovation", "technology", "standard"]
+orgs: []
+topics: ["agents & coding", "models & research", "business & funding"]
+content_source: "fulltext"
+word_count: 1028
+paywalled: false
+image: "https://imageio.forbes.com/specials-images/imageserve/6a99bfc7ca549a9b9c6b7f86/0x0.jpg?width=960"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Why Fragmented Data Estates Can Drain Leaders' AI Budgets
+
+Forbes · Louis Landry, Forbes Councils Member · 2026-11-12
+
+Louis Landry, CTO at Teradata.
+“Context” is now the most overworked word in enterprise AI. Everyone uses it, but few mean the same thing. I use a narrow definition: Context is what an agent has to know before it can act. That means knowing what data exists, what it means, how it relates to everything else, when it’s valid and where to find it. That doesn’t come with the model. It must be built into the data estate, because an agent can’t ask the person who built the table.
+Skipping that work costs money. Without context, an agent will fall back on raw intelligence. It will search, guess and infer what it could have been told directly. You will pay in tokens for every wasted step, and each wasted step is another chance to get it wrong.
+Most enterprises aren’t there yet, which is why the bottleneck is in the data estate, not the model. In a 2026 survey Teradata commissioned from Wakefield Research, more than 75% of senior technology and data leaders estimated that 20% or less of their data is “ready for AI agents to use reliably.” Roughly the same percentage said they struggle to unify data and knowledge across business functions well enough for agents to reason across the enterprise.
+Those gaps don’t disappear when an agent gains access to the data; they become operational risks.
+Access Is Not Understanding
+Giving agents access to data without context to understand it is called context fragmentation: data that lacks the meaning, lineage and governance an agent needs to act reliably across an organization. Unlike humans, agents fail quietly. An analyst handed a revenue figure that looks wrong may stop and ask someone. An agent working from the same figure may act on it, and the mistake may surface weeks later.
+Organizations need to make sure their data carries enough meaning for agents to reliably utilize it. The more time an agent searches for an answer, the more time it has to hallucinate.
+The Post-it Note Solution
+If you’re relying solely on powerful models and prompt engineering to get the most out of your data, you’re doing it wrong.
+A brilliant model may not know which customer table finance trusts, but the same is true of a brilliant new hire. Point one at piles of paper and say, “Find me this answer.” They would have to read every pile before they could answer.
+Now put a Post-it note on top of each pile, describing what’s in them, what you won’t find, how the piles relate and which documents to pull first. The same person can find the right answer in a fraction of the time.
+Agents need the same notes. Without them, agents will explore every schema, guess at joins, run queries that fail or return the wrong thing, then try again.
+Bottom-Up And Top-Down Layers
+Context gets built in two layers. The bottom-up layer describes each source: what it holds, what it doesn’t, how it should be used and which other sources it joins to. That is one of a data product’s jobs: telling an agent what a dataset is before the first query.
+The top-down layer is an ontology. It defines the business: things it cares about, how they relate and what constraints they obey, regardless of which system holds the data. Neither layer works alone. Descriptions without an ontology give an agent well-labeled piles but no picture of how the business fits together. An ontology without descriptions has the opposite problem. It knows a customer should exist and how a customer relates to an order, but it doesn’t know where customer data lives, which data is correct for this use or whether anyone still maintains it.
+Take a simple question about last quarter’s revenue, for example. Ask sales, finance and billing, and you’ll receive three different numbers. Each team is right about its own number. The ontology says what revenue is and how it relates to customers and contracts. The descriptions say where each number lives and how current it is. Neither one tells the agent which number to use for the question in front of it.
+Building either layer by hand doesn’t scale. Both have to span every system the business runs, without moving the data first, because an agent’s question doesn’t stop at a platform boundary. Nobody is going to write notes for decades of tables. Much of the bottom layer can be discovered from the estate itself: what each source holds, where it came from, how it’s used and what it connects in practice. The top layer doesn’t have to start from a blank page either, because how a bank or a retailer works is already well understood broadly.
+But no amount of discovery or industry knowledge can supply what people in the business have never written down: which number counts and for which question.
+The Governance Layer That Underpins It All
+The returns from enterprise AI come when agents act on the business, not just answer questions about it. Governance is what lets you give them that authority. Someone must decide what an agent may do, what data it sees and on whose behalf, how long it runs, how much it spends and when a person has to sign off. Those limits can’t live in the prompt. A model can be talked out of an instruction, so the controls belong outside it, in the systems the agent acts through. And the enterprise should hold its own off switch rather than depend on a provider’s.
+Models can and should be interchangeable. Context and governance should stay with the enterprise when the model changes.
+The advantage is moving away from models, which everyone can rent, and moving toward giving each decision the context it needs and leaving out what it doesn’t. The advantage will go to the enterprises that put notes on the piles and agree on what the notes mean. Every definition they settle on is reasoning their agents no longer pay for, whichever model they run. Everyone else will keep paying the context tax.
+Forbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?

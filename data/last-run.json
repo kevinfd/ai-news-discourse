@@ -1,122 +1,122 @@
 {
-  "run_at": "2026-11-11T13:03:59Z",
-  "since": "2026-11-10T01:03:59Z",
+  "run_at": "2026-11-12T13:04:19Z",
+  "since": "2026-11-11T01:04:19Z",
   "stats": {
-    "candidates": 1068,
-    "already_known": 105,
-    "not_ai": 437,
-    "merged_duplicates": 15,
-    "title_duplicate": 4,
-    "new_unique": 507,
-    "written": 507,
-    "seconds": 382
+    "candidates": 956,
+    "already_known": 83,
+    "not_ai": 390,
+    "title_duplicate": 3,
+    "merged_duplicates": 13,
+    "new_unique": 467,
+    "written": 467,
+    "seconds": 452
   },
   "by_content_source": {
+    "summary": 158,
     "fulltext": 214,
-    "summary": 172,
-    "post": 121
+    "post": 95
   },
   "top_sources": [
     [
       "Reddit",
-      142
+      102
     ],
     [
       "Bloomberg",
-      17
+      18
     ],
     [
       "TechCrunch",
-      16
-    ],
-    [
-      "Financial Times",
-      15
-    ],
-    [
-      "The Information",
-      13
-    ],
-    [
-      "The Verge",
-      12
+      14
     ],
     [
       "CNBC",
+      14
+    ],
+    [
+      "Financial Times",
+      13
+    ],
+    [
+      "Channel NewsAsia",
+      13
+    ],
+    [
+      "AWS Machine Learning Blog",
+      13
+    ],
+    [
+      "Forbes",
       12
     ],
     [
-      "ZDNet",
+      "Business Insider",
       11
     ],
     [
-      "Techmeme",
-      11
+      "The Information",
+      10
     ],
     [
       "Mashable",
       10
     ],
     [
-      "Business Insider",
+      "Techmeme",
       9
     ],
     [
-      "Forbes",
+      "The New York Times",
       8
-    ],
-    [
-      "Hugging Face",
-      8
-    ],
-    [
-      "Scientific American",
-      7
     ],
     [
       "The Guardian",
-      7
+      8
+    ],
+    [
+      "The Hill",
+      8
+    ],
+    [
+      "The New Stack",
+      8
     ],
     [
       "Quartz",
       7
     ],
     [
-      "Engadget",
+      "note",
+      7
+    ],
+    [
+      "WIRED",
       6
     ],
     [
-      "CNET",
+      "ZDNet",
       6
     ],
     [
-      "Fast Company",
+      "PCMag",
       6
     ],
     [
-      "The Hill",
+      "CBS News",
       6
     ],
     [
-      "Politico",
+      "The Hindu",
       6
     ],
     [
-      "South China Morning Post",
-      6
-    ],
-    [
-      "AWS Machine Learning Blog",
-      6
-    ],
-    [
-      "OpenAI",
+      "The Verge",
       5
     ],
     [
-      "MarkTechPost",
+      "Tom's Guide",
       5
     ]
   ],
-  "total_articles": 11526
+  "total_articles": 11993
 }

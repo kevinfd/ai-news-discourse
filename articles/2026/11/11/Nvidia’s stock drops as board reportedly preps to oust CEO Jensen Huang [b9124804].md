@@ -1,0 +1,37 @@
+---
+id: "b91248042740580a"
+title: "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang"
+url: "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang"
+link: "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang"
+source: "TechCrunch"
+domain: "techcrunch.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-11T23:28:45Z"
+published_date: "2026-11-11"
+collected_at: "2026-11-12T13:04:19Z"
+authors: ["Amanda Silberling"]
+language: "en"
+summary: "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
+tags: ["AI", "In Brief", "Jensen Huang", "nvidia"]
+orgs: ["Nvidia", "Tesla", "China"]
+topics: ["chips & infrastructure", "business & funding"]
+content_source: "fulltext"
+word_count: 206
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang
+
+TechCrunch · Amanda Silberling · 2026-11-11
+
+Nvidia is reportedly planning to oust its co-founder and CEO Jensen Huang, who has led the company for the last 33 years, the Wall Street Journal reports. Sources told the newspaper that the Nvidia board is meeting as soon as Wednesday to determine Huang’s future at the company.
+On Sunday, Huang admitted to having an extramarital affair with a woman purported by U.S. intelligence to be a Chinese spy. On Wednesday evening, the New York Times reported that Huang also had an affair with an executive who reports to him.
+Nvidia has become one of the most valuable companies in the world as it designs the chips that power the AI boom, but in the midst of Huang’s ongoing scandal, Nvidia stock fell about 8% in after hours trading on Wednesday. The stock is down about 11% in the past five days.
+Huang famously delegates very little and has about 60 direct reports, he has said. The company also has not had an obvious successor or a succession plan. According to Bloomberg, Nvidia is working with an outside firm to identify candidates that could potentially replace Huang as CEO.
+SpaceXSI CEO Elon Musk late on Wednesday posted on X that hiring Huang “would be an honor.”
