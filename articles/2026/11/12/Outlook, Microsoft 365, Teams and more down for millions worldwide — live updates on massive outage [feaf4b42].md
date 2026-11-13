@@ -1,0 +1,157 @@
+---
+id: "feaf4b4208160446"
+title: "Outlook, Microsoft 365, Teams and more down for millions worldwide — live updates on massive outage"
+url: "https://tomsguide.com/news/live/microsoft-outlook-down-live-updates-outage-11-12-26"
+link: "https://tomsguide.com/news/live/microsoft-outlook-down-live-updates-outage-11-12-26"
+source: "Tom's Guide"
+domain: "tomsguide.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-12T18:49:43Z"
+published_date: "2026-11-12"
+collected_at: "2026-11-13T13:04:09Z"
+authors: ["Dave LeClair"]
+language: "en"
+summary: "<p>Dave LeClair is the Managing News Editor for Tom's Guide, keeping his finger on the pulse of all things technology. He loves taking the complicated happenings in the tech world and explaining why they matter. Whether Apple is announcing the next big thing in the mobile space or a small startup advancing generative AI, Dave will apply his experience to help you figure out what's happening and…"
+tags: ["Email", "Computing", "Internet"]
+orgs: ["Microsoft", "Apple"]
+topics: ["products & launches"]
+content_source: "fulltext"
+word_count: 3361
+paywalled: false
+image: "https://cdn.mos.cms.futurecdn.net/8iCVdg7KgfxBGu9fseR6GA-1920-80.jpg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Outlook, Microsoft 365, Teams and more down for millions worldwide — live updates on massive outage
+
+Tom's Guide · Dave LeClair · 2026-11-12
+
+Outlook, Microsoft 365, Teams and more down for millions worldwide — live updates on massive outage
+Productivity is grinding to a halt as several Microsoft services aren't working
+Something is seriously wrong with Microsoft Outlook and other popular Microsoft services like Teams, Microsoft 365, Copilot and others. More than 100,000 users are flocking to the popular outage-reporting website Downdetector to report issues.
+Reports began to emerge yesterday at around 12:00 pm ET and although reports have dropped, there are still widespread problems across Microsoft's products.
+For its part, Microsoft has posted on X to its Microsoft 365 Status account about the issue and what it's doing to get things back in order. I eventually got the Microsoft 365 status page to load, and it's been keeping us updated on the latest issues.
+Microsoft Outlook outage — Live updates
+Hanging around 10,000
+While it's gone down a little, the number of reports is still hanging around 10,000, which means a sizable amount of Outlook users are still dealing with issues.
+"Encouraging recovery progress"
+Microsoft says it's seeing some good progress towards putting this outage to bed, but we're not quite out of the woods yet. Here's the latest update from Microsoft 365's X account:
+"We’re seeing encouraging recovery progress, with service availability and email delivery performance improving across a growing portion of affected Microsoft 365 infrastructure. Some users may still experience intermittent issues as recovery actions continue. We’re focused on recovery for the remaining affected environments while prioritizing email queue and backlog reduction. The extended 48-hour email timeout window remains in place to help protect delayed messages as delivery catches up."
+Staying steady in the US
+On the U.S. version of Downdetector, reports are hanging steadily at around 13,000. They got as low as 4,000 during the overnight stretch, but that's likely due to a large portion of North American readers being asleep.
+The latest from Microsoft
+"We’re seeing encouraging recovery progress in Europe, with service availability and email delivery performance improving across a growing portion of affected Microsoft 365 infrastructure. Japan remains comparatively more stable, while North America is also improving; however, some users may still experience intermittent issues as recovery actions continue.
+We're focused on addressing the remaining areas of disruption and improving service consistency across affected regions. Reducing email queues and backlogs remains a priority, and the extended 48-hour email timeout window remains in place to help protect delayed messages as delivery catches up.
+At this time, we have no evidence of malicious activity associated with this incident. We will continue to treat this with urgency until full mitigation, and we will share a full Post-Incident Report with root cause and defense-in-depth actions after mitigation is complete," reads Microsoft's most recent status update.
+Reports are still over 4,000 on DownDetector
+The reports over on DownDetector are shrinking, and they've fallen a long way from yesterday's peak. But I'm still seeing them at over 4,000 at time of writing. I don't think we're out of the woods yet...
+Are you affected by today's outage? Let me know!
+Microsoft's fixes aren't exactly going as expected, which means a lot of people who need these products for either their home or work are going to have a very disrupted Friday. Are you still experiencing problems with any Microsoft systems? Let me know where you're based and how you're coping.
+If you have an alternative to Outlook, you can email me at jeff.parsons@futurenet.com or add a comment below this article.
+Expert reaction: 'A wake-up call for every organisation'
+Microsoft's products are used by a lot of companies, and today's outage will not be helping their Friday productivity much.
+“Microsoft has confirmed there is no indication that this outage was caused by a cyber attack, but the disruption is a stark reminder of just how reliant we've become on digital infrastructure and how quickly everyday operations can grind to a halt when critical systems go offline," Marijus Briedis, Chief Technology Officer at NordVPN, told Tom's Guide
+“The scale of this outage highlights just how interconnected our digital world has become. When a major technology platform experiences disruption, the knock-on effects can spread rapidly across businesses, industries and essential services, affecting millions of people who rely on these systems every day.
+"This should be a wake-up call for every organisation. Businesses need to ensure they can continue operating when critical technology becomes unavailable, without relying entirely on a single system or provider.”
+Microsoft says the outage isn't a cyberattack
+Microsoft says the cause of these problems isn't down to a cyber attack.
+"At this time, we are not aware of any malicious activity causing this incident," the company wrote in its latest status update.
+"We will continue to treat this with urgency until full mitigation, and we will share a full Post-Incident Report with root cause and defense-in-depth actions after recovery is complete."
+Microsoft outage causing knock-on effects around the world
+Hi everyone, Jeff Parsons here from Tom's Guide's U.K. office, stepping in to this live blog to keep you updated.
+We're into the second day of this Microsoft outage, and the knock-on effects are being felt over this side of the pond.
+Many schools across the country use Microsoft's services and are now relying on phone lines. Banks and hospitals are also affected. Even the government is wrapped up in the Microsoft blanket. A U.K. parliamentary spokesperson told the BBC: “We are aware of the global issue affecting Microsoft email services, which is impacting users of the parliamentary network. We are working with Microsoft to resolve the matter as quickly as possible.
+"Alternative communication arrangements are in place, allowing today’s business to continue.”
+Microsoft extends email timeout window to 48 hours
+Microsoft's latest update says the company is extending the email timeout window on Outlook to 48 hours as it continues to grapple with the problems.
+This just means the email client will wait a bit longer to receive emails so that anything sent from an unaffected service, like Gmail, will still arrive after the problem is fixed.
+Microsoft statement on outage: 'Recovery efforts are ongoing'
+It's been over 15 hours since reports first emerged, and Microsoft has posted an update to its status page explaining that, "service capacity has not yet returned to normal levels."
+"Recovery efforts are ongoing across impacted infrastructure," the company wrote. "We are seeing early signs of stabilization, but service capacity has not yet returned to normal levels and health remains variable as traffic is carefully reintroduced."
+Still a lot of reports
+This has been a very long outage, and it's still going, with more than 25,000 reports on Downdetector. While we're far away from where it was when it peaked, we're clearly still not out of the situation fully.
+We'll keep you updated as the outage develops, whether it's Microsoft fixing everything fully or the issues continuing.
+Limiting traffic
+According to a post on X from Microsoft, the company is warning users that the servers that led to today's outage "can become unresponsive again once they receive traffic." For this reason, Microsoft is "limiting which types of traffic can reach affected infrastructure in some locations" which explains why we're still seeing around 30,000 reports of issues with Outlook on Downdetector.~~~
+Winding down but not over yet
+Today's Outlook outage does appear to be winding down with the issue being at least partially resolved for some. However, there are still almost 30,000 reports on Downdetector at the time of writing at 7:12pm ET. We're going to stay on top of this to let you know once Outlook is fully back up and running.
+Preparing for the next outage
+As of right now at 5:38pm ET, the number of users reporting issues with Outlook on Downdetector is declining. However, there are still over 30,000 reports of problems with the service.
+Since Microsoft Outlook outages tend to happen several times a year or more, once it's fully restored, you might want to consider exporting your contacts to a CSV file. That way, when the next outage happens, you can switch to a different email provider in the meantime.
+Now this won't help if you need to login to Outlook just to user your work account. In Outlook itself, you can export your contacts by going to Open & Export and then Import/Export. Select Export to a file, then Comma Separated Values (CSV) and click next. After selecting your contacts and hitting Finish, all of your Outlook contacts will be available as a separate file you can import into Gmail, Yahoo Mail, etc.
+Reports are declining (but there's still issues)
+I don't think we're out of the woods just yet, but it's a good sign that reports are declining on Downdetector. As of 5:41 pm ET the number was just over 37,000. Some users are reporting that Outlook is back up.
+Not the longest outage by far
+Having Microsoft Outlook go down during the middle of a workday is never fun for anyone. However, today's outage is far from the worst one the service has experienced yet.
+Back in July of last year, Outlook was down for 19 to 21 hours worldwide and then in August of this year, it took 67 hours for Microsoft to fully fix the issue behind that outage. 
+Hopefully Outlook returns to normal operations before the start of the workday tomorrow.
+Not just Outlook
+As those affected by today's Microsoft Outlook outage look for alternatives, users are now reporting problems at Gmail, Zoom and even Yahoo Mail on Downdetector. Meanwhile, the actual Outlook outage appears to be winding down at 4:45pm ET today as Microsoft has restarted the affected servers. At the time of writing though, there are still 50,000+ reports of users having problems with Outlook. So we're not in the clear yet.....
+Latest update from Microsoft
+Here is the latest update from Microsoft's Office 365 status page:
+"We've validated an alternative health check method on a subset of affected infrastructure, which allowed the servers in that subset to successfully return to service, and we're now applying this change more broadly. We're also preparing an automated recovery process to continually detect and restart unresponsive servers, to help keep them in service while this change progresses. Additionally, our review of recent changes has identified a small number of configuration updates that we're investigating as potential contributors to the issue."
+Microsoft continues working on a solution
+The problem isn't just related to Outlook, as Teams, Copilot, Defender XDR and more Microsoft services are affected. Some users have also reported being unable to access their OneDrive storage or Office online. Microsoft is restarting its servers with a fix in place, the company says.
+Users are still reporting issues
+As of 3:50 pm ET today, Downdetector shows 59595 reports. Although this is down from the peak of over 130K reports four hours ago, it is still a significant number.
+The hottest Outlook takes come from... Wendy's
+Wendy's X account sure is something to behold. The fast-food brand is dropping some hilarious takes about the outage in its replies to users, including a timely reference to it being down because "that guy cheated on his wife."
+Updates are fast and furious from Microsoft
+Microsoft posted another update on its status page and it seems like things are moving forward but with some issues.
+"While validating the targeted change, we found that many of the affected servers have become unresponsive, which is preventing us from confirming whether the change is effective. We're restarting these servers so they can come back online with the change in place, and we're applying the same approach to additional affected portions of our infrastructure to validate the results more broadly," reads the status page.
+Things are staying pretty steady on Downdetector
+Lately, we haven't seen any significant drops in Downdetector reports. Currently, reports are at 61,000, and they've been gradually dropping. Usually, when something is fixed during an outage, we see a sharp drop in the number of reports; a gradual decline likely indicates that people just aren't reporting as much as when the outage first started.
+Microsoft status page update
+"While we haven't identified any recent changes that correlate with the start of impact, our investigation indicates the failed health checks may originate from a specific component on the affected servers that's responsible for processing them. We're deploying a targeted change to bypass this component on a subset of servers to validate whether this restores availability, and we've taken steps to prevent additional servers from being removed from service while we work to return the affected servers to service. We're also investigating why affected servers are experiencing elevated processor usage while handling requests."
+Reddit with the hot takes
+As usual, Reddit users have some funny takes on the outage. Not many of them are particularly helpful, but if you're looking for some entertainment while you can't get things done, it might be worth checking out this thread and having a laugh.
+Of course, if you have your own witty comments, you're welcome to scroll down this page and leave a comment here; we read them all!
+"We've not identified any recent change correlated with the start of impact"
+Microsoft jumped on its 365 Status X account with another update, this time it said, "We've not identified any recent change correlated with the start of impact; however, our investigation indicates the failed health checks may originate from a specific component that's responsible for processing server health. We've taken steps to prevent additional servers from being impacted while we work to return the affected servers to service."
+It sounds like it's doing what it can to mitigate the damage caused by the servers being down, but it doesn't have a solution to bring the affected one back online yet.
+Users on Downdetector weigh in
+Finding useful messages in the Downdetector comments section is challenging, to say the least. When these outages happen, users tend to use the comments as a message board of sorts where they let out all kinds of random thoughts. This one is no exception.
+However, some users are reporting actual statuses and information if you're willing to dig through all the memes and jokes. For example, the users in the screenshot above are currently dealing with issues in California, which isn't surprising since it seems to be hitting everywhere.
+Early poll results
+So far, 99% of the people who've voted in the poll above are experiencing issues with Outlook. Given that it has thousands of votes in that direction, I think it's pretty clear we aren't done with this outage yet.
+Microsoft with another solution
+"We're testing a configuration change to address a problem that's causing servers to fail automated health checks and become unavailable. In parallel, we've initiated a restart of all affected servers and are monitoring health as they return to service," the company posted on X and to its status page.
+Slowly dropping
+Reports have hit the 77,000 range recently, which is a sizable drop from the peak. It's still one of the bigger outage numbers we've seen in recent months, so we're by no means out of the woods yet, but between slightly lower reports and Microsoft having a strong idea of what went wrong, we could be in good shape.
+Microsoft seems to have found the cause
+"We determined the elevated load isn't driven by an increase in traffic, but by a number of servers being unexpectedly unavailable; straining the remaining infrastructure. We're working to safely return them to service," the company posted on X.
+If Microsoft is able to get these servers up and running soon, we could be seeing this outage come to an end. Of course, it could take some time or end up being something else causing problems.
+Microsoft status update
+"We're aggressively pursuing all pathways to reduce impact. As a precaution, we've paused all deployments and configuration changes while we review recent changes for any correlation to this event. We've determined that the elevated load isn't driven by an overall increase in traffic, but by a large number of servers being unexpectedly unavailable, which is shifting load onto the remaining infrastructure. We're investigating what's causing these servers to become unavailable while we work to safely return them to service," reads the latest update on Microsoft's status page.
+Downdetector check in
+Downdetector reports are staying fairly steady with around 88,000 reports. That's about 10,000 down from the peak, but still a fairly high number.
+"Completed redistributing connection traffic across our worldwide infrastructure"
+Digging a little deeper into Microsoft's status page, we can see that the company says it has "completed redistributing connection traffic across our worldwide infrastructure, and we're moving additional traffic off the affected infrastructure to further reduce load." That sounds like a big step in the right direction for getting things back in working order.
+"We're also restarting affected servers to return them to service. In parallel, we're investigating whether the elevated traffic reflects a genuine increase in requests or a shift in how traffic is being routed across our infrastructure," the status update continues.
+We'll see if things start to come back to normal for Outlook and other Microsoft users (officially, Microsoft lists Exchange Online, Microsoft Teams,SharePoint Online, Microsoft Copilot 365 and Microsoft Defender XDR as affected services).
+Status page loaded
+I decided to just leave the status page loading in the background without refreshing or anything. After about 5 minutes, I went back to the tab and saw that it finally loaded (probably took extra time due to whatever techniques Microsoft is using to re-route traffic).
+Is this a sign that the outage is almost over? Maybe, but according to the now-loading status page, things are still very much not over.
+Still can't access status page
+While user reports are dropping, I personally still can't access the status page for Microsoft, so I'm forced to turn to X for the latest news (which isn't always as quick as going straight to the source). I've tried reloading the status page many times, and it's had the same result.
+Of course, we'll continue to monitor both the status page and X for the latest information. When the status page does start working again, that's probably a good sign.
+Below 100,000
+Downdetector reports have dropped below 100,000 for Outlook, which likely means that some of Microsoft's traffic-redistribution methods are working for at least some percentage of users.
+The cause
+Microsoft appears to have found the cause, as it posted on X saying that "We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors." It quickly followed up with another post saying, "We've begun redistributing connection traffic across our broader worldwide infrastructure to help balance the load."
+It sounds like the company might have a solution to the problem, though I have to assume that redistributing that much traffic will take some time, so it might be a while before everything is working flawlessly.
+That's a lot of Microsoft
+While Outlook is getting the most attention in terms of raw reports, it's actually the whole of Microsoft 365 that's having problems, so other services are also experiencing outages that are impacting users, just not at the same scale as Outlook.
+Microsoft is working on it
+Microsoft is aware of the issue and working on it. The company took to X to update users that it's "working to mitigate impact" and has "confirmed the issue may affect Microsoft 365 service connectivity for users in any region."
+It didn't provide an updated time for when everything would be back to normal, but hopefully it can get things sorted quickly so emails and calendar alerts can start going again.
+A massive number of reports
+As of this post, Microsoft Outlook is sitting at more about 119,000 reports on Downdetector, which is a bit down from the peak of 130,000 but still a staggeringly large number of people having an issue with the productivity service.
+Next Badge:
+More Comments/Likes Until Your Next Badge
+You must confirm your public display name before commenting
+Please logout and then login again, you will then be prompted to enter your display name.

@@ -1,122 +1,122 @@
 {
-  "run_at": "2026-11-12T13:04:19Z",
-  "since": "2026-11-11T01:04:19Z",
+  "run_at": "2026-11-13T13:04:09Z",
+  "since": "2026-11-12T01:04:09Z",
   "stats": {
-    "candidates": 956,
-    "already_known": 83,
-    "not_ai": 390,
-    "title_duplicate": 3,
-    "merged_duplicates": 13,
-    "new_unique": 467,
-    "written": 467,
-    "seconds": 452
+    "candidates": 1123,
+    "title_duplicate": 4,
+    "already_known": 67,
+    "not_ai": 383,
+    "merged_duplicates": 22,
+    "new_unique": 647,
+    "written": 647,
+    "seconds": 371
   },
   "by_content_source": {
-    "summary": 158,
-    "fulltext": 214,
-    "post": 95
+    "fulltext": 255,
+    "summary": 257,
+    "post": 135
   },
   "top_sources": [
     [
       "Reddit",
-      102
+      157
+    ],
+    [
+      "Mashable",
+      27
+    ],
+    [
+      "Forbes",
+      20
+    ],
+    [
+      "TechCrunch",
+      19
     ],
     [
       "Bloomberg",
       18
     ],
     [
-      "TechCrunch",
-      14
-    ],
-    [
       "CNBC",
-      14
+      17
     ],
     [
       "Financial Times",
-      13
+      15
     ],
     [
-      "Channel NewsAsia",
-      13
+      "The Information",
+      15
     ],
     [
-      "AWS Machine Learning Blog",
-      13
+      "The New York Times",
+      14
     ],
     [
-      "Forbes",
+      "Techmeme",
       12
+    ],
+    [
+      "WIRED",
+      11
     ],
     [
       "Business Insider",
       11
     ],
     [
-      "The Information",
+      "AWS Machine Learning Blog",
+      11
+    ],
+    [
+      "The Verge",
       10
-    ],
-    [
-      "Mashable",
-      10
-    ],
-    [
-      "Techmeme",
-      9
-    ],
-    [
-      "The New York Times",
-      8
-    ],
-    [
-      "The Guardian",
-      8
     ],
     [
       "The Hill",
-      8
+      10
     ],
     [
-      "The New Stack",
+      "Channel NewsAsia",
+      10
+    ],
+    [
+      "The Hindu",
+      10
+    ],
+    [
+      "The Guardian",
+      9
+    ],
+    [
+      "Axios",
+      9
+    ],
+    [
+      "BBC News",
+      9
+    ],
+    [
+      "ZDNet",
       8
     ],
     [
       "Quartz",
-      7
-    ],
-    [
-      "note",
-      7
-    ],
-    [
-      "WIRED",
-      6
-    ],
-    [
-      "ZDNet",
-      6
-    ],
-    [
-      "PCMag",
-      6
+      8
     ],
     [
       "CBS News",
-      6
+      8
     ],
     [
-      "The Hindu",
-      6
+      "Scientific American",
+      7
     ],
     [
-      "The Verge",
-      5
-    ],
-    [
-      "Tom's Guide",
-      5
+      "South China Morning Post",
+      7
     ]
   ],
-  "total_articles": 11993
+  "total_articles": 12640
 }

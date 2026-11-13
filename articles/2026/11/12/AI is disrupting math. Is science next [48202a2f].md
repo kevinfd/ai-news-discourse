@@ -1,0 +1,58 @@
+---
+id: "48202a2f7b8a5db5"
+title: "AI is disrupting math. Is science next?"
+url: "https://scientificamerican.com/article/ai-is-disrupting-math-is-science-next"
+link: "https://scientificamerican.com/article/ai-is-disrupting-math-is-science-next"
+source: "Scientific American"
+domain: "scientificamerican.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-12T16:00:00Z"
+published_date: "2026-11-12"
+collected_at: "2026-11-13T13:04:09Z"
+authors: ["Dan Garisto"]
+language: "en"
+summary: "Mathematicians will remember 2026 as the year AI changed everything about their field. Scientists may be next in line for disruption"
+tags: []
+orgs: ["Anthropic", "OpenAI"]
+topics: ["health & science", "models & research", "agents & coding", "jobs & society"]
+content_source: "fulltext"
+word_count: 1708
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# AI is disrupting math. Is science next?
+
+Scientific American · Dan Garisto · 2026-11-12
+
+In March—eons ago in the current pell-mell of artificial intelligence developments—theoretical physicist Matthew Schwartz gave an ominous message to his peers: AI is going to do lots of science, so watch out. Schwartz’s warning, delivered in a speech at the American Physical Society’s annual meeting, was not particularly well received. Many physicists in the audience reacted with a mix of skepticism and derision to the Harvard University professor’s forecast, which seemed, at the time, too alarmist and too optimistic about AI’s capabilities to be true.
+Now such warnings seem quaint. In the months following Schwartz’s talk, scientists have watched with growing awe and unease as an astonishing series of AI-powered advances has sparked an existential crisis for their colleagues in math. In May models from the company OpenAI, guided by humans, disproved a long-standing conjecture posed by the legendary mathematician Paul Erdős. In August, amid eddies of controversy, AI models effectively solved the Navier-Stokes problem, which has been one of math’s biggest quandaries. And in October OpenAI released 722 AI-generated preprints on some 370 open problems, including a partial solution to the Riemann hypothesis.
+While mathematicians seem to be staring down a future where AI automates many elements of solving proofs, the picture for scientists is still rather murky.
+On supporting science journalism
+Scientists now routinely use AIs for coding and increasingly tap it for analysis as well. As for truly novel results, “I can’t name a result that’s a deep insight into physics yet,” says Schwartz, who is also a consultant for Anthropic, the company behind the Claude family of AI models. “Is that a fundamental limit, or is it just that tools aren’t ready yet? I’m pretty sure it’s that the tools aren’t ready yet.”
+But the tools are improving at a breakneck pace—and theoretical physics, arguably the area closest to math, could be next. In late October OpenAI and Anthropic alike announced their independent progress on a thorny problem that underpins the math of the Standard Model of particle physics. That same month a separate assessment found the latest AI models were nearly flawless at solving research-level theoretical physics problems—minor-but-substantial puzzles that an expert might figure out in a day.
+Amid such tumult, researchers from across the sciences who spoke with Scientific American showed little consensus about what exactly AI will be able to do and how it should be used in their fields. But all agreed that science was on the cusp of massive change.
+“Right now everyone is trying to figure out where AI is going to go, and scientists are not alone in that,” says Mark Histed, a neuroscientist at the National Institute of Mental Health. “There’s a lot of uncertainty.”
+Automation Complication
+Four short years ago large language models (LLMs) were struggling to add two-digit numbers, so it was a major step forward when they became proficient enough to pass eighth-grade math tests. Unlike calculators, they had no hard-coded method of doing arithmetic. As their name suggests, LLMs are trained on text—getting them to do math was seen widely as somehow backward. Now the situation has flipped: the most popular and dominant AI models (which are all LLMs) tend to produce merely “good” prose but can churn out superhuman feats of quantitative reasoning. Their sudden ascent has shaken mathematics to its core, and its human practitioners are struggling to chart a path forward.
+But this staggering progress is only partially explained by ever improving models; the other half of the equation is the nature of math, where exact solutions exist. LLMs can also take advantage of proof verification software, such as Lean, a programming language that can logically codify and confirm a result is true (even if no one fully understands the underlying math). “In the sciences, we don’t have such a verifier,” says N. M. Anoop Krishnan, an engineer studying AI at the Indian Institute of Technology Delhi, who is skeptical that LLMs can produce similarly epochal autonomous discoveries in science.
+Current models excel when they have access to plentiful, well-vetted data. Thanks to training on much of all digitized human scientific knowledge, they can now deliver authoritative-sounding explanations on any given topic. But that doesn’t necessarily mean they can replace human experts. Good scientists rely on subtleties that rarely appear in peer-reviewed literature, such as negative results and hard-won tacit knowledge—“intuitions that are developed in the [scientific] process,” Krishnan says. Moreover, LLMs often homogenize their responses, making them less useful for devising genuinely novel ideas for exploratory scientific work. Even if these problems were surmounted, there’s the pesky existence of a physical world against which to validate, Krishnan points out. Designing a material in silico is no substitute for synthesizing it in the real world.
+Indeed, the ability to predict and design novel materials has historically been seen as one of AI’s greatest promises. Thus far, however, there’s been little to show—high-profile AI-sourced results have mostly produced unphysical materials or ones that were novel in trivial ways. And worse yet, the most promising evidence of AI speeding up materials science turned out to be completely fabricated.
+Leslie Schoop, a physical chemist at Princeton University, who is also consulting with Anthropic, says these dubious past results may not forecast future performance. The dramatic jump in AI’s abilities over the past few months, she says, is undeniable. “It can now do mostly what I can do, except it doesn’t have a lab,” Schoop quips. Recently, she has been trying to coax AI models to predict the existence of a novel structure that she and her co-workers discovered in her lab through the old-fashioned combination of serendipity, intuition and repetition; none have succeeded. “The reason [AI] can’t find this structure is that there’s no analytical way to do it,” she says.
+Of all the areas where AI is likely to struggle, perhaps the most ironic would be the study of intelligence itself and how it arises within the brain. Yet that is precisely where Histed thinks current and near-future models may flounder. “My sense is that the hard questions in the field are really not going to be solved by adding intelligence,” he says.
+What neuroscience needs instead are more and better data, Histed says, reeling off several examples from his “most wanted” list: better recordings of neural activity, more thorough studies of biological networks, new measurements using frontier technologies such as optogenetics, and so on.
+Even if AI gets access to more and higher quality data, there is a looming obstacle for neuroscience and any other sufficiently complicated field. “At some point the amount of data you need to estimate your downstream nonlinear function is greater than can be acquired before the heat death of the universe,” Histed says. In other words, the problem is chaos. The behavior of a chaotic system such as Earth’s weather—and perhaps the brain itself—can only be calculated so far in advance before infinitesimal initial changes magnify to dramatically diverge from expectations.
+Through a Glass, Darkly
+In December 2025 Schwartz began feeding graduate-student-level physics problems to Anthropic’s Claude Opus 4.5 model (the company has since released better, more powerful Opus iterations). The model, Schwartz says, had plenty of limitations, but “it would come back in two minutes with an answer rather than two weeks.” He then documented his experience with an “AI grad student,” calling it “the most important paper I’ve ever written.”
+Since then Schwartz has continued working with the latest models. The trick, he says, is to find “AI-shaped” problems. Last month he and his collaborators released 36 preprints across 22 areas on problems such as outlining the geological history of Earth’s atmospheric oxygen, extending the branches of phylogenetic trees and determining the demographics of sunspots. The diverse problems shared features such as checkability and robust data—and many involved importing a mathematical tool across disciplinary boundaries.
+To generate the results, Schwartz solicited help from experts in various fields. The context they provided was vital. In one case the model proudly announced it had found a way to make earthquake forecasting 15 percent better than current methods—a claim that Schwartz’s independent human expert easily refuted. “Claude convinced me that this was interesting, but then the expert said, ‘Not really,’” Schwartz says.
+Over time, the differences between AI-shaped problems are likely to shrink, Schwartz says. Where will AI be in one year? By some estimates, we will be most of the way to an apocalypse. Schwartz is somewhat less pessimistic but says change will keep accelerating. For theoretical physics, he predicts, “the content of any paper we could write today, Claude could just generate by thinking.”
+Schoop, on the other hand, is not convinced that AI capabilities will continue to progress at their current rate. “You know, every exponential rise eventually flattens out,” she says.
+Two years ago I wrote a “don’t panic” piece in which I argued that AI would become just another tool for human scientists. Proclamations of imminent, immense change seemed silly; back then models routinely failed to count the number of r’s in “strawberry.” The past nine months of developments have been humbling to watch. In math, AI is not just operating as a tool; humans are so far out of the loop in some cases that they simply do not understand the answers models have conjured from the agentic ether. But that is not yet the case in science. Compared with questions of pure logic, the measurements scientists make of our messy universe may better insulate them against the depredations of AI. To what extent, though?
+As a routine skeptic and someone who still does not use generative AI, I take no pleasure in reporting this: we are facing a fundamental shift in the way information is produced—an event in human history that will probably be as impactful as the invention of the printing press. AI is poised to disrupt the jobs of all knowledge workers, which includes scientists—and science journalists. What precisely this means for science, let alone society, remains unclear, but we’re all about to find out.
+“My wife hates AI. And a lot of people do. It’s scary, and it’s impersonal and inhuman, and it’s encroaching on who we are,” Schwartz says. “But as a scientist, I just can’t not use the best available tools to solve problems.”
