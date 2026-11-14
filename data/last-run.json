@@ -1,88 +1,36 @@
 {
-  "run_at": "2026-11-13T13:04:09Z",
-  "since": "2026-11-12T01:04:09Z",
+  "run_at": "2026-11-14T13:03:44Z",
+  "since": "2026-11-13T01:03:44Z",
   "stats": {
-    "candidates": 1123,
-    "title_duplicate": 4,
-    "already_known": 67,
-    "not_ai": 383,
-    "merged_duplicates": 22,
-    "new_unique": 647,
-    "written": 647,
-    "seconds": 371
+    "candidates": 886,
+    "title_duplicate": 5,
+    "already_known": 128,
+    "not_ai": 390,
+    "merged_duplicates": 12,
+    "new_unique": 351,
+    "written": 351,
+    "seconds": 427
   },
   "by_content_source": {
-    "fulltext": 255,
-    "summary": 257,
-    "post": 135
+    "fulltext": 144,
+    "summary": 124,
+    "post": 83
   },
   "top_sources": [
     [
       "Reddit",
-      157
-    ],
-    [
-      "Mashable",
-      27
-    ],
-    [
-      "Forbes",
-      20
-    ],
-    [
-      "TechCrunch",
-      19
+      90
     ],
     [
       "Bloomberg",
-      18
-    ],
-    [
-      "CNBC",
-      17
+      15
     ],
     [
       "Financial Times",
-      15
-    ],
-    [
-      "The Information",
-      15
-    ],
-    [
-      "The New York Times",
-      14
-    ],
-    [
-      "Techmeme",
-      12
-    ],
-    [
-      "WIRED",
-      11
-    ],
-    [
-      "Business Insider",
-      11
-    ],
-    [
-      "AWS Machine Learning Blog",
-      11
-    ],
-    [
-      "The Verge",
       10
     ],
     [
-      "The Hill",
-      10
-    ],
-    [
-      "Channel NewsAsia",
-      10
-    ],
-    [
-      "The Hindu",
+      "Forbes",
       10
     ],
     [
@@ -90,23 +38,19 @@
       9
     ],
     [
-      "Axios",
+      "Techmeme",
       9
     ],
     [
-      "BBC News",
+      "Channel NewsAsia",
       9
     ],
     [
-      "ZDNet",
+      "Mashable",
       8
     ],
     [
-      "Quartz",
-      8
-    ],
-    [
-      "CBS News",
+      "CNBC",
       8
     ],
     [
@@ -114,9 +58,65 @@
       7
     ],
     [
-      "South China Morning Post",
+      "Business Insider",
       7
+    ],
+    [
+      "AWS Machine Learning Blog",
+      7
+    ],
+    [
+      "YouTube",
+      7
+    ],
+    [
+      "The Information",
+      6
+    ],
+    [
+      "TechCrunch",
+      5
+    ],
+    [
+      "Hugging Face",
+      5
+    ],
+    [
+      "The Verge",
+      5
+    ],
+    [
+      "Crypto Briefing",
+      5
+    ],
+    [
+      "MarkTechPost",
+      4
+    ],
+    [
+      "WIRED",
+      4
+    ],
+    [
+      "Engadget",
+      4
+    ],
+    [
+      "Axios",
+      4
+    ],
+    [
+      "The Hill",
+      4
+    ],
+    [
+      "Tom's Guide",
+      4
+    ],
+    [
+      "The New Stack",
+      4
     ]
   ],
-  "total_articles": 12640
+  "total_articles": 12991
 }

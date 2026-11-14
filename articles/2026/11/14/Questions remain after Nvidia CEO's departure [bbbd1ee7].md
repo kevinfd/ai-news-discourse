@@ -1,0 +1,84 @@
+---
+id: "bbbd1ee76f225ab6"
+title: "Questions remain after Nvidia CEO's departure"
+url: "https://abc.net.au/news/2026-11-14/questions-over-jensen-huang-affair-for-us-administration-nvidia/107382476"
+link: "https://abc.net.au/news/2026-11-14/questions-over-jensen-huang-affair-for-us-administration-nvidia/107382476"
+source: "ABC News Australia"
+domain: "abc.net.au"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-14T00:52:34Z"
+published_date: "2026-11-14"
+collected_at: "2026-11-14T13:03:44Z"
+authors: ["Annabel Bowles"]
+language: "en"
+summary: "Jensen Huang was one of the world's most influential figures in the tech and AI industry."
+tags: ["Technology", "Espionage", "AI", "Company News", "Information Technology Industry"]
+orgs: ["Nvidia", "China", "US government"]
+topics: ["chips & infrastructure", "business & funding", "policy & regulation"]
+content_source: "fulltext"
+word_count: 1096
+paywalled: false
+image: "https://live-production.wcms.abc-cdn.net.au/106e24ad254aaec8770558040c5d729c?impolicy=wcms_crop_resize&cropH=2106&cropW=3744&xPos=0&yPos=53&width=862&height=485"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Questions remain after Nvidia CEO's departure
+
+ABC News Australia · Annabel Bowles · 2026-11-14
+
+Despite Jensen Huang's departure from Nvidia, questions remain over the whole affair
+Mounting speculation over an espionage plot against Jensen Huang and his multiple alleged affairs reached a tipping point on Friday, when the tech billionaire quit as Nvidia's CEO.
+The controversy centred around his relationship with Alice Huang, who US intelligence reportedly suspects to be a Chinese spy, before claims emerged he had another two extra-marital affairs.
+While Mr Huang's resignation puts an end to his long reign over Nvidia, questions about America's national security and the US president's knowledge of the whole saga remain.
+Questions for Jensen Huang
+When reports of an espionage plot against Mr Huang first emerged almost a week ago, top Republicans called on the tech executive to front Congress later this month.
+Senator Tim Scott reiterated those demands after Mr Huang's resignation, saying there were "serious concerns" to address.
+Separately the chairs of three House committees — the foreign affairs panel, the China select committee and the intelligence committee — wrote to Mr Huang and Nvidia general counsel Tim Teter requiring them to appear for closed-door transcribed interviews on December 1 and 2.
+Mr Huang and Mr Teter have not publicly commented on the requests, but they could face subpoenas to compel their appearances.
+"There are clear national security concerns that need to be addressed immediately," the three committee chairs wrote in the letter.
+Mr Huang is also yet to comment publicly after reports emerged he allegedly had another two extra-marital affairs — both with Nvidia employees.
+His last statement was on Sunday, local time, when he admitted to being "unfaithful" to his wife of over 40 years but did not name who he had been intimate with.
+In that statement, he said he was "committed to protecting Nvidia and supporting America's national security".
+Meanwhile, Nvidia and Mr Huang are facing a proposed class action accusing them of defrauding shareholders.
+Questions for the US administration
+Next to Mr Huang, Commerce Secretary Howard Lutnick has been called on to testify in front of Congress on concerns he did not do enough to restrict AI chip shipments to China.
+In December 2025 Donald Trump allowed Nvidia to sell its advanced chips to China in exchange for a cut of the sales, after Mr Huang argued that restrictions only accelerated Beijing's own AI development.
+That was despite concerns from both sides of Congress about China's access to the technology.
+Mr Lutnick has also been criticised for the administration's refusal to add dozens of Chinese companies to a trade blacklist.
+In June, Reuters reported the Trump administration had held off adding more than 100 other companies flagged as national security risks to the list.
+The US has not added to the list since October 2025, the longest stretch between new postings in more than a decade.
+Previous reports said that Mr Lutnick's US Commerce Department had not blacklisted new Chinese companies for fear of escalating tensions between the US and China.
+Under-Secretary of Commerce Jeffrey Kessler has been called on to testify at a December 3 hearing as well.
+"Secretary Howard Lutnick and Under-Secretary Jeffrey Kessler must explain why they have not closed export control loopholes and act today to ensure our advanced technology is not fuelling China's military,"
+Democrat Senator Elizabeth Warren said.
+The Commerce Department did not respond to Reuters' request for comment.
+Questions for Donald Trump
+In America's pursuit to lead the AI race, Mr Huang had become a close ally of Mr Trump and was one of the few people known to have a direct line to him.
+He has visited the White House at least five times during Mr Trump's second term, is part of a council advising the president on science and technology, and accompanied Mr Trump on a trip to Beijing in May.
+Loading...
+The Washington Post reported in mid-October that Nvidia committed $US25 million ($36.7 million) for Mr Trump's contentious White House ballroom project, while the president disclosed buying and selling Nvidia stock earlier this year.
+The New York Times reported Mr Trump was briefed on intelligence findings about a suspected espionage effort against Mr Huang about a year ago, and took no action.
+When asked in recent days whether he wished he had acted sooner on that information, Mr Trump said "I don't think so" and maintained that Mr Huang was an "honourable guy".
+The president has continued to stand by Mr Huang and said the tech billionaire told him he had no idea Ms Huang was a spy, and that he believed him.
+Questions for Nvidia
+On the day Mr Huang admitted to his affair, Nvidia announced it had called an independent investigation into whether their then-chief executive had been the "target of a foreign intelligence effort".
+But early in the piece, the company said it had "no reason to believe" either US national security or company secrets had been compromised.
+There was no mention of the investigation when Nvidia announced its current executive vice-president and chief financial officer Colette Kress was stepping in as interim CEO.
+Instead, Nvidia's new chair Harvey C Jones said: "We expect the company's operations, customer commitments and product roadmap to continue without interruption."
+It remains to be seen as to whether the investigation finds evidence Mr Huang gave away sensitive information — or whether its findings are publicly revealed.
+Loading...
+Questions for Alice Huang and Megaspeed
+Ms Huang, who's been identified as a former executive at Singapore-based data centre company Megaspeed, has not commented publicly since the Nvidia scandal erupted.
+China has denied she is a spy and US Attorney-General Todd Blanche said on Thursday the Justice Department had not yet reached a conclusion on whether she was or not.
+Last year, Megaspeed was accused of illicitly shipping advanced Nvidia computer chips into China, but in December said there was "no evidence" of such exports.
+Singaporean authorities also said they questioned Ms Huang and confiscated her passport last year as part of an investigation into Megaspeed's exports.
+They concluded there wasn't enough evidence that she had committed a crime, but suspected she provided "inaccurate information" to downplay her role at Megaspeed.
+Ms Huang left Singapore in February when she received her passport back and was banned from re-entering the country.
+She is currently living in Beijing with the knowledge of security officials, Bloomberg News reported, citing people familiar with the matter.
+The Singapore home affairs ministry said investigations into Megaspeed and six individuals were ongoing.
+Megaspeed said on Thursday it took compliance obligations under US export control laws "extremely seriously", adding it had cooperated with US inspections.
+ABC/Reuters/AP
