@@ -1,122 +1,122 @@
 {
-  "run_at": "2026-11-14T13:03:44Z",
-  "since": "2026-11-13T01:03:44Z",
+  "run_at": "2026-11-15T13:03:31Z",
+  "since": "2026-11-14T01:03:31Z",
   "stats": {
-    "candidates": 886,
-    "title_duplicate": 5,
-    "already_known": 128,
-    "not_ai": 390,
-    "merged_duplicates": 12,
-    "new_unique": 351,
-    "written": 351,
-    "seconds": 427
+    "candidates": 563,
+    "already_known": 59,
+    "not_ai": 307,
+    "merged_duplicates": 2,
+    "title_duplicate": 1,
+    "new_unique": 194,
+    "written": 194,
+    "seconds": 371
   },
   "by_content_source": {
-    "fulltext": 144,
-    "summary": 124,
-    "post": 83
+    "fulltext": 61,
+    "summary": 81,
+    "post": 52
   },
   "top_sources": [
     [
       "Reddit",
-      90
-    ],
-    [
-      "Bloomberg",
-      15
-    ],
-    [
-      "Financial Times",
-      10
-    ],
-    [
-      "Forbes",
-      10
-    ],
-    [
-      "The Guardian",
-      9
+      56
     ],
     [
       "Techmeme",
-      9
-    ],
-    [
-      "Channel NewsAsia",
-      9
-    ],
-    [
-      "Mashable",
-      8
-    ],
-    [
-      "CNBC",
-      8
-    ],
-    [
-      "Scientific American",
-      7
+      14
     ],
     [
       "Business Insider",
-      7
+      12
     ],
     [
-      "AWS Machine Learning Blog",
-      7
+      "Bloomberg",
+      9
     ],
     [
-      "YouTube",
-      7
-    ],
-    [
-      "The Information",
+      "Forbes",
       6
     ],
     [
+      "The New Stack",
+      6
+    ],
+    [
+      "South China Morning Post",
+      5
+    ],
+    [
       "TechCrunch",
-      5
-    ],
-    [
-      "Hugging Face",
-      5
-    ],
-    [
-      "The Verge",
-      5
-    ],
-    [
-      "Crypto Briefing",
-      5
-    ],
-    [
-      "MarkTechPost",
       4
     ],
     [
-      "WIRED",
+      "Financial Times",
       4
     ],
     [
-      "Engadget",
+      "CNBC",
       4
+    ],
+    [
+      "The Guardian",
+      4
+    ],
+    [
+      "Scientific American",
+      3
+    ],
+    [
+      "The Information",
+      3
     ],
     [
       "Axios",
-      4
+      3
+    ],
+    [
+      "Fast Company",
+      3
+    ],
+    [
+      "note",
+      3
+    ],
+    [
+      "The Verge",
+      2
+    ],
+    [
+      "MarkTechPost",
+      2
+    ],
+    [
+      "WIRED",
+      2
+    ],
+    [
+      "Engadget",
+      2
     ],
     [
       "The Hill",
-      4
+      2
     ],
     [
-      "Tom's Guide",
-      4
+      "The New York Times",
+      2
     ],
     [
-      "The New Stack",
-      4
+      "Towards Data Science",
+      2
+    ],
+    [
+      "CBS News",
+      2
+    ],
+    [
+      "The Hindu",
+      2
     ]
   ],
-  "total_articles": 12991
+  "total_articles": 13185
 }
