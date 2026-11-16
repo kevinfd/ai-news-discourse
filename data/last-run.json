@@ -1,122 +1,122 @@
 {
-  "run_at": "2026-11-15T13:03:31Z",
-  "since": "2026-11-14T01:03:31Z",
+  "run_at": "2026-11-16T13:13:10Z",
+  "since": "2026-11-15T01:13:10Z",
   "stats": {
-    "candidates": 563,
-    "already_known": 59,
-    "not_ai": 307,
-    "merged_duplicates": 2,
-    "title_duplicate": 1,
-    "new_unique": 194,
-    "written": 194,
-    "seconds": 371
+    "candidates": 709,
+    "already_known": 45,
+    "not_ai": 311,
+    "merged_duplicates": 4,
+    "title_duplicate": 2,
+    "new_unique": 347,
+    "written": 347,
+    "seconds": 438
   },
   "by_content_source": {
-    "fulltext": 61,
-    "summary": 81,
-    "post": 52
+    "fulltext": 135,
+    "summary": 120,
+    "post": 92
   },
   "top_sources": [
     [
       "Reddit",
-      56
-    ],
-    [
-      "Techmeme",
-      14
-    ],
-    [
-      "Business Insider",
-      12
+      105
     ],
     [
       "Bloomberg",
-      9
+      15
     ],
     [
       "Forbes",
-      6
+      12
     ],
     [
-      "The New Stack",
+      "Financial Times",
+      9
+    ],
+    [
+      "Quartz",
+      9
+    ],
+    [
+      "Channel NewsAsia",
+      9
+    ],
+    [
+      "Techmeme",
+      8
+    ],
+    [
+      "Business Insider",
+      8
+    ],
+    [
+      "Mashable",
+      8
+    ],
+    [
+      "CNBC",
+      7
+    ],
+    [
+      "The Guardian",
       6
     ],
     [
       "South China Morning Post",
-      5
-    ],
-    [
-      "TechCrunch",
-      4
-    ],
-    [
-      "Financial Times",
-      4
-    ],
-    [
-      "CNBC",
-      4
-    ],
-    [
-      "The Guardian",
-      4
-    ],
-    [
-      "Scientific American",
-      3
-    ],
-    [
-      "The Information",
-      3
-    ],
-    [
-      "Axios",
-      3
-    ],
-    [
-      "Fast Company",
-      3
+      6
     ],
     [
       "note",
-      3
+      6
+    ],
+    [
+      "TechCrunch",
+      5
+    ],
+    [
+      "Scientific American",
+      5
     ],
     [
       "The Verge",
-      2
+      4
+    ],
+    [
+      "The Information",
+      4
+    ],
+    [
+      "Axios",
+      4
+    ],
+    [
+      "OpenAI",
+      4
+    ],
+    [
+      "Simon Willison",
+      4
     ],
     [
       "MarkTechPost",
-      2
-    ],
-    [
-      "WIRED",
-      2
+      3
     ],
     [
       "Engadget",
-      2
+      3
     ],
     [
       "The Hill",
-      2
+      3
     ],
     [
-      "The New York Times",
-      2
+      "Tom's Guide",
+      3
     ],
     [
-      "Towards Data Science",
-      2
-    ],
-    [
-      "CBS News",
-      2
-    ],
-    [
-      "The Hindu",
-      2
+      "BBC News",
+      3
     ]
   ],
-  "total_articles": 13185
+  "total_articles": 13532
 }

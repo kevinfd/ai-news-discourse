@@ -1,0 +1,59 @@
+---
+id: "422c3dcbe3db8126"
+title: "South Korea's top scorer in tax accountancy exam admits cheating"
+url: "https://bbc.co.uk/news/articles/ckvg2ezvpe08o?at_campaign=rss&at_medium=RSS"
+link: "https://bbc.co.uk/news/articles/ckvg2ezvpe08o?at_campaign=rss&at_medium=RSS"
+source: "BBC News"
+domain: "bbc.co.uk"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-15T13:37:45Z"
+published_date: "2026-11-15"
+collected_at: "2026-11-16T13:13:10Z"
+authors: ["Dan Sales"]
+language: "en"
+summary: "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
+tags: []
+orgs: []
+topics: ["jobs & society", "policy & regulation", "search & media"]
+content_source: "fulltext"
+word_count: 546
+paywalled: false
+image: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# South Korea's top scorer in tax accountancy exam admits cheating
+
+BBC News · Dan Sales · 2026-11-15
+
+South Korea's top scorer in tax accountancy exam admits cheating
+- Published
+A candidate who came first in South Korea's certified tax accountancy exam has admitted cheating by using a miniature camera, mobile phone and AI tools.
+Han Won-seok confessed in a video on the YouTube account of his lawyer, Lee Don-Ho, adding that he had confessed to the Seoul Metropolitan Police Agency and offered details on how he cheated.
+The 34-year-old scored 397.5 out of 400 points in the first round, getting just one of 160 questions wrong, which initially raised suspicions and sparked online speculation.
+Standardised national tests play an outsized role in career trajectories for South Koreans, making their results - and efforts to unduly inflate those results - of great importance.
+"I cheated in both the first and second rounds of the tax account exam by using electronic devices and generative AI," Han said in the video published on Sunday.
+"I used a microcamera to photograph the test questions and sent them to an AI then checked my answers on my smartphone to commit the cheating."
+When accusations he had cheated first began to surface, Han had denied any wrongdoing - but said he had changed his mind after thinking about the feelings of the candidate who had come second in the exam.
+He went on to apologise to the other entrants who had passed the tests fairly.
+"It seems that because of me, other successful candidates are being suspected," he suggested.
+The Ministry of Employment and Labour and the Human Resources Development Service held an emergency meeting after Han admitted cheating.
+The South Korean president's policy chief Ha Jun-kyung said new measures would be introduced to prevent cheating and warned "past crimes" would be "tracked down and apprehended to the very end".
+Those found to have used AI to cheat in the tax accountancy exam will have their qualification revoked and will be banned from retaking the test for five years, the government said.
+The scandal comes just days before the east Asian nation's annual college entrance exam, a crucial hurdle for students.
+Can smart glasses exam cheating be stopped?
+Asia Specific
+A series of cases involving exam cheating with AI glasses in South Korea has universities and schools scrambling to rein in the use of the technology.
+Han said he had only cheated to try and earn money and get a job that would make his parents proud of him again.
+Seoul Metropolitan Police Agency told Korean news agency Yonhap on Sunday that it was looking into the case.
+"We received a written confession through the test taker's lawyer this morning regarding cheating on the tax accountant exam," it confirmed in a statement.
+It added that the case had now been assigned to investigators.
+Because of the significance of the national exams, instances of cheating are not uncommon in South Korea, and cases involving the use of AI have become more prominent as the technology becomes more sophisticated.
+Last month, two college applicants were reported to have used AI glasses to try and cheat their entrance exams at two Seoul universities.
+Education ministry data also says there were four cases of cheating through AI glasses at middle and high schools in the past 12 months.
+Related topics
+  - Published4 June
