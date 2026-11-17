@@ -1,0 +1,65 @@
+---
+id: "fc05761841d4a558"
+title: "How an AI Content Mill Put a Real Musician Through Copyright Hell"
+url: "https://404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell"
+link: "https://404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell"
+source: "404 Media"
+domain: "404media.co"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-16T14:58:28Z"
+published_date: "2026-11-16"
+collected_at: "2026-11-17T13:04:11Z"
+authors: ["Matthew Gault"]
+language: "en"
+summary: "When writer and musician Samantha Shokin noticed her cover of a public domain Bulgarian folk song had been copyright struck on YouTube, she assumed it would be easy to fix. It wasn’t. And trying to figure out what happened led her to discover an AI content mill that is running 500 slop-filled channels and abusing YouTube’s automated copyright detectors. “Any human would agree with me that…"
+tags: ["News", "YouTube"]
+orgs: ["ByteDance", "China"]
+topics: ["search & media", "policy & regulation", "jobs & society"]
+content_source: "fulltext"
+word_count: 1962
+paywalled: false
+image: "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/photo-1762340273700-70c17506e578.jpeg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# How an AI Content Mill Put a Real Musician Through Copyright Hell
+
+404 Media · Matthew Gault · 2026-11-16
+
+When writer and musician Samantha Shokin noticed her cover of a public domain Bulgarian folk song had been copyright struck on YouTube, she assumed it would be easy to fix. It wasn’t. And trying to figure out what happened led her to discover an AI content mill that is running 500 slop-filled channels and abusing YouTube’s automated copyright detectors.
+“Any human would agree with me that there’s something clearly wrong here that needs to be fixed, but I can’t get in touch with a human being,” Shokin said.
+Shokin’s journey is a modern nightmare that highlights the ways AI can be weaponized against human creators, and the ways people fall through the cracks of big tech’s automated systems.
+During the pandemic, Shokin recorded a 50 second version of the Bulgarian folk song ‘Bre Petrunko’ and uploaded it to SoundCloud, where it didn’t get much traction. Two years later, she uploaded it to YouTube and watched as her cover grew in popularity, gaining 125,000 views in four years.
+Last summer, she noticed an uptick in comments on the video. Unbeknownst to Shokin, her version of “Bre Petruinko” had become popular among DJs and electronic artists and had been sampled in dozens of songs. Someone in the comments pointed her towards one of the more popular tracks. “I look up this video and it’s something that has millions of hits [...] and 30 seconds into this track I hear my own voice and I was utterly shocked. I didn’t know how to react,” she said (the video has more than 4 million views).
+“The first thing that comes to mind is, ‘Oh my god, someone stole my voice and didn’t credit me,’” she said. Shokin said she talked to a lot of DJs and figured out how they’d gotten her voice. They’d purchased a pack of samples from a company called Loopmasters that was selling her version of “Bre Petruinko” as part of its “Folk Legends” set.
+“I got in touch with the distributor and they were deeply apologetic. They were unaware that this had happened and they immediately tried to make right of the situation and granted me royalties on the sample pack,” Shokin said. “At that point, countless DJs and music producers had been using my voice for their own tracks, unbeknownst to me. At least I’m aware and at least I was making something off of it and I was satisfied with that. I didn’t love the way that it came about, but whatever, they tried to make right of the situation.”
+But Shokin’s “Bre Petruinko” saga wasn’t over. Last month, she opened YouTube and noticed her original recording was gone. A company called Media Nov Records had issued a copyright strike against her song, and YouTube had taken it down.She thought it would be easy to get this reversed. It’s a public domain folk song and she had the original recordings and a history with a distributor. “If I just explain it to YouTube, they’ll understand,” she thought.
+Media Nov Records advertises itself as a “distribution company” that that partners with artists to release their music on digital platforms. But a lot of its website focuses on rights management and copyright protection. “At Media Nov, we go above and beyond to safeguard your musical creations. Our comprehensive rights management system leverages cutting-edge technology and legal expertise to ensure you receive the royalties you deserve,” it said on its website.
+YouTube uses automated systems to work through copyright claims. When someone files a claim against a video, the company tends to automatically approve it. The original uploader can file a “counterclaim,” where they argue that the video should stay up, or that it should not be demonetized.
+Shokin filed two counterclaims, but neither worked. “It's unclear to us whether you have a valid reason for filing a counter notification, so we won't be able to honor your request,” YouTube said in its last denial. It told her to contact the copyright holder; in this case, it was a public domain song and so there was no actual “copyright holder,” just Media Nov, which was claiming to hold it.
+“I tried emailing them,” she said. “I tried calling them. There doesn’t appear to be a working phone line. I got in touch with [Loopmaster, which was selling her recording]. They tried getting in touch. I’m being ignored by everybody, by YouTube, by this media company that, like, the website seems to be entirely AI-generated, and all I want is to talk to a human about this.”
+Media Nov’s site boasted about its use of automated DMCA takedowns, YouTube content ID management, and AI-powered content recognition. “Our advanced AI identifies your music across platforms ensuring accurate tracking and protection,” it said. The company says it has been in existence since 1996, but Archive.org’s Wayback Machine doesn’t show much of a web presence until last year. Its website is basic and barebones.
+The company has two addresses on its website. One is an apartment building in Los Angeles on Marina Del Rey. The other is the Black Church in Dublin, Ireland — a cathedral that’s been converted into an office space. The site listed a Los Angeles phone number that was busy every time 404 Media tried to call it.
+According to corporate paperwork filed in Ireland and reviewed by 404 Media, Media Nov Records was founded a little more than a year ago. Its listed address is the Black Church in Ireland but both of its shareholders gave addresses in Turkey.
+404 Media found four different YouTube pages managed by Media Nov Records. Each contained hundreds of videos — many with AI-generated art assets and music. The songs are sometimes cross posted between the different channels and are mostly looping electronic beats. Think low effort “lofi beats” knock offs. The art assets are footage of sports cars, anime girls, and AI-generated pictures of women. The songs are cross posted on multiple channels and often generate fewer than 100 views. Each also has few YouTube shorts that revolve around “random acts of kindness.” A Douyin (the Chinese version of TikTok) watermark is present in some of these videos.
+For example, recent YouTube shorts on its flagship page include a basic beat playing over an AI-generated woman mopping the floor of a store while being berated by her AI-generated boss. Another features an AI-generated woman crying over a well, and a crew of men rescuing her child. One of its other pages looks like this:
+Media Nov Records told 404 Media that it operates 500 of these channels and “works with various artists, content creators, and music partners.” The company did not initially return emails or phone calls from Shokin or Loopmaster, but responded to an email from 404 Media.
+It said it would look into its copyright claim of Shokin’s track. “We remain willing to review the relevant ownership documentation, original audio files, and supporting evidence to investigate the copyright claim thoroughly. If an error is identified, we are committed to taking appropriate corrective action promptly,” it said.
+After 404 Media requested comment, Media Nov Records responded to Shokin and asked her to provide “relevant documentation supporting her ownership of the recording, including original audio files, recording evidence, original publication dates, and any other supporting materials,” which is a wild request considering that it has nothing to do with her recording and does not own the copyright.
+The company told 404 Media that Shokin and Loopmaster’s emails had gone to its spam folder. “Regarding ‘Bre Petrunko,’ we would like to clarify that the musical composition and arrangement rights associated with Philip Koutev’s work must be distinguished from the rights in any individual sound recording. Media Nov Records also holds certain rights relating to the relevant musical content,” the company told Shokin in an email reviewed by 404 Media.
+“Bre Petrunko” is an old folk song with no known writer. It’s primarily sung and most performances of it do not use instruments. Philip Koutev is a Bulgarian composer who popularized a version of the song in 1963. He died in 1982 and the copyright for that particular version is held by the Smithsonian. There are also many other versions of the song on YouTube, some with millions of views.
+“Recording your own cover or performance does not automatically establish ownership of the underlying composition or arrangement. Likewise, rights in the underlying musical work do not automatically establish ownership of your particular recording,” Media Nov said.
+“It’s ironic that they’re in the copyright business,” Shokin said. “It’s not the arrangement that’s in question. It’s the voice and performance [...] they clearly have no clue what they’re talking about.”
+It's unclear why Media Nov Records brought Koutev into the conversation. 404 Media asked which song or work in its catalog triggered the copyright notice against Shokin but Media Nov Records did not respond.
+“That makes it really ridiculous,” Alfred Steiner, an artist and copyright lawyer, told 404 Media. “If it’s her voice and her playing instruments, what could she possibly be infringing if it’s a folk song from the 19th century?”
+The situation between Shokin and Media Nov Records sounded odd to Steiner. “I've seen lots of providers where you say ‘I have the rights’ and basically say nothing more than that, and they put it back because they’re taking a risk now. They’re harming her. If they just put it back, they’re at no risk,” he said.
+“It sounds, to me, like a small company — despite the fact that they represent or run 500 YouTube channels — that are understaffed and is using a lot of different tools, probably a lot of AI, to identify tracks that are ostensibly owned by its clients and then automatically filing takedown requests,” he said. “They’re probably taking down far more than they have the right to take down.”
+Minutes after it sent Shokin an email asking for proof she’d recorded the song, Media Nov Records followed up in an email addressed to both 404 Media and Shokin. “Following our review, Media Nov Records has decided to retract the copyright removal request for Samantha Shokin’s video. We are taking this step because the video has not generated revenue or received views, and we do not consider maintaining the removal request necessary at this stage,” it said. “However, this decision does not constitute a waiver of any rights we may hold. We intend to initiate appropriate legal proceedings regarding the underlying copyright dispute.”
+Around 24 hours later, Shokin’s original video was back up. A spokesperson for YouTube confirmed that it reinstated the video after the claimant withdrew their complaint.
+“It sounds like they got scared and feel like this is not a battle worth fighting,” Shokin said after seeing the email from Media Nov Records.
+“Submitting a takedown request for rights that you don’t have can subject you to liability which includes actual damages and costs and attorney’s fees,” Steiner told 404 Media. “Doing this on a slipshod, shotgun approach is inadvisable from my perspective. Of course, if all of the people you end up offending are small parties and don’t have the resources to respond through the court system, and you are a fly-by-night entity that is hard to pin down and nobody knows who you are [...] it can be difficult to get a remedy.”
+Shokin said she felt vindicated but was unhappy that it took a journalist emailing Media Nov Records to get them to listen to her. “They got my emails and they got Loopmaster’s email and they were just ignoring it because they only decided to respond because they got scared that it’ll be bad press,” she said. “It’s just not great all around. The whole system is broken. It feels like a broken system.”

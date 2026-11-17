@@ -1,52 +1,84 @@
 {
-  "run_at": "2026-11-16T13:13:10Z",
-  "since": "2026-11-15T01:13:10Z",
+  "run_at": "2026-11-17T13:04:11Z",
+  "since": "2026-11-16T01:04:11Z",
   "stats": {
-    "candidates": 709,
-    "already_known": 45,
-    "not_ai": 311,
-    "merged_duplicates": 4,
-    "title_duplicate": 2,
-    "new_unique": 347,
-    "written": 347,
-    "seconds": 438
+    "candidates": 1051,
+    "already_known": 72,
+    "not_ai": 414,
+    "merged_duplicates": 25,
+    "title_duplicate": 1,
+    "new_unique": 539,
+    "written": 539,
+    "seconds": 365
   },
   "by_content_source": {
-    "fulltext": 135,
-    "summary": 120,
-    "post": 92
+    "fulltext": 237,
+    "summary": 162,
+    "post": 140
   },
   "top_sources": [
     [
       "Reddit",
-      105
+      145
+    ],
+    [
+      "Scientific American",
+      22
     ],
     [
       "Bloomberg",
-      15
+      16
     ],
     [
-      "Forbes",
-      12
+      "The Information",
+      14
+    ],
+    [
+      "CNBC",
+      13
     ],
     [
       "Financial Times",
-      9
+      13
     ],
     [
-      "Quartz",
-      9
+      "Forbes",
+      13
     ],
     [
-      "Channel NewsAsia",
-      9
-    ],
-    [
-      "Techmeme",
-      8
+      "TechCrunch",
+      12
     ],
     [
       "Business Insider",
+      12
+    ],
+    [
+      "The Verge",
+      10
+    ],
+    [
+      "Techmeme",
+      10
+    ],
+    [
+      "AWS Machine Learning Blog",
+      10
+    ],
+    [
+      "ZDNet",
+      9
+    ],
+    [
+      "OpenAI",
+      8
+    ],
+    [
+      "The Guardian",
+      8
+    ],
+    [
+      "Channel NewsAsia",
       8
     ],
     [
@@ -54,69 +86,37 @@
       8
     ],
     [
-      "CNBC",
-      7
-    ],
-    [
-      "The Guardian",
-      6
-    ],
-    [
-      "South China Morning Post",
-      6
-    ],
-    [
-      "note",
-      6
-    ],
-    [
-      "TechCrunch",
-      5
-    ],
-    [
-      "Scientific American",
-      5
-    ],
-    [
-      "The Verge",
-      4
-    ],
-    [
-      "The Information",
-      4
-    ],
-    [
-      "Axios",
-      4
-    ],
-    [
-      "OpenAI",
-      4
-    ],
-    [
-      "Simon Willison",
-      4
-    ],
-    [
-      "MarkTechPost",
-      3
-    ],
-    [
-      "Engadget",
-      3
+      "NVIDIA Blog",
+      8
     ],
     [
       "The Hill",
-      3
+      7
     ],
     [
-      "Tom's Guide",
-      3
+      "GitHub",
+      6
     ],
     [
-      "BBC News",
-      3
+      "NPR",
+      5
+    ],
+    [
+      "Euronews",
+      5
+    ],
+    [
+      "PCMag",
+      5
+    ],
+    [
+      "South China Morning Post",
+      5
+    ],
+    [
+      "Nature",
+      5
     ]
   ],
-  "total_articles": 13532
+  "total_articles": 14071
 }

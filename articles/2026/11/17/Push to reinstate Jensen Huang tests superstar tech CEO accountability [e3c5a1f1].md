@@ -1,0 +1,33 @@
+---
+id: "e3c5a1f197238912"
+title: "Push to reinstate Jensen Huang tests superstar tech CEO accountability"
+url: "https://axios.com/2026/11/17/jensen-huang-nvidia-ceo-accountability-power"
+link: "https://axios.com/2026/11/17/jensen-huang-nvidia-ceo-accountability-power"
+source: "Axios"
+domain: "axios.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-17T10:30:08Z"
+published_date: "2026-11-17"
+collected_at: "2026-11-17T13:04:11Z"
+authors: ["Ina Fried"]
+language: "en"
+summary: "The push to reinstate Jensen Huang is set to test whether America's most powerful CEOs can still be held accountable — or if extraordinary success and political alliances have made them untouchable. Why it matters: Silicon Valley has long treated its most successful founders as indispensable. But a new class of tech billionaires, led by figures like Elon Musk, has amplified that culture while…"
+tags: ["top"]
+orgs: ["Nvidia", "Tesla", "US government", "China", "OpenAI", "Google"]
+topics: ["chips & infrastructure", "policy & regulation", "business & funding", "jobs & society"]
+content_source: "summary"
+word_count: 802
+paywalled: false
+image: "https://images.axios.com/GuFLS0adzjQkvWO-ZwWFxvzi_3w=/0x0:1920x1080/1366x768/2026/11/09/1794256138501.jpeg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Push to reinstate Jensen Huang tests superstar tech CEO accountability
+
+Axios · Ina Fried · 2026-11-17
+
+The push to reinstate Jensen Huang is set to test whether America's most powerful CEOs can still be held accountable — or if extraordinary success and political alliances have made them untouchable. Why it matters: Silicon Valley has long treated its most successful founders as indispensable. But a new class of tech billionaires, led by figures like Elon Musk, has amplified that culture while swatting away efforts to curtail their power. Their immense wealth and growing political clout raise a fundamental question: Can corporate boards, regulators, Congress or the courts actually rein in a superstar CEO anymore? Huang's potential return — or the Nvidia board's refusal to entertain it — could signal whether that balance of power is changing. "Power corrupts, and people start to think they are invincible," Anne Wojcicki, the founder of 23andMe and ex-wife of Google co-founder Sergei Brin, told Bloomberg . "We are all complicit in making these people think they are gods. And people do stupid things when they think they are untouchable." Driving the news: A growing campaign to reinstate Huang has attracted more than 180,000 signatures, including thousands of people identifying themselves as Nvidia employees, following his departure after revelations of intimate relationships involving subordinates and an alleged Chinese spy. President Trump said Monday he wouldn't mind seeing Huang return. Elon Musk has also backed the effort. Other supporters include Y Combinator CEO Garry Tan , Epic Games CEO Tim Sweeney , Replit CEO Amjad Masad and Shopify CEO Tobias Lütke. Prominent investors Brad Gerstner and Gavin Baker have separately urged the board not to rule out Huang's return. Some pushing for a reexamination of the issue have focused on what they see as a lack of proof that Alice Huang, the executive with whom he had an affair, was a Chinese intelligence asset. That claim has been attributed in media reports to U.S. intelligence officials, although other stories have called it into question. Yes, but: Others have pointed to the fact that Alice Huang worked on behalf of Megaspeed, a major Nvidia customer that took steps to help Chinese AI companies access cutting-edge chips. The company has been linked to more than $4 billion in Nvidia chip purchases also arranged nearly $12 billion in orders of top-end Nvidia chips destined for Chinese companies, according to The Wall Street Journal. In addition to the relationships, Huang also faces questions about whether he misled Nvidia executives . Nvidia's board isn't currently considering reinstating Huang, CNBC and Reuters reported Monday. Treasury Secretary Scott Bessent has urged Nvidia to look outside the company for new leadership, while tech analyst Dan Ives has dismissed the idea of a comeback as unrealistic. Zoom out: Musk has become perhaps the most prominent embodiment of the superstar CEO, repeatedly defying corporate conventions and weathering controversies that might have ended other executives' careers. In 2018, Musk settled SEC fraud charges over tweets about taking Tesla private, stepping down as chairman but remaining CEO. After a Delaware judge invalidated his enormous Tesla compensation package , shareholders voted to ratify it, and the state's Supreme Court eventually restored the award. Last year, Tesla shareholders approved another potentially massive compensation package, underscoring their willingness to grant extraordinary rewards to a leader they consider indispensable. The Trump factor: Trump's return to the White House added another layer to the power of tech executives, many of whom cultivated close ties to a president whose decisions can affect their businesses through government contracts, regulation and trade policy. But this month's midterm elections demonstrated limits to Trump's political power, raising questions about whether his backing will carry the same weight going forward. Huang's fate will offer an early test, though any decision to reinstate him might reflect investor pressure as much as political influence. The intrigue: The campaign to restore Huang has echoes of Sam Altman's dramatic 2023 ouster and reinstatement at OpenAI, when employees, investors and powerful tech figures rallied to force a reversal. OpenAI's board cited vague concerns about Altman's candor and its ability to trust him. A subsequent review found that his conduct did not mandate removal. Charles Elson, corporate governance expert and founding director of the Weinberg Center for Corporate Governance at the University of Delaware, said Altman's departure was fundamentally a dispute with his board, whereas Huang's case involves specific allegations of misconduct. "What if they were to do nothing? Then you have no code of conduct," Elson said. Altman himself acknowledged the parallels Monday, telling a Semafor conference he has "personal strong empathy to a situation like this," but declined to endorse Huang's return. "Jensen has long been a hero of mine; heroes have flaws," he said, per Bloomberg. The bottom line: Huang's fate could help establish whether the era of the seemingly untouchable CEO is continuing — or beginning to encounter meaningful limits.
