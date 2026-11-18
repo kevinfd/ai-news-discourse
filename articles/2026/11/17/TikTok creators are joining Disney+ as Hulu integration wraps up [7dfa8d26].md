@@ -1,0 +1,51 @@
+---
+id: "7dfa8d2684634d0a"
+title: "TikTok creators are joining Disney+ as Hulu integration wraps up"
+url: "https://mashable.com/life/disney-plus-tiktok-creator-videos-december"
+link: "https://mashable.com/life/disney-plus-tiktok-creator-videos-december"
+source: "Mashable"
+domain: "mashable.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-17T20:56:56Z"
+published_date: "2026-11-17"
+collected_at: "2026-11-18T13:04:14Z"
+authors: ["Olivia Tauber"]
+language: "en"
+summary: "Disney fans have spent years turning their favorite movies and shows into TikTok videos. Starting in December, some of those videos will have a place on Disney+ itself. Disney shared the timing in its fiscal fourth-quarter earnings announcement on Nov. 17, saying the rollout will coincide with the buildup to Marvel's Avengers: Doomsday , which opens in theaters Dec. 18. The launch gives a date…"
+tags: []
+orgs: ["ByteDance", "Meta", "Apple"]
+topics: ["search & media", "products & launches", "business & funding", "jobs & society"]
+content_source: "fulltext"
+word_count: 764
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# TikTok creators are joining Disney+ as Hulu integration wraps up
+
+Mashable · Olivia Tauber · 2026-11-17
+
+TikTok creators are joining Disney+ as Hulu integration wraps up
+Disney fans have spent years turning their favorite movies and shows into TikTok videos. Starting in December, some of those videos will have a place on Disney+ itself.
+Disney shared the timing in its fiscal fourth-quarter earnings announcement on Nov. 17, saying the rollout will coincide with the buildup to Marvel's Avengers: Doomsday, which opens in theaters Dec. 18. The launch gives a date to the content-sharing partnership Disney and TikTok first announced in August, which lets participating creators make short videos using material from Disney's movies and series. It's also another sign of how closely streaming services are watching the creator economy.
+How will TikTok videos work on Disney+?
+The videos will appear in Verts, the vertical video feed Disney+ launched in its U.S. mobile app in March. Subscribers can already swipe through scenes from movies and shows, save titles to their Watchlist, or start watching the full thing. The TikTok partnership will bring creators' own takes on Disney stories into that mix.
+You May Also Like
+The invite-only program is "designed for passionate fans who already make content around Disney IP on TikTok," according to Disney's program page. Invitations are rolling out beginning in November, with selected videos from participating creators appearing on both platforms. The agreement covers brands including Pixar, Marvel, Star Wars, and FX, starting with a U.S. pilot before expanding into other markets. (Disney hasn't announced an exact December launch date.)
+There are some clear boundaries on what qualifies. Disney's editorial guidelines require original commentary, analysis, or perspective, with videos capped at 10 minutes and Disney footage limited to five minutes total. Discussing a character's storyline is welcome; inventing new scenes or adventures for them is off-limits. Major spoilers for new releases and AI-generated depictions of Disney's intellectual property are also prohibited.
+A separate code of conduct governs creators' behavior on and off the platform, and Disney has the final say over participation and publication. The result will be a curated selection of fan videos, arriving just as Avengers: Doomsday gives Marvel fans plenty to talk about.
+Creators are becoming part of the streaming lineup
+The move follows a growing effort to bring internet talent and their audiences into streaming services. As Mashable previously reported, Tubi and TikTok selected 12 creators to develop 10 original series through their Creatorverse Incubator, including Mashable 101 creators Sabrina Brier and Yasmine Sahid, with first shows expected next month.
+Netflix has been building out its creator lineup, too, with a focus on creator-led podcasts. In September, it announced renewals for its original podcasts with Mashable 101 creator Jake Shane and Evan Ross Katz, alongside additions such as Meredith Hayden's Wishbone Kitchen and Couldn't Agree Less with Allison & Isaac, hosted by influencer couple Allison Kuch and Isaac Rochell.
+Meanwhile, Instagram is giving creators more room to bring their longer projects to the platform. As Mashable reported, it’s testing Features, a format that allows select creators to upload horizontal videos up to 90 minutes long and link shorter Reels to the full video. Its Apple TV app also brings that viewing into the living room, giving creators a way to reach fans across screens.
+All these moves point to an increasingly crowded competition for creators and their audiences. From streaming services to social platforms, companies are giving internet talent more places to share their work, betting their fans will follow and stick around to watch.
+What's happening with Hulu?
+December will also bring a bigger change for Disney+ and Hulu bundle subscribers. Disney says its long-running integration will finally deliver a fully unified experience within Disney+, including live TV and select premium add-ons.
+The effort dates back to Disney's Hulu on Disney+ beta launch in December 2023, before the company completed its purchase of Comcast's remaining Hulu stake in June 2025. Hulu still offers standalone subscriptions, and access to Hulu programming and live TV depends on which subscription a viewer holds. Moving those offerings into one app doesn’t automatically include them in every Disney+ plan.
+Together, the changes reveal how much Disney wants to consolidate inside one streaming destination, and how crucial creators are to the company’s broader strategy.
+Olivia Tauber is the deputy editor of digital culture, covering creators, media, movies, beauty, and more. Based in New York, her work has appeared in The New York Times, Vanity Fair, The Cut, Teen Vogue, Complex, and Interview Magazine. She holds a Master's degree in Journalism from NYU and a Bachelor's from the University of Michigan. She also runs Fan Mail, a weekly pop-culture newsletter.

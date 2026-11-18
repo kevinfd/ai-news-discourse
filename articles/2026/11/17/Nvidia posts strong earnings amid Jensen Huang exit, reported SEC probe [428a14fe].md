@@ -1,0 +1,33 @@
+---
+id: "428a14fe490738cf"
+title: "Nvidia posts strong earnings amid Jensen Huang exit, reported SEC probe"
+url: "https://axios.com/2026/11/17/nvidia-earnings-jensen-huang-colette-kress"
+link: "https://axios.com/2026/11/17/nvidia-earnings-jensen-huang-colette-kress"
+source: "Axios"
+domain: "axios.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-17T22:17:00Z"
+published_date: "2026-11-17"
+collected_at: "2026-11-18T13:04:14Z"
+authors: ["Nathan Bomey"]
+language: "en"
+summary: "Nvidia posted a stronger-than-expected third quarter and a bullish outlook in its first earnings report after Jensen Huang was ousted as CEO in a scandal that has reportedly spawned an SEC investigation. Why it matters: Nvidia remains squarely at the center of the AI economy — and investors are anxious for guidance on the company's strategic roadmap following Huang's sudden exit. Zoom in: Nvidia…"
+tags: ["top"]
+orgs: ["Nvidia", "US government"]
+topics: ["business & funding", "chips & infrastructure"]
+content_source: "summary"
+word_count: 414
+paywalled: false
+image: "https://images.axios.com/Ol1PYJjssjJjyeJcWLn9n40CUgw=/0x214:4117x2530/1366x768/2026/11/17/1794949356414.jpeg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Nvidia posts strong earnings amid Jensen Huang exit, reported SEC probe
+
+Axios · Nathan Bomey · 2026-11-17
+
+Nvidia posted a stronger-than-expected third quarter and a bullish outlook in its first earnings report after Jensen Huang was ousted as CEO in a scandal that has reportedly spawned an SEC investigation. Why it matters: Nvidia remains squarely at the center of the AI economy — and investors are anxious for guidance on the company's strategic roadmap following Huang's sudden exit. Zoom in: Nvidia recorded quarterly revenue of $115.8 billion and net income of $65.3 billion, both more than doubling its performance from a year earlier. S&P Capital IQ analysts had expected revenue of $108.7 billion and net income of $60.5 billion. The company's data center revenue — its largest segment — rose 110% from a year ago to $107.6 billion. The showing — which included a whopping gross profit margin of 74.8% — immediately calmed investors who have shaved more than $1 trillion off of Nvidia's market cap since the Huang scandal broke. The stock was up 2% in after-hours trading Tuesday. It marks the first moment for interim CEO Colette Kress — who is also still serving as CFO — to exert her leadership during the most tumultuous moment in the company's history. She didn't mention Huang on Tuesday in the earnings report but touted Nvidia's role as "an exceptional technology leader" and said sales of the company's new, advanced Vera Rubin chips are "off to an explosive start." "Our roadmap is on track and our ambition has never been greater," she said. What we're watching: Whether Nvidia discloses any additional details about its CEO search or other investigations on its earnings call. WSJ reported Tuesday afternoon that the SEC has opened a civil probe into the company. An SEC spokesperson declined to comment. Nvidia reps did not immediately respond to a request for comment. Huang posted a public letter Tuesday saying he'd be "honored" to return as CEO. Newly appointed Nvidia chairman Harvey Jones said on Tuesday afternoon's earnings call that the board unanimously accepted Huang's resignation "and does not intend to reinstate Jensen as CEO." Tech analyst Dan Ives earlier said the board could face a special shareholder meeting called by at least 15% of shareholders. What's next: Tech analyst Gene Munster said on X that the Nvidia earnings call Tuesday is "the most anticipated conference call of all time, and the one we'll likely get the least information from." Editor's note: This story was updated to include comments from Nvidia chairman Harvey Jones made on the company's earnings call.

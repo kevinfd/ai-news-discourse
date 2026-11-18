@@ -1,0 +1,42 @@
+---
+id: "cdafd8ebe9f4be7a"
+title: "The DOJ says it’s investigating Megaspeed"
+url: "https://theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update"
+link: "https://theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update"
+source: "The Verge"
+domain: "theverge.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-17T16:19:03Z"
+published_date: "2026-11-17"
+collected_at: "2026-11-18T13:04:14Z"
+authors: ["Stevie Bonifield"]
+language: "en"
+summary: "The Justice and Commerce Departments said that they are investigating Megaspeed , the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \n \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address inaccurate…"
+tags: ["AI", "News", "Nvidia", "Policy", "Tech"]
+orgs: ["Nvidia", "US government", "China"]
+topics: ["chips & infrastructure", "policy & regulation"]
+content_source: "fulltext"
+word_count: 395
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# The DOJ says it’s investigating Megaspeed
+
+The Verge · Stevie Bonifield · 2026-11-17
+
+The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year.
+The DOJ says it’s investigating Megaspeed
+The announcement comes a week after revelations that Nvidia founder Jensen Huang was romantically linked to a leader at Megaspeed.
+“While we don’t typically comment on ongoing investigations, it is in the public interest to provide the facts and address inaccurate information circulating in public reporting,” the departments said in a statement issued Monday evening. The departments acknowledged there’s been “significant public attention” on Megaspeed.
+Huang resigned as Nvidia’s CEO last week after reports he had an affair with former Megaspeed executive and alleged Chinese spy Alice Huang, who Megaspeed says left the company in August 2025. The scandal has raised questions about national security, and sparked scrutiny of Nvidia’s handling of exports of its chips to China and Megaspeed’s possible role in moving along Nvidia’s chips.
+Earlier this month, the New York Times reported that a Commerce Department investigation into Megaspeed “came to a sudden halt” late last year after its investigators received an email from Nvidia’s general counsel, claiming Commerce Department official Jeffrey Kessler gave Nvidia permission to reach out. The case was then “quickly” handed over to the DOJ, according to the Times.
+The announcement today says the DOJ took the “lead role” in the investigation last year:
+After identifying suspicious activity through proactive monitoring of potential sensitive semiconductor diversion, the Department of Commerce initiated an investigation into Megaspeed in 2024 for potential export control violations. In May 2025, Department of Commerce investigators requested records from Nvidia concerning direct or indirect sales to Megaspeed. In June 2025, Nvidia placed Megaspeed on its “no sell” list. Based on the Department of Commerce’s investigation, agents from the Department’s Bureau of Industry and Security, in conjunction with Singaporean law enforcement officials, conducted an on-site, in-person, end-use check at Megaspeed in June 2025 and interviewed CEO Alice Huang.
+Following this enforcement action, the Department of Justice took the lead role in the criminal investigation of Megaspeed.
+The statement doesn’t go into detail about the current status of the case, but it says the DOJ and Commerce Department “will bring the full extent of the law against Megaspeed for any criminal conduct that may have occurred.”

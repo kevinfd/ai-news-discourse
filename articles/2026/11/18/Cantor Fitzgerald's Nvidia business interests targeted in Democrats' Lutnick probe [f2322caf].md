@@ -1,0 +1,55 @@
+---
+id: "f2322caf68fa8237"
+title: "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe"
+url: "https://cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html"
+link: "https://cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html"
+source: "CNBC"
+domain: "cnbc.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-18T09:45:01Z"
+published_date: "2026-11-18"
+collected_at: "2026-11-18T13:04:14Z"
+authors: ["Kevin Breuninger"]
+language: "en"
+summary: "The congressional probe is among the first to be announced since the blue-wave midterm that will deliver Democrats control of the House and Senate come January."
+tags: []
+orgs: ["Nvidia", "China"]
+topics: ["chips & infrastructure", "business & funding", "policy & regulation"]
+content_source: "fulltext"
+word_count: 930
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe
+
+CNBC · Kevin Breuninger · 2026-11-18
+
+Democrats are scrutinizing the business of Commerce Secretary Howard Lutnick's adult sons as they investigate why the top Trump administration official allegedly resisted cracking down on companies suspected of diverting Nvidia's advanced AI chips to China.
+The probe unveiled Wednesday ratchets up the pressure Lutnick was already facing from inside and outside the Trump administration. It provides the latest sign that Nvidia, the scandal-scarred AI behemoth, will be embroiled in congressional Democrats' coming anti-corruption crusade, as well as a wider bipartisan effort to clamp down on AI chip sales to China.
+Reps. Jamie Raskin, D-Md., and Gregory Meeks, D-N.Y., the respective ranking members of the House Judiciary and Foreign Affairs Committees, are demanding reams of records from Cantor Fitzgerald, the investment firm Brandon and Kyle Lutnick took over from their father after he joined President Donald Trump's Cabinet in February 2025.
+"We seek to understand whether any actions or decisions by Secretary Lutnick concerning export controls, enforcement measures, or national security policies may have been improperly influenced by Cantor Fitzgerald's holdings or business interests," the Democrats wrote in a letter sent Tuesday to Brandon Lutnick.
+At the time of Howard Lutnick's confirmation, Cantor had amassed a stake in Nvidia reportedly valued around $1.2 billion, one of its largest holdings for its clients. Between September 2025 and March 2026, the firm reported a nearly 50% decline in its Nvidia holdings, a CNBC analysis of securities filings found.
+In the same time period, Lutnick had reportedly been pressed to take action against Megaspeed, a Singapore-based tech firm accused of transferring Nvidia AI chips to China. The New York Times reported in October 2025 that the Commerce Department was investigating Megaspeed's ties to Beijing.
+Lutnick "repeatedly stood in the way" of implementing controls on Megaspeed and other companies suspected of funneling cutting-edge chips to China, Axios reported Nov. 11.
+"Secretary Lutnick's reported obstruction may have resulted in billions of dollars of restricted AI chips being diverted to China," read the Democrats' letter, which was also signed by Rep. Sydney Kamlager-Dove, D-Calif., the ranking member of the Foreign Affairs Subcommittee on South and Central Asia.
+Lutnick's reported dithering may also have propped up Nvidia share prices for months, "preventing devastating losses for your company," the Democrats wrote.
+"If these media reports are accurate, the American people deserve to know: Did the Secretary of Commerce seriously and perhaps irreversibly compromise U.S. national security interests to make money for his adult children and Cantor Fitzgerald?" they asked.
+There is no known evidence that Lutnick's sons had advance or insider knowledge or information about Nvidia or the investigations surrounding it.
+Cantor, in a statement to CNBC, called the House Democrats' letter "inaccurate" and said any allegations that its work has influenced government decisions are "baseless."
+"Cantor holds no material proprietary position in Nvidia. Cantor's Nvidia holdings arise primarily from equity swaps executed for clients. We buy the underlying shares to hedge those trades. The decline in our holdings since early 2025 reflects the unwinding of those hedges as clients closed or reduced their swap positions, not a Cantor decision to exit a proprietary position," the company said in the statement.
+"As a global investment bank, Cantor serves clients across many sectors," read the statement, which called any work with Southeast Asia-based companies "ordinary-course investment banking business."
+"We are confident that a full review of the facts will demonstrate that we have operated our business ethically and in full compliance with all applicable rules and regulations," Cantor's statement said.
+The new probe is among the first to be announced since the blue-wave midterm election, which will deliver Democrats control of the House and Senate come January.
+Nvidia's stock has dropped significantly in recent weeks, straining the tech sector it both leads and helps finance, while raising broader concerns about the stability of an economy that has been fueled by the AI boom.
+Jensen Huang admitted to an affair without specifying it was with former Megaspeed executive Alice Huang, whom U.S. officials have reportedly identified as a Chinese spy. Alice Huang and Jensen Huang are not related. Jensen Huang has reportedly engaged in at least two other affairs with Nvidia subordinates. On Tuesday, Jensen Huang wrote on X that he would return as CEO if the company's board asked him back. In its earnings call Tuesday evening, Nvidia Chair Harvey Jones said the board does not intend to reinstate Huang.
+In addition to the records, Raskin, Meeks and Kamlager-Dove are demanding Cantor Fitzgerald immediately take "all necessary measures to prevent the destruction, alteration, deletion, or modification of any documents or communications related to this matter." They asked for confirmation by Nov. 30 that appropriate preservation measures have been taken.
+Their action illustrates how aggressively Democrats plan to investigate all facets of the Trump administration as they home in on alleged corruption by Trump, his allies and his family.
+It's not just Democrats asking questions — Republicans have also demanded answers from Huang, Lutnick and other Nvidia and Commerce officials as the Megaspeed scandal has unfurled. Huang is slated to testify before multiple GOP-led House panels on Dec. 1, while Sen. Tim Scott, R-S.C., has also summoned both Huang and Howard Lutnick to testify.
+Earlier Tuesday, House Foreign Affairs Committee Chairman Brian Mast, R-Fla., sent his own letter demanding information from Under Secretary of Commerce Jeffrey Kessler regarding possible chip smuggling by Megaspeed and its affiliate Speedmatrix.
+"More and more reports are coming to light of possibly extraordinary levels of chip smuggling conducted by Megaspeed and its broader corporate network, all under Jensen Huang's nose," Mast said in a statement.

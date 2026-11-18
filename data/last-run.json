@@ -1,92 +1,88 @@
 {
-  "run_at": "2026-11-17T13:04:11Z",
-  "since": "2026-11-16T01:04:11Z",
+  "run_at": "2026-11-18T13:04:14Z",
+  "since": "2026-11-17T01:04:14Z",
   "stats": {
-    "candidates": 1051,
-    "already_known": 72,
-    "not_ai": 414,
-    "merged_duplicates": 25,
+    "candidates": 922,
+    "already_known": 92,
+    "not_ai": 405,
     "title_duplicate": 1,
-    "new_unique": 539,
-    "written": 539,
-    "seconds": 365
+    "merged_duplicates": 14,
+    "new_unique": 410,
+    "written": 410,
+    "seconds": 414
   },
   "by_content_source": {
-    "fulltext": 237,
-    "summary": 162,
-    "post": 140
+    "fulltext": 243,
+    "summary": 164,
+    "post": 3
   },
   "top_sources": [
     [
-      "Reddit",
-      145
-    ],
-    [
-      "Scientific American",
-      22
-    ],
-    [
-      "Bloomberg",
-      16
+      "TechCrunch",
+      20
     ],
     [
       "The Information",
-      14
+      17
     ],
     [
       "CNBC",
-      13
-    ],
-    [
-      "Financial Times",
-      13
-    ],
-    [
-      "Forbes",
-      13
-    ],
-    [
-      "TechCrunch",
-      12
-    ],
-    [
-      "Business Insider",
-      12
-    ],
-    [
-      "The Verge",
-      10
-    ],
-    [
-      "Techmeme",
-      10
-    ],
-    [
-      "AWS Machine Learning Blog",
-      10
-    ],
-    [
-      "ZDNet",
-      9
-    ],
-    [
-      "OpenAI",
-      8
-    ],
-    [
-      "The Guardian",
-      8
-    ],
-    [
-      "Channel NewsAsia",
-      8
+      15
     ],
     [
       "Mashable",
+      15
+    ],
+    [
+      "Bloomberg",
+      15
+    ],
+    [
+      "AWS Machine Learning Blog",
+      14
+    ],
+    [
+      "Financial Times",
+      12
+    ],
+    [
+      "Axios",
+      11
+    ],
+    [
+      "ZDNet",
+      10
+    ],
+    [
+      "The Guardian",
+      10
+    ],
+    [
+      "Forbes",
+      10
+    ],
+    [
+      "Channel NewsAsia",
+      10
+    ],
+    [
+      "The Verge",
+      9
+    ],
+    [
+      "Business Insider",
+      9
+    ],
+    [
+      "Quartz",
+      9
+    ],
+    [
+      "Techmeme",
       8
     ],
     [
-      "NVIDIA Blog",
+      "South China Morning Post",
       8
     ],
     [
@@ -94,29 +90,33 @@
       7
     ],
     [
-      "GitHub",
+      "Scientific American",
       6
     ],
     [
-      "NPR",
-      5
+      "404 Media",
+      6
     ],
     [
       "Euronews",
+      6
+    ],
+    [
+      "The New Stack",
+      6
+    ],
+    [
+      "Ars Technica",
       5
     ],
     [
-      "PCMag",
+      "MarkTechPost",
       5
     ],
     [
-      "South China Morning Post",
-      5
-    ],
-    [
-      "Nature",
+      "Fast Company",
       5
     ]
   ],
-  "total_articles": 14071
+  "total_articles": 14481
 }
