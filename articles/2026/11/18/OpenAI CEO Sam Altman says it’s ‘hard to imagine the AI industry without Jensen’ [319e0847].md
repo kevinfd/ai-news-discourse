@@ -1,0 +1,41 @@
+---
+id: "319e08473b4aa091"
+title: "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’"
+url: "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen"
+link: "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen"
+source: "TechCrunch"
+domain: "techcrunch.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-18T16:14:09Z"
+published_date: "2026-11-18"
+collected_at: "2026-11-19T13:04:26Z"
+authors: ["Amanda Silberling"]
+language: "en"
+summary: "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy."
+tags: ["AI", "greg brockman", "Jensen Huang", "nvidia", "OpenAI", "sam altman"]
+orgs: ["Nvidia", "OpenAI", "China", "Tesla"]
+topics: ["chips & infrastructure", "business & funding"]
+content_source: "fulltext"
+word_count: 367
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’
+
+TechCrunch · Amanda Silberling · 2026-11-18
+
+The AI industry is entering a new era, and not just because of its constant stream of new model releases and discoveries. The AI community must now push forward without one of its most influential figures, Nvidia co-founder and former CEO Jensen Huang. Huang stepped down last week amid several scandals involving affairs with two employees and an alleged Chinese spy, raising potentially far-reaching national security concerns.
+Speaking onstage at The New York Times DealBook Summit on Wednesday, OpenAI CEO Sam Altman and President Greg Brockman each revealed that they had spoken privately with Huang as the embattled former CEO’s public image continued to unravel.
+“Jensen took one of the earliest big bets on us. We took a big bet on Nvidia,” Altman said. “It’s hard to imagine the AI industry without Jensen.”
+OpenAI has worked closely with Huang over the years. Nvidia invested $30 billion in the company earlier this year and designs the chips that power OpenAI’s technology.
+Brockman added that he and his wife are friends with Huang’s family, so the couple had reached out “personally, just to be there for him and his family at this time.”
+“I think it’s obviously a tough time for everyone, but again, I think Nvidia is such an incredible company,” Brockman said. “I think that… what Jensen has built there, it clearly is built to last, and so we’re excited to keep partnering and looking to the future.”
+Huang’s impact on Nvidia and the broader AI industry has been so profound that nearly 200,000 people, including Elon Musk and other influential CEOs, have signed a petition calling for the chipmaker to reinstate him. Nvidia executives said during the company’s earnings call on Tuesday that they do not have plans to reappoint Huang, even though the founder offered to return.
+Altman was reticent to weigh in on Huang’s future at Nvidia. When asked whether he thought Huang could return, Altman replied, “One thing I did not appreciate was everybody on Earth speculating with some random theory.”
+“I will say, I wish Jensen the best. I wish Nvidia the best,” Altman said. “I don’t think the world needs another set of random opinions on what’s going to happen here.”

@@ -1,122 +1,122 @@
 {
-  "run_at": "2026-11-18T13:04:14Z",
-  "since": "2026-11-17T01:04:14Z",
+  "run_at": "2026-11-19T13:04:26Z",
+  "since": "2026-11-18T01:04:26Z",
   "stats": {
-    "candidates": 922,
-    "already_known": 92,
-    "not_ai": 405,
-    "title_duplicate": 1,
-    "merged_duplicates": 14,
-    "new_unique": 410,
-    "written": 410,
-    "seconds": 414
+    "candidates": 931,
+    "already_known": 94,
+    "not_ai": 426,
+    "title_duplicate": 2,
+    "merged_duplicates": 12,
+    "new_unique": 397,
+    "written": 397,
+    "seconds": 397
   },
   "by_content_source": {
-    "fulltext": 243,
-    "summary": 164,
-    "post": 3
+    "summary": 169,
+    "fulltext": 224,
+    "post": 4
   },
   "top_sources": [
     [
+      "Bloomberg",
+      16
+    ],
+    [
       "TechCrunch",
-      20
+      15
     ],
     [
       "The Information",
-      17
-    ],
-    [
-      "CNBC",
       15
     ],
     [
-      "Mashable",
-      15
-    ],
-    [
-      "Bloomberg",
-      15
-    ],
-    [
-      "AWS Machine Learning Blog",
-      14
-    ],
-    [
-      "Financial Times",
-      12
-    ],
-    [
-      "Axios",
-      11
-    ],
-    [
-      "ZDNet",
-      10
+      "The New York Times",
+      13
     ],
     [
       "The Guardian",
-      10
+      13
+    ],
+    [
+      "Techmeme",
+      13
+    ],
+    [
+      "CNBC",
+      13
+    ],
+    [
+      "AWS Machine Learning Blog",
+      12
+    ],
+    [
+      "Financial Times",
+      11
     ],
     [
       "Forbes",
+      11
+    ],
+    [
+      "The New Stack",
+      11
+    ],
+    [
+      "The Verge",
       10
     ],
     [
       "Channel NewsAsia",
-      10
-    ],
-    [
-      "The Verge",
       9
     ],
     [
-      "Business Insider",
-      9
-    ],
-    [
-      "Quartz",
-      9
-    ],
-    [
-      "Techmeme",
+      "ZDNet",
       8
-    ],
-    [
-      "South China Morning Post",
-      8
-    ],
-    [
-      "The Hill",
-      7
     ],
     [
       "Scientific American",
+      8
+    ],
+    [
+      "Business Insider",
+      8
+    ],
+    [
+      "Mashable",
+      8
+    ],
+    [
+      "WIRED",
+      7
+    ],
+    [
+      "OpenAI",
       6
     ],
     [
-      "404 Media",
+      "Axios",
       6
     ],
     [
-      "Euronews",
+      "The Hill",
       6
     ],
     [
-      "The New Stack",
+      "Gizmodo",
       6
     ],
     [
-      "Ars Technica",
+      "PCMag",
+      6
+    ],
+    [
+      "Quartz",
       5
     ],
     [
-      "MarkTechPost",
-      5
-    ],
-    [
-      "Fast Company",
+      "Tom's Guide",
       5
     ]
   ],
-  "total_articles": 14481
+  "total_articles": 14878
 }

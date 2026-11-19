@@ -1,0 +1,49 @@
+---
+id: "e38f1faf534adc12"
+title: "You Can't Put AI On Data You Don't Control"
+url: "https://forbes.com/councils/forbestechcouncil/2026/11/19/you-cant-put-ai-on-data-you-dont-control"
+link: "https://forbes.com/councils/forbestechcouncil/2026/11/19/you-cant-put-ai-on-data-you-dont-control"
+source: "Forbes"
+domain: "forbes.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-19T11:15:00Z"
+published_date: "2026-11-19"
+collected_at: "2026-11-19T13:04:26Z"
+authors: ["Ayush Jain, Forbes Councils Member"]
+language: "en"
+summary: "Healthcare spent a decade solving connectivity. The 2027 mandate and the AI race on top of it, just moved the real problem to custody."
+tags: ["Innovation", "/innovation", "technology", "standard"]
+orgs: []
+topics: ["health & science", "safety & ethics", "models & research", "jobs & society"]
+content_source: "fulltext"
+word_count: 906
+paywalled: false
+image: "https://imageio.forbes.com/specials-images/imageserve/6afc9c294323e278af7b4655/0x0.jpg?width=960"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# You Can't Put AI On Data You Don't Control
+
+Forbes · Ayush Jain, Forbes Councils Member · 2026-11-19
+
+Ayush Jain, CEO & Founder, Mindbowser Inc.
+For the better part of a decade, the interoperability conversation in healthcare has centered on the questions: Can the systems connect? Can the app talk to the EHR? Can the payer talk to the provider? Can the data move from one system to another without a fax machine in the middle?
+Those questions are now effectively answered. Prebuilt EHR connectors are a commodity, and integration with major electronic health record platforms is now a baseline expectation for any serious health tech vendor. Declaring victory there is the trap, because connectivity was never the hard part. It was simply the part everyone could see.
+The Real Problem Is Custody
+Most integration models today move protected health information through a third party’s infrastructure to get it where it needs to go. That architecture was fine when the job was read and displayed, pulling a lab result and showing it on a dashboard. It stops being fine the moment two things happen at once; the data has to be written back into the system of record and AI is put on top of it. Each additional hop the data takes through an external network increases exposure, and that exposure carries real risk. The more sensitive the data and the more consequential the action taken on it, the more that risk compounds.
+This is not a hypothetical shift. It is the one healthcare is walking into right now, on a fixed clock.
+CMS Just Turned This Into A Deadline
+CMS-0057-F, the Interoperability and Prior Authorization Final Rule, is the forcing function here, and it is worth being precise about what it actually requires. Its operational provisions have been in effect since January 1, 2026. Impacted payers now have to return prior authorization decisions within 72 hours for urgent requests and seven calendar days for standard ones, and every denial has to come with a specific stated reason, according to CMS. By January 1, 2027, those same payers also have to stand up four production FHIR APIs: patient access, provider access, payer-to-payer and prior authorization.
+That last one is the API that changes the calculus. It is not read only. As CMS describes it, it is meant to automate the end-to-end prior authorization process. It allows a provider’s system to check whether a service needs authorization, see exactly what documentation the payer wants, and submit the request and receive the decision electronically, structured and bidirectional, straight into the system of record. That is to write back and it is mandated, not optional. Starting with the 2027 performance period, CMS’s final rule text confirms, clinicians and hospitals have to attest under the Medicare Promoting Interoperability Program that they submitted at least one prior authorization electronically. That is the built-in demand signal that guarantees the right back path will actually be used, at scale, starting almost immediately.
+Over the past decade, my team has built many healthcare products, remote monitoring tools, patient engagement apps and care coordination platforms. Different problems, different customers, but they all eventually hit the same wall, and it was never the part everyone worried about. Reading data out of an EHR was rarely the hard part. Writing it back into the system of record, safely, in structured form, without routing a patient’s most sensitive data through someone else’s infrastructure to get there, was.
+So, when I read CMS-0057-F, I did not see a compliance rule. I saw the exact wall we had been hitting for years, now with a 2027 deadline attached and the same question underneath it that nobody is really naming. Who actually holds the data and who is accountable for it, when the AI shows up?
+Then Stack AI On Top
+Nearly every vendor in this space, including plenty of good ones, is now racing to automate prior authorization and clinical documentation with AI. CMS has pointed to the existing electronic prior authorization API for Medicare fee-for-service as an example of the efficiency gains that can come from greater automation.
+Layering that ambition onto an integration model where the underlying data is transiting a third party’s infrastructure compounds the custody problem exactly as the stakes peak. AI needs trustworthy, in-context data and the ability to act on it. Neither can be responsibly handed to a model built on data that is not fully controlled. An automated system confidently wrong about a prior authorization requirement, working from data whose provenance it doesn’t fully own, represents a far different kind of failure than a slow fax. It fails at scale, silently and inside the system of record rather than on top of it.
+The Question Buyers Should Actually Be Asking
+Heading into the next year, the question health systems and digital health buyers need to be asking is no longer who can get connected in time. Connectivity is the checkbox everyone already knows how to check. The real question is whether a compliance build routes members’ PHI and prior authorization data through a third party’s infrastructure to get the job done, and whether AI can be put on that data afterward without inheriting someone else’s risk surface. Custody and write back are the moat. Connectivity stopped one year ago.
+The next phase of healthcare technology will not be won by those who move the largest portion of data faster. It will be won by the ones who never had to move it out of the customer’s control in the first place.

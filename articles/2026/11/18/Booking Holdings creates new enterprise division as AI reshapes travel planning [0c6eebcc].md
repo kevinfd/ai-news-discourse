@@ -1,0 +1,48 @@
+---
+id: "0c6eebcce7edf701"
+title: "Booking Holdings creates new enterprise division as AI reshapes travel planning"
+url: "https://cnbc.com/2026/11/18/booking-holdings-enterprise.html"
+link: "https://cnbc.com/2026/11/18/booking-holdings-enterprise.html"
+source: "CNBC"
+domain: "cnbc.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-18T12:55:01Z"
+published_date: "2026-11-18"
+collected_at: "2026-11-19T13:04:26Z"
+authors: ["Contessa Brewer"]
+language: "en"
+summary: "The future for online travel agencies increasingly relies on scaling business-to-business travel platforms."
+tags: []
+orgs: []
+topics: ["business & funding"]
+content_source: "fulltext"
+word_count: 558
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Booking Holdings creates new enterprise division as AI reshapes travel planning
+
+CNBC · Contessa Brewer · 2026-11-18
+
+Booking Holdings is bringing together two of its business-to-business travel operations in a new division it hopes will be transformational, betting that a larger, coordinated partner platform can generate growth as artificial intelligence changes how travelers discover and book trips.
+The new enterprise unit, dubbed Booking Partner Division, will combine Booking.com Strategic Partnerships with Rocket Travel by Agoda, and is set to begin operating in January. Agoda CEO Omri Morgenshtern will lead the unit, which aims to help businesses such as banks, airlines and online travel companies sell trips or build branded experiences for their customers.
+"We realize that if we focus our efforts both on the product side, but also on the go-to-market side, then we can potentially grow faster and serve better partners," Morgenshtern told CNBC in an exclusive interview.
+He said existing partners will find new and better products, which will also help grow the partner base.
+The move gives Booking a single organization to coordinate technology, travel supply and commercial expertise across business relationships. The company says partners will be able to use its global supply and technology through white-label platforms, integrated applications, branded solutions and hotel-chain rate distribution.
+The portfolio includes more than 4.7 million properties, 33 million accommodation listings, more than 500 airlines and more than 200 car rental providers, according to the company.
+Competitor Expedia Group has seen notable growth by prioritizing its enterprise efforts, including a strategy launched in 2022 to make its technology platform available to business partners looking to add travel to their own offerings.
+From 2018 to 2023, Expedia’s business-to-business revenue grew at a 16% compound annual rate, while adjusted earnings before interest, taxes, depreciation and amortization, or EBITDA, for the division grew at a 28% rate, the company said in 2024.
+In 2025, Expedia’s B2B revenue rose 18% to $4.8 billion, and its segment adjusted EBITDA increased 22% to $1.26 billion. Those figures represented about a third of Expedia’s total revenue and more than a third of its adjusted EBITDA for the full year.
+Morgenshtern declined to say how much the new division is expected to contribute to Booking Holdings' overall revenue and profit, but he said the opportunity for growth is immense, estimating the total addressable market at $2 trillion.
+Online travel agencies have been pressured this year as investors scrutinize how AI will change the way customers search for and then book their travel.
+Companies that offer lodging, experiences and other travel and leisure are grappling with how to stay visible if AI tools become the new starting point for planning and reservations.
+Disney CEO Josh D’Amaro said on the company’s earnings call Tuesday that guests already use AI to discover and plan Disney trips, and that some are using the tools to book.
+“Ultimately, we want Disney to show up in those tools,” he said, adding that Disney is exploring ways to let guests make reservations directly from them.
+Booking anticipates offering partners AI capabilities that draw on the company's existing travel know-how while minimizing token costs, it said.
+"I see a lot of AI demos," Morgenshtern said, drawing a distinction between a product that caters to a few customers and one that's scalable and works even when overloaded by travel emergencies. He said he's "super optimistic" about the bespoke product — a vertical agent — that Booking will offer to its partners.

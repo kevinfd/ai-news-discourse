@@ -1,0 +1,51 @@
+---
+id: "24b6b549289cb6df"
+title: "Disney Imagineers Have Built AI-Powered ‘Star Wars’ Alien Audio-Animatronics With AWS"
+url: "https://cnet.com/tech/services-and-software/disney-imagineer-ai-star-wars-alien-audio-animatronic-aws"
+link: "https://cnet.com/tech/services-and-software/disney-imagineer-ai-star-wars-alien-audio-animatronic-aws"
+source: "CNET"
+domain: "cnet.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-18T14:00:00Z"
+published_date: "2026-11-18"
+collected_at: "2026-11-19T13:04:26Z"
+authors: ["Corinne Reichert"]
+language: "en"
+summary: "Semi-exclusive: Three original Anzellan characters with distinct personalities will interact with guests in Disney parks."
+tags: ["AI"]
+orgs: ["Amazon", "OpenAI", "Anthropic", "Meta", "Nvidia"]
+topics: ["agents & coding", "robotics & autonomy", "chips & infrastructure", "search & media"]
+content_source: "fulltext"
+word_count: 846
+paywalled: false
+image: "https://www.cnet.com/wp-content/uploads/sites/2/Vilo-Vele-Anzellan-seated-1.jpg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Disney Imagineers Have Built AI-Powered ‘Star Wars’ Alien Audio-Animatronics With AWS
+
+CNET · Corinne Reichert · 2026-11-18
+
+Disney is celebrating 75 years of its Imagineers, who have been amusing and delighting guests with audio-animatronic characters since talking parrots debuted in the Enchanted Tiki Room at Disneyland. But today, new robotic characters are being powered up with artificial intelligence.
+In partnership with Amazon Web Services, AI has helped Walt Disney Imagineering create three new Anzellan animatronics that will live bring a Disney theme park retail space to life, presumably in Star Wars: Galaxy’s Edge.
+Anzellans are a race of tiny humanoid creatures that repair droids and starships in the Star Wars universe. They include Babu Frik in Star Wars: Episode IX — The Rise of Skywalker and the droidsmiths introduced in season 3 of The Mandalorian. The droidsmiths take on larger roles in The Mandalorian and Grogu, helping Baby Yoda rescue Din Djarin from the Hutts.
+More from CNET
+The new Anzellan animatronics built by Disney Imagineers use AWS cloud and AI capabilities in order to “understand the scene around them,” Kyle Laughlin, SVP of Walt Disney Imagineering R&D and Technology and Engineering, tells me.
+“If you imagine walking into an experiential retail store, you now will be greeted not by a pre-scripted animation or interaction, but a totally personalized experience where each of these Anzellans [has] their own personalities,” Laughlin says, adding that they’ll be attuned to how many people are nearby and whether they’re children or adults.
+The animatronic aliens will be able to interact with guests, right down to commenting on people who are wearing a birthday button or even a certain Star Wars T-shirt. Speaking with these animatronics will give guests the same experience they would have when meeting a character walking around the park, Laughlin adds. They also play off each other and react to what each other are doing, with no one controlling them behind the scenes.
+The three audio-animatronic prototypes, which will make their first appearance during AWS re:Invent in Las Vegas on Nov. 30 before moving into one of the Disney Parks, are named Vilo Vele, Kado Bre’a and Jibu Bre’a.
+They’re original characters created just for this project in partnership with Lucasfilm and the filmmakers, and they all have their own personalities devised by the Imagineers. Vilo is the boss, Kado is the droidsmith mechanic who wants to be the center of attention and Jibu, though Kado’s twin, is the shy one. The animatronics speak a mix of English (or Galactic Basic in-universe) and Anzellan, as they do in the Star Wars movies and TV series, and have hundreds of thousands of prerecorded lines of dialogue to draw from when talking to guests and each other.
+Samira Panah Bakhtiar, AWS general manager of Telco, Media & Entertainment, Games, Advertising and Sports, tells me this is “one of the most delightful examples” of physical AI.
+“When you talk about physical AI, it’s AI that perceives, it reasons and it acts in the real world,” she says. “It’s not just AI on a screen.”
+Bakhtiar says Disney was able to use both AWS cloud computing and AI tools to “get from idea to implementation several magnitudes faster than they would have otherwise,” with Laughlin specifying it took “mere months.”
+AWS staff used a coding agent called Kiro that built their creative briefs into software, which was then reviewed and approved by humans. Imagineers also used the Amazon Bedrock fully managed AI service, which allows them to choose between all the biggest AI models, including those from OpenAI, Anthropic and Meta.
+“We’re providing Amazon Bedrock to the Imagineering team to be able to leverage the right models that they need at the right time to be able to really enhance those character experiences,” Bakhtiar tells me. “From multimodal models that focus on voice to world models, to large language models. The point is that they are able to get the right tool at the right time and then do so in a way that’s secure, resilient, performant and globally available.”
+Bakhtiar says AWS is continuing to work with Disney, though the next project is under wraps.
+“The future of entertainment is going to be highly personalized,” she says. “It’s going to be multidimensional, and it’s going to be more interactive than ever. And I think this is an incredible example of that coming to life.”
+Disney had previously teamed up with Nvidia on robotics and AI to bring a robot version of fan-favorite Frozen character Olaf to life so he can wander around Disneyland Paris and Hong Kong Disneyland, and is also now exploring robots paired with AI that could guide guests throughout Disneyland parking lots.
+“You can imagine an entire franchise of characters working and interacting with one another,” says Laughlin. “We’ve done a number of things in the Star Wars universe. We’re just getting started in Frozen, and we have a wealth of IP that we can mine to bring those characters to our guests as fast as possible.”
+Correction, 3:48 p.m. ET: The original version of this story incorrectly stated who used the Kiro coding agent to build the software. It was staff from AWS.

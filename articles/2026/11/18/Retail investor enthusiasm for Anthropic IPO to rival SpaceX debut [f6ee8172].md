@@ -1,0 +1,67 @@
+---
+id: "f6ee81722908a1a2"
+title: "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut"
+url: "https://cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
+link: "https://cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
+source: "CNBC"
+domain: "cnbc.com"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-18T22:37:00Z"
+published_date: "2026-11-18"
+collected_at: "2026-11-19T13:04:26Z"
+authors: ["Sean Conlon"]
+language: "en"
+summary: "Anthropic is gearing up for a blockbuster initial public offering this week, and excitement among retail investors looks to be off the charts."
+tags: []
+orgs: ["Anthropic", "Nvidia", "OpenAI", "Meta", "Microsoft"]
+topics: ["business & funding", "safety & ethics", "chips & infrastructure"]
+content_source: "fulltext"
+word_count: 1223
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut
+
+CNBC · Sean Conlon · 2026-11-18
+
+Retail investor Dan Shetty is so eager to get in on the Anthropic initial public offering that he "drained" his Roth IRA and moved roughly $12,000 from Fidelity to Robinhood for a chance to participate.
+"I don't want to tell my grandkids that I didn't invest in Anthropic and I didn't invest in OpenAI during the AI bubble," he said.
+Shetty's enthusiasm is shared by many, with excitement among small investors for the blockbuster IPO expected to be off the charts. Vanda Research estimates that Anthropic could see approximately $250 million of retail net buying when it starts trading Thursday, double the size of SpaceX's IPO.
+"That would be far and away the largest amount of net retail buying of any stock that we've seen in our data on the first day of its listing," Jai Malhi, senior strategist at Vanda, said in an interview with CNBC.
+The artificial intelligence laboratory — which will trade on the Nasdaq under ticker symbol ANT — is selling 825 million shares at an expected price range of $70 to $78 per share in the IPO, though sources told CNBC the stock is likely to price above that range. Individual investors are expected to be allocated as much as 20% in that initial offering. And if Vanda's figures prove correct, the buying enthusiasm will be big as regular trading begins.
+Founded less than six years ago, Anthropic aims to raise as much as $64.4 billion, giving it a valuation of $1.405 trillion. If demand is especially strong, Anthropic could even raise more than the record $85.7 billion that SpaceX sold in its record IPO in June.
+The tech trade has been in turmoil since Jensen Huang's departure last week as Nvidia CEO raised questions about the future of AI financing. Before then, a potential slowdown in data center development resulting from Democratic victories in the 2026 midterm elections, and signs of moderation in the capital expenditures boom, had already spooked investors.
+These all stand in marked contrast to the market backdrop in place at the time of the SpaceX IPO. In June, both positioning and sentiment were high, Malhi said. The Anthropic IPO could see a different dynamic, however. Demand could be strong across the entire investor spectrum given that sentiment is depressed, meaning that the bar to beat expectations is "much easier to overcome," he explained.
+"What we're seeing across both retail and institutional positioning is that there is plenty of dry powder to take part in this IPO," the strategist said.
+'Pure-play AI leader'
+For the 27-year-old New Yorker Shetty, who himself works at agentic data platform Data Workers, this is his first time vying to take part in an IPO. He said Anthropic's emphasis on "safety first" drew his interest.
+"I've been telling all of my friends, 'If you have like $5, you should invest it in this stock because this is the pure-play AI leader,'" Shetty said. "I think of my father who invested in Microsoft during the dotcom bubble, and he divested from that stock, and it was such a silly thing to do."
+Not everyone agrees.
+Joe Pak, a former macro portfolio manager who is now an independent researcher outside London, is opting against participating in the Anthropic IPO for two reasons: the likelihood of limited allocation and current macroeconomic conditions.
+He believes the odds are probably stacked against retail investors when it comes to the allocation of shares.
+"It's very difficult as a retail investor to actually get an allocation in these blockbuster IPOs," the 36-year-old said. "You get maybe one share, and the base case is you don't get any at all. So, it's a bit of a catch-22. If you do get a lot of shares, it probably means that the institutional bid was weaker, and in that case, you don't actually want the shares at that level."
+In terms of the economy, conditions "need to be favorable" to hold a position in a stock like Anthropic, he said. But with the Federal Reserve having raised interest rates in September and widely expected to do so again next month, the backdrop could be darkening.
+"From a price-to-sales ratio, Anthropic's like a really good deal. ... [But] it's still a massive valuation for a $1.4 trillion company, and there are significantly better deals out there if you are a fundamental investor."Russ FaigenRetail investor
+"The risk that you have is the financial conditions deteriorating" before the company starts to grow into anticipated profit and revenue, which would justify purchase of the stock, Pak said.
+While Pak is steering clear of the IPO, he did say that at a certain level, it would make sense to get into Anthropic.
+Other retail investors such as Bryan Nearnberg share Pak's view.
+"I'm planning to eventually buy Anthropic, just not at the IPO price, considering when the lockups expire and there's some selling pressure," said the 37-year-old Westchester County, N.Y. resident, who works in finance operations. "We are not at the end of this short-term negative headline sentiment."
+IPOs are a sore spot for Nearnberg, who hasn't had much luck trading stocks on their opening day. His skepticism toward IPOs can be traced all the way back to when he was in college.
+"I didn't get an allocation to the Facebook IPO, but I ended up buying it the first day of open. I got burned pretty quickly," Nearnberg told CNBC. "Same thing with Zynga. I didn't get an allocation, but [got] burned pretty quickly in terms of price."
+As a result of those experiences, "I'm pretty sure we'll see a good entry price underneath the IPO for Anthropic by Memorial Day next year," Nearnberg said, citing sour sentiment toward technology and concern surrounding circular financing as short-term headwinds.
+Waiting game
+To be clear, all the retail investors CNBC spoke with are optimistic on AI as a transformative technology — even the ones sitting out the IPO. One trader said he believes in AI so much that he uses Anthropic's Claude, a conversational AI assistant, every day.
+But Russ Faigen, a 27-year-old in Austin, Texas, is undecided on whether to subscribe for a piece of the IPO.
+"From a price-to-sales ratio, Anthropic's like a really good deal," Faigen said. But "it's still a massive valuation for a $1.4 trillion company, and there are significantly better deals out there if you are a fundamental investor."
+Faigen, who works for an agentic brokerage firm, said he's "leaning towards patience," as he believes Anthropic is going to be public "for a very long time."
+"I just am not in a rush to get in on day one based off the valuation," he told CNBC.
+Anthropic's valuation depends on its ability to sustain its rapid growth. In the nine months through Sept. 30, revenue reached more than $33 billion, 1,200% above the year-earlier period. Aggregate spending commitments total about $900 billion, primarily centered around computing power and infrastructure.
+Breakneck growth leads plenty of retail and institutional investors to approach not just the Anthropic IPO but the entire AI trade with caution.
+"A lot of it comes down to scrutiny over how much money they're spending on AI," said Bret Kenwell, U.S. investment analyst at eToro. "Investors want to see that those investments are turning into tangible returns, into tangible revenue."
+— CNBC's Charlotte Morabito contributed to this report
