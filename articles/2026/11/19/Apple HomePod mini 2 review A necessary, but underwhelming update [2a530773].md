@@ -1,0 +1,53 @@
+---
+id: "2a530773bd79992d"
+title: "Apple HomePod mini 2 review: A necessary, but underwhelming update"
+url: "https://engadget.com/2321939/apple-homepod-mini-2-review"
+link: "https://engadget.com/2321939/apple-homepod-mini-2-review"
+source: "Engadget"
+domain: "engadget.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-19T17:30:00Z"
+published_date: "2026-11-19"
+collected_at: "2026-11-20T13:03:52Z"
+authors: ["Billy Steele", "staff@engadget.com (Billy Steele)"]
+language: "en"
+summary: "The most notable upgrade on the HomePod mini 2 is its S10 chip, which is supposed to power Siri AI, but that's still in the works."
+tags: ["Smart Home"]
+orgs: ["Apple"]
+topics: ["products & launches", "chips & infrastructure", "models & research"]
+content_source: "fulltext"
+word_count: 1529
+paywalled: false
+image: "https://www.engadget.com/img/gallery/apple-homepod-mini-2-review-a-necessary-but-underwhelming-update/l-intro-1795105229.jpg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Apple HomePod mini 2 review: A necessary, but underwhelming update
+
+Engadget · Billy Steele, staff@engadget.com (Billy Steele) · 2026-11-19
+
+Apple HomePod mini 2 review: A necessary, but underwhelming update
+Siri AI? More like Siri MIA.
+I'd be willing to forgive you if you forgot about the new HomePod mini. The overhauled smart speaker played a supporting role at best during Apple's Welcome Home event last month, behind the HomeView, and probably, in some minds, behind the updated Apple TV 4K. Still, the company provides a few upgrades in the HomePod mini 2 ($149), ensuring that it's ready for Siri AI and the assistant's newfound ability to offer personalized context for your queries. The main problem? The speaker doesn't yet support the recently upgraded virtual assistant Apple spent years improving.
+What's new on the HomePod mini 2?
+The most notable update on the HomePod mini 2 is on the inside. Apple swapped in its S10 chip from the Apple Watch Series 10, kicking the nearly antique S5 silicon to the curb. For a Watch comparison, that's like going from a Series 5 or first-gen Watch SE, which debuted in 2019 and 2020 respectively, to the 2024 edition. It's a big leap, and it's one Apple says was necessary for the HomePod mini to work with Siri AI.
+The recently updated assistant isn't all the S10 is helping with here. Apple says the component can run real-time music evaluation "to optimize dynamic range, loudness and acoustic performance," with a hand from "advanced computational analysis." When connected to the newly introduced fourth-gen Apple TV 4K, you can use four HomePod mini 2 speakers as a surround sound setup. That S10 chip helps the speakers recognize their positions in a room and adjust the lag, convey that info to Apple's streaming box, and audio levels accordingly.
+I only have two HomePod mini 2s, so I wasn't able to test this configuration, but I did hear it during Apple's event in October. Even with that brief experience, I can tell you using two second-gen HomePods as the front speakers and two HomePod minis as the rears is a much better setup. The HomePod mini doesn't muster enough bass to be a great home theater speaker on its own, and those full-size HomePods bring the boom when an action scene demands it.
+Before now, you could send audio from a Mac to a HomePod mini, but Apple has expanded the functionality so that the second-gen model can serve as persistent default speakers. This means, in theory, they'll stay connected to your Mac as the primary output rather than just relying on a temporary AirPlay link. This allows you to use the HomePod mini 2, or a pair of them, for everything on your computer — from FaceTime calls to games — without having to think about connecting each app or session to the speaker(s).
+The HomePod line has always had lights on the top, but they haven't really done much. Before now, the top touch panel would light up if audio was playing or display an animation when you chatted with Siri. With a new feature called Sound Glow, those lights now show hues that compliment a song's album artwork. The lights move in real time, reacting to the bass and treble in each tune. If you opt for a soundscape, Sound Glow reacts to that too, showing an animation that resembles the pitter patter of rain drops, for example. It isn't a game-changing feature, but it's a nice use of lighting that was barely utilized previously.
+Lastly, there are the new colors. The HomePod mini 2 comes in pink, green, blue, white and midnight (dark grey), with those first three coordinating well with Apple's iMac colors. That list means the company retired orange and yellow from the previous generation, both of which looked great in their time. As you can see, my review units are green, and I've enjoyed the pop of color they've added to my desk over the last few weeks.
+Sound quality and speed remain the same
+Given that Apple saw fit to bestow a "2" on this HomePod mini, I expected some upgrades to overall sound quality to be in the mix. Unfortunately, I can't notice a difference between old and new models. Sometimes I think there's some variation, but it's not substantial enough that I'm sure, and it's not consistent across various musical styles. I do like the audio performance of the HomePod mini for its size, but it still has a sound profile of crisp highs and prominent mids offset by bass tone that lacks dynamics and depth. It's good enough for casual listening or background tunes, but not for anything more than that.
+Despite the lack of Siri AI, I was hoping the S10 chip would provide a performance boost for the old Siri experience you have to settle for right now. However, the assistant's responses to basic questions took the same amount of time as they do on the first-gen model. To be clear, they're quick on both devices, I'm merely pointing out there's no difference in this regard. Just don't try to ask the old assistant to dive into Apple's core apps for you, or try to have an on-going conversation — neither request will bear any fruit.
+What's not so good about the HomePod mini 2?
+The biggest issue with the HomePod mini 2 right now is its biggest omission: Siri AI. The recently updated assistant isn't available on the speaker yet, and Apple hasn't provided a timeline for its arrival either. The upgraded HomePod mini is equipped to support the now-current-gen Siri, thanks to the S10 chip. However, you'll have to wait for Siri's newfound contextual awareness to dive into your Messages, Calendar and other apps on your iPhone or iPad. And to me, that's a huge miss for Apple on an overhauled smart speaker. You'll also have to wait for the more conversational chats with Siri as the HomePod mini 2 doesn't yet support those either.
+I like the idea of using a HomePod mini 2 or a stereo pair of them as a persistent computer speaker with a Mac, but it's not a great experience in practice. Any time you do anything — start a song, pause a song, skip tracks — there's a 1-2 second delay in the audio responding. The lights on the top of the speakers, including the Sound Glow effect, will stop shining immediately, but the audio has to catch up. There's also a slight delay between speakers if you're using a stereo pair, which sounds like every song has added reverb. For these reasons, I found the Mac speaker feature more frustrating than enjoyable, and I quickly moved back to AirPlay over a nearby Sonos speaker for my productivity tunes. And I haven't even mentioned the fact that I can't get the persistent connection to stick with my MacBook Air either. I'm constantly reselecting the HomePod mini 2 as the audio output.
+Another item that's disappointing is something else that's not here: a substantial overhaul. The original HomePod mini is six years old at this point, so I expected a much bigger redesign for the second-gen version (until the rumor mill squashed that). If you have a first-gen HomePod mini, you'll miss out on the updated Siri, whenever it arrives, and new features like Sound Glow and the home theater option. And if you're hoping to create a stereo pair, you'll need two of the same generation HomePod minis to do that; you can't pair a first-gen speaker with a second-gen model for that purpose.
+Lastly, there's the price. The previous version was $99 before Apple raised it to $129 in June when the company hiked the prices on pretty much all of its hardware. Now, I'm well aware of the global economic factors at play, especially the AI-fueled cost increase on RAM and other components, but asking $50 more than the first-gen model for incremental updates is tough. Had Apple kept the price at the June rate, the HomePod mini 2 would be a much easier recommendation.
+Wrap-up
+It's baffling to me that Apple would announce an updated HomePod mini without support for the latest version of Siri ready to go. The speaker's primary use is a hands-free conduit to the company's voice assistant, after all. The only decent conclusion I can come to is that Apple wanted to announce what it considered was a full suite of home products around the HomeView debut, and it felt like the Apple TV 4K, HomePod mini and a collection of smart home devices were the best way to do that. I would be interested to know what the hold up is, because the Apple Watch Series 10 supports Siri AI already, and those wearables are also running the same S10 chip as the HomePod mini 2. But, of course, Apple isn't talking specifics.
+After spending a few weeks with the HomePod mini 2, I mostly wish Apple had just waited. At a higher price, this isn't as compelling as it used to be in terms of getting Siri in your home. And with Siri AI missing, and some of the new audio features proving to be unreliable, it's clear a bit more polish was needed here.

@@ -1,0 +1,47 @@
+---
+id: "fb82fd8aac17aefe"
+title: "Google signs deal with Blue Origin to send satellite data centers into orbit"
+url: "https://engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit"
+link: "https://engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit"
+source: "Engadget"
+domain: "engadget.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-19T17:38:44Z"
+published_date: "2026-11-19"
+collected_at: "2026-11-20T13:03:52Z"
+authors: ["Lawrence Bonk", "staff@engadget.com (Lawrence Bonk)"]
+language: "en"
+summary: "This is part of Project Suncatcher, an experiment aimed at running AI systems in space."
+tags: ["Space"]
+orgs: ["Google", "Tesla"]
+topics: ["chips & infrastructure", "products & launches", "business & funding"]
+content_source: "fulltext"
+word_count: 635
+paywalled: false
+image: "https://www.engadget.com/img/gallery/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/l-intro-1795109453.jpg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Google signs deal with Blue Origin to send satellite data centers into orbit
+
+Engadget · Lawrence Bonk, staff@engadget.com (Lawrence Bonk) · 2026-11-19
+
+Google signs deal with Blue Origin to send satellite data centers into orbit
+This is part of Project Suncatcher, an experiment aimed at running AI systems in space.
+Google has partnered up with Jeff Bezos' Blue Origin to deploy small satellite data centers into space, as part of its Project Suncatcher project. Each of these satellites will be equipped with "roughly the capacity of a data center rack" and will enter into a sun-synchronous orbit via heavy-lift New Glenn rockets.
+The rocket will carry several Google tensor processing units, the company's proprietary AI chips, along with data center servers. The first launch isn't scheduled until early 2029, so we have a couple of years to see if this whole project even works.
+Blue Origin and Google have entered into a launch services agreement for Project Suncatcher, Google's research moonshot exploring how an interconnected network of solar-powered satellites equipped with its AI chips, Tensor Processing Units (TPUs), could scale machine learning... pic.twitter.com/dUWuHR4Pla
+— Blue Origin (@blueorigin) November 19, 2026
+This is an experiment that Google calls a "long-term moonshot" to see if it's possible to put AI infrastructure in space by "tapping into the abundant solar power in orbit." The benefits of this would be massive. Data centers here on Earth are notorious hogs, with their snouts all over electricity grids, land and cooling systems.
+The hope is that the harsh vacuum of the cosmos will be a better fit for the technology. After all, in space nobody can hear you make endless industrial noises and high-pitched whirs all day every day. This is a very real situation for folks living near data centers.
+Google is far from the only company trying to kick the data center can straight into outer space. Elon Musk's SpaceX has been experimenting with the idea, though it may involve putting a gigantic catapult on the moon (really.) There are also some startups fiddling with the technology, like Starcloud.
+Can this even work? We don't know yet, though there are some serious hurdles to overcome. Google did deploy its first AI server satellite back in October, but it was sent into low-Earth orbit and can only operate for 15 minutes at a time. Scaling up the affiliated cooling systems looks to be incredibly difficult.
+That's because standard heat dissipation doesn't work in space, so it has to be released through pipes and panels rather than conventional cooling systems. There's also the matter of radiation. It's everywhere and causes something called "bit flip." This essentially flips the binary code from a one to a zero, or vice versa. Obviously, this would be a major issue for binary-coded systems.
+Did I mention the actual launches? It's extremely expensive to send stuff to space. Just one Falcon 9 launch costs around $74 million and the maximum payload can barely cover the hardware for a small server room, let alone a hyperscale data center.
+"Expanding from one satellite to a vast network of them that operate like a giant data center will take years and enormous funds," Brandon Lucia, a professor of electrical and computer engineering at Carnegie Mellon University, told The New York Times. "If you do this on a large scale, there are additional engineering problems."
+Finally, there's a risk to us humans here on Earth. Scientists have been considering a theoretical scenario called Kessler syndrome for decades. This is when the density of objects in low-orbit gets so high and collisions become so commonplace that it creates a chain reaction of debris. We would be on the receiving end of that debris.
+This theory was posited back when there were just under 2,000 items circling a low-Earth orbit. That number has since risen to over 47,000 and Elon Musk recently floated an idea to add millions of new satellites into the mix.

@@ -1,0 +1,51 @@
+---
+id: "e99e12dc74eb827d"
+title: "The AI ‘supertelescope’ that could transform the universe"
+url: "https://scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe"
+link: "https://scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe"
+source: "Scientific American"
+domain: "scientificamerican.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-19T14:00:00Z"
+published_date: "2026-11-19"
+collected_at: "2026-11-20T13:03:52Z"
+authors: ["Jonathan O'Callaghan"]
+language: "en"
+summary: "Astronomers want to combine data from three new giant telescope surveys into a fourth virtual observatory"
+tags: []
+orgs: []
+topics: ["models & research", "business & funding", "chips & infrastructure", "health & science"]
+content_source: "fulltext"
+word_count: 1490
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# The AI ‘supertelescope’ that could transform the universe
+
+Scientific American · Jonathan O'Callaghan · 2026-11-19
+
+Right now in Chile, the greatest ground-based survey of the universe ever attempted is underway: a mammoth, 10-year undertaking that will image billions of galaxies in the sky. Simultaneously, in space, a European telescope is doing much the same, capturing wide, sweeping views of the cosmos from a location one million miles from Earth. Soon it will be joined by another panoramic telescope that can gaze even deeper into the universe, picking out galaxies farther back in time.
+These are the Vera C. Rubin Observatory, the Euclid space telescope and the Nancy Grace Roman Space Telescope, respectively. And astronomers are now wondering: Can we combine the views of these three machines into a single artificial-intelligence-powered supertelescope, an extra instrument that could give us a unique and unmatched way to study space? “The public has already paid for the three telescopes,” says Gioia Rau, a fellow at the U.S. nonprofit Renaissance Philanthropy, where she leads the development of its space science portfolio. “Processed together, they make a fourth. And nobody has switched it on.”
+In August Rau and more than two dozen co-authors released a preprint paper calling for action to unify the three telescopes. More than just money is required to make that dream a reality. Cooperation from each project’s governmental overseer is essential, too: the National Science Foundation (NSF) and the U.S. Department of Energy run Rubin, while the European Space Agency (ESA) and NASA call the shots for Euclid and Roman, respectively. The proposed supertelescope would use AI to fuse the views of the telescopes together, seeking to squeeze as much science as possible from each overlapping observation of the sky. With public investment in Rubin, Euclid and Roman already amounting to more than $6 billion, the paper argues, it’s paramount for the agencies to invest in finding ways to stitch them all together sooner rather than later, before this unique opportunity passes by.
+On supporting science journalism
+Meg Urry, an astrophysicist at Yale University, who was not a co-author of the paper, says the proposal is a no-brainer. “It has to be done,” she says. “It’s a really good idea.”
+Combining the power of multiple telescopes is not a new concept; many such projects were carried out in the past. What’s different here, though, is the sheer volume of data these three observatories will produce.
+Every three days, Rubin—which began its 10-year survey of the sky in June—scans the entire southern sky in visible light, allowing it to image some 20 billion galaxies. Rubin’s wide-eyed, rapid-fire scrutiny will also catch objects that move or change, such as asteroids, dwarf planets and supernovae. Euclid, meanwhile, launched in 2023 and is mapping a third of the sky in visible and near-infrared light over six years, yielding sharper images than Rubin’s but at a more leisurely pace. And Roman, still in its commissioning phase after its August 2026 launch into an orbit alongside the European observatory, will look even deeper into the universe. Its mirror is twice the size of Euclid’s, but its primary cosmic survey covers just 12 percent of the sky.
+Where the three telescopes’ observations overlap, the result will be petabytes of data (one petabyte is one million gigabytes) that could be processed together. “This is thousands of square degrees seen as one,” Rau says. “We are talking about so much data.”
+Although AI would be crucial for wrangling all those data, cloud computing would be essential as well. Astronomers have been using the cloud for smaller projects for “about two and a half decades,” says Lior Shamir, a computational astronomer at Kansas State University, but the scale of this supertelescope would be unprecedented. Rubin’s data alone, for example, far exceed what any human could ever process. “If we had 100 million volunteers, it would take us 120,000 years to annotate all of what the Rubin Observatory is acquiring,” Shamir says. “With AI, it’s pretty instant.” Printing out a single night’s worth of images from all three telescopes would produce a stack of paper high enough to reach the International Space Station.
+The goal is not just to merge the catalogs of the telescopes but to “combine the pixels to get an image that is extremely high-resolution,” says Tony Tyson, Rubin’s chief scientist and a co-author of the paper. That would be especially useful for studying dark energy and dark matter. All three telescopes are trying to study these mysterious phenomena using multiple techniques, and the sharper each observation is, the more it can reveal about the visible and hidden universe alike. A supertelescope could deliver a much better understanding of what dark matter’s cosmic distribution is and of how dark energy is ramping up the universe’s expansion rate, superior to what any single observatory could provide.
+“It is a very demanding analysis that requires very good characterization of what we believe the galaxies to look like,” says Peter Melchior, an astrophysicist at Princeton University and a co-author of the paper.
+Studies of transients—short-lived events such as supernovae—would benefit, too. Rubin’s map of the universe could help Roman look for supernovae farther back in time; any event it saw could be quickly cross-correlated with Rubin’s data, ruling out false positives and allowing for more rapid follow-up by other telescopes. A supertelescope might also spot twin supermassive black holes spiraling together in the cores of distant galaxies, on the cusp of merging and producing bursts of gravitational waves. “Roman and Euclid from space will find 10-times-closer pairs than we’re able to find from the ground,” Urry says. Each telescope could confirm the findings of the other.
+A supertelescope’s greatest impact in our own solar system would involve combining Rubin’s and Roman’s data to discover more asteroids, particularly any that might strike our planet. “If you look at the same asteroid from [two] places, the parallax tells you how far away it is,” Rau says. “That matters for finding and tracking asteroids that could come near Earth.” The technique could also be useful for looking for objects beyond Neptune such as new dwarf planets, one of which Rubin has already discovered.
+Roman and Euclid could also give us vital data on exoplanets. Roman will search for exoplanets through gravitational microlensing, in which the gravity of an intervening star or planet bends and briefly magnifies the light of a more distant background star. Euclid has already collected complementary observations and, if the missions coordinate, might observe the same events from different perspective. The two telescopes could “catch the same one from two different places in space,” Rau says. “Then the difference between their views can give you the mass [of the planet] and, in very few favorable cases, reveal a moon around the planet, too.”
+The supertelescope’s proponents are most excited, however, about the scientific applications that remain unknown. “What interests [us] even more is the discovery of the unexpected, something totally new that will blow our minds,” Tyson says. Stitching the telescopes together is no easy feat, though. “This is a very complicated problem to do well,” Urry says. “You’re going to need huge computers, people who are really acquainted with statistics and inference” and other crucial resources.
+In a statement to Scientific American, a NASA spokesperson said that the space agency was “aware of this concept and has had conversations with multiple community members about the prospect for joint processing of data.” NASA, they added, would “continue to listen to the community as we monitor the performance of Roman and other observatories, to identify the most impactful science returns from our investments in astronomy and astrophysics.” The NSF declined a request to comment, and ESA did not respond to a request for comment.
+Some work on aggregating the data has already started. A NASA-funded team has begun building software to jointly process images from Roman and Rubin, Tyson says, while another team co-led by the California Institute of Technology and the NSF has begun looking at sharing data between Rubin and Euclid. What’s still missing is a unified, funded program to jointly process images from the thousands of square degrees of sky that all three telescopes will survey.
+Building the supertelescope will perhaps demand philanthropic support, too. “The agencies fund the missions, and the missions are delivering exactly what they were asked to, but combining them at scale has never been in any one agency’s line budget,” Rau says. “That’s the gap the call-to-action paper names.”
+Roman is expected to begin its survey of the universe in early 2027, when it will join Rubin and Euclid in their efforts. That will give humanity three of the most powerful survey telescopes in history, capable of making fantastic discoveries by themselves. But together, they would be supercharged. The clock is ticking. “The point is to start now while the surveys are still young enough to agree on some of the basics,” Rau says. “This isn’t just slightly better measurements. It’s science that exists only when the images are processed together.”

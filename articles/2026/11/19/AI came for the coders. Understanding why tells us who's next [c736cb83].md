@@ -1,0 +1,86 @@
+---
+id: "c736cb83923d58d0"
+title: "AI came for the coders. Understanding why tells us who's next"
+url: "https://robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html"
+link: "https://robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html"
+source: "Robert Peake"
+domain: "robertpeake.com"
+source_type: "community"
+collector: "hackernews"
+date: "2026-11-19T17:43:38Z"
+published_date: "2026-11-19"
+collected_at: "2026-11-20T13:03:52Z"
+authors: ["speckx"]
+language: "en"
+summary: "I used to joke that I got my degree in poetry instead of computer engineering so that, in case this computing fad went south, I would have something to fall back on. Thanks to AI, it’s barely a joke anymore.\nSoftware engineering, where I’ve spent a good part of the last 25 years of my career, is undergoing a crisis of faith. True believers in the beauty of hand-written code have had it wrested…"
+tags: []
+orgs: ["IBM"]
+topics: ["agents & coding", "jobs & society", "models & research"]
+content_source: "fulltext"
+word_count: 2741
+paywalled: false
+image: null
+discussion_url: "https://news.ycombinator.com/item?id=50563328"
+score: 56
+comments: 64
+community: "Hacker News"
+---
+
+# AI came for the coders. Understanding why tells us who's next
+
+Robert Peake · speckx · 2026-11-19
+
+I used to joke that I got my degree in poetry instead of computer engineering so that, in case this computing fad went south, I would have something to fall back on. Thanks to AI, it’s barely a joke anymore.
+Software engineering, where I’ve spent a good part of the last 25 years of my career, is undergoing a crisis of faith. True believers in the beauty of hand-written code have had it wrested from them. Those who like solving problems and making things with technology, code or no, have been given new toys to play with and tools to master.
+I liken it to carpentry from the 19th century onward, when jack planes, chisels and hand saws gave way to power sanders, routers, and table saws. The industry scaled, and now ordinary people can afford decent furniture. But there was another cost.
+The straightforward nature of physical automation
+If you were happy to become a machine operator instead of a craftsman, you were in business. However, if you fell in love with thin ribbons of wood from a hand plane catching the light, about the only remaining way to make a living now is by filming your craft and becoming an influencer for nostalgic hobbyists.
+We embraced the automation of manual labour as it led to benefits for many, in affordable goods and free time. We devalued craftsmanship in the bargain. Working at a desk became more respected than making a desk. But when the work of smart coders gets rocked this hard, fear ripples through the desk worker world. If such intellectual work is vulnerable, then what, and who, is next?
+A comforting but wrong answer is that the “human” stuff is safe, and coding is technical. A much better way to understand what human skills will endure AI automation is to look at a principle as old as machine learning, and one that goes a long way toward explaining what can and cannot be automated by AI. It hasn’t changed since the 50s, and is unlikely to be broken anytime soon. It is easy enough to understand, yet what it predicts can be counterintuitive.
+So many wrong assumptions, and so much baseless fear-mongering, stem from misunderstanding the nature of AI automation’s natural trajectory.
+The counterintuitive nature of digital automation
+In aid of my language studies, I recently created a clone of my voice to help with pronunciation. It took a few hours and about $5 of computing credits to retrain a free open-source model, which now runs locally on my MacBook, entirely within my control. I used it to record one of my AI explainer videos, and played it for my wife, a professional musician with a great sensitivity to voice, who has lived with me for nearly 25 years.
+She couldn’t tell it wasn’t me.
+Making art, writing poems and songs, and recognising the face or voice of a loved one feel like inherently human activities. Some of it, like facial recognition, has gone the way computer scientist Larry Tesler predicted: “Intelligence is whatever machines haven’t done yet”. The term “intelligent” didn’t stick to it for long. It has just become a part of everyday life.
+The ones that feel most like “us”, though, such as art, writing, speaking, and even code, have shaken our sense of identity when done by a machine. Here the AI label stuck fast. Machines doing work we identify with causes us to project our self-image of intelligence onto them as well.
+Yet AI can also appear incredibly dumb. Researchers who study AI at work have a name for the lopsided progress of AI across disciplines: the jagged frontier.1 It turns out the line between what the machines do well and what they do badly runs nowhere near the line between what we find hard and what we find easy.
+The frontier only looks ragged because we are measuring it by how “human” the work feels, which means some disciplines and even industries won’t “just catch up” to the outer edge anytime soon.
+The truth is, speech synthesis and everything else we either take for granted or fear will bring about our obsolescence all conform to the laws of what AI can automate well. These are rules that follow from how machines “learn”, which is also a purely anthropomorphic metaphor.
+Understanding what can be automated
+The first AI programmes of the 1950s were specified with rules of reasoning written by hand. The ones that learned arrived in the same decade, among them a programme at IBM that improved at draughts by playing against earlier versions of itself.2 Learning needs something more than just design; it needs a way to keep score. This is why AI plays games so well, eventually surpassing us in finding the best way to win.
+AI researcher Jason Wei coined “verifier’s law”: the easier a task is to check, the easier it is to train AI to do it. Andrej Karpathy distinguishes the old way of doing software as what you can specify and the new way as what you can verify.3 A digital recording of a voice, it turns out, is easy to check, and easy to verify against the reference voice being cloned.
+For simplicity, I have bundled all of the elements that Wei and others have identified as necessary for checking and verifying, such as having a right answer, being able to score it reliably, and being able to automate it with sufficient computing power to do it over and over again at high speed, into the term “grading”.
+All components are necessary to perform AI automation today. But even as data and computing power become more available, at the end of the day some numerical form of analysis, and some evaluation of “correctness”, are make-or-break factors in what can (ever) be graded.
+Grading, however, is only part of what predicts AI automation. The other part is value, and our agreement on what valuable means. Plotting work along these two dimensions gives us four boxes to consider.
+Software is among the most-graded work humans have ever produced. It compiles or it doesn’t, the tests pass or they fail, and the automated testing takes seconds on ordinary machines. As long as it’s fit for purpose, nobody disputes that working software is worth having, which puts code in the top-right box. My cloned voice sits beside it. It either passes the wife test or it doesn’t.
+Yet, as I have said before, there will never be a compiler that can check for bugs in your poem. You can clone a poet’s style, and follow all conventions of form just right. But poetry’s greatest trick is evading mediocrity, which is precisely what endless iterations of numerical comparison and adjustment converge upon. Form and style can be graded; whether the poem is any good cannot. That puts poetry in the bottom-right box. I did a whole talk on it, if you want to hear more.
+From the standpoint of society, parenting is perhaps the most important job in the world. Grading it automatically (or at all) seems absurd, not least of all because it can take years, even generations, to see the results, which are themselves often easy to recognise but hard to quantify. It sits top left, high in value but beyond grading.
+The last box holds work that can be neither graded nor valuated objectively. Our carpenters who became hobbyist woodworkers got put in this box by the physical machinery of automation, yet now remain immune to digital automation as a result. Like poetry, the value of the product is a matter of taste, and taste diverges, eluding quantification.
+Predicting what will be automated
+Beyond coding, the automation of art and writing feels like the solution to a “problem” that almost nobody wanted to be solved.4 So much of what has been automated most of us lament, and so much of what has not been automated we begrudge. This is because the possibilities of AI automation do not follow our wishes, but follow the principles of automated grading versus objective value outlined above. It also doesn’t matter how “human” it feels: if it scores high on both, it’s possible. This doesn’t make it probable, however. It just shows us where to rule out the impossible.
+What makes it probable is market incentive. This is different from being able to agree on objective value. This is about capitalism, and the dream of owning the means of production not only for labour, but for knowledge work. For a few decades, a creative with a laptop owned their own means of production, which is more than any mill hand ever could. AI that cranks out marketing imagery on demand hands those means back to whoever pays for the subscription, with only a small amount of remaining work required to publish it and finish the job.
+Commercial art and writing are in this category. A brief and a paying client supply value agreement, and steady income, that fine art lacks. AI is automating creative commercial work, which means that artists will find it harder to make a living using the same skills as their fine art or literary practice.
+I must point out, though, that rarely throughout history has anyone who wants to make a living in fine arts been able to do so easily. Van Gogh lived on an allowance from his brother, and a great many famous artists lived on their inheritance. The nepo-baby is a timeless tradition.
+For the last century or so, there were also side-hustles and day jobs: Warhol drew shoe advertisements, Hopper illustrated magazines, Rushdie wrote advertising copy, and Hemingway and Orwell worked as journalists. Practicing art-making commercially to hone skills, and to cover the rent while doing so, is what is really under threat in the AI age.
+My own qualitative estimate of how artists and writers have lived without a second profession.5
+For most illustrators, copywriters, and translators, of course, the commercial work was never a rehearsal for something higher. It was the job. In a Society of Authors survey, a quarter of illustrators and over a third of translators said they had already lost work to generative AI.6 For them, the option on offer is, like the carpenters of old, to become a machine operator.
+Re-skilling for the AI age
+In knowledge work, AI produces deliverables; people achieve outcomes. A deliverable is a thing you can hand over: the report, the code, the slide deck, the campaign image. An outcome is what the thing was for in the first place, such as a presentation you give to the board or a sales deal you close. It only happens when other people agree, adopt, and follow through with complex social interactions.
+Many deliverables can be graded, which is why AI keeps getting better at those that can. Parenting, by contrast, is a complex set of outcomes, each unarguably valuable yet all ungradeable.
+Then there is the question of accountability. When things go wrong, a model has no neck to choke. However, if you get fired for work you did with AI, your replacement will sit in the same office chair and use the same AI subscription plan.
+Capitalism keeps people answerable with an existential threat: if you don’t work, you don’t eat. It operates a long way below a craftsman’s pride in their work. But it operates, like a machine. Markets, after all, have their own intelligence to them.
+In light of these forces at work, everything outside of what can and will be automated should be the focus of our modern skilling, in both institutional and corporate education. Equally important is to understand how to use AI automations to enhance the value of the outcomes we achieve, and indeed the lives we lead.
+For an individual, that means a few good habits: decide what the outcome is before requesting the deliverables; check what comes back as though your name were on it (because it will be!); stay close enough to the work that you can verify it is both correct and fit for purpose. I have developed these research-led practices into a method called DRIVE.
+School grading teaches us everything can be measured, which is why we’re terrified of failing. Objective measures make schooling scalable, and therefore readily available (like furniture), but at the expense of the intangibles now most valuable in the AI era: personal story, big-picture creative thinking, wise judgment, unshakeable ethics, and the ability to struggle in order to learn. I made the case for struggle in particular in Knowing the Answer Was Never the Point.
+Collectively, the work is to stop valuing ourselves only in relation to what can be graded. Schools must spend less time on grades as a proxy for having learned, and more time on learning how to learn and think in itself. Employers must keep taking on beginners, and treating them like future leaders, lest they have none to choose from in the next decade.7 Those who gain most from AI automation must share what they discover. Learning from one another about AI, ourselves, and our values can give us back the feeling of being a team.
+Hope? Really?
+Nearly all anti-AI arguments I have come across use AI as a flashpoint for lamenting the polarisation of wealth, and the capture of knowledge work. The grievance is real; the technology is where it shows most sharply, because it hits us where it hurts, in our intellectual identity.
+As a coder and creative, I’ve been gut-punched twice; you would think I’d be anything but hopeful about the future. My optimism comes from understanding what AI can and cannot automate, where beyond the tool itself late capitalism has a part in all this mess, and of necessity: my nephews will inherit an AI-native world. I want to do everything I can to be a force for good in bridging us into a future where we are appropriately refocused on using AI intelligently, safely, and well for the benefit of all.
+Meanwhile the poetry stays where it has always belonged, in my back pocket.
+- Fabrizio Dell’Acqua and colleagues, Navigating the Jagged Technological Frontier, Organization Science 37(2), first circulated in 2023: a field experiment with 758 consultants at Boston Consulting Group. ↩︎
+- The designed programme was Logic Theorist (Newell, Shaw, and Simon, 1956). The one that learned was Arthur Samuel’s, described in “Some Studies in Machine Learning Using the Game of Checkers” (1959), the paper that popularised the term machine learning. ↩︎
+- Jason Wei, Asymmetry of verification and verifier’s rule (2025). Andrej Karpathy, Verifiability (2025). ↩︎
+- Stanford’s WORKBank audit asked 1,500 workers about 844 tasks across 104 occupations between January and May 2025. Workers welcomed automation on 46.1% of those tasks overall, and on 17.1% in arts, design, and media. These are shares of tasks, not of people. ↩︎
+- The chart is informed guesswork throughout, checked against surveys only for its last two decades. Read it for its shape. The Church gave way to secular patrons, patrons to the open market, and the market to commercial creative work, shown in orange, which by my estimate has carried art practice for about 140 years. Two surveys sit behind its right-hand edge. Arts Council England’s Livelihoods of Visual Artists (2018) asked 2,007 artists in March 2016 about their income in 2015: 90% said their art practice did not earn them enough to live on, and almost seven in ten had another job. The UK authors’ earnings survey found the share of professional authors living on writing alone fell from 40% in 2006 to 19% in 2022. ↩︎
+- Society of Authors survey, January 2024, 787 responses: 26% of illustrators and 36% of translators. A separate study of about 1.4 million freelance job posts found that writing and coding posts fell 21% against manual-skill posts in the eight months after ChatGPT launched, and image-creation posts fell 17% (Demirci, Hannane, and Zhu, Management Science, 2025). ↩︎
+- Erik Brynjolfsson, Bharat Chandar, and Ruyu Chen, Canaries in the Coal Mine?, August 2026 revision, from US payroll records to June 2026. Employment for workers aged 22 to 25 in the occupations most exposed to AI runs about 19% below where it would be had it kept pace with their peers in less exposed work, mostly because fewer are being hired. The authors stress that this is a pattern in the data and does not prove AI caused it. ↩︎

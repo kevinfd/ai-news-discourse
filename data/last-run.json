@@ -1,40 +1,44 @@
 {
-  "run_at": "2026-11-19T13:04:26Z",
-  "since": "2026-11-18T01:04:26Z",
+  "run_at": "2026-11-20T13:03:52Z",
+  "since": "2026-11-19T01:03:52Z",
   "stats": {
-    "candidates": 931,
-    "already_known": 94,
-    "not_ai": 426,
-    "title_duplicate": 2,
-    "merged_duplicates": 12,
-    "new_unique": 397,
-    "written": 397,
-    "seconds": 397
+    "candidates": 848,
+    "title_duplicate": 3,
+    "already_known": 74,
+    "not_ai": 391,
+    "merged_duplicates": 9,
+    "new_unique": 371,
+    "written": 371,
+    "seconds": 378
   },
   "by_content_source": {
-    "summary": 169,
-    "fulltext": 224,
+    "fulltext": 225,
+    "summary": 142,
     "post": 4
   },
   "top_sources": [
     [
-      "Bloomberg",
+      "The Guardian",
       16
     ],
     [
-      "TechCrunch",
+      "Bloomberg",
       15
     ],
     [
-      "The Information",
+      "AWS Machine Learning Blog",
       15
     ],
     [
-      "The New York Times",
-      13
+      "Forbes",
+      14
     ],
     [
-      "The Guardian",
+      "CNBC",
+      14
+    ],
+    [
+      "Financial Times",
       13
     ],
     [
@@ -42,59 +46,51 @@
       13
     ],
     [
-      "CNBC",
-      13
-    ],
-    [
-      "AWS Machine Learning Blog",
+      "TechCrunch",
       12
     ],
     [
-      "Financial Times",
+      "The Information",
+      12
+    ],
+    [
+      "Scientific American",
       11
     ],
     [
-      "Forbes",
-      11
-    ],
-    [
-      "The New Stack",
-      11
-    ],
-    [
-      "The Verge",
+      "Engadget",
       10
     ],
     [
       "Channel NewsAsia",
-      9
-    ],
-    [
-      "ZDNet",
-      8
-    ],
-    [
-      "Scientific American",
-      8
-    ],
-    [
-      "Business Insider",
-      8
+      10
     ],
     [
       "Mashable",
+      10
+    ],
+    [
+      "The Verge",
+      9
+    ],
+    [
+      "The New York Times",
+      9
+    ],
+    [
+      "The New Stack",
       8
     ],
     [
-      "WIRED",
+      "Tom's Guide",
       7
     ],
     [
-      "OpenAI",
+      "WIRED",
       6
     ],
     [
-      "Axios",
+      "Fast Company",
       6
     ],
     [
@@ -102,21 +98,25 @@
       6
     ],
     [
-      "Gizmodo",
+      "The Hindu",
       6
     ],
     [
-      "PCMag",
-      6
-    ],
-    [
-      "Quartz",
+      "Business Insider",
       5
     ],
     [
-      "Tom's Guide",
+      "Digital Trends",
       5
+    ],
+    [
+      "ZDNet",
+      4
+    ],
+    [
+      "Axios",
+      4
     ]
   ],
-  "total_articles": 14878
+  "total_articles": 15249
 }

@@ -1,0 +1,104 @@
+---
+id: "fdd31c6935414f98"
+title: "How one lemur species evolved to sing like an opera star"
+url: "https://scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star"
+link: "https://scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star"
+source: "Scientific American"
+domain: "scientificamerican.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-20T11:00:00Z"
+published_date: "2026-11-20"
+collected_at: "2026-11-20T13:03:52Z"
+authors: ["Rachel Feltman", "Sushmita Pathak", "Alex Sugiura"]
+language: "en"
+summary: "After millions of years of evolution turned these lemurs into showstopping singers, scientists are tuning in with conservation in mind"
+tags: []
+orgs: []
+topics: ["business & funding", "health & science", "search & media"]
+content_source: "fulltext"
+word_count: 3349
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# How one lemur species evolved to sing like an opera star
+
+Scientific American · Rachel Feltman, Sushmita Pathak, Alex Sugiura · 2026-11-20
+
+Rachel Feltman: For Scientific American’s Science Quickly, I’m Rachel Feltman.
+You know that song at the beginning of [Disney’s 1991] Beauty and the Beast where Belle talks about how boring all her neighbors are for, like, having jobs and chores and stuff? The one that starts with everyone popping out of their windows to say ...
+[CLIP: Townsperson in Beauty and the Beast: “Bonjour!”]
+On supporting science journalism
+Well, this is apparently pretty similar to what goes on every morning in the rainforest in eastern Madagascar.
+Valeria Ferrario: When a group starts singing, advertising their position, basically, mainly in the morning, so you wake up with one indri group singing, and it—at the same time, all the other groups start singing.
+[CLIP: Indri singing]
+Ferrario: So you’re, like, in the middle of the forest, and you’re completely surrounded by all the groups that start singing one after the other because one starts saying, “Oh, I’m here today,” and the others want to advertise their position, also.
+Feltman: That’s Valeria Ferrario, a postdoctoral researcher at the University of Turin in Italy. You’ve probably already guessed that the singers she’s referring to aren’t human, but she’s not talking about birdsong, either. She’s talking about the indri, which is a very vocal—and very loud—species of lemur.
+Ferrario: It’s really loud. I would say it’s scary sometimes because maybe you’re following them, and they start singing, and it’s like, “Oh, my god.” But, but it’s really magical.
+Feltman: When most of us think about lemurs, we probably don’t imagine them singing. Apologies to those freaky little dudes from the Madagascar movies.
+[ CLIP: “I Like to Move It,” in Madagascar]
+Feltman: In fairness, of the more than 100 estimated species of lemurs found on the aforementioned island, the Indri indri is the only true singer. That’s not to say that other lemurs can’t make lovely sounds, and in fact, I’m not sure I would die on the hill of saying that the indris are making particularly lovely sounds. But indris are the only lemurs that turn their vocalizations into what researchers feel comfortable calling songs. A song, in this case, is a long vocalization built from notes that are organized into phrases and follow a rhythm, with changes in pitch along the way. The question is why indris evolved to do this—and why other lemurs didn’t.
+Lemurs, by the way, have a fascinating evolutionary history. Like 90 percent of the living things on Madagascar, they aren’t found anywhere else. But based on the fossil record, it does not seem like lemurs evolved from a primate that was on Madagascar when it separated from Africa some 165 million years ago or when it broke away from India 80 million years ago and became an island. Instead, as wild as it might sound, lemur ancestors from Africa made their way to Madagascar by sea. According to DNA analysis published last year in Nature Communications, that happened about 53 million years ago.
+However it was that those little guys got swept onto shore, they found themselves without many natural predators or even any other primates to compete with. That’s probably why there are so many different species of lemur: There were lots of different niches for them to evolve into. And for the indri, one of those niches could be musicality. Besides humans and indris, the primates known to create songs are gibbons, tarsiers and titi monkeys—none of which are closely related to lemurs or to each other. That means this skill evolved more than once.
+Filippo Carugati: There is something in the ecology and the evolution that moved...the evolution of this peculiar kind of communication with musical communication in different primate species.
+Feltman: That’s Filippo Carugati, who worked on the University of Turin research on indris for his Ph.D. When I asked him what we know about why indris evolved to sing, he said that it’s still an open question—but that there are a few clues.
+Carugati: We need to look a bit to the function of the song itself. The songs is used for, uh, broadcasting, for, uh, signaling the occupation of a certain territory. So it is, is a way for signal to the neighboring groups, “Okay, we are this family of indris. We are occupying this territory. We are four individuals, two males, two females.” And they, and this is generally a very contagious behavior, so the neighboring groups are responding to this, saying, “Oh, in this territory we are five individuals, three males and two females,” and so on. And this is something that spread all over the forest.
+Feltman: Adult breeding pairs sing duets, and you can often tell which sex is which by the notes they use.
+[CLIP: Indris sing duet]
+It’s all very Rodgers and Hammerstein, if you ask me.
+[CLIP: Indris sing duet]
+Filippo points out that this kind of family-to-family communication only works if your neighbors can hear you. That takes a lot of effort in the indris’ habitat, which is a rainforest full of hills and valleys.
+Carugati: So the important things is: the sound should be loud because the louder it is the more, uh, easily the other groups can, hear the occupation of the territory....And this is the main point, being heard and being loud.
+Feltman: Singing isn’t the only way to make your voice heard—lots of animals, including ones in similar environments, get loud without evolving the kind of rhythm and pitch these lemurs demonstrate. But according to Filippo, Valeria and their colleagues, indris use a trick to help their calls carry that’s inherently musical: they move their mouths kind of like opera singers do.
+[CLIP: Opera singing]
+Carugati: Soprano singers or, or opera singers, uh, modify their mouth and especially, they adapt, the opening of the mouth with the higher notes. So the more, they open the mouth, the more the frequency of the notes emitted. We looked for this kind of relationship exact also in indri, and we found it.
+Feltman: I decided to call someone who knows a lot more about opera singing than I do and who I can confirm—this is a compliment—is capable of being very, very loud.
+Chelsea Feltman: As a singer, when you get, sort of, dialed into your support and your body, and you’re, like, producing sound really efficiently and just, like, naturally and freely, it does feel so animalistic.
+Feltman: That’s my sister, Chelsea Feltman. She co-hosts a history and culture podcast called Vanity Veritas, and she trained as a soprano at the Juilliard School and the Mannes School of Music.
+Chelsea: People think of opera singing as this very rarefied, cultured thing. But, like, I’m always telling people, like, it’s a, it’s like a bodily function when you’re doing it right.
+Feltman: I asked Chelsea to explain the singing technique these scientists are talking about.
+Chelsea: So basically, the vocal folds create the pitch, and that’s almost like plucking a string. The raw pitch comes from your vocal folds coming together and vibrating at a certain frequency, and then your vocal tract, which you can imagine as, like, your, your pharyngeal space, your throat, your mouth, is almost like the body of the instrument. So think about how, like, you pluck a guitar string, but the wooden body of the guitar is what makes it resonant.
+Feltman: The vocal folds make the note, and the shape of the throat and mouth determines how it sounds. The technical term for the resonant frequencies in that space is formants. Opera singers learn to adjust their mouths so that the first formant lines up with the pitch they’re singing. That’s called formant tuning, which is what scientists think indris might be doing.
+Chelsea: As the pitch gets higher, the formant F1 has to get higher, and we do that by opening the mouth taller and taller.
+[CLIP: Opera singing]
+Feltman: This technique is especially useful for opera singers.
+Chelsea: As a classical soprano in this repertoire, we sing pitches that are way, way, way above the range of normal speech. So the fundamental is so high that we have to make the formant really, really high in order to get that resonance, which is why they’re talking about sopranos, in particular, opening up their mouth really—I’m, if you can’t see me, I’m opening up my mouth in, like, a very big “ah.”
+Feltman: To catch similar movement in indris, Filippo and his colleagues took a software called DeepLabCut, originally designed to track animal body movements in controlled situations—think lab mice being filmed in mazes—and trained it to find and measure points on a lemur’s face. Most of their footage turned out to be unusable because this was not a controlled situation. There were leaves, branches and lemurs swooping in at inconvenient angles. But they were able to track how mouth movement mapped to pitch change in a dozen individuals, and the pattern held: the higher the note, the more the mouth opened. The study can’t show that lemurs are doing this deliberately, of course, and it didn’t measure loudness directly. But it would make sense for formant tuning to help both species of singer out.
+Carugati: The ecological reason is clear because as soprano singers, indris need to be heard. So that’s, that’s the same evolutionary, we can say, pressure that [is] responsible for the, this convergent evolution of singing techniques in humans and in a species of lemurs that is separated from us 74 millions years ago.
+Feltman: You might not realize just how powerful a classically trained, aka operatic, voice can get—like, loud enough to fill concert halls without a microphone. Chelsea tells me that, among human singers, they don’t talk about this technique we’ve been going over making you louder, in terms of decibels, but more resonant. It’s that quality that makes lemur calls so piercing. That might not be a word I’d want to use to favorably describe a human singer, but the goal for an operatic soprano actually isn’t so far off.
+Chelsea: If you ever feel like someone is onstage, but you hear their voice, like, ping you right in the ear, it’s like they’re right next to you, that’s formant frequencies. We talk about being able to cut through, having the ability to cut through an orchestra. ’Cause I’ll say the thing that’s special about opera singing is that we don’t use microphones. We don’t use amplification, which is why it’s so important to be able to do this and it’s kind of amazing that we can.
+Feltman: That gets at the real commonality between human opera singers and indri lemurs: vocal efficiency. You might not realize it, but most of the qualities that make a voice sound “operatic” to the average person are about maximizing resonance.
+Chelsea: So opera prioritizes maximum efficiency of sound and resonance so that a voice can sustain these really high volumes and resonances and cut over an orchestra without amplification. Sometimes, when you hear an opera singer, everything just kinda sounds like…
+[CLIP: Opera singing]
+Chelsea: And you’re like, “I can’t understand what they’re saying.” Well, that is, that is because we have to modify vowels sort of well beyond or outside of how we would speak them because of this very idea of formant tuning. Like, if I want the note the pitch, to resonate optimally, I have to change the vowel because I have to adjust the vocal tract to tune the formant to the fundamentals. Other styles of music are able to maintain a more naturalistic, speechlike tone. Like, you think of your favorite pop singer who might sing in a way that feels very naturalistic. So those styles of music typically use, uh, microphones or amplification in order to have that more natural sound, naturalistic sound be, be heard in a large hall.
+Feltman: It’s not just that opera singers don’t need microphones either. Microphones and opera singers really don’t get along.
+Chelsea: I have busted so many mics. They, they shut off. [Laughs] And I don’t even have a particularly big voice by operatic standards. Like, it’s just too much resonance and it’s, it sounds terrible. As opera singers, we have a specific set of skills that work really well for a very specific set of tasks
+[CLIP: Opera singing]
+Feltman: As someone who’s been on the edges of the opera world since childhood, thanks to my sister, I’ve heard a lot of commentary on how dangerous it is to try to mimic the intensity of an operatic voice without actually using the techniques we’ve been talking about.
+Chelsea: This formant tuning helps us achieve this optimal resonance that’s really efficient, so we can have very full—I’ll use the word “piercing”—sounds without using a lot of pressure, without using a lot of muscular tension and blowing a lot of air through our vocal folds. Now, lots of people do that. Even really good singers can get into habits where they’re doing that and cause vocal injury. So it’s definitely very possible to chase that sound and not have the, the, the correct technique and really, really do yourself harm.
+Feltman: A lemur that blows out their voice faces higher stakes than a bad review, and they can’t make a career change. So while humans have developed countless, nuanced ways of singing—including many types of opera other than the western classical music we’ve been referring to today as opera for simplicity sake—it makes sense that these lemurs would most resemble the vocalists who prioritize being heard with minimal risk of injury. Of course, with all this in mind, I had to ask Chelsea what she thought of the lemurs’ technique.
+Chelsea: Boy, are those lemurs talented. I think maybe it’s less surprising that animals or primates do it, and more surprising that, like, humans forgot how to do it, and somehow, like, worked their way back to it by, through this one weird form of singing that evolved in, in Europe in the early modern period.
+Feltman: The Metropolitan Opera has had horses onstage before so maybe lemurs are next. I feel like Chelsea and I know a few composers who could probably make that happen.
+Even if indris never make it to Lincoln Center, it seems like their singing technique helps them rise above the noise of the rainforest to communicate. And it turns out that their musicality could help the species survive in another way, too: Those distinct vocal characteristics could help scientists count them more easily. That’s important, because the species is listed as Critically Endangered by the International Union for Conservation of Nature, or IUCN, due to habitat destruction, hunting and climate change. In fact, researchers aren’t even sure how many of them are left.
+Ferrario: No one was able to, uh, grow this species in captivity, so they die in captivity.
+So the only place where we can work on their conservation is in, in nature. So basically, uh, the IUCN is asking for more data about the number and the abundance of the species in Madagascar.
+Feltman: That was Valeria Ferrario again. She says lemurs are typically tough to count in person because they tend to avoid humans. Folks have had better luck than average at the protected wildlife park Maromizaha, which is where University of Turin researchers go to study indris because animals there are more accustomed to human presence. With a reasonably confident tally of lemurs to reference, Valeria and her colleagues decided to use Maromizaha as a proving ground for a new surveying method.
+Drawing inspiration from previous work on beaked whales, they set out to use passive acoustic monitoring to record the singing lemurs.
+Ferrario: The initial idea we got inspired by, by a colleague of ours, uh, was really good, is from St. Andrews University [the University of St. Andrews in Scotland], and they created this method underwater. So uh, you can understand how the sound propagation is really different underwater, so it was kind of a, you know, a bet here because we didn’t know whether this method could work also on terrestrial and also in a really complex environment with, um, concern to sound, you know, because the forest is really, uh, loud, is really complex, and we have a lot of sounds, and it’s really difficult to measure how the sound propagates there with all the trees and the rain, and the wind and stuff like that...It’s a lot of statistics and so [laughs] it was quite complicated to do the same thing on the land.
+Feltman: Like, really complicated. First, recorders placed around the forest capture the entire soundscape—easy-peasy. Then a neural network picks out indri songs from the rest of the hustle and bustle because the rainforest is noisy. But then you get into the complicated statistics of it all because a recorder is only going to capture an unknown fraction of the songs getting sung in the survey area. The key to turning passive monitoring into a reliable head count is to calculate the probability that if a song happens, you’re going to hear it, because that allows you to take your indri mixtape and extrapolate how many songs happened during that time in total. That was especially tricky in Maromizaha.
+Ferrario: Traditionally what happens is that you have a microphone, and you, uh, reproduce, like, from speakers, uh, the, the sound of your interest at different distances, and you try to understand how the sound propagates, you know, into the environment. But the difficult part of this in a tropical forest like Maromiza, is that there, uh, the environment is really complex. It’s just hills and stuff and valleys, so the sound travels in different ways. So this was the biggest complication for our study.
+Feltman: Then you take everything you know about how often any given group of indris tends to sing.
+Ferrario: You can compose all these things together and try to translate the number of songs into the number of groups basically.
+Feltman: When they compared the method’s estimate with the number of groups researchers already knew lived in the area, the two landed within about 10 percent of each other: roughly 5.5 groups per square kilometer versus 6.2. The margin of error around that estimate is wide, and this was just one site, so it’s still just a proof of concept. But Valeria is excited to see other groups try it.
+Ferrario: It’s really, um, simple in some way. It was not simple to do this paper, but it’s something that is really, uh, democratic, I think. It’s really easy to, like, uh, learn it and how to use the microphones and how to use this information to gather information on biodiversity or a species, or so on. And that’s what I like the most because I think it’s really easy, like, to pass it to, uh, local researchers, even if they have no funding or stuff like that. So it’s really nice because I think this is the basis to build something sustainable in conservation, you know? If the conservation is really only linked to, uh, Italian people going there and living there and having the funding to do stuff there is one thing, but it could be sustainable only if local people and people living there can do this and, like, use this methodology there.
+[CLIP: Indri singing]
+Feltman: So after millions of years of evolution turned indris into showstopping singers, scientists are tuning in with conservation in mind. The indris’ song could be the thing that helps save them.
+[CLIP: Indri singing]
+Feltman: That’s all for today’s episode. We’ll be back on Monday for our weekly science news roundup.
+Science Quickly is produced by me, Rachel Feltman, along with Fonda Mwangi, Sushmita Pathak, Allison Rodgers and Jeff DelViscio. This episode was edited by Alex Sugiura. Marielle Issa and Aaron Shattuck fact-check our show. Our theme music was composed by Dominic Smith. Subscribe to Scientific American for more up-to-date and in-depth science news.
+For Scientific American, this is Rachel Feltman. Have a great weekend!
