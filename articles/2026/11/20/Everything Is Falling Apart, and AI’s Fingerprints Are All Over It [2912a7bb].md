@@ -1,0 +1,82 @@
+---
+id: "2912a7bb0c3840ac"
+title: "Everything Is Falling Apart, and AI’s Fingerprints Are All Over It"
+url: "https://cnet.com/tech/services-and-software/outages-and-cyberattacks-everything-is-breaking-is-it-ai"
+link: "https://cnet.com/tech/services-and-software/outages-and-cyberattacks-everything-is-breaking-is-it-ai"
+source: "CNET"
+domain: "cnet.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-20T13:30:00Z"
+published_date: "2026-11-20"
+collected_at: "2026-11-21T13:03:30Z"
+authors: ["Jon Reed"]
+language: "en"
+summary: "AI is rewriting the web in its own imperfect image, making software flaws easier to find and easier to exploit, while introducing plenty of its own imperfections."
+tags: ["AI"]
+orgs: ["Anthropic", "OpenAI", "Microsoft", "China"]
+topics: ["agents & coding", "safety & ethics", "models & research", "policy & regulation"]
+content_source: "fulltext"
+word_count: 2174
+paywalled: false
+image: "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-852087652.jpg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Everything Is Falling Apart, and AI’s Fingerprints Are All Over It
+
+CNET · Jon Reed · 2026-11-20
+
+I have struggled to find the time to write this story about why everything keeps breaking because everything keeps breaking.
+Microsoft Outlook? Broken, for a bit. Air traffic control? Had some issues. Bank with Chase? Monday was not great. But even before that, you had issues if you ran a website with PHP, or had a grocery store freezer connected to the internet, or owned crypto. I am almost certainly forgetting some.
+Something must be behind all of this, you might think—a massive cyberattack campaign, maybe or AI agents running amok across the internet? But the answer is more complicated than that. All of these issues, and the ones that will happen after I write this, are probably unconnected, at least in the concrete sense. But they exist in a world where the infrastructure of the internet and the whole human world it undergirds looks increasingly precarious.
+More from CNET
+Adam Meyers, senior vice president of counter adversary operations at cybersecurity company CrowdStrike, called last month “Black October.” This month? “Blacker November.” December probably isn’t looking great.
+“This is not getting better, unfortunately,” Meyers told me.
+One big reason for all of this, although not the only one, is artificial intelligence, but maybe not in the ways you expect.
+Welcome to the vulnpocalypse
+If it’s connected to the internet, it’s at risk. Websites, sure. But also utilities like power plants and water treatment facilities or, for some reason, grocery store freezers.
+In the olden days, like six months ago, a hacker taking control would have required a fairly complicated set of skills, honed over a long career, perhaps in the employ of a government or criminal organization.
+Artificial intelligence, especially models developed and released this year, has changed things. AI has “democratized” hacking, cybersecurity experts told me. Things that used to require the capabilities and focus of a team of people with a clear goal can be done by a 20-something with an AI model and a specially designed program around it. And you don’t have to be a big or valuable target anymore to be worthy of a hacker’s attention.
+At the same time, AI has made it easier to find vulnerabilities. These models and agents — essentially AI models that can do things on their own — can comb through websites or code and find problems that might have escaped the notice of humans. And they can do so more cheaply, meaning they can be turned on code that might not otherwise have gotten a close look. So many vulnerabilities are being exposed that it’s been given an appropriately bleak name: the vulnpocalypse.
+Even that defensive advantage is a double-edged sword. Before, it might have taken weeks before a newly discovered vulnerability could be exploited. Now it might take days, even hours. If you’re responsible for a website or any of those things connected to the internet that may or may not still be maintained by their creators, you may not be paying attention and know you should update. You may find yourself liable if a breach leads to a leak of customer data. You may not have the know-how to fix it.
+Another risk introduced by AI is that the technology, trained on all the lines of code its creators could find, is really good at writing code. Software engineers know this, and companies are now maintaining smaller teams of human engineers using AI to write more and more software. That code might be OK, but it might not be, and there’s a chance no human ever looked at it to be sure.
+Anyone can be a vibe-hacker
+When I connected with John Strand over video chat, he was in Germany for a conference, and he was smiling. That wasn’t good. “You need to understand that whenever an offensive security person smiles and gets excited,” he said, “it’s bad.”
+As owner and CEO of Black Hills Information Security, Strand’s job is to test systems for weaknesses, to think like an attacker and poke holes in a client’s defenses. He says he’d been getting a bit bored with the work after decades of the same techniques until the cyber capabilities of AI models started to explode at the end of 2025. New AI models were great at finding weaknesses in code, and AI agents could do the boring, time-consuming part.
+“You’re seeing something that can automate the kind of grinding grunt work of offensive security and bring that to a human operator much faster,” Strand said.
+Things have only accelerated since the summer. AI agents are capable of more autonomy. And attackers have better tools to refine the often blunt instruments of AI models — harnesses. While an AI model can do a lot of things, a harness provides the tools and direction that allow it to do a specific thing more effectively. Think Anthropic’s Claude Code or OpenAI’s Codex, but for hacking. Perhaps the biggest, most notable harness used by hackers is Artex, a significant-enough threat that the FBI issued a warning last week.
+In September and October, a hack of major South Korean banks led to the theft of personal information. Meyers says CrowdStrike determined the attacker was likely a 26-year-old in China using Artex. After asking AI how to do the attack, the hacker succeeded, then asked the AI how to sell the stolen data on Telegram.
+“Anybody out there can now be a nation-state-level hacker just by using the tool,” Meyers said.
+Despite efforts by major AI developers to limit who can access their biggest and most capable models, the hacking and exploit skills attackers need are within the means of models already in the hands of attackers. That includes open-weight models that hackers can run on their own hardware, away from the guardrails and peering eyes of AI companies and government agencies.
+“The genie’s out of the bottle, and there’s no putting it back in,” said Gary Barlet, public sector chief technology officer at Illumio, a firm that specializes in ransomware and breach containment.
+So many problems, so little time
+AI-powered hackers, whether they’re individual vibe-hackers or government-backed cyberwarfare units intent on damaging critical infrastructure, always have an advantage. They just have to be right once, as the saying goes. Defenders have to be right every time.
+The good thing is that the defenders are using the same tools as the attackers. And sometimes they have a head start. Programs like Anthropic’s Project Glasswing, OpenAI’s Daybreak and Google’s Fairwind let cybersecurity experts and high-profile targets like banks and healthcare providers have early access to the most capable models from those developers, often with fewer limits on what the models can find. The goal is to get a jump on patching and fixing the easiest and riskiest problems.
+It still might not be enough, and Big Tech leaders know it. In an October appearance at the Stanford Graduate School of Business, OpenAI CEO Sam Altman said he no longer thought we’d be able to “just patch all the bugs” and that the problem is one that “is still something that we have not, as organizational leaders or countries or individuals, taken seriously.”
+And defenders may not have much of a lead in patching bugs anyway, Microsoft CEO Satya Nadella said this week at the New York Times Dealbook Summit. Previously, when patching a critical system, you might have a week to test it before pushing it to production. “Right now the patch needs to go instantly from being available to being patched in production because it’s being exploited in the wild,” Nadella said. “That’s going to create instability.”
+The PHP vulnerability widely reported in October — with an urgent notice from the PHP Foundation for website owners to patch — stemmed from work through Patch the Planet, part of OpenAI’s Daybreak.
+That’s just one high-profile recent disclosure. But there has been an avalanche of them. The National Vulnerability Database has received more than 10,000 instances of common vulnerabilities and exposures so far in November, after more than 17,000 CVEs in October. For comparison, in October 2025, that figure was less than 5,000.
+“There’s effectively this big backlog of security issues in the open-source world that hadn’t been discovered until AI was able to just spend tons of time analyzing it and finding these vulnerabilities,” said Matt Wyckhouse, CEO of Finite State, a cybersecurity company focused on connected devices.
+It goes well beyond open-source software. The connected devices Wyckhouse focuses on include things like refrigerators and smart home gadgets — the kinds of things that probably didn’t have to be connected to the internet, but are. The source code of the firmware and software powering those products has been seen by far fewer eyes than something like PHP, an incredibly common coding language used by much of the internet. The code running these devices may not be on GitHub or floating around the internet, but an AI model might be able to reverse-engineer it and find an exploit. And suddenly an attacker can turn freezers into ovens. If you think ground beef is expensive now, imagine what would happen if a major retailer’s stock of hamburger all spoiled overnight.
+“Refrigeration has to work for our society to function, as it turns out,” Wyckhouse said.
+Wherever the vulnerability is found, it has to be patched. That’s where the backlog of issues is really wreaking havoc. Companies that create or just operate software are swamped with important, critical issues that have to be fixed now because it could only be hours before an attacker can exploit it. It’s why your computer and the software on it have to update so frequently these days.
+“It’s daunting the amount of work and the amount of time it’s going to take to clean this whole thing up,” said Ted Miracco, CEO of the mobile security firm Approov.
+And patching isn’t perfect. Sometimes it’s not a cyberattack that causes a system to go down but the fix to prevent it. Software updates are believed to be responsible for several of the recent high-profile outages, including Apple’s issues on Tuesday.
+Things get even hairier if the code isn’t great to begin with or presents new problems of its own. And with AI writing even more of it, that’s a growing issue.
+How safe is that code?
+In the backdrop of all of this chaos is the fact that software engineering is one of the industries most disrupted by AI. Models trained on miles of code are great at writing something that works — no matter how many holes are in it. And to CEOs eager to cut costs and boost their companies’ stock prices, the temptation is to lay off engineers and have fewer people use AI to do all that coding.
+Big Tech has been laying off staff by the thousands this year. Microsoft’s October announcement that it was offering buyouts to 60,000 staff became a key talking point just weeks later when the system powering its Outlook email service went dark for a day. Might things break less often if more people were on hand to maintain them?
+“I wouldn’t be surprised if companies start to backtrack on that more,” said Ryan McCurdy, vice president of marketing at the database security firm Liquibase.
+Companies might also have more junior developers writing and releasing code that would have previously gone through senior developers, with AI replacing the productivity, but not the experience, McCurdy says.
+That means the problem isn’t just the vulnerabilities in existing software, but the vulnerabilities being written into new software or patches to existing software by AI. The same technology is causing the problem, providing the solution and complicating that solution.
+What now?
+The main thing we can do now is just… wait. Wyckhouse told me he thinks the next two years are going to be a period of growing pains as vulnerabilities are found and patched. The end result should be that everything is more stable.
+“I think software is going to be an order of magnitude more secure by the end of the next year or two than it is today for this reason,” he said. “It will hurt a bit.”
+Whether you’re an ordinary phone user or a major corporation, updating your software has become more important than ever.
+“You’ve got to patch. You go for a flu shot, and you go and have your preventative healthcare,” Meyers said. “You need to do the same thing when it comes to cybersecurity.”
+But consumers aren’t without power, especially when it comes to data breaches. If a company isn’t properly maintaining its systems and protecting your privacy or security online, don’t use it. Having your data hacked and compromised has become ordinary. We get letters in the mail saying someone stole data from our bank or doctor’s office, and if we jump through the following hoops, we can get 12 months of identity protection.
+We don’t have to put up with it, Barlet says. “I think we need to start having higher expectations from the companies we’re consuming from,” he said.

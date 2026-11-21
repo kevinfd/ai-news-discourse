@@ -1,0 +1,40 @@
+---
+id: "785fd7f0ef1653f9"
+title: "European rights court bars Romanian lawyer for 2 years over AI citations"
+url: "https://echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations"
+link: "https://echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations"
+source: "ECHR"
+domain: "echr.coe.int"
+source_type: "community"
+collector: "hackernews"
+date: "2026-11-20T18:11:11Z"
+published_date: "2026-11-20"
+collected_at: "2026-11-21T13:03:30Z"
+authors: ["giuliomagnifico"]
+language: "en"
+summary: "Romanian lawyer barred for two years from representing applicants before the Court over unverified AI-generated citations\n\t\t\t\nOn 13 November 2026 the President of the Court decided to exclude a Romanian lawyer from representing or otherwise assisting litigants before the Court, for a period of two years.\nThis came after the Chamber that was dealing with the application in which the lawyer was…"
+tags: []
+orgs: []
+topics: ["policy & regulation", "products & launches"]
+content_source: "fulltext"
+word_count: 239
+paywalled: false
+image: null
+discussion_url: "https://news.ycombinator.com/item?id=50579237"
+score: 24
+comments: 4
+community: "Hacker News"
+---
+
+# European rights court bars Romanian lawyer for 2 years over AI citations
+
+ECHR · giuliomagnifico · 2026-11-20
+
+Romanian lawyer barred for two years from representing applicants before the Court over unverified AI-generated citations
+			
+On 13 November 2026 the President of the Court decided to exclude a Romanian lawyer from representing or otherwise assisting litigants before the Court, for a period of two years.
+This came after the Chamber that was dealing with the application in which the lawyer was acting as one of two representatives found that the observations which she had submitted on the case contained numerous errors concerning the Court’s case-law. These included the citation of non-existent (“hallucinated”) cases; the citation of fictitious paragraphs in genuine judgments and decisions of the Court; and the citation of existing case-law that was irrelevant to the propositions advanced or that plainly contradicted the submissions they were intended to support.
+The lawyer acknowledged that she had used Artificial Intelligence (AI) tools to draft the observations and described the mistakes as “inaccuracies” and “citation errors”. The Chamber found that the lawyer’s submissions contained a pattern of numerous, repeated, substantive errors rather than isolated citation mistakes and concluded that her conduct fell short of the professional and ethical duties imposed by the Court, duties that are also found in domestic law.
+The Chamber submitted a reasoned proposal to the President of the Court that the lawyer be excluded from representing applicants before the Court for two years. The President approved that proposal.
+- Press release
+- Press release (in Romanian)

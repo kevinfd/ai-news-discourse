@@ -1,0 +1,40 @@
+---
+id: "cef6939d7b3165d4"
+title: "The week everything fell apart"
+url: "https://theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
+link: "https://theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
+source: "The Verge"
+domain: "theverge.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-20T14:06:59Z"
+published_date: "2026-11-20"
+collected_at: "2026-11-21T13:03:30Z"
+authors: ["David Pierce"]
+language: "en"
+summary: "There was a dayslong Outlook outage . A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working . Even iCloud couldn't stay up and running . This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. \n On this episode of The Vergecast , Nilay and David go through the week's…"
+tags: ["AI", "Nvidia", "Podcasts", "Policy", "Tech", "Vergecast"]
+orgs: ["Nvidia", "Google", "Apple", "China"]
+topics: ["chips & infrastructure"]
+content_source: "fulltext"
+word_count: 317
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# The week everything fell apart
+
+The Verge · David Pierce · 2026-11-20
+
+There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn’t stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger.
+The week everything fell apart
+On The Vergecast: Is AI breaking the world? And is Jensen Huang coming back to Nvidia?
+On this episode of The Vergecast, Nilay and David go through the week’s many calamities, and try to explain both what happened in each case — which was generally much milder than the conspiracy theories would have you believe — and why all these small issues might still add up to something worth worrying about. In a world filled with more AI and fewer humans, we’re going to see new kinds of problems and often struggle to find the fixes.
+After that, the hosts discuss the latest in the Jensen Huang / Nvidia scandal, which is increasingly less about affairs and more about the allegedly very big business of illegally smuggling chips to China. Huang will not be back as Nvidia CEO anytime soon, no matter what a bunch of X users want, and the fallout of his exit seems likely to only increase.
+Finally, in the lightning round, it’s time for Brendan Carr is a Dummy, Nilay’s experience with his always-listening Apple Watch, Google’s inability to name products, and much more.
+Watch | Listen | Get ad-free
+In case you missed it this week: We also talked about e-readers, computer chips, GTA VI, and the world after GTA VI. And we want to hear all your thoughts about all of it! Call the Hotline at 866-VERGE11, send us an email at vergecast@theverge.com, and tell us everything that’s on your mind. And make sure you subscribe so you don’t miss an episode!
