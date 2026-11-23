@@ -1,122 +1,121 @@
 {
-  "run_at": "2026-11-21T13:03:30Z",
-  "since": "2026-11-20T01:03:30Z",
+  "run_at": "2026-11-23T13:04:50Z",
+  "since": "2026-11-22T01:04:50Z",
   "stats": {
-    "candidates": 695,
-    "already_known": 79,
-    "not_ai": 365,
-    "title_duplicate": 1,
-    "merged_duplicates": 8,
-    "new_unique": 242,
-    "written": 242,
-    "seconds": 361
+    "candidates": 546,
+    "not_ai": 303,
+    "already_known": 3,
+    "merged_duplicates": 1,
+    "new_unique": 239,
+    "written": 239,
+    "seconds": 378
   },
   "by_content_source": {
-    "summary": 99,
-    "fulltext": 142,
+    "fulltext": 129,
+    "summary": 109,
     "post": 1
   },
   "top_sources": [
+    [
+      "The Guardian",
+      14
+    ],
     [
       "Bloomberg",
       14
     ],
     [
-      "Forbes",
-      13
+      "Techmeme",
+      11
+    ],
+    [
+      "Financial Times",
+      10
+    ],
+    [
+      "Business Insider",
+      10
     ],
     [
       "Mashable",
       9
     ],
     [
-      "Scientific American",
+      "Forbes",
       8
-    ],
-    [
-      "Techmeme",
-      8
-    ],
-    [
-      "The Guardian",
-      7
-    ],
-    [
-      "CNET",
-      7
-    ],
-    [
-      "Business Insider",
-      7
-    ],
-    [
-      "CNBC",
-      7
-    ],
-    [
-      "AWS Machine Learning Blog",
-      7
-    ],
-    [
-      "Financial Times",
-      6
-    ],
-    [
-      "The Information",
-      6
-    ],
-    [
-      "TechCrunch",
-      5
     ],
     [
       "MarkTechPost",
-      5
+      7
     ],
     [
       "Channel NewsAsia",
-      5
+      7
     ],
     [
-      "Tom's Guide",
-      5
+      "Quartz",
+      6
     ],
     [
-      "NPR",
-      5
+      "South China Morning Post",
+      6
     ],
     [
       "note",
+      6
+    ],
+    [
+      "The Verge",
       5
     ],
     [
-      "Engadget",
-      4
+      "Scientific American",
+      5
     ],
     [
       "Fast Company",
-      4
-    ],
-    [
-      "The Hill",
-      4
-    ],
-    [
-      "Towards Data Science",
-      4
-    ],
-    [
-      "The New York Times",
-      4
-    ],
-    [
-      "BBC News",
-      4
+      5
     ],
     [
       "The Hindu",
+      5
+    ],
+    [
+      "WIRED",
       4
+    ],
+    [
+      "The Information",
+      4
+    ],
+    [
+      "Axios",
+      4
+    ],
+    [
+      "TechCrunch",
+      3
+    ],
+    [
+      "Euronews",
+      3
+    ],
+    [
+      "Fox News",
+      3
+    ],
+    [
+      "PCMag",
+      3
+    ],
+    [
+      "Towards Data Science",
+      3
+    ],
+    [
+      "Engadget",
+      2
     ]
   ],
-  "total_articles": 15491
+  "total_articles": 15730
 }
