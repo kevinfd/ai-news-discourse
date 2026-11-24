@@ -1,75 +1,112 @@
 {
-  "run_at": "2026-11-23T13:04:50Z",
-  "since": "2026-11-22T01:04:50Z",
+  "run_at": "2026-11-24T13:04:20Z",
+  "since": "2026-11-23T01:04:20Z",
   "stats": {
-    "candidates": 546,
-    "not_ai": 303,
-    "already_known": 3,
-    "merged_duplicates": 1,
-    "new_unique": 239,
-    "written": 239,
-    "seconds": 378
+    "candidates": 812,
+    "already_known": 60,
+    "not_ai": 343,
+    "title_duplicate": 1,
+    "merged_duplicates": 13,
+    "new_unique": 395,
+    "written": 395,
+    "seconds": 456
   },
   "by_content_source": {
-    "fulltext": 129,
-    "summary": 109,
+    "summary": 183,
+    "fulltext": 211,
     "post": 1
   },
   "top_sources": [
     [
-      "The Guardian",
-      14
+      "Mashable",
+      21
     ],
     [
       "Bloomberg",
-      14
+      17
     ],
     [
-      "Techmeme",
-      11
+      "CNBC",
+      16
     ],
     [
-      "Financial Times",
-      10
+      "The New York Times",
+      13
+    ],
+    [
+      "TechCrunch",
+      13
+    ],
+    [
+      "The Information",
+      12
     ],
     [
       "Business Insider",
-      10
-    ],
-    [
-      "Mashable",
-      9
-    ],
-    [
-      "Forbes",
-      8
-    ],
-    [
-      "MarkTechPost",
-      7
-    ],
-    [
-      "Channel NewsAsia",
-      7
-    ],
-    [
-      "Quartz",
-      6
+      12
     ],
     [
       "South China Morning Post",
-      6
+      12
     ],
     [
-      "note",
-      6
+      "The Guardian",
+      11
+    ],
+    [
+      "The Hill",
+      11
+    ],
+    [
+      "Channel NewsAsia",
+      11
     ],
     [
       "The Verge",
-      5
+      10
     ],
     [
-      "Scientific American",
+      "Forbes",
+      10
+    ],
+    [
+      "Financial Times",
+      9
+    ],
+    [
+      "Techmeme",
+      9
+    ],
+    [
+      "Axios",
+      8
+    ],
+    [
+      "Quartz",
+      8
+    ],
+    [
+      "The Hindu",
+      8
+    ],
+    [
+      "The New Stack",
+      7
+    ],
+    [
+      "ZDNet",
+      6
+    ],
+    [
+      "Tom's Guide",
+      6
+    ],
+    [
+      "VentureBeat",
+      6
+    ],
+    [
+      "WIRED",
       5
     ],
     [
@@ -77,45 +114,9 @@
       5
     ],
     [
-      "The Hindu",
+      "Politico",
       5
-    ],
-    [
-      "WIRED",
-      4
-    ],
-    [
-      "The Information",
-      4
-    ],
-    [
-      "Axios",
-      4
-    ],
-    [
-      "TechCrunch",
-      3
-    ],
-    [
-      "Euronews",
-      3
-    ],
-    [
-      "Fox News",
-      3
-    ],
-    [
-      "PCMag",
-      3
-    ],
-    [
-      "Towards Data Science",
-      3
-    ],
-    [
-      "Engadget",
-      2
     ]
   ],
-  "total_articles": 15730
+  "total_articles": 16125
 }

@@ -1,0 +1,47 @@
+---
+id: "5252557efd41dbdb"
+title: "The 65-Inch TCL QM8L TV is over $1,500 off at Amazon: How to claim this stunning Black Friday TV deal"
+url: "https://mashable.com/tech/nov-24-tcl-tv-black-friday-deal"
+link: "https://mashable.com/tech/nov-24-tcl-tv-black-friday-deal"
+source: "Mashable"
+domain: "mashable.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-24T11:40:45Z"
+published_date: "2026-11-24"
+collected_at: "2026-11-24T13:04:20Z"
+authors: ["Hannah Hoolihan"]
+language: "en"
+summary: "SAVE OVER $1,500: As of Nov. 24, the TCL 65-Inch QM8L SQD-Mini LED QLED 4K TV is down to its lowest-ever price of $997.99 at Amazon. That's $1,502 off the list price of $2,499.99. \n\n Opens in a new window\n\n Credit: TCL \n\n TCL 65-Inch QM8L Series SQD-Mini LED QLED 4K TV\n\n $997.99 \n at Amazon \n \n $2,499.99 \n Save $1,502.00 \n\n Get Deal at Amazon \n\n Black Friday TV deals are coming in hot, including…"
+tags: []
+orgs: ["Amazon", "AMD"]
+topics: ["business & funding", "models & research"]
+content_source: "fulltext"
+word_count: 381
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# The 65-Inch TCL QM8L TV is over $1,500 off at Amazon: How to claim this stunning Black Friday TV deal
+
+Mashable · Hannah Hoolihan · 2026-11-24
+
+The 65-Inch TCL QM8L TV is over $1,500 off at Amazon: How to claim this stunning Black Friday TV deal
+SAVE OVER $1,500: As of Nov. 24, the TCL 65-Inch QM8L SQD-Mini LED QLED 4K TV is down to its lowest-ever price of $997.99 at Amazon. That's $1,502 off the list price of $2,499.99.
+Black Friday TV deals are coming in hot, including on some models that just released this year.
+TCL's 65-Inch QM8L SQD-Mini LED QLED 4K TV has received an astonishing 60% discount on Amazon, bringing its price down to $997.99 as of Nov. 24. This TCL TV usually sits at $2,499.99, so this deal saves you a whopping $1,502 in total. 
+        
+            The best tech deal this week
+                            
+                    
+            
+According to our research, this is the lowest price we've seen for this TV on Amazon.
+If you're looking to splash out on a new screen ahead of the holidays, this TCL QM8L TV is an impressive investment. Its mid-range 65-inch screen size is a great pick for most living spaces, while its SQD-Mini LED display combines TCL's Deep Color System and Halo Control System to deliver bright colors and deep contrast. Plus, 4K resolution ensures a sharp and clear image.
+Its TSR AI Processor optimizes picture quality across clarity, contrast, color, motion, upscaling, and backlighting, which keeps every movie, show, and game on the display looking its very best. And speaking of games, the screen features a 144Hz native panel refresh rate with Game Accelerator 288 VRR and AMD FreeSync Premium Pro that keep the action on display looking smooth, more responsive, and with lower latency.
+Treat yourself to a new TV this year. Don't miss out on this huge discount on the TCL 65-Inch QM8L SQD-Mini LED QLED 4K TV at Amazon.
+Topics Amazon Black Friday Streaming
+Hannah Hoolihan is a freelance writer with Mashable. She’s written for various entertainment websites since 2017, covering everything from tech to games to film. You’ll currently find her work on IGN and Fangoria alongside Mashable, but she also has bylines at Rock Paper Shotgun, Collider, Screen Rant, and more. When she’s not writing, she enjoys catching up with the latest films and shows — horror, in particular — and has a deep love of FromSoft games, which she continues to happily replay.
