@@ -1,84 +1,64 @@
 {
-  "run_at": "2026-11-24T13:04:20Z",
-  "since": "2026-11-23T01:04:20Z",
+  "run_at": "2026-11-25T13:04:01Z",
+  "since": "2026-11-24T01:04:01Z",
   "stats": {
-    "candidates": 812,
-    "already_known": 60,
-    "not_ai": 343,
-    "title_duplicate": 1,
-    "merged_duplicates": 13,
-    "new_unique": 395,
-    "written": 395,
-    "seconds": 456
+    "candidates": 829,
+    "already_known": 92,
+    "not_ai": 395,
+    "title_duplicate": 4,
+    "merged_duplicates": 5,
+    "new_unique": 333,
+    "written": 333,
+    "seconds": 424
   },
   "by_content_source": {
-    "summary": 183,
-    "fulltext": 211,
-    "post": 1
+    "fulltext": 166,
+    "summary": 163,
+    "post": 4
   },
   "top_sources": [
     [
-      "Mashable",
-      21
-    ],
-    [
-      "Bloomberg",
-      17
+      "Forbes",
+      19
     ],
     [
       "CNBC",
-      16
-    ],
-    [
-      "The New York Times",
-      13
+      15
     ],
     [
       "TechCrunch",
-      13
+      14
     ],
     [
-      "The Information",
+      "The Guardian",
+      14
+    ],
+    [
+      "Bloomberg",
+      14
+    ],
+    [
+      "Financial Times",
+      12
+    ],
+    [
+      "The Hill",
       12
     ],
     [
       "Business Insider",
-      12
-    ],
-    [
-      "South China Morning Post",
-      12
-    ],
-    [
-      "The Guardian",
-      11
-    ],
-    [
-      "The Hill",
-      11
-    ],
-    [
-      "Channel NewsAsia",
-      11
-    ],
-    [
-      "The Verge",
       10
     ],
     [
-      "Forbes",
+      "Mashable",
       10
     ],
     [
-      "Financial Times",
+      "Scientific American",
       9
     ],
     [
-      "Techmeme",
-      9
-    ],
-    [
-      "Axios",
+      "The Information",
       8
     ],
     [
@@ -86,37 +66,57 @@
       8
     ],
     [
-      "The Hindu",
-      8
-    ],
-    [
-      "The New Stack",
+      "CBS News",
       7
     ],
     [
-      "ZDNet",
+      "The Verge",
       6
     ],
     [
-      "Tom's Guide",
+      "The New Stack",
       6
     ],
     [
-      "VentureBeat",
+      "South China Morning Post",
       6
+    ],
+    [
+      "Ars Technica",
+      5
+    ],
+    [
+      "Techmeme",
+      5
+    ],
+    [
+      "Channel NewsAsia",
+      5
+    ],
+    [
+      "BBC News",
+      5
     ],
     [
       "WIRED",
-      5
+      4
     ],
     [
-      "Fast Company",
-      5
+      "PCMag",
+      4
     ],
     [
-      "Politico",
-      5
+      "The New York Times",
+      4
+    ],
+    [
+      "The Hindu",
+      4
+    ],
+    [
+      "Hacker News",
+      4
     ]
   ],
-  "total_articles": 16125
+  "total_articles": 16458
 }

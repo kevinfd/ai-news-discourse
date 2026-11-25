@@ -1,0 +1,62 @@
+---
+id: "da00ccacc564adbc"
+title: "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release"
+url: "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html"
+link: "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html"
+source: "Yahoo Tech"
+domain: "tech.yahoo.com"
+source_type: "community"
+collector: "hackernews"
+date: "2026-11-24T17:46:41Z"
+published_date: "2026-11-24"
+collected_at: "2026-11-25T13:04:01Z"
+authors: ["dhd415"]
+language: "en"
+summary: "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release\nAnthropic and OpenAI are facing an increasingly urgent problem: Internal, unreleased models are becoming so powerful that many employees no longer believe they can be safely released, according to more than two dozen sources familiar with the internal debates.\nWhy it matters: The challenge could…"
+tags: []
+orgs: ["OpenAI", "Anthropic", "Hugging Face"]
+topics: ["models & research", "safety & ethics", "products & launches", "health & science"]
+content_source: "fulltext"
+word_count: 967
+paywalled: false
+image: null
+discussion_url: "https://news.ycombinator.com/item?id=50631691"
+score: 22
+comments: 29
+community: "Hacker News"
+---
+
+# Anthropic and OpenAI employees fear unreleased AI models too unsafe to release
+
+Yahoo Tech · dhd415 · 2026-11-24
+
+Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release
+Anthropic and OpenAI are facing an increasingly urgent problem: Internal, unreleased models are becoming so powerful that many employees no longer believe they can be safely released, according to more than two dozen sources familiar with the internal debates.
+Why it matters: The challenge could significantly slow the AI boom, as the gap between what the best AI systems can do and humans' ability to control them continues to widen, sources told Axios.
+- Researchers haven't found technical solutions for controlling the most advanced models. Some insiders believe it's fixable. Others aren't convinced and say companies should stop training new models entirely.
+Driving the news: Top AI leaders have long forecast that the technology would one day far surpass human intellect in virtually every field. Although internal models have yet to cross that threshold, recent breakthroughs at OpenAI and Anthropic have shocked researchers.
+- The rapid advances in reasoning across domains including math, science, cybersecurity and AI research have also made the models difficult, if not impossible, to contain or control in internal tests, the sources said.
+- Anthropic and OpenAI have unreleased models that are far more powerful than what they've already released publicly, but the AI companies have struggled to ensure that they are safe enough for public release, sources said.
+- This has led to debate within Anthropic, OpenAI and the AI research community about whether to stop releasing future frontier models publicly, instead reserving them for internal deployment only. There has also been debate around whether to train new models at all, sources inside and outside those companies told Axios.
+What they're saying: "If we continue trying to make models much smarter, such that they're actually smarter than us ... they will in fact be able to trick us successfully," one researcher told Axios.
+- "And once you get to that point, many of the schemes that we've had at work up until now sort of go out the window."
+Catch up quick: The power of unreleased models is already on public display.
+- An Anthropic mathematician used an unreleased "research" version of Claude to present a proof of the Riemann hypothesis, which had eluded the brightest human minds for more than 150 years. An unreleased OpenAI model helped generate proofs for hundreds of math problems.
+- Unreleased AI models were responsible for some of the industry's most shocking safety events, including the Hugging Face hack.
+Zoom in: AI researchers have long contemplated a terrifying threshold: If an AI possesses superhuman capability, how could humans contain it? Training practices that make AI models faster and more capable — but present greater safety risks — are widening the gap between what models can do and how well humans can control them.
+Problem 1: Reinforcement learning. A primary AI model training method — where models learn through trial and error by receiving rewards for passing various tests — is one of the techniques driving rapid improvements in AI capabilities.
+- Why it's scary: As AI systems get more capable, they become better at "gaming" their rewards, including bypassing safety guardrails if cheating leads to a higher score.
+Problem 2: They know they're being watched. Historically, researchers monitored AI safety by forcing models to "think out loud" — writing out step-by-step reasoning before outputting a final action or answer. This transparency was a safety net, allowing monitors to catch rule-breaking or dangerous logic in real time.
+- Why it's scary: As models grow more advanced, they are internalizing that logic, arriving at complex conclusions while showing less of their work. Researchers say the most advanced internal models have shown patterns of hiding reasoning entirely or providing deceptive "cover story" chains of thought to satisfy human monitors, sources say.
+Threat level: In public statements, top AI leaders have spoken about these risks.
+- "This is the most important thing OpenAI has published in awhile," CEO Sam Altman wrote on X, citing his chief scientist's proposal for industry-wide limits on AI development.
+- "The speed of development is quickly becoming too fast for us to keep safe," Anthropic's alignment lead wrote on X in September, quoting an essay from CEO Dario Amodei about pacing the frontier, a sentiment he reiterated when the company went public.
+Researchers and employees with direct knowledge of the implications of releasing these models told Axios they fear executives will choose profits over safety.
+- Multiple frontier AI company employees said they feel executives have become out of touch with the severity of safety risks.
+For the record: OpenAI has adopted new safety requirements that could slow the pace of model releases, according to an OpenAI spokesperson.
+- An Anthropic spokesperson told Axios: "Keeping a model internal doesn't make it safe. Our responsibility starts in training and covers how we use models ourselves, not only what we release. ... The hardest safety work is still ahead, and we've been clear that we may slow down or hold back even when it costs us." The spokesperson noted delays to pretraining for a recent model to allow for more security.
+What to watch: One solution some see is for frontier intelligence to remain within top AI companies.
+- Companies could allow outside access through product releases in enterprise work, science, math and other fields, without having to dole out wide access to the model's power, just as Anthropic and OpenAI did with the initial releases of their most cyber-capable models.
+- Many of the most concerned safety researchers warn that even internal testing and use of extremely powerful models is profoundly risky.
+The bottom line: Those closest to the frontier are sounding the alarm. It's unclear who's listening.
+AI is moving fast. Axios AI+ keeps you ahead. Sign up free at Axios.com.

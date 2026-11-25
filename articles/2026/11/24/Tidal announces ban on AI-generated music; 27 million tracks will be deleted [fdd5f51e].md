@@ -1,0 +1,36 @@
+---
+id: "fdd5f51e8fafafb3"
+title: "Tidal announces ban on AI-generated music; 27 million tracks will be deleted"
+url: "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9"
+link: "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9"
+source: "Ars Technica"
+domain: "arstechnica.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-24T17:34:34Z"
+published_date: "2026-11-24"
+collected_at: "2026-11-25T13:04:01Z"
+authors: ["Ryan Whitwam"]
+language: "en"
+summary: "Most streaming music providers have opted to label AI-generated content on their platforms, and until now, Tidal was one of them. However, the company is about to take a harder stance. Tidal announced that in the coming weeks, it will fully ban AI music because of the harm it does to human artists. \n Tidal debuted its initial AI policy in July 2026, which included labeling and demonetizing all…"
+tags: ["AI", "Artificial Intelligence", "music streaming", "tidal"]
+orgs: []
+topics: ["policy & regulation", "jobs & society", "safety & ethics", "products & launches"]
+content_source: "fulltext"
+word_count: 304
+paywalled: false
+image: "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Tidal announces ban on AI-generated music; 27 million tracks will be deleted
+
+Ars Technica · Ryan Whitwam · 2026-11-24
+
+Most streaming music providers have opted to label AI-generated content on their platforms, and until now, Tidal was one of them. However, the company is about to take a harder stance. Tidal announced that in the coming weeks, it will fully ban AI music because of the harm it does to human artists.
+Tidal debuted its initial AI policy in July 2026, which included labeling and demonetizing all songs created entirely with AI. That wasn’t enough to stem the tide of AI slop, though. Over the past 90 days, Tidal reports that 43 percent of new uploads were completely AI-generated. On November 6, new uploads to Tidal hit a whopping 60 percent AI-generated.
+As things stand, Tidal hosts 27 million tracks labeled as AI, all of which were obviously added in the past couple of years. That accounts for 6.3 percent of Tidal’s total catalog. On December 9, Tidal will delete all those songs. The streamer notes this will have essentially no negative impact, because 96 percent of AI-labeled tracks got zero plays in the past 90 days. Throughout its announcement, Tidal is careful to stipulate that it’s only talking about music that has been fully created by AI. Artists can still use AI tools as long as the final product contains human elements.
+Some people don’t particularly mind AI music, but the team at Tidal has come to believe the harm to artists is too great. AI models can pump out random noises faster than humans can create things of real value, which can mislead listeners and siphon royalty payments away from creators. There’s also an issue with AI uploaders who are actively attempting to steal royalty payments. Tidal says it has already removed about 66,000 tracks from its service for impersonating artists, which was against its AI policy even before this update.
