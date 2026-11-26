@@ -1,0 +1,43 @@
+---
+id: "f6730ac844fe22d8"
+title: "AI data centers are becoming harder to build, and neoclouds are feeling it"
+url: "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it"
+link: "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it"
+source: "TechCrunch"
+domain: "techcrunch.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-25T15:41:43Z"
+published_date: "2026-11-25"
+collected_at: "2026-11-26T13:04:05Z"
+authors: ["Theresa Loconsolo, Rebecca Bellan"]
+language: "en"
+summary: "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.  ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]"
+tags: ["AI", "Startups", "AI data center", "Chamath Palihapitiya", "Equity podcast", "nvidia"]
+orgs: ["Nvidia", "Apple", "TSMC"]
+topics: ["chips & infrastructure", "agents & coding", "business & funding"]
+content_source: "fulltext"
+word_count: 282
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# AI data centers are becoming harder to build, and neoclouds are feeling it
+
+TechCrunch · Theresa Loconsolo, Rebecca Bellan · 2026-11-25
+
+Nvidia has made clear it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.
+Anita Verma-Lallian has been selling exactly that. Her company, Arizona Land Consulting, assembles data center sites for developers, hyperscalers, AI labs, and neoclouds, giving her a view into who’s buying, what makes a site viable, and where projects are running into trouble. She also partners with investor Chamath Palihapitiya, who has been predicting an industry shakeout.
+On this episode of TechCrunch’s Equity podcast, Rebecca Bellan talks with Verma-Lallian about who bears the risk when Nvidia gets pickier, why speculative projects could be the first to fall apart, and what a 2027 shakeout might look like.
+Listen to the full episode to hear more about:
+- What “land, power, shell” means, and why having all three could give some developers a major advantage.
+- How community opposition and state-level restrictions are making some markets harder to build in than others.
+- Utilities getting major customers like TSMC to help fund the infrastructure needed to deliver more power.
+- Who gets stuck with the bill when a data center project stalls, from developers to lenders to customers.
+- Why AI labs and hyperscalers might increasingly build their own data centers instead of relying on neoclouds.
+- Who could benefit from a 2027 shakeout, including the companies best positioned to acquire distressed projects.
+Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify, and all the casts. You can also follow Equity on X and Threads, at @EquityPod.

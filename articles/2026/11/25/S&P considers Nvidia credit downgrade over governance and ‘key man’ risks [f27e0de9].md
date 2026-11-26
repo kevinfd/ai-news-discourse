@@ -1,0 +1,38 @@
+---
+id: "f27e0de9d097fe05"
+title: "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks"
+url: "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks"
+link: "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks"
+source: "TechCrunch"
+domain: "techcrunch.com"
+source_type: "tech_press"
+collector: "rss"
+date: "2026-11-25T22:44:32Z"
+published_date: "2026-11-25"
+collected_at: "2026-11-26T13:04:05Z"
+authors: ["Marina Temkin"]
+language: "en"
+summary: "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+tags: ["AI", "credit rating", "In Brief", "nvidia"]
+orgs: ["Nvidia"]
+topics: ["chips & infrastructure", "business & funding"]
+content_source: "fulltext"
+word_count: 201
+paywalled: false
+image: null
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# S&P considers Nvidia credit downgrade over governance and ‘key man’ risks
+
+TechCrunch · Marina Temkin · 2026-11-25
+
+S&P Global Ratings, one of the three major credit rating agencies, is considering downgrading Nvidia’s rating, citing concerns about the company’s management and governance practices.
+Despite Nvidia’s strong financial performance, the ouster and reinstatement of CEO Jensen Huang has raised concerns about “weak executive oversight and lack of succession planning” and “key man risk,” meaning heavy reliance on Huang for its future success, S&P said in a statement.
+The agency expects to finish its review within 90 days and could cut Nvidia’s rating from AA to AA-, the fourth-highest on its scale.
+Although Nvidia is certain to keep its investment-grade rating, a downgrade could raise its borrowing costs. Because Nvidia backstops neoclouds and other infrastructure companies that lack strong credit on their own, a lower rating could make their debt costlier or force them to post more collateral.
+In August, Nvidia announced plans to arrange $500 billion in financing for AI infrastructure with six financial institutions, including Goldman Sachs, Apollo, and Blackstone. Under the original terms, Nvidia would guarantee 25% of the loans. But even before Huang’s ouster and return, lenders had been demanding that Nvidia guarantee more, Bloomberg reported.
+A downgrade would likely prompt lenders to demand even larger guarantees.

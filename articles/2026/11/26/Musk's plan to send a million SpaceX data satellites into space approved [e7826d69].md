@@ -1,0 +1,70 @@
+---
+id: "e7826d69ffe9c263"
+title: "Musk's plan to send a million SpaceX data satellites into space approved"
+url: "https://bbc.co.uk/news/articles/cwp836l8n1jgo?at_campaign=rss&at_medium=RSS"
+link: "https://bbc.co.uk/news/articles/cwp836l8n1jgo?at_campaign=rss&at_medium=RSS"
+source: "BBC News"
+domain: "bbc.co.uk"
+source_type: "mainstream_news"
+collector: "rss"
+date: "2026-11-26T09:27:44Z"
+published_date: "2026-11-26"
+collected_at: "2026-11-26T13:04:05Z"
+authors: ["Max Matza"]
+language: "en"
+summary: "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power."
+tags: []
+orgs: ["Google", "Amazon", "Tesla", "UK"]
+topics: ["chips & infrastructure", "products & launches", "business & funding"]
+content_source: "fulltext"
+word_count: 888
+paywalled: false
+image: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg"
+discussion_url: null
+score: null
+comments: null
+community: null
+---
+
+# Musk's plan to send a million SpaceX data satellites into space approved
+
+BBC News · Max Matza · 2026-11-26
+
+Musk's plan to send a million SpaceX data satellites into space approved
+- Published
+US regulators have given SpaceX the go-ahead to launch a million satellites into Earth's orbit to help build data centres in space - the first approval of its kind.
+The company, which is owned by Elon Musk, wants to use sunlight to power satellites that will process data for AI and send the results back to Earth.
+The Federal Communications Commission (FCC) said on Wednesday that the project, known as Starmind, would "support America's booming super intelligence economy".
+However, rival firm Amazon has criticised it as a "lofty ambition rather than a real plan", while astronomers in the US said the move would "significantly undermine" the public's ability to study and observe the night sky.
+There is increasing opposition to data centres on earth, including in the US where experts say they were a factor in the Republicans big losses in the midterm elections.
+SpaceX believes the "orbital data centres" are the most cost and energy-efficient way to meet the growing demand for artificial intelligence (AI) computing power that is beyond "terrestrial capabilities".
+FCC Chairman Brendan Carr said in a statement that the project "opens a bold new frontier for the computing infrastructure needed to power America's leadership and growth".
+"This is the kind of American ingenuity that can unite our strengths in space and advanced technology, reinforce our economic leadership, and expand prosperity here at home," Carr said.
+Responding to the announcement, Musk wrote on X: "Much appreciated. This will be a great asset to America and the world."
+- Did a data centre revolt affect the US midterm election results? 
+  - Published6 November
+- Why Canada is embracing AI data centres while the US pushes back 
+  - Published6 days ago
+Under the FCC licence, deployment of the satellites must begin no later than November 2033. SpaceX will be required to have deployed 10% by November 2035, rising to 50% by November 2038.
+The company has already said it wants to launch its first Starmind satellite next year.
+It is unclear whether a million satellites will indeed be launched or whether SpaceX has sought approval for a higher number than it will use.
+Like SpaceX's current Starlink network, which provides high-speed internet via more than 10,000 satellites, Starmind's satellites will operate in low-Earth orbit at altitudes ranging between 500-2,000km (310-1,242 miles).
+Starmind's satellites will communicate with Starlink's and then relay the data to Earth.
+- The plans to put data centres in orbit and on the Moon 
+  - Published10 April 2025
+Speaking to the Today programme, on BBC Radio 4, Prof Sir Martin Sweeting, founder and executive chairman of Surrey Satellite Technology Ltd, said while the idea of data centres in space seemed "technically feasible", whether it "makes sense at scale yet" still needed to be analysed.
+Being able to get the data from the network of satellites, he added, would depend on being able to use laser links from the ground to them.
+"That has not yet been perfected to the level at which it would be able to support the huge amounts of data that are likely to be transferred backwards and forwards," he said.
+Meanwhile, the American Astronomical Society (AAS) said it was "disheartened and dismayed" by the decision.
+It said the proposed constellation would "significantly undermine decades of federal investment in astronomical facilities" as well as "the ability of astronomers and the public to enjoy and study the night sky".
+It noted that the constellation "involves larger (and therefore brighter) and more numerous objects", meaning the satellites would "be visible as extremely bright objects for longer periods in the night sky".
+Jan Hasselman, a senior attorney at the non-profit group Earthjustice, said in a statement: "Drastically expanding satellites in space has a direct impact on people's everyday lives as well as the future of our planet."
+The orbiting data centre concept is also being explored by other firms - including Google and Blue Origin - and is being pitched as a greener alternative to traditional centres, which require enormous amounts of power to run and water for cooling.
+The ever-expanding use of AI computing has seen a massive increase in the amount of data that needs to be stored and processed around the world.
+New facilities continue to be built but it is becoming difficult to find places to put them. Data centres are large and sprawling, use enormous amounts of power and water for cooling, and increasingly local people don't want them built nearby.
+An expert previously told the BBC that launching hardware into orbit remains expensive and that the infrastructure to protect, cool and power them can be complex - while a growing quantity of space debris puts the physical hardware at risk.
+Separately, another cautioned that the growing number of low-orbit craft increases the possibility of crashes between objects - which could damage machines or send materials falling back to earth.
+Starlink has been accused of creating congestion in space, something Musk denies. He has also rejected claims his satellites have been taking up too much room and crowding out competitors.
+- Bezos' Blue Origin announces satellite rival to Musk's Starlink 
+  - Published22 January
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
