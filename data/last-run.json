@@ -1,80 +1,64 @@
 {
-  "run_at": "2026-11-26T13:04:05Z",
-  "since": "2026-11-25T01:04:05Z",
+  "run_at": "2026-11-27T13:04:05Z",
+  "since": "2026-11-26T01:04:05Z",
   "stats": {
-    "candidates": 681,
-    "already_known": 67,
-    "title_duplicate": 2,
-    "not_ai": 387,
-    "merged_duplicates": 3,
-    "new_unique": 222,
-    "written": 222,
-    "seconds": 373
+    "candidates": 626,
+    "already_known": 48,
+    "not_ai": 377,
+    "title_duplicate": 3,
+    "merged_duplicates": 2,
+    "new_unique": 196,
+    "written": 196,
+    "seconds": 369
   },
   "by_content_source": {
-    "summary": 109,
-    "fulltext": 108,
-    "post": 5
+    "summary": 115,
+    "fulltext": 80,
+    "post": 1
   },
   "top_sources": [
     [
-      "Mashable",
-      15
-    ],
-    [
-      "Business Insider",
-      11
-    ],
-    [
       "Bloomberg",
-      11
+      14
     ],
     [
-      "Techmeme",
+      "Mashable",
+      12
+    ],
+    [
+      "Quartz",
       10
     ],
     [
-      "Financial Times",
-      9
+      "The Guardian",
+      8
     ],
     [
-      "CNBC",
-      9
-    ],
-    [
-      "TechCrunch",
+      "Techmeme",
       8
     ],
     [
       "Forbes",
-      8
-    ],
-    [
-      "South China Morning Post",
       7
     ],
     [
-      "The Guardian",
+      "Gizmodo",
+      7
+    ],
+    [
+      "Financial Times",
       6
     ],
     [
-      "The Information",
+      "Business Insider",
       6
     ],
     [
-      "note",
-      6
-    ],
-    [
-      "The Verge",
+      "Channel NewsAsia",
       5
     ],
     [
-      "Scientific American",
-      5
-    ],
-    [
-      "Axios",
+      "South China Morning Post",
       5
     ],
     [
@@ -82,41 +66,57 @@
       5
     ],
     [
-      "Hacker News",
+      "Nature",
       5
     ],
     [
-      "Engadget",
-      4
+      "MarkTechPost",
+      3
     ],
     [
-      "The Hill",
-      4
+      "Lobsters",
+      3
     ],
     [
       "The New Stack",
-      4
-    ],
-    [
-      "Hugging Face",
-      4
-    ],
-    [
-      "ZDNet",
       3
     ],
     [
-      "Channel NewsAsia",
+      "Towards Data Science",
       3
     ],
     [
-      "PCMag",
+      "The New York Times",
       3
     ],
     [
-      "Tom's Guide",
+      "KDnuggets",
       3
+    ],
+    [
+      "CNBC",
+      3
+    ],
+    [
+      "TechCrunch",
+      2
+    ],
+    [
+      "Scientific American",
+      2
+    ],
+    [
+      "The Information",
+      2
+    ],
+    [
+      "Axios",
+      2
+    ],
+    [
+      "Engadget",
+      2
     ]
   ],
-  "total_articles": 16680
+  "total_articles": 16876
 }

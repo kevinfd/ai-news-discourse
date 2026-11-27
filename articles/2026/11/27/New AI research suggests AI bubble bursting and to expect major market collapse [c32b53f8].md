@@ -1,0 +1,66 @@
+---
+id: "c32b53f8cb3b0458"
+title: "New AI research suggests AI bubble bursting and to expect major market collapse"
+url: "https://london.edu/think/ai-bubble-about-to-burst"
+link: "https://london.edu/think/ai-bubble-about-to-burst"
+source: "London Business School"
+domain: "london.edu"
+source_type: "community"
+collector: "hackernews"
+date: "2026-11-27T02:44:12Z"
+published_date: "2026-11-27"
+collected_at: "2026-11-27T13:04:05Z"
+authors: ["nreece"]
+language: "en"
+summary: "New research suggests AI bubble bursting and to expect major market collapse\nA recent study covering 170 years of financial journalism reveals we are 97% likely in an AI financial bubble, and that leaders should prepare for a crash.\nIn 30 seconds\n- Financial press, rather than the stock market, predict far more crashes than occur.\n- Research tests how effectively the media forecasts financial…"
+tags: []
+orgs: ["Anthropic", "Nvidia"]
+topics: ["models & research", "business & funding", "search & media", "policy & regulation"]
+content_source: "fulltext"
+word_count: 977
+paywalled: false
+image: null
+discussion_url: "https://news.ycombinator.com/item?id=50662153"
+score: 34
+comments: 19
+community: "Hacker News"
+---
+
+# New AI research suggests AI bubble bursting and to expect major market collapse
+
+London Business School · nreece · 2026-11-27
+
+New research suggests AI bubble bursting and to expect major market collapse
+A recent study covering 170 years of financial journalism reveals we are 97% likely in an AI financial bubble, and that leaders should prepare for a crash.
+In 30 seconds
+- Financial press, rather than the stock market, predict far more crashes than occur.
+- Research tests how effectively the media forecasts financial bubbles and subsequent crashes.
+- Applied to September 2026, the research assigns a probability of up to 97 percent to being an AI bubble.
+Speak to most AI investors and you will hear a level of anxiety about the current financial markets, despite record profits in recent years from the likes of Nvidia, Anthropic et al.
+From the Nasdaq plunging more than 18 percent between early October and late November 2026, to worries about personal data being exposed should a glut of AI services feel the crunch and go bust, AI and markets are intrinsically linked.
+For this reason, a large language model (LLM) trained to read 170 years of financial journalism from The Economist that puts the probability that AI-related shares were in a bubble in September 2026 at up to 97 percent, is prescient and timely.
+Marco Grotteria of London Business School and Afonso Monteiro and Constantine Yannelis of the University of Cambridge show that the financial press often ‘cries wolf’: it warns of overvaluation every month and predicts far more crashes than occur.
+The pattern recalls Paul Samuelson’s quip that Wall Street indexes, “predicted nine out of the last five recessions.” Here the financial press, rather than the stock market, predicts far more crashes than occur.
+Across the 170 years, articles studied implied an average 20 percent probability of a major market crash within six months of reporting a bubble, roughly 3.5 times the actual historical frequency of 5.7 percent. The level of the warnings therefore says little. What carries information is how they rise and fall over time.
+Grotteria explained what prompted the research in the first place: “Predicting bubbles is extremely difficult. A bubble occurs when prices rise above what fundamentals can justify, because investors expect to sell to someone else at a still higher price.
+“But we observe neither fundamentals nor investors' expectations, so bubbles have historically been identified only ex post.
+“We started thinking that by looking at the words of journalists, the sentiment of the media, we can understand whether they think there is a bubble in real time, and we can test how effectively the media forecasts financial bubbles.
+“We focused on The Economist, which is a longstanding, reliable, and authoritative publication. We built our index using data from 1843, and we went all the way until 2013.”
+The index was then extended with Economist articles from 2014 to September 2026.
+LLMs were used to read 795,964 articles, of which around 486,000 were market relevant. Each was scored for speculative narratives, regulatory warnings, signs of speculation, valuation concerns and descriptions of boom or euphoria, which were combined into a monthly ‘bubble index’.
+“The Economist talks about bubbles all the time, even in very quiet periods, so the level alone tells you little,” Grotteria says.
+Discover fresh perspectives and research insights from LBS
+“But when the intensity rises well above its own history, a bubble is much more likely."
+“Every time our index goes above 40% or 50%, a bubble then the following crash happened. And in 74 percent of comparisons, the index is higher in a bubble month than in a normal one. That is where the predictability comes from.”
+Why decision makers need to listen
+Leaders have reason to pay attention to a measure built on a long and consistent record of reporting, because periods of speculation matter for planning and strategy.
+As Svetlana Bryzgalova, Associate Professor of Finance at London Business School, recently found, local sentiment is rarely incorporated into official economic forecasts, with the cause of business cycle fluctuations one of the “longstanding debates in macroeconomics”.
+Grotteria is clear about the types of policymakers who should be making use of the research. For central bankers and regulators who regard a missed bubble as far costlier than a false alarm, the index reduces expected losses by a fifth to a third compared with ignoring it.
+“This is an index which is very helpful for policymakers if they truly care about a crisis that may follow after a bubble,” he explains.
+“If you weigh missing a bubble and raising a false alarm equally, you will not use our index. But missing a bubble can have very severe economic effects. Once you give that more weight, our index becomes extremely helpful.”
+The end of AI as we know it?
+Any thoughts of AI disappearing appear to be wide of the mark, however. “We never say that a bubble means AI technology is useless. The technology may be very productive, but investors are still learning what it is worth,” Grotteria states.
+“Evidence of speculation does not imply that the underlying technology lacks economic value,” the authors write, adding that an AI-driven market bubble and a genuine technological revolution are not mutually exclusive.
+What stands out is how the current reading compares with history: as of September 2026, the index is at a level comparable to, or higher than, its level at the peak of the dot-com bubble in March 2000. Two years later, in 2002, the Nasdaq index had fallen 77%, wiping an estimated $5 trillion in market value.
+Once leaders and decision makers recognise this potential risk and likelihood of a subsequent crash, they can get ahead of the curve.
+As Grotteria concludes: “The press cries wolf all the time. But sometimes, the wolf does come. So, the question is not whether journalists are the warning, because they always are. It is whether they are warning louder than usual. Right now, they are.”
