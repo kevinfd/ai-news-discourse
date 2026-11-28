@@ -1,122 +1,121 @@
 {
-  "run_at": "2026-11-27T13:04:05Z",
-  "since": "2026-11-26T01:04:05Z",
+  "run_at": "2026-11-28T13:03:39Z",
+  "since": "2026-11-27T01:03:39Z",
   "stats": {
-    "candidates": 626,
-    "already_known": 48,
-    "not_ai": 377,
-    "title_duplicate": 3,
-    "merged_duplicates": 2,
-    "new_unique": 196,
-    "written": 196,
-    "seconds": 369
+    "candidates": 540,
+    "already_known": 54,
+    "not_ai": 328,
+    "title_duplicate": 1,
+    "merged_duplicates": 1,
+    "new_unique": 156,
+    "written": 156,
+    "seconds": 348
   },
   "by_content_source": {
-    "summary": 115,
-    "fulltext": 80,
-    "post": 1
+    "summary": 86,
+    "fulltext": 70
   },
   "top_sources": [
     [
-      "Bloomberg",
-      14
-    ],
-    [
-      "Mashable",
-      12
-    ],
-    [
-      "Quartz",
-      10
-    ],
-    [
-      "The Guardian",
-      8
+      "Financial Times",
+      9
     ],
     [
       "Techmeme",
-      8
+      9
     ],
     [
       "Forbes",
+      9
+    ],
+    [
+      "The Guardian",
       7
     ],
     [
-      "Gizmodo",
+      "note",
       7
     ],
     [
-      "Financial Times",
+      "Fast Company",
       6
     ],
     [
       "Business Insider",
-      6
-    ],
-    [
-      "Channel NewsAsia",
       5
     ],
     [
-      "South China Morning Post",
+      "Mashable",
       5
     ],
     [
-      "The Hindu",
+      "Bloomberg",
       5
     ],
     [
-      "Nature",
+      "Twitter",
       5
     ],
     [
-      "MarkTechPost",
-      3
-    ],
-    [
-      "Lobsters",
-      3
+      "Engadget",
+      4
     ],
     [
       "The New Stack",
-      3
+      4
     ],
     [
-      "Towards Data Science",
-      3
-    ],
-    [
-      "The New York Times",
-      3
-    ],
-    [
-      "KDnuggets",
-      3
-    ],
-    [
-      "CNBC",
-      3
-    ],
-    [
-      "TechCrunch",
-      2
+      "The Motley Fool",
+      4
     ],
     [
       "Scientific American",
-      2
+      3
+    ],
+    [
+      "Fox News",
+      3
+    ],
+    [
+      "Channel NewsAsia",
+      3
+    ],
+    [
+      "Tom's Guide",
+      3
+    ],
+    [
+      "BBC News",
+      3
+    ],
+    [
+      "South China Morning Post",
+      3
+    ],
+    [
+      "Crypto Briefing",
+      3
     ],
     [
       "The Information",
       2
     ],
     [
-      "Axios",
+      "ABC News Australia",
       2
     ],
     [
-      "Engadget",
+      "Towards Data Science",
+      2
+    ],
+    [
+      "CNBC",
+      2
+    ],
+    [
+      "NPR",
       2
     ]
   ],
-  "total_articles": 16876
+  "total_articles": 17032
 }
